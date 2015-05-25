@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<ItemFlag>
+		<id>0</id>
+		<name>None</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>1</id>
+		<name>Empty Sandbag</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>2</id>
+		<name>Full Sandbag</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>4</id>
+		<name>Shovel</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>8</id>
+		<name>Concertina</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>16</id>
+		<name>Water Drum</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>32</id>
+		<name>Bloodcat Meat</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>64</id>
+		<name>Cow Meat</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>128</id>
+		<name>Belt fed</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>256</id>
+		<name>Ammobelt</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>512</id>
+		<name>Ammobelt vest</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>1024</id>
+		<name>Camo removal</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>2048</id>
+		<name>Cleaning Kit</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>4096</id>
+		<name>Attention Item</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>8192</id>
+		<name>Garotte</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>16384</id>
+		<name>Covert</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>32768</id>
+		<name>Corpse</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>65536</id>
+		<name>Bloodcat Skin</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>131072</id>
+		<name>No Metal Detection</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>262144</id>
+		<name>Jump Grenade</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>524288</id>
+		<name>Handcuffs</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>1048576</id>
+		<name>Taser</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>2097152</id>
+		<name>Scuba Bottle</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>4194304</id>
+		<name>Scuba Mask</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>8388608</id>
+		<name>Scuba Fins</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>16777216</id>
+		<name>Tripwire Roll</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>33554432</id>
+		<name>Radio Set</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>67108864</id>
+		<name>Signal Shell</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>134217728</id>
+		<name>Power Pack</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>268435456</id>
+		<name>Collapsing Roof</name>
+	</ItemFlag>
+</JA2Data>

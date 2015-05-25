@@ -1,0 +1,861 @@
+<!-- Use this XML to place facilities on the map.
+
+		SectorGrid		=		Sector coordinates
+		FacilityType	=		Unique index number (see FacilityTypes.XML)
+		ubHidden			=		Does this facility appear in the sector info popup?
+											0 = Yes, always.
+											1 = Yes, but only once the sector's been explored.
+											2 = No, never.
+
+Facility List:
+01 -> Hospital
+02 -> Small Sleezy Bar
+03 -> Prison Complex
+04 -> Commercial Harbor
+05 -> Small Airport
+06 -> Munitions Factory
+07 -> Military Barracks
+08 -> Military HQ
+09 -> Shooting Range
+10 -> A.C.A. Building
+11 -> SAM Site
+12 -> Mine
+13 -> Brothel
+14 -> Small Church
+15 -> Boxing Club
+16 -> National Museum
+17 -> Laboratory
+18 -> Junkyard
+19 -> Beach Resort
+20 -> Motel
+21 -> Rebel Hideout
+22 -> Farm
+23 -> Barracks
+24 -> Workshop
+25 -> Residential Homes
+26 -> Luxury Homes
+27 -> Abandoned Mine
+28 -> SAM Site (desert)
+29 -> Barracks (desert)
+30 -> Workshop (desert)
+
+
+Sectors:
+xxxA1   -----> ***Chitzena*** ----> Beach Resort
+A2   -----> ***Chitzena*** ----> Hotel, Ruins
+A3   -----> Wilderness, Grassland
+A4   -----> -------------- Empty --------------------
+A5   -----> -------------- Empty --------------------
+A6   -----> Wilderness, Hills
+A7   -----> Wilderness, Hills
+A8   -----> Wilderness, Hills
+A9   -----> ***Omerta*** ------> Landding Zone
+xxxA10  -----> ***Omerta*** ------> Rebel Hideout
+xxxA11  -----> $$$Farmland$$$ ----> Farm
+A12  -----> Wilderness, Forest
+A13  -----> Wilderness, Forest
+A14  -----> Wilderness, Grassland
+A15  -----> Wilderness, Forest
+A16  -----> -------------- Empty --------------------
+
+xxxB1   -----> ***Chitzena*** ----> Comercial Harbor, small Workshop
+B2   -----> ***Chitzena*** ----> Mine, A.C.A., Small Sleezy Bar, shops, small workshop
+B3   -----> Wilderness, Forest
+B4   -----> Wilderness, Forest
+B5   -----> %%%Drugfarm%%%
+B6   -----> %%%Drugfarm%%%
+B7   -----> %%%Drugfarm%%%
+xxxB8   -----> $$$Farmland$$$ ----> Farm
+xxxB9   -----> ***Omerta*** ------> Farm
+B10  -----> Wilderness, Forest
+B11  -----> Wilderness, Forest
+xxxB12  -----> $$$Farmland$$$ ----> Farm
+xxxB13  -----> ***Drassen*** -----> Airport
+B14  -----> Wilderness, Lake
+B15  -----> Wilderness, Swamp
+B16  -----> Wilderness, Forest
+
+C1   -----> Wilderness, Tropical Coast
+C2   -----> Wilderness, Tropical Forest
+C3   -----> %%%Drugfarm%%%
+C4   -----> %%%Drugfarm%%% ----> Lab
+C5   -----> ***San Mona*** ----> Brothel, Tony, Small Sleezy Bar, shops
+xxxC6   -----> ***San Mona*** ----> Small Sleezy Bar, Motel
+C7   -----> Wilderness, Grassland
+C8   -----> Wilderness, Forest
+C9   -----> ***Omerta*** ------> Small Sleezy Bar
+C10  -----> Wilderness, Grassland
+C11  -----> Wilderness, Forest
+C12  -----> Wilderness, Forest
+xxxC13  -----> ***Drassen*** -----> Small Sleezy Bar, small workshop
+C14  -----> ***Drassen*** -----> Factory
+C15  -----> Wilderness, Swamp
+C16  -----> Wilderness, Swamp
+
+D1   -----> -------------- Empty --------------------
+xxxD2   -----> ???SAM Site??? ----> SAM Site
+D3   -----> Wilderness, Grassland
+D4   -----> ***San Mona*** ----> Abandoned Mine, small Workshop
+xxxD5   -----> ***San Mona*** ----> Boxing Club
+xxxD6   -----> $$$Farmland$$$ ----> Farm
+xxxD7   -----> $$$Farmland$$$ ----> Farm
+D8   -----> Wilderness, Lake
+D9   -----> Wilderness, Grassland, Lake
+D10  -----> Wilderness, Grassland, Lake
+D11  -----> Wilderness, Grassland
+D12  -----> Wilderness, Swamp
+D13  -----> ***Drassen*** -----> Mine, A.C.A., Small Church, Small Sleezy Bar, shops, small workshop
+D14  -----> Wilderness, Lake
+xxxD15  -----> ???SAM Site??? ----> SAM Site
+D16  -----> Wilderness, Forest
+
+E1   -----> -------------- Empty --------------------
+E2   -----> Wilderness, Tropical Coast
+E3   -----> Wilderness, Grassland
+E4   -----> %%%Drugfarm%%% ----> Lab
+E5   -----> %%%Drugfarm%%%, abandoned (roof needs to be fixed)
+E6   -----> Wilderness, Grassland
+xxxE7   -----> $$$Farmland$$$ ----> Farm
+E8   -----> $$$Farmland$$$
+xxxE9   -----> $$$Farmland$$$ ----> Farm, Lake
+E10  -----> Wilderness, Swamp, Lake
+xxxE11  -----> ==Weapon Cache== --> Barracks, small Workshop
+E12  -----> Wilderness, Forest, River
+E13  -----> Wilderness, Forest, River
+E14  -----> Wilderness, Swamp, River
+E15  -----> Wilderness, Grassland, Minefield
+E16  -----> -------------- Empty --------------------
+
+F1   -----> -------------- Empty --------------------
+xxxF2   -----> ***Grumm*** -------> Comercial Harbor, small Workshop (dock workers missing)
+F3   -----> Wilderness, Grassland, River, Roadblock
+F4   -----> Wilderness, Grassland, River, Hills
+F5   -----> Wilderness, Grassland, Hills
+F6   -----> Wilderness, Grassland, Hills
+F7   -----> Wilderness, Farmland, Hills
+xxxF8   -----> ***Cambria*** Hospital
+F9   -----> ***Cambria*** School
+F10  -----> ///Hillbilly Farm///
+F11  -----> Wilderness, Grassland
+F12  -----> Wilderness, Forest
+F13  -----> Wilderness, Grassland, River
+F14  -----> Wilderness, Grassland, River, Roadblock, Minefield
+F15  -----> Wilderness, Grassland, Lake 
+F16  -----> -------------- Empty --------------------
+
+xxxG1   -----> ***Grumm*** -------> Motel
+xxxG2   -----> ***Grumm*** -------> Weapons Factory
+G3   -----> Wilderness, Forest, Roadblock
+G4   -----> Wilderness, Grassland, Hills
+G5   -----> Wilderness, Grassland, Hills
+G6   -----> Wilderness, Hills, Roadblock
+xxxG7   -----> $$$Farmland$$$ ----> Farm
+xxxG8   -----> ***Cambria*** -----> small Workshop
+G9   -----> ***Cambria*** -----> A.C.A., Motel, Small Sleezy Bar, small Workshop, shops 
+G10  -----> Wilderness, Grassland
+G11  -----> Wilderness, Desert
+G12  -----> Wilderness, Forest, Roadblock, Minefield
+G13  -----> Wilderness, Grassland
+G14  -----> Wilderness, Grassland
+G15  -----> Wilderness, Forest, River
+G16  -----> Wilderness, Grassland, River
+
+H1   -----> ***Grumm*** -------> small Workshop, Motel, shops
+xxxH2   -----> ***Grumm*** -------> Weapons Factory, Small Sleezy Bar, A.C.A.
+xxxH3   -----> ***Grumm*** -------> Mine, A.C.A., small Workshop
+xxxH4   -----> $$$Farmland$$$ ----> Farm
+xxxH5   -----> ==Weapon Cache== --> Barracks, small Workshop
+H6   -----> Wilderness, Grassland, Hills
+xxxH7   -----> $$$Farmland$$$ ----> Farm
+xxxH8   -----> ***Cambria*** -----> Mine, small Workshop
+H9   -----> Wilderness, Grassland, Desert
+xxxH10  -----> ==Weapon Cache== --> Barracks, small Workshop (Desert)
+H11  -----> Wilderness, Desert
+H12  -----> Wilderness, Grassland
+H13  -----> ***Alma*** --------> H.Q., Shooting Range, Barracks, sick-bay, gym
+H14  -----> ***Alma*** --------> weapon storage
+H15  -----> Wilderness, Grassland, River
+H16  -----> Wilderness, Grassland, River
+
+I1   -----> -------------- Empty --------------------
+I2   -----> -------------- Empty -------------------- (should be inaccesible, needs to be fixed)
+I3   -----> Wilderness, Coast
+I4   -----> Wilderness, Grassland, small lake
+I5   -----> Wilderness, Forest
+xxxI6   -----> ***Estoni*** ------> Junkyard, Motel, small workshop
+xxxI7   -----> ***Estoni*** ------> main Junkyard
+xxxI8   -----> ???SAM Site??? ----> SAM Site (Desert)
+I9   -----> Wilderness, Desert
+I10  -----> Wilderness, Desert
+I11  -----> $$$Farmland$$$
+xxxI12  -----> $$$Farmland$$$ ----> Farm
+I13  -----> ***Alma*** --------> military prison, barracks
+xxxI14  -----> ***Alma*** --------> Mine, small sleezy bar, shops, A.C.A., small workshop
+I15  -----> Wilderness, Grassland, River
+I16  -----> Wilderness, Hills, Bloodcat Lair
+
+J1   -----> -------------- Empty --------------------
+J2   -----> Wilderness, Coast
+J3   -----> Wilderness, Swamp, River
+J4   -----> Wilderness, Swamp
+J5   -----> Wilderness, Swamp
+J6   -----> ***Estoni*** ------> shops, small sleezy bar
+J7   -----> Wilderness, Grassland
+J8   -----> Wilderness, Desert
+J9   -----> ***Tixa***	-------> Prison, gym, small workshop (Desert)
+J10  -----> Wilderness, Desert
+J11  -----> Wilderness, Grassland
+xxxJ12  -----> ==Weapon Cache== --> Barracks, small Workshop	
+J13  -----> Wilderness, Forest
+xxxJ14  -----> $$$Farmland$$$ ----> Farm
+J15  -----> Wilderness, Forest
+J16  -----> -------------- Empty --------------------
+
+K1   -----> -------------- Empty --------------------
+K2   -----> Wilderness, Coast, River
+K3   -----> Wilderness, Swamp
+K4   -----> ***Orta*** --------> Lab, workshop, weapons factory
+K5   -----> Wilderness, Swamp, Minefield
+K6   -----> ***Estoni*** ------> A.C.A., small sleezy bar, shops
+K7   -----> Wilderness, Desert
+K8   -----> Wilderness, Desert, small Armsdepot//roadblock (needs to be manned)
+K9   -----> Wilderness, Desert
+K10  -----> Wilderness, Desert, Roadblock, Minefield
+K11  -----> Wilderness, Forest
+K12  -----> Wilderness, Forest
+K13  -----> Wilderness, Forest
+K14  -----> Wilderness, Forest
+K15  -----> Wilderness, Forest
+K16  -----> -------------- Empty --------------------
+
+L1   -----> %%%Queens Summerpalace%%%
+L2   -----> Small settlement, roadblock, small barracks, river, small workshop
+L3   -----> Wilderness, swamp
+L4   -----> Wilderness, swamp
+L5   -----> $$$Farmland$$$ (somekind of orchard)
+L6   -----> $$$Farmland$$$ (somekind of orchard)
+L7   -----> Wilderness, Forest, Grassland
+L8   -----> Wilderness, Desert
+L9   -----> Wilderness, Forest
+xxxL10  -----> small settlement, small workshop, motel
+xxxL11  -----> ***Balime*** ------> luxury homes
+L12  -----> ***Balime*** ------> shops, Museum, luxury homes
+xxxL13  -----> ***Balime*** ------> A.C.A., small sleezy bar, beach resort
+L14  -----> Wilderness, swamp, lake
+L15  -----> Wilderness, Grassland
+L16  -----> -------------- Empty --------------------
+
+M1   -----> -------------- Empty --------------------
+xxxM2   -----> ***Meduna*** ------> large Comercial Harbor, workshop
+M3   -----> ***Meduna*** ------> inner city, shops, small sleezy bar, luxury homes,
+M4   -----> ***Meduna*** ------> inner city, A.C.A. Headquarters, luxury homes, noble restaurant, shops, hotel
+M5   -----> ***Meduna*** ------> Large Hotel//swimming pool, roadblock, small workshop
+M6   -----> ***Meduna*** ------> outer city, small sleezy bar
+M7   -----> Wilderness, Tropical Forest
+M8   -----> Wilderness, Forest, Grassland
+xxxM9   -----> ==Weapon Cache== --> Barracks, small Workshop
+M10  -----> Wilderness, Tropical Coast, Beach
+M11  -----> -------------- Empty --------------------
+M12  -----> -------------- Empty --------------------
+M13  -----> ***Balime*** ------> Beach Hotel
+M14  -----> Wilderness, swamp, lake
+M15  -----> -------------- Empty -------------------- (possible new map)
+M16  -----> -------------- Empty --------------------
+
+N1   -----> -------------- Empty --------------------
+N2   -----> -------------- Empty --------------------
+N3   -----> ***Meduna*** ------> Airport, small workshop, shops
+N4   -----> ***Meduna*** ------> SAM Site, Barracks, small workshop, hotel, small sleezy bar
+N5   -----> ***Meduna*** ------> inner city, Bloodcat Arena, luxury homes (with libraries)
+N6   -----> ***Meduna*** ------> outer city, luxury homes, roadblock (needs a rooftop fix)
+N7   -----> Queens Prison -----> Weapons factory, barracks
+N8   -----> Wilderness, Tropical coast
+N9   -----> ***Palmas*** ------> A.C.A., small sleezy bar
+N10  -----> ***Palmas*** ------> beach
+N11  -----> -------------- Empty --------------------
+N12  -----> -------------- Empty --------------------
+N13  -----> -------------- Empty -------------------- (possible new map)
+N14  -----> -------------- Empty -------------------- (possible new map)
+N15  -----> -------------- Empty -------------------- (possible new map)
+N16  -----> -------------- Empty --------------------
+
+O1   -----> -------------- Empty --------------------
+O2   -----> -------------- Empty --------------------
+O3   -----> ***Meduna***
+O4   -----> ***Meduna***
+O5   -----> -------------- Empty --------------------
+O6   -----> -------------- Empty --------------------
+O7   -----> -------------- Empty --------------------
+O8   -----> Big Luxury Hotel
+O9   -----> ***Palmas*** ------> large harbor
+O10  -----> -------------- Empty --------------------
+O11  -----> -------------- Empty --------------------
+O12  -----> -------------- Empty --------------------
+O13  -----> -------------- Empty --------------------
+O14  -----> -------------- Empty --------------------
+O15  -----> -------------- Empty --------------------
+O16  -----> -------------- Empty --------------------
+
+P1   -----> -------------- Empty --------------------
+P2   -----> -------------- Empty --------------------
+P3   -----> ***Meduna*** ------> Palace
+P4   -----> -------------- Empty --------------------
+P5   -----> -------------- Empty --------------------
+P6   -----> -------------- Empty --------------------
+P7   -----> -------------- Empty --------------------
+P8   -----> -------------- Empty --------------------
+P9   -----> -------------- Empty --------------------
+P10  -----> -------------- Empty --------------------
+P11  -----> -------------- Empty --------------------
+P12  -----> -------------- Empty --------------------
+P13  -----> -------------- Empty --------------------
+P14  -----> -------------- Empty --------------------
+P15  -----> -------------- Empty --------------------
+P16  -----> -------------- Empty --------------------
+
+-->
+
+<SECTORFACILITIES>
+	
+***Chitzena***
+
+	<FACILITY>
+		<SectorGrid>A1</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>A2</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B1</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Chitzena***
+
+***Omerta***
+
+	<FACILITY>
+		<SectorGrid>A9</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>A10</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B9</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C9</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Omerta***
+
+***Drassen***
+
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C14</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Drassen***
+
+***Cambria***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>3</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>F9</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Cambria***
+
+***Grumm***
+
+	FACILITY>
+		<SectorGrid>F2</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G1</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G2</SectorGrid>
+		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Grumm***
+
+***Estoni***
+
+	<FACILITY>
+		<SectorGrid>I6</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I7</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J6</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K6</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Estoni***
+
+***Alma***
+
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H14</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I13</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Alma***
+
+***Balime***
+
+	<FACILITY>
+		<SectorGrid>L11</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L12</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L13</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M13</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Balime***
+
+***San Mona***
+
+	<FACILITY>
+		<SectorGrid>C5</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C6</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D4</SectorGrid>
+		<FacilityType>13</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D5</SectorGrid>
+		<FacilityType>14</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***San Mona***
+
+***Palmas***
+
+	<FACILITY>
+		<SectorGrid>N9</SectorGrid>
+		<FacilityType>15</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N10</SectorGrid>
+		<FacilityType>16</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>O8</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>O9</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Palmas***
+
+***Meduna***
+
+	<FACILITY>
+		<SectorGrid>M2</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M3</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M4</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M5</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N3</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N4</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N5</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>O3</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>O4</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>P3</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Meduna***
+
+***Chitzena SAM***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Chitzena SAM***
+
+***Drassen SAM***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Drassen SAM***
+
+***Cambria SAM***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Cambria SAM***
+
+***Tixa***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Tixa***
+
+***Orta***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Orta***
+
+
+***Farms***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Farms***
+
+***Weapon Cache***
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+***Weapon Cache***
+
+***Wilderness***
+
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C14</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C14</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+***Wilderness***
+
+
+
+</SECTORFACILITIES>

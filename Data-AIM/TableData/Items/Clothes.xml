@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CLOTHESLIST>
+	<CLOTHES>
+		<uiIndex>1</uiIndex>
+		<szName>YELLOWVEST</szName>
+		<Vest>YELLOWVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>3</uiIndex>
+		<szName>REDVEST</szName>
+		<Vest>REDVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>4</uiIndex>
+		<szName>GREENVEST</szName>
+		<Vest>GREENVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>5</uiIndex>
+		<szName>JEANVEST</szName>
+		<Vest>JEANVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>6</uiIndex>
+		<szName>BLUEVEST</szName>
+		<Vest>BLUEVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>7</uiIndex>
+		<szName>grey shirt</szName>
+		<Vest>greyVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>8</uiIndex>
+		<szName>light green</szName>
+		<Vest>GYELLOWSHIRT</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>9</uiIndex>
+		<szName>WHITEVEST</szName>
+		<Vest>WHITEVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>10</uiIndex>
+		<szName>PURPLESHIRT</szName>
+		<Vest>PURPLESHIRT</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>11</uiIndex>
+		<szName>BROWNVEST</szName>
+		<Vest>BROWNVEST</Vest>
+		<Pants />
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>12</uiIndex>
+		<szName>GREENPANTS</szName>
+		<Vest />
+		<Pants>GREENPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>13</uiIndex>
+		<szName>BLACKPANTS</szName>
+		<Vest />
+		<Pants>BLACKPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>14</uiIndex>
+		<szName>BEIGEPANTS</szName>
+		<Vest />
+		<Pants>BEIGEPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>15</uiIndex>
+		<szName>TANPANTS</szName>
+		<Vest />
+		<Pants>TANPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>16</uiIndex>
+		<szName>JEANPANTS</szName>
+		<Vest />
+		<Pants>JEANPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>17</uiIndex>
+		<szName>BLUEJEANS</szName>
+		<Vest />
+		<Pants>BLUEPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>18</uiIndex>
+		<szName>white shirt and jeans</szName>
+		<Vest>WHITEVEST</Vest>
+		<Pants>BLUEPANTS</Pants>
+	</CLOTHES>
+	<CLOTHES>
+		<uiIndex>19</uiIndex>
+		<szName>BLACKSHIRT</szName>
+		<Vest>BLACKSHIRT</Vest>
+		<Pants />
+	</CLOTHES>
+</CLOTHESLIST>

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<Silhouette>
+		<id>0</id>
+		<name>Vest</name>
+	</Silhouette>
+	<Silhouette>
+		<id>1</id>
+		<name>Right Thigh</name>
+	</Silhouette>
+	<Silhouette>
+		<id>2</id>
+		<name>Left Thigh</name>
+	</Silhouette>
+	<Silhouette>
+		<id>3</id>
+		<name>Backpack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>4</id>
+		<name>Combat Pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>5</id>
+		<name>Assault Rifle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>6</id>
+		<name>Rocket Launcher</name>
+	</Silhouette>
+	<Silhouette>
+		<id>7</id>
+		<name>Big Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>8</id>
+		<name>Medium Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>9</id>
+		<name>SMG Gun</name>
+	</Silhouette>
+	<Silhouette>
+		<id>10</id>
+		<name>Explosive</name>
+	</Silhouette>
+	<Silhouette>
+		<id>11</id>
+		<name>Knife</name>
+	</Silhouette>
+	<Silhouette>
+		<id>12</id>
+		<name>Small Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>13</id>
+		<name>Small Pistol</name>
+	</Silhouette>
+	<Silhouette>
+		<id>14</id>
+		<name>40mm Grenade x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>15</id>
+		<name>Grenade x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>16</id>
+		<name>Pistol Ammo x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>17</id>
+		<name>SMG Ammo x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>18</id>
+		<name>AR Ammo x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>19</id>
+		<name>Large Ammo x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>20</id>
+		<name>Shirt Pocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>21</id>
+		<name>Belt Clip Canteen</name>
+	</Silhouette>
+	<Silhouette>
+		<id>22</id>
+		<name>Huge/Belt Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>23</id>
+		<name>Revolver Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>24</id>
+		<name>First Aid Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>25</id>
+		<name>Short Rifle Mag x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>26</id>
+		<name>Sniper Mag x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>27</id>
+		<name>Short Rifle Mag x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>28</id>
+		<name>Bandoleer, Shotgun</name>
+	</Silhouette>
+	<Silhouette>
+		<id>29</id>
+		<name>40mm Grenade x3</name>
+	</Silhouette>
+	<Silhouette>
+		<id>30</id>
+		<name>Lg Grenade x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>31</id>
+		<name>Misc Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>32</id>
+		<name>Large Pistol</name>
+	</Silhouette>
+	<Silhouette>
+		<id>33</id>
+		<name>Large Revolver</name>
+	</Silhouette>
+	<Silhouette>
+		<id>34</id>
+		<name>Throwing Knife</name>
+	</Silhouette>
+	<Silhouette>
+		<id>35</id>
+		<name>Bolt Clip Crossbow</name>
+	</Silhouette>
+	<Silhouette>
+		<id>36</id>
+		<name>60mm Mortar Shell</name>
+	</Silhouette>
+	<Silhouette>
+		<id>37</id>
+		<name>Pistol Ammo x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>38</id>
+		<name>Pistol Ammo x3</name>
+	</Silhouette>
+	<Silhouette>
+		<id>39</id>
+		<name>SMG Ammo x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>40</id>
+		<name>SMG Ammo x3</name>
+	</Silhouette>
+	<Silhouette>
+		<id>41</id>
+		<name>AR Ammo x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>42</id>
+		<name>AR Ammo x3</name>
+	</Silhouette>
+	<Silhouette>
+		<id>43</id>
+		<name>Rocket Rifle Ammo</name>
+	</Silhouette>
+	<Silhouette>
+		<id>44</id>
+		<name>Vehicle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>45</id>
+		<name>RPG Rocket</name>
+	</Silhouette>
+	<Silhouette>
+		<id>46</id>
+		<name>Drum Magazine</name>
+	</Silhouette>
+	<Silhouette>
+		<id>47</id>
+		<name>Grenade x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>48</id>
+		<name>Lg Grenade x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>49</id>
+		<name>40mm Combat pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>50</id>
+		<name>Revolver Combat pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>51</id>
+		<name>40mm Grenade x1</name>
+	</Silhouette>
+	<Silhouette>
+		<id>52</id>
+		<name>Explosives small</name>
+	</Silhouette>
+	<Silhouette>
+		<id>53</id>
+		<name>Carbine</name>
+	</Silhouette>
+	<Silhouette>
+		<id>54</id>
+		<name>Pistol Combat Pack</name>
+	</Silhouette>
+	<Silhouette>
+		<id>55</id>
+		<name>Large Ammo x2</name>
+	</Silhouette>
+	<Silhouette>
+		<id>56</id>
+		<name>Bandoleer, Shotgun small</name>
+	</Silhouette>
+	<Silhouette>
+		<id>57</id>
+		<name>Medical Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>58</id>
+		<name>Sniper Rifle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>59</id>
+		<name>Short Rifle Mag x3</name>
+	</Silhouette>
+	<Silhouette>
+		<id>60</id>
+		<name>Syringe Bag</name>
+	</Silhouette>
+	<Silhouette>
+		<id>61</id>
+		<name>Bandoleer, Pistol</name>
+	</Silhouette>
+	<Silhouette>
+		<id>62</id>
+		<name>Bandoleer, Rifle</name>
+	</Silhouette>
+	<Silhouette>
+		<id>63</id>
+		<name>Belt Slot</name>
+	</Silhouette>
+</JA2Data>

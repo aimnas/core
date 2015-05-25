@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<AmmoFlag>
+		<id>0</id>
+		<name>None</name>
+	</AmmoFlag>
+	<AmmoFlag>
+		<id>1</id>
+		<name>Neurotoxin</name>
+	</AmmoFlag>
+	<AmmoFlag>
+		<id>4</id>
+		<name>ANTIMATERIAL</name>
+	</AmmoFlag>
+</JA2Data>

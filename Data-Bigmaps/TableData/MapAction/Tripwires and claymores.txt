@@ -1,0 +1,24 @@
+	// network number  of the wire   
+   #define ITEM_TRIPWIRE_NETWORK_NET_1             0x00000001      //1                     
+    #define ITEM_TRIPWIRE_NETWORK_NET_2             0x00000002      //2
+    #define ITEM_TRIPWIRE_NETWORK_NET_3             0x00000004      //4
+    #define ITEM_TRIPWIRE_NETWORK_NET_4             0x00000008      //8
+     
+	// hierarchy level of the wire 
+    #define ITEM_TRIPWIRE_NETWORK_LVL_1             0x00000010      //16            
+    #define ITEM_TRIPWIRE_NETWORK_LVL_2             0x00000020      //32
+    #define ITEM_TRIPWIRE_NETWORK_LVL_3     		0x00000040      //64
+    #define ITEM_TRIPWIRE_NETWORK_LVL_4             0x00000080      //128
+    
+	
+	// direction for directional exxplosives (claymore etc.)
+	
+    #define ITEM_DIRECTION_NORTH                    0x00000100      //256           
+    #define ITEM_DIRECTION_NORTHEAST                0x00000200      //512
+    #define ITEM_DIRECTION_EAST                     0x00000400      //1024
+    #define ITEM_DIRECTION_SOUTHEAST                0x00000800      //2048
+     
+    #define ITEM_DIRECTION_SOUTH                    0x00001000      //4096
+    #define ITEM_DIRECTION_SOUTHWEST                0x00002000      //8192
+    #define ITEM_DIRECTION_WEST                     0x00004000      //16384
+    #define ITEM_DIRECTION_NORTHWEST                0x00008000      //32768

@@ -1,0 +1,4215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ATTACHMENTSLOTASSIGNLIST>
+
+<!-- Helmet Camo Covers -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>885</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>886</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>1798</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>1799</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>1800</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>30</attachmentSlotIndexAssign>
+		<attachmentIndex>1801</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Helmet Camo Covers -->
+
+<!-- Ghillie Hood Helmet -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>176</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>177</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>178</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>179</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>810</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>822</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>31</attachmentSlotIndexAssign>
+		<attachmentIndex>834</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Ghillie Hood Helmet -->
+
+<!-- Ghillie Camo I -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>32</attachmentSlotIndexAssign>
+		<attachmentIndex>1859</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>32</attachmentSlotIndexAssign>
+		<attachmentIndex>1860</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Ghillie Camo I -->
+
+<!-- Ghillie Camo II -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>33</attachmentSlotIndexAssign>
+		<attachmentIndex>1861</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>33</attachmentSlotIndexAssign>
+		<attachmentIndex>1862</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Ghillie Camo II -->
+
+<!-- Helmet Facial Gear -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>211</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>212</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>246</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>1024</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>1025</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>34</attachmentSlotIndexAssign>
+		<attachmentIndex>1863</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Helmet Facial Gear -->
+
+<!-- Balaklava -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>35</attachmentSlotIndexAssign>
+		<attachmentIndex>281</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Balaklava -->
+
+<!-- Balaklava 2 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>36</attachmentSlotIndexAssign>
+		<attachmentIndex>281</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Balaklava 2 -->
+
+<!-- Armour Plates -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>40</attachmentSlotIndexAssign>
+		<attachmentIndex>183</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>40</attachmentSlotIndexAssign>
+		<attachmentIndex>837</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Armour Plates -->
+
+<!-- Ghillie Jacket Armor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>161</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>162</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>163</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>164</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>165</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>166</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>189</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>190</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>194</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>296</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>812</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>824</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>836</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>41</attachmentSlotIndexAssign>
+		<attachmentIndex>1786</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Ghillie Jacket Armor -->
+
+<!-- Under Armour Camoshirt -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>44</attachmentSlotIndexAssign>
+		<attachmentIndex>1184</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Under Armour Camoshirt -->
+
+<!-- Leg Protectors -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>50</attachmentSlotIndexAssign>
+		<attachmentIndex>838</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>50</attachmentSlotIndexAssign>
+		<attachmentIndex>2294</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>50</attachmentSlotIndexAssign>
+		<attachmentIndex>2295</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Leg Protectors -->
+
+<!-- Ghillie Pants Leg Armour -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>170</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>171</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>172</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>811</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>823</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>835</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>1783</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>1784</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>51</attachmentSlotIndexAssign>
+		<attachmentIndex>1785</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Ghillie Pants Leg Armour -->
+
+<!-- Copper Wire -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>60</attachmentSlotIndexAssign>
+		<attachmentIndex>316</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Copper Wire -->
+
+<!-- X-Ray Tube -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>61</attachmentSlotIndexAssign>
+		<attachmentIndex>319</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- X-Ray Tube -->
+
+<!-- Batteries -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>62</attachmentSlotIndexAssign>
+		<attachmentIndex>322</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Batteries -->
+
+<!-- Spring -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>63</attachmentSlotIndexAssign>
+		<attachmentIndex>306</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Spring -->
+
+<!-- Quick Glue -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>64</attachmentSlotIndexAssign>
+		<attachmentIndex>309</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Quick Glue -->
+
+<!-- Pack of Gum -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>65</attachmentSlotIndexAssign>
+		<attachmentIndex>320</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Pack of Gum -->
+
+<!-- Duct Tape -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>66</attachmentSlotIndexAssign>
+		<attachmentIndex>304</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Duct Tape -->
+
+<!--  Rubber Band  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>67</attachmentSlotIndexAssign>
+		<attachmentIndex>323</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Rubber Band  -->
+
+<!--  Camo Kit Merge Slots -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>68</attachmentSlotIndexAssign>
+		<attachmentIndex>205</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Camo Kit: Woodland -->
+
+<!--  Camo Kit: Desert -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>69</attachmentSlotIndexAssign>
+		<attachmentIndex>1028</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Camo Kit: Desert -->
+
+<!--  Steel Tube  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>70</attachmentSlotIndexAssign>
+		<attachmentIndex>308</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Steel Tube  -->
+
+<!--  Copper Wire 2nd Slot  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>71</attachmentSlotIndexAssign>
+		<attachmentIndex>316</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Copper Wire 2nd Slot  -->
+
+<!--  String  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>72</attachmentSlotIndexAssign>
+		<attachmentIndex>311</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  String  -->
+
+<!--  Detonator, Remote Detonator  -->
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>90</attachmentSlotIndexAssign>
+		<attachmentIndex>223</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>90</attachmentSlotIndexAssign>
+		<attachmentIndex>224</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>90</attachmentSlotIndexAssign>
+		<attachmentIndex>2391</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>90</attachmentSlotIndexAssign>
+		<attachmentIndex>2392</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Detonator, Remote Detonator  -->
+
+<!-- Scope 2x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>120</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>120</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 2x -->
+
+<!-- Scope 4x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>121</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>121</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 4x -->
+
+<!-- Scope 2x, 4x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>122</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>122</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>122</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>122</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 2x, 4x -->
+
+<!-- Scope 2x, 4x, 7x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>123</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 2x, 4x, 7x -->
+
+<!-- Scope 2x, PSO-1, PGO-7W ON-M99 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>999</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>1651</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>1705</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>1922</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>2207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>124</attachmentSlotIndexAssign>
+		<attachmentIndex>2209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 2x, PSO-1, PGO-7W ON-M99 -->
+
+<!-- PSO-1, PSO-3, PGO-7W, ON-M99, Minuta -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>999</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1000</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1651</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1705</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1837</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>1922</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>2202</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>2207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>2209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>125</attachmentSlotIndexAssign>
+		<attachmentIndex>2210</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- PSO-1, PSO-3, PGO-7W ON-M99, Minuta -->
+
+<!-- 2x Scope, 4x Scope, 7x Scope, AN/PVS, Burris, ISM-4X-IR, ISM-V, ITL MARS, Aiming Modules -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>946</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1609</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1838</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1916</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1917</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1929</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>1931</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2164</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2178</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2179</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2192</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2193</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2194</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2201</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2203</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>126</attachmentSlotIndexAssign>
+		<attachmentIndex>2204</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- 2x Scope, 4x Scope, 7x Scope, AN/PVS, Burris, ISM-4X-IR, ISM-V, ITL MARS, Aiming Modules -->
+
+<!-- Scope 10x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>127</attachmentSlotIndexAssign>
+		<attachmentIndex>208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>127</attachmentSlotIndexAssign>
+		<attachmentIndex>2211</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 10x -->
+
+<!-- Scope, 7x, 10x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>128</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>128</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>128</attachmentSlotIndexAssign>
+		<attachmentIndex>208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>128</attachmentSlotIndexAssign>
+		<attachmentIndex>2211</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope, 7x, 10x -->
+
+<!-- WP Sniper Scopes: 7x Scope, 10x Scope, PSO-1, 
+		PSO-3, PGO-7W, ON-M99, Minuta  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>2211</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>999</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1651</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1000</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>2210</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1837</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>2202</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1705</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>2209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>1922</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>129</attachmentSlotIndexAssign>
+		<attachmentIndex>2207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WP Sniper Scopes: 7x Scope, 10x Scope, PSO-1, 
+		PSO-3, PGO-7W, ON-M99, Minuta  -->
+		
+<!-- Sniper Scopes for Rifles with Rails: 7x Scope, 10x Scope, 
+		AN/PVS, Burris, ISM-4X-IR, Aiming Modules -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2211</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1609</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1838</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1916</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1917</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>1929</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2164</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2178</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2179</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2192</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2201</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2203</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>130</attachmentSlotIndexAssign>
+		<attachmentIndex>2204</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Sniper Scopes for Rifles with Rails: 7x Scope, 10x Scope, 
+	AN/PVS, Burris, ISM-4X-IR, Aiming Modules -->
+
+<!-- WW II: ZF-42, Scope 2x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>131</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>131</attachmentSlotIndexAssign>
+		<attachmentIndex>1180</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>131</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>131</attachmentSlotIndexAssign>
+		<attachmentIndex>2212</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: ZF-42, Scope 2x -->
+
+<!-- WW II: ZF-42, Scope 2x, 4x, 7x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1180</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>2212</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>132</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: ZF-42, Scope 2x, 4x, 7x -->
+
+<!-- WW II: NO. 32 Scope, Scope 2x, Scope 4x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>1181</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>133</attachmentSlotIndexAssign>
+		<attachmentIndex>2206</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: NO. 32 Scope, Scope 2x, Scope 4x -->
+
+<!-- WW II: M84 Scope, NO. 32 Scope, Scope 2x, 4x, 7x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1181</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>2206</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1007</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1872</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>1652</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>134</attachmentSlotIndexAssign>
+		<attachmentIndex>2205</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: M84 Scope, NO. 32 Scope, Scope 2x, 4x, 7x -->
+
+<!-- WW II: PEM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>135</attachmentSlotIndexAssign>
+		<attachmentIndex>1182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>135</attachmentSlotIndexAssign>
+		<attachmentIndex>2208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: PEM -->
+
+<!-- WW II: PEM, Scope 2x -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>136</attachmentSlotIndexAssign>
+		<attachmentIndex>1182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>136</attachmentSlotIndexAssign>
+		<attachmentIndex>2208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>136</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>136</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- WW II: PEM, Scope 2x -->
+
+<!-- Scope 2x, PSO-1, PGO-7W, PEM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>999</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>1651</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>1705</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>1182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>2208</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>137</attachmentSlotIndexAssign>
+		<attachmentIndex>2209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scope 2x, PSO-1, PGO-7W, PEM -->
+
+<!-- Scopes for SMGs with rails: Scope 2x, Scope 4x, ISM-V, ITL MARS,
+		AN/PVS, Burris, Aiming Modules -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>946</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1029</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1030</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1648</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1649</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1838</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1916</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1917</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1929</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>1931</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2164</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2178</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2179</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2193</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2194</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2201</attachmentIndex>
+		<removesSlot>360</removesSlot>
+		<removesSlot>361</removesSlot>
+		<removesSlot>362</removesSlot>
+		<removesSlot>363</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2203</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>138</attachmentSlotIndexAssign>
+		<attachmentIndex>2204</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Scopes for SMGs with rails: Scope 2x, Scope 4x, ISM-V, ITL MARS,
+		AN/PVS, Burris, Aiming Modules -->
+	
+<!-- AUG Optics -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>139</attachmentSlotIndexAssign>
+		<attachmentIndex>1486</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- AUG Optics -->
+	
+<!-- Advanced Ballisitc Computer -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>200</attachmentSlotIndexAssign>
+		<attachmentIndex>1601</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>200</attachmentSlotIndexAssign>
+		<attachmentIndex>2170</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Advanced Ballisitc Computer -->
+
+<!-- Grenade Launcher Green Dot -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>206</attachmentSlotIndexAssign>
+		<attachmentIndex>1610</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>206</attachmentSlotIndexAssign>
+		<attachmentIndex>2189</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Grenade Launcher Green Dot -->
+
+<!-- Tactical Flashlight -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>210</attachmentSlotIndexAssign>
+		<attachmentIndex>1599</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>210</attachmentSlotIndexAssign>
+		<attachmentIndex>1643</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Tactical Flashlight -->
+
+<!-- Tactical Flashlight on Handguns -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>211</attachmentSlotIndexAssign>
+		<attachmentIndex>1599</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<addsSlot>311</addsSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>211</attachmentSlotIndexAssign>
+		<attachmentIndex>1643</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<addsSlot>311</addsSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Tactical Flashlight on Handguns -->
+
+<!-- Rod&Spring -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>220</attachmentSlotIndexAssign>
+		<attachmentIndex>307</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Rod&Spring -->
+
+<!-- Trigger Gr. 2, 3, 4  -->
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>1026</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>2234</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>2236</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>2222</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>2235</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>230</attachmentSlotIndexAssign>
+		<attachmentIndex>2237</attachmentIndex>
+		<APCost>20</APCost>
+</ATTACHMENTSLOTASSIGN>
+<!-- Trigger Gr. 2, 3, 4  -->
+
+<!-- Match Sights B&T  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>240</attachmentSlotIndexAssign>
+		<attachmentIndex>1667</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>240</attachmentSlotIndexAssign>
+		<attachmentIndex>2198</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Match Sights B&T  -->
+
+<!-- Match Sights SIG, HK, Glock  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>241</attachmentSlotIndexAssign>
+		<attachmentIndex>1183</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>241</attachmentSlotIndexAssign>
+		<attachmentIndex>2199</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Match Sights SIG, HK, Glock  -->
+
+<!-- Match Sights B&T, Match Sights SIG, HK, Glock  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>242</attachmentSlotIndexAssign>
+		<attachmentIndex>1183</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>242</attachmentSlotIndexAssign>
+		<attachmentIndex>1667</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>242</attachmentSlotIndexAssign>
+		<attachmentIndex>2198</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>242</attachmentSlotIndexAssign>
+		<attachmentIndex>2199</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Match Sights B&T, Match Sights SIG, HK, Glock  -->
+
+<!-- Adapter 5.56 C-Mag -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>250</attachmentSlotIndexAssign>
+		<attachmentIndex>1001</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>250</attachmentSlotIndexAssign>
+		<attachmentIndex>2419</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter 5.56 C-Mag -->
+
+<!-- Adapter 7.62x39 Drum -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>251</attachmentSlotIndexAssign>
+		<attachmentIndex>997</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>251</attachmentSlotIndexAssign>
+		<attachmentIndex>2420</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter 7.62x39 Drum -->
+
+<!-- Adapter 9x19 C-Mag -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>252</attachmentSlotIndexAssign>
+		<attachmentIndex>1002</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>252</attachmentSlotIndexAssign>
+		<attachmentIndex>2421</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter 9x19 C-Mag -->
+
+<!-- Adapter .50 Beowulf C-Mag -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>253</attachmentSlotIndexAssign>
+		<attachmentIndex>2167</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>253</attachmentSlotIndexAssign>
+		<attachmentIndex>2418</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter .50 Beowulf C-Mag -->
+
+<!-- Adapter .45 Drum -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>254</attachmentSlotIndexAssign>
+		<attachmentIndex>2433</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>254</attachmentSlotIndexAssign>
+		<attachmentIndex>2434</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter .45 Drum -->
+
+<!-- Adapter 7.62x51 Drum (not in use yet... ammo drums missing!) -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>255</attachmentSlotIndexAssign>
+		<attachmentIndex>2435</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>255</attachmentSlotIndexAssign>
+		<attachmentIndex>2436</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Adapter 7.62x51 Drum (not in use yet... ammo drums missing!) -->
+
+<!--  Pistol Muzzle: Pistol suppressor, Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>260</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>260</attachmentSlotIndexAssign>
+		<attachmentIndex>207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>260</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>260</attachmentSlotIndexAssign>
+		<attachmentIndex>2218</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Pistol Muzzle: Pistol suppressor, Flash Suppressor -->
+
+<!--  SMG Muzzle: Pistol suppressor, Flash Suppressor, Gun Barrel Extender  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>261</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>261</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>261</attachmentSlotIndexAssign>
+		<attachmentIndex>207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>261</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>261</attachmentSlotIndexAssign>
+		<attachmentIndex>2218</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  SMG Muzzle: Pistol suppressor, Flash Suppressor, Gun Barrel Extender  -->
+
+<!--  Muzzle Attachments generic AR: AR. suppressor, Flash Suppressor, Gun Barrel Extender  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>262</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>262</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>262</attachmentSlotIndexAssign>
+		<attachmentIndex>1012</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>262</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>262</attachmentSlotIndexAssign>
+		<attachmentIndex>2217</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Muzzle Attachments generic AR: AR. suppressor, Flash Suppressor, Gun Barrel Extender  -->
+
+<!-- Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>263</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>263</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Flash Suppressor -->
+
+<!-- Sniper Suppressor, Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>264</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>264</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>264</attachmentSlotIndexAssign>
+		<attachmentIndex>592</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>264</attachmentSlotIndexAssign>
+		<attachmentIndex>2220</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Sniper Suppressor, Flash Suppressor -->
+
+<!-- AR Suppressor, Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>265</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>265</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>265</attachmentSlotIndexAssign>
+		<attachmentIndex>1012</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>265</attachmentSlotIndexAssign>
+		<attachmentIndex>2217</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- AR Suppressor, Flash Suppressor -->
+
+<!-- Extender, Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>266</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>266</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>266</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Extender, Flash Suppressor -->
+
+<!-- Extender, Duckbill -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>267</attachmentSlotIndexAssign>
+		<attachmentIndex>244</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>267</attachmentSlotIndexAssign>
+		<attachmentIndex>2187</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>267</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Extender, Duckbill -->
+
+<!-- Extender, Duckbill, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>244</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>2187</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>1329</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>1330</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>268</attachmentSlotIndexAssign>
+		<attachmentIndex>1331</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Extender, Duckbill, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+
+<!-- Duckbill -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>269</attachmentSlotIndexAssign>
+		<attachmentIndex>244</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>269</attachmentSlotIndexAssign>
+		<attachmentIndex>2187</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Duckbill -->
+
+<!-- Duckbill, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>270</attachmentSlotIndexAssign>
+		<attachmentIndex>244</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>270</attachmentSlotIndexAssign>
+		<attachmentIndex>2187</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>270</attachmentSlotIndexAssign>
+		<attachmentIndex>1329</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>270</attachmentSlotIndexAssign>
+		<attachmentIndex>1330</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>270</attachmentSlotIndexAssign>
+		<attachmentIndex>1331</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Duckbill, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+
+<!-- Heavy Sniper Suppressor, Flash Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>271</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>271</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>271</attachmentSlotIndexAssign>
+		<attachmentIndex>1907</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>271</attachmentSlotIndexAssign>
+		<attachmentIndex>2221</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Heavy Sniper Suppressor, Flash Suppressor -->
+
+<!-- Duckbill, Shotgun Chokes (Imp. Mod., Rifled) -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>272</attachmentSlotIndexAssign>
+		<attachmentIndex>244</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>272</attachmentSlotIndexAssign>
+		<attachmentIndex>2187</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>272</attachmentSlotIndexAssign>
+		<attachmentIndex>1329</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>272</attachmentSlotIndexAssign>
+		<attachmentIndex>1331</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Duckbill, Shotgun Chokes (Imp. Mod., Rifled) -->
+
+<!-- AR Suppressor, Extender -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>273</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>273</attachmentSlotIndexAssign>
+		<attachmentIndex>1012</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>273</attachmentSlotIndexAssign>
+		<attachmentIndex>2217</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- AR Suppressor, Extender -->
+
+<!-- Pistol Suppressor -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>274</attachmentSlotIndexAssign>
+		<attachmentIndex>207</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>274</attachmentSlotIndexAssign>
+		<attachmentIndex>2218</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Pistol Suppressor -->
+
+<!-- Extender -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>275</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Extender -->
+
+<!-- Extender, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>276</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>276</attachmentSlotIndexAssign>
+		<attachmentIndex>1329</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>276</attachmentSlotIndexAssign>
+		<attachmentIndex>1330</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>276</attachmentSlotIndexAssign>
+		<attachmentIndex>1331</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Extender, Shotgun Chokes (Full, Imp. Mod., Rifled) -->
+
+<!--  Muzzle Attachments 7.62 AR: AR. suppressor, Flash Suppressor, Muzzle break, Gun Barrel Extender  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>1704</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>1012</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>2200</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>277</attachmentSlotIndexAssign>
+		<attachmentIndex>2217</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Muzzle Attachments 7.62 AR: AR. suppressor, Flash Suppressor, Muzzle break, Gun Barrel Extender  -->
+
+<!--  Muzzle Attachments 7.62 LMGs: Flash Suppressor, Muzzle break, Gun Barrel Extender  -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>278</attachmentSlotIndexAssign>
+		<attachmentIndex>1003</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>278</attachmentSlotIndexAssign>
+		<attachmentIndex>310</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>278</attachmentSlotIndexAssign>
+		<attachmentIndex>1704</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>278</attachmentSlotIndexAssign>
+		<attachmentIndex>2188</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>278</attachmentSlotIndexAssign>
+		<attachmentIndex>2200</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Muzzle Attachments 7.62 LMGs: Flash Suppressor, Muzzle break, Gun Barrel Extender  -->
+
+<!--  Lasers on Handguns: Laser Sight, LAM-200, Reddot LAM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<removesSlot>211</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<removesSlot>211</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<removesSlot>211</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<removesSlot>211</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>300</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Lasers on Handguns: Laser Sight, LAM-200, Reddot LAM -->
+
+<!--  Laser Sight, Rifle LAM, LAM-Flashlight, LAM-200, Reddot LAM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>950</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>2186</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>301</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Laser Sight, Rifle LAM, LAM-Flashlight, LAM-200, Reddot LAM -->
+
+<!-- Laser Sight, LAM-200, Reddot LAM, AN/PEQ -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>302</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, LAM-200, Reddot LAM, AN/PEQ -->
+
+<!--  Laser Sight, Rifle LAM, LAM-Flashlight, LAM-200, Reddot LAM, AN/PEQ -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>950</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>2186</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>303</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Laser Sight, Rifle LAM, LAM-Flashlight, LAM-200, Reddot LAM, AN/PEQ -->
+
+<!--  Laser Sight, Rifle LAM, LAM-200, Reddot LAM, AN/PEQ -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>304</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Laser Sight, Rifle LAM, LAM-200, Reddot LAM, AN/PEQ -->
+
+
+<!--  Laser Sight, Reddot LAM, Corsak -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>1615</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>1839</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>305</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, Reddot LAM, Corsak -->
+
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, AN/PEQ -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1615</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1839</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>306</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, AN/PEQ -->
+
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, 
+		AN/PEQ, Rifle LAM, LAM-Flashlight -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1615</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1839</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>2186</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>307</attachmentSlotIndexAssign>
+		<attachmentIndex>950</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, 
+		AN/PEQ, Rifle LAM, LAM-Flashlight -->
+
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, AN/PEQ, Rifle LAM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1615</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1839</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>308</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, Reddot LAM, Insight LAM, Corsak, AN/PEQ, Rifle LAM -->
+
+
+<!-- Laser Sight, LAM-200, Reddot LAM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>309</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Laser Sight, LAM-200, Reddot LAM -->
+
+<!--  Laser Sight, Rifle LAM, LAM-200, Reddot LAM, AN/PEQ, Aimpoint -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>241</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1918</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1928</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>949</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>948</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>2197</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>2195</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1654</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>2196</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>310</attachmentSlotIndexAssign>
+		<attachmentIndex>1646</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Laser Sight, Rifle LAM, LAM-200, Reddot LAM, AN/PEQ, Aimpoint -->
+
+<!-- Small Lasers: Reddot LAM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>311</attachmentSlotIndexAssign>
+		<attachmentIndex>1005</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>311</attachmentSlotIndexAssign>
+		<attachmentIndex>1640</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Small Lasers: Reddot LAM -->
+
+<!--  Reflex Sight, SMR, Combo Reflex Sights for Handguns without Scope -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1006</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1833</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1641</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1834</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1602</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1644</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>1835</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>360</attachmentSlotIndexAssign>
+		<attachmentIndex>2185</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Reflex Sight, SMR, Combo Reflex Sights for Handguns without Scope -->
+
+<!--  Reflex Sight, SMR, Combo Reflex Sights for Guns with Scope -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1006</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1833</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1641</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1834</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1602</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1644</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>1835</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>361</attachmentSlotIndexAssign>
+		<attachmentIndex>2185</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Reflex Sight, SMR, Combo Reflex Sights for Guns with Scope -->
+
+<!--  Kobra -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>362</attachmentSlotIndexAssign>
+		<attachmentIndex>998</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>362</attachmentSlotIndexAssign>
+		<attachmentIndex>1642</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Kobra -->
+
+<!--  Kobra, SMR, Reflex Sights -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1006</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1833</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1641</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1834</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1602</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1644</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1835</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>2185</attachmentIndex>
+		<removesSlot>300</removesSlot>
+		<removesSlot>301</removesSlot>
+		<removesSlot>302</removesSlot>
+		<removesSlot>303</removesSlot>
+		<removesSlot>304</removesSlot>
+		<removesSlot>305</removesSlot>
+		<removesSlot>306</removesSlot>
+		<removesSlot>307</removesSlot>
+		<removesSlot>308</removesSlot>
+		<removesSlot>309</removesSlot>
+		<removesSlot>310</removesSlot>
+		<removesSlot>311</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>998</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>363</attachmentSlotIndexAssign>
+		<attachmentIndex>1642</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Kobra, SMR, Reflex Sights -->
+
+<!-- Colt M203 UGL -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>370</attachmentSlotIndexAssign>
+		<attachmentIndex>902</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>370</attachmentSlotIndexAssign>
+		<attachmentIndex>2224</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Colt M203 UGL -->
+
+<!-- HK79 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>371</attachmentSlotIndexAssign>
+		<attachmentIndex>913</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<removesSlot>310</removesSlot>
+		<addsSlot>304</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>371</attachmentSlotIndexAssign>
+		<attachmentIndex>2227</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<removesSlot>310</removesSlot>
+		<addsSlot>304</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- HK79 -->
+
+<!-- GP-30 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>372</attachmentSlotIndexAssign>
+		<attachmentIndex>904</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>372</attachmentSlotIndexAssign>
+		<attachmentIndex>2226</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- GP-30 -->
+
+<!-- AG36 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>373</attachmentSlotIndexAssign>
+		<attachmentIndex>905</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>373</attachmentSlotIndexAssign>
+		<attachmentIndex>2228</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- AG36 -->
+
+<!-- AICW Launcher -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>374</attachmentSlotIndexAssign>
+		<attachmentIndex>909</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- AICW Launcher -->
+
+<!-- F2000 Launcher -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>375</attachmentSlotIndexAssign>
+		<attachmentIndex>910</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- F2000 Launcher -->
+
+<!-- FN EGLM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>376</attachmentSlotIndexAssign>
+		<attachmentIndex>921</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>376</attachmentSlotIndexAssign>
+		<attachmentIndex>2225</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- FN EGLM -->
+
+<!-- GP-25 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>377</attachmentSlotIndexAssign>
+		<attachmentIndex>911</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- GP-25 -->
+
+<!-- OICW Launcher -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>378</attachmentSlotIndexAssign>
+		<attachmentIndex>912</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- OICW Launcher -->
+
+<!--  Foregrip -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>379</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>379</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Foregrip -->
+
+<!--  Foregrip -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>380</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>380</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Foregrip -->
+
+<!--  Foregrip, Foregrip, folding -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>381</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>381</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>381</attachmentSlotIndexAssign>
+		<attachmentIndex>2407</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>381</attachmentSlotIndexAssign>
+		<attachmentIndex>2416</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Foregrip, Foregrip, folding -->
+
+<!--  Bipod -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>382</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>382</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Bipod -->
+	
+<!--  Foregrip, Bipod, Grippod, Griplight -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>947</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>383</attachmentSlotIndexAssign>
+		<attachmentIndex>2191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Foregrip, Bipod, Grippod, Griplight -->
+
+<!--  Bipod, Foregrip -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>384</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>384</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>384</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>384</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Bipod, Foregrip -->
+
+<!--  Shotgun Foregrip -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>385</attachmentSlotIndexAssign>
+		<attachmentIndex>1010</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>385</attachmentSlotIndexAssign>
+		<attachmentIndex>2422</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Shotgun Foregrip -->
+
+<!--  Wooden Foregrip -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>386</attachmentSlotIndexAssign>
+		<attachmentIndex>2408</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>386</attachmentSlotIndexAssign>
+		<attachmentIndex>2417</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Wooden Foregrip -->
+
+<!--  Bipod, Foregrip, Griplight -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>387</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>387</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>387</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>387</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Bipod, Foregrip, Griplight -->
+
+<!--  Bipod, Bipod, heavy -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>388</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>388</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Bipod, Bipod, heavy -->
+
+<!-- Foregrip, folding -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>389</attachmentSlotIndexAssign>
+		<attachmentIndex>2407</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>389</attachmentSlotIndexAssign>
+		<attachmentIndex>2416</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, folding -->
+
+<!--  Foregrip, Bipod, Grippod, Griplight, M203 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>947</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>2191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>902</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>390</attachmentSlotIndexAssign>
+		<attachmentIndex>2224</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Grippod, Griplight, M203 -->
+
+<!-- Foregrip, Bipod, Griplight, M203 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>902</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>391</attachmentSlotIndexAssign>
+		<attachmentIndex>2224</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, M203 -->
+
+<!-- Foregrip, Grippod, Griplight, M203 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>947</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>2191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>902</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>392</attachmentSlotIndexAssign>
+		<attachmentIndex>2224</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Grippod, Griplight, M203 -->
+
+<!-- Foregrip, Bipod, Griplight, HK79 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>913</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<removesSlot>310</removesSlot>
+		<addsSlot>304</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>393</attachmentSlotIndexAssign>
+		<attachmentIndex>2227</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<removesSlot>310</removesSlot>
+		<addsSlot>304</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, HK79 -->
+
+<!-- Foregrip, Bipod, Griplight, GP-30 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>904</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>394</attachmentSlotIndexAssign>
+		<attachmentIndex>2226</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, GP-30 -->
+
+<!-- Foregrip, Bipod, Griplight, AG36 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>905</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>395</attachmentSlotIndexAssign>
+		<attachmentIndex>2228</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, AG36 -->
+
+<!-- Foregrip, Bipod, Griplight, Grippod, AG36 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>947</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>2191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>905</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>396</attachmentSlotIndexAssign>
+		<attachmentIndex>2228</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, Grippod, AG36 -->
+
+<!-- Foregrip, Bipod, Griplight, Grippod, EGLM -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>209</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>2182</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>947</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>2191</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>921</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>397</attachmentSlotIndexAssign>
+		<attachmentIndex>2225</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Bipod, Griplight, Grippod, EGLM -->
+
+<!-- Foregrip, Griplight, M203 -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>1011</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>1600</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>1647</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>2190</attachmentIndex>
+		<removesSlot>210</removesSlot>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>902</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>398</attachmentSlotIndexAssign>
+		<attachmentIndex>2224</attachmentIndex>
+		<APCost>20</APCost>
+		<addsSlot>5</addsSlot>
+		<addsSlot>380</addsSlot>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Foregrip, Griplight, M203 -->
+
+<!-- Folding Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>500</attachmentSlotIndexAssign>
+		<attachmentIndex>1008</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>500</attachmentSlotIndexAssign>
+		<attachmentIndex>2213</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Folding Stock -->
+
+<!-- Retractable Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>501</attachmentSlotIndexAssign>
+		<attachmentIndex>1009</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>501</attachmentSlotIndexAssign>
+		<attachmentIndex>2215</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Retractable Stock -->
+
+<!-- Folding Stock, Retractable Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>502</attachmentSlotIndexAssign>
+		<attachmentIndex>1008</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>502</attachmentSlotIndexAssign>
+		<attachmentIndex>1009</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>502</attachmentSlotIndexAssign>
+		<attachmentIndex>2213</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>502</attachmentSlotIndexAssign>
+		<attachmentIndex>2215</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Retractable Stock -->
+
+<!--  SCAR Folding Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>503</attachmentSlotIndexAssign>
+		<attachmentIndex>2401</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>503</attachmentSlotIndexAssign>
+		<attachmentIndex>2410</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  SCAR Folding Stock -->
+
+<!--  Glock Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>504</attachmentSlotIndexAssign>
+		<attachmentIndex>1919</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>504</attachmentSlotIndexAssign>
+		<attachmentIndex>2214</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Glock Stock -->
+
+<!--  Polymere Stock, fixed; Polymere Stock, folding; Retractable Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>2404</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>2402</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>1009</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>2413</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>2411</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>505</attachmentSlotIndexAssign>
+		<attachmentIndex>2215</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Polymere Stock, fixed; Polymere Stock, folding; Retractable Stock -->
+
+<!--  Wooden Stock, fixed, skeletonized -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>506</attachmentSlotIndexAssign>
+		<attachmentIndex>2406</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>506</attachmentSlotIndexAssign>
+		<attachmentIndex>2415</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Wooden Stock, fixed, skeletonized -->
+
+<!--  Polymere Stock, fixed -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>507</attachmentSlotIndexAssign>
+		<attachmentIndex>2404</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>507</attachmentSlotIndexAssign>
+		<attachmentIndex>2413</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Polymere Stock, fixed -->
+
+<!--  Wooden Stock, fixed -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>508</attachmentSlotIndexAssign>
+		<attachmentIndex>2400</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>508</attachmentSlotIndexAssign>
+		<attachmentIndex>2409</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Wooden Stock, fixed -->
+
+<!--  Wooden Stock, fixed, Folding Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>509</attachmentSlotIndexAssign>
+		<attachmentIndex>1008</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>509</attachmentSlotIndexAssign>
+		<attachmentIndex>2213</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>509</attachmentSlotIndexAssign>
+		<attachmentIndex>2400</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>509</attachmentSlotIndexAssign>
+		<attachmentIndex>2409</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<!--  Wooden Stock, fixed, Folding Stock -->
+
+	<!--  Wooden Stock, fixed, Wooden Stock, fixed, skeletonized, 
+	Folding Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>1008</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>2213</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>2400</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>2406</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>2409</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>510</attachmentSlotIndexAssign>
+		<attachmentIndex>2415</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Wooden Stock, fixed, Wooden Stock, fixed, skeletonized, Folding Stock -->
+	
+<!-- Telescopic Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>511</attachmentSlotIndexAssign>
+		<attachmentIndex>2403</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>511</attachmentSlotIndexAssign>
+		<attachmentIndex>2412</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Telescopic Stock -->
+
+<!--  Polymere Stock, fixed, Retractable Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>512</attachmentSlotIndexAssign>
+		<attachmentIndex>2404</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>512</attachmentSlotIndexAssign>
+		<attachmentIndex>2413</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>512</attachmentSlotIndexAssign>
+		<attachmentIndex>1009</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>512</attachmentSlotIndexAssign>
+		<attachmentIndex>2215</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!--  Polymere Stock, fixed, Retractable Stock -->
+
+<!-- Telescopic Stock, Polymere Stock, fixed -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>513</attachmentSlotIndexAssign>
+		<attachmentIndex>2403</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>513</attachmentSlotIndexAssign>
+		<attachmentIndex>2412</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>513</attachmentSlotIndexAssign>
+		<attachmentIndex>2404</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>513</attachmentSlotIndexAssign>
+		<attachmentIndex>2413</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Telescopic Stock, Polymere Stock, fixed -->
+
+<!-- Telescopic Stock, Polymere Stock, fixed, Polymere Stock, folding -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2403</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2412</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+		<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2404</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2413</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2402</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>514</attachmentSlotIndexAssign>
+		<attachmentIndex>2411</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Telescopic Stock, Polymere Stock, fixed, Polymere Stock, folding -->
+
+<!-- Wooden Stock, heavy -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>515</attachmentSlotIndexAssign>
+		<attachmentIndex>2431</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>515</attachmentSlotIndexAssign>
+		<attachmentIndex>2431</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Wooden Stock, heavy -->
+
+<!-- Sniper Stock, retractable -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>516</attachmentSlotIndexAssign>
+		<attachmentIndex>2429</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>516</attachmentSlotIndexAssign>
+		<attachmentIndex>2430</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Sniper Stock, retractable -->
+
+<!-- Sniper Stock, folding -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>517</attachmentSlotIndexAssign>
+		<attachmentIndex>2425</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>517</attachmentSlotIndexAssign>
+		<attachmentIndex>2426</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- Sniper Stock, folding -->
+
+<!-- SAW Stock -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>518</attachmentSlotIndexAssign>
+		<attachmentIndex>2423</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>518</attachmentSlotIndexAssign>
+		<attachmentIndex>2424</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- SAW Stock -->
+
+<!-- SMG Stock, telescopic -->
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>519</attachmentSlotIndexAssign>
+		<attachmentIndex>2427</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+	<ATTACHMENTSLOTASSIGN>
+		<attachmentSlotIndexAssign>519</attachmentSlotIndexAssign>
+		<attachmentIndex>2428</attachmentIndex>
+		<APCost>20</APCost>
+	</ATTACHMENTSLOTASSIGN>
+<!-- SMG Stock, telescopic -->
+
+	
+</ATTACHMENTSLOTASSIGNLIST>

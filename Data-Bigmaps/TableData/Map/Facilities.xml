@@ -1,0 +1,846 @@
+<!-- Use this XML to place facilities on the map.
+
+		SectorGrid		=		Sector coordinates
+		FacilityType	=		Unique index number (see FacilityTypes.XML)
+		ubHidden		=		Does this facility appear in the sector info popup?
+											0 = Yes, always.
+											1 = Yes, but only once the sector's been explored.
+											2 = No, never.
+-->
+
+<SECTORFACILITIES>
+
+	<FACILITY>
+		<SectorGrid>A1</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>A2</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>A2</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>A2</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>A9</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>A10</SectorGrid>
+		<FacilityType>32</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>A10</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>A11</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B1</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B1</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B8</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B9</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B12</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>B13</SectorGrid>
+		<FacilityType>5</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C3</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C5</SectorGrid>
+		<FacilityType>13</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C5</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C6</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C6</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C9</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C9</SectorGrid>
+		<FacilityType>30</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C9</SectorGrid>
+		<FacilityType>31</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>D2</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D2</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		
+	<FACILITY>
+		<SectorGrid>D2</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D2</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D4</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D4</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D5</SectorGrid>
+		<FacilityType>15</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D6</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D7</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>14</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D13</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>D15</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D15</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>D15</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>E7</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+		<FACILITY>
+		<SectorGrid>E7</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>E9</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>E11</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>E11</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F2</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F2</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>F6</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>F8</SectorGrid>
+		<FacilityType>1</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G1</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G1</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>G2</SectorGrid>
+		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G7</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G8</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G8</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>G9</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>H2</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H4</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H5</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H5</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H7</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H8</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H8</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H10</SectorGrid>
+		<FacilityType>29</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H10</SectorGrid>
+		<FacilityType>30</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>8</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I6</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I6</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I6</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I7</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I8</SectorGrid>
+		<FacilityType>28</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I8</SectorGrid>
+		<FacilityType>29</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I8</SectorGrid>
+		<FacilityType>30</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I12</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I13</SectorGrid>
+		<FacilityType>7</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>I14</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>J6</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J6</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>J9</SectorGrid>
+		<FacilityType>3</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J12</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J12</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>J14</SectorGrid>
+		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K4</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K4</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K6</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K6</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>K6</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>L2</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L2</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L8</SectorGrid>
+		<FacilityType>12</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>L8</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>L10</SectorGrid>
+		<FacilityType>20</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L10</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L11</SectorGrid>
+		<FacilityType>26</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L12</SectorGrid>
+		<FacilityType>16</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L12</SectorGrid>
+		<FacilityType>26</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L13</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L13</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>L13</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M2</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M2</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M5</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M9</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>M9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N3</SectorGrid>
+		<FacilityType>5</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N3</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N4</SectorGrid>
+		<FacilityType>11</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N9</SectorGrid>
+		<FacilityType>2</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N9</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>N9</SectorGrid>
+		<FacilityType>25</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+
+	<FACILITY>
+		<SectorGrid>O9</SectorGrid>
+		<FacilityType>4</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>O9</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+</SECTORFACILITIES>
