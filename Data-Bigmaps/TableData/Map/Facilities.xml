@@ -59,6 +59,12 @@
 	</FACILITY>
 
 	<FACILITY>
+		<SectorGrid>A11</SectorGrid>
+		<FacilityType>34</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
 		<SectorGrid>B1</SectorGrid>
 		<FacilityType>4</FacilityType>
 		<ubHidden>0</ubHidden>
@@ -87,7 +93,11 @@
 		<FacilityType>12</FacilityType>
 		<ubHidden>0</ubHidden>
 	</FACILITY>
-
+	<FACILITY>
+		<SectorGrid>B2</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>B2</SectorGrid>
 		<FacilityType>24</FacilityType>
@@ -103,6 +113,12 @@
 	<FACILITY>
 		<SectorGrid>B8</SectorGrid>
 		<FacilityType>33</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>B8</SectorGrid>
+		<FacilityType>34</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
@@ -375,6 +391,12 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
+	<FACILITY>
+		<SectorGrid>G6</SectorGrid>
+		<FacilityType>10</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	
 	<FACILITY>
 		<SectorGrid>G7</SectorGrid>
 		<FacilityType>33</FacilityType>

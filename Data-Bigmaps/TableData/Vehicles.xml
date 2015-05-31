@@ -2348,7 +2348,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Hummer</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>86</EnterVehicleSndID>
 		<MoveVehicleSndID>83</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
@@ -2435,7 +2435,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Eldor.</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\eldorado.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -2532,7 +2532,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Truck</ShortName>		
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\ice Cream Truck.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
@@ -3188,7 +3188,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Jeep 1</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
@@ -3274,7 +3274,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Jeep 2</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
@@ -3360,7 +3360,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Jeep 3</ShortName>	
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
-		<SeatingCapacities>6</SeatingCapacities>
+		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>

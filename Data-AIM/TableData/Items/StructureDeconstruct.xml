@@ -1,4 +1,126 @@
 ﻿<STRUCTURESLIST>
+	<STRUCTURE><!-- sandbag -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- concertina wire -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1542</usItemToCreate>
+		<usCreatedItemStatus>15</usCreatedItemStatus>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- concertina wire -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1542</usItemToCreate>
+		<usCreatedItemStatus>8</usCreatedItemStatus>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- wooden planks, small -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1543</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- wooden planks, medium -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1544</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- wooden planks, large -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1545</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>deb_02.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- tire #1 -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1548</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #2 -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1549</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<allowedtile>1</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #3 -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1550</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- roadblock -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1551</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<allowedtile>9</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sawhorse -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1552</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<allowedtile>8</allowedtile>
+		<allowedtile>10</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Gas drum #1 empty -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1553</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<allowedtile>10</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Gas drum #2 -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1554</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Gas drum #3 -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1555</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>drum_01.sti</szTileSetName>
+		<allowedtile>6</allowedtile>
+	</STRUCTURE>
 	<STRUCTURE><!-- earthpile -->
 	<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>0</usItemToCreate>
@@ -46,35 +168,7 @@
 		<allowedtile>8</allowedtile>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, small -->
-		<usDeconstructItem>5832</usDeconstructItem>
-		<usItemToCreate>1543</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
-		<allowedtile>6</allowedtile>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, medium -->
-		<usDeconstructItem>5832</usDeconstructItem>
-		<usItemToCreate>1544</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, large -->
-		<usDeconstructItem>5832</usDeconstructItem>
-		<usItemToCreate>1545</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-	</STRUCTURE>
-		<STRUCTURE><!-- earthpile -->
+	<STRUCTURE><!-- earthpile -->
 	<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>0</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
@@ -121,30 +215,120 @@
 		<allowedtile>8</allowedtile>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, small -->
-		<usDeconstructItem>5834</usDeconstructItem>
-		<usItemToCreate>1543</usItemToCreate>
+		<STRUCTURE><!-- Vegetation, grass with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1561</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
+		<szTileSetName>f_weed.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- Vegetation, grass with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1561</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>fl_weed.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, agaves with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1562</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>l_weed2.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, agaves with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1562</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>stweed.sti</szTileSetName>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, desert grass with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1563</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>cactus.sti</szTileSetName>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, desert grass with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1563</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>SM_cactus.sti</szTileSetName>
+		<allowedtile>6</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, cactus with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1564</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>cactus.sti</szTileSetName>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- Vegetation, cactus with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1564</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>SM_cactus.sti</szTileSetName>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Vegetation, scrub with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1565</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>weeds_1.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
 		<allowedtile>6</allowedtile>
 		<allowedtile>7</allowedtile>
 		<allowedtile>8</allowedtile>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, medium -->
-		<usDeconstructItem>5834</usDeconstructItem>
-		<usItemToCreate>1544</usItemToCreate>
+	<STRUCTURE><!-- Vegetation, scrub with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<usItemToCreate>1565</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
+		<szTileSetName>SM_cactus.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
 		<allowedtile>2</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- wooden planks, large -->
-		<usDeconstructItem>5834</usDeconstructItem>
-		<usItemToCreate>1545</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>deb_02.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
 		<allowedtile>3</allowedtile>
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>

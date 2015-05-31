@@ -125,7 +125,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<usPrisonRoomNumber>10</usPrisonRoomNumber>
+		<usPrisonRoomNumber>11</usPrisonRoomNumber>		
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A11</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -205,7 +208,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>200</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>200</usCivilianPopulation> 
+		<usPrisonRoomNumber>219</usPrisonRoomNumber>
+		<usPrisonRoomNumber>220</usPrisonRoomNumber>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B3</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -302,7 +308,7 @@ Curfew values
 		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
 		<szExploredName>Farmland</szExploredName>
 		<szDetailedExploredName>Farm, Roadworks</szDetailedExploredName>
-		<sWaterType>1</sWaterType>
+		<sWaterType>0</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>6</usCivilianPopulation> </SECTOR>
@@ -635,7 +641,12 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>300</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>300</usCivilianPopulation>
+		<usPrisonRoomNumber>233</usPrisonRoomNumber>
+		<usPrisonRoomNumber>234</usPrisonRoomNumber>
+		<usPrisonRoomNumber>235</usPrisonRoomNumber>
+		<usPrisonRoomNumber>236</usPrisonRoomNumber>
+		</SECTOR>
 	<SECTOR>
 		<SectorGrid>D14</SectorGrid>
 		<szUnexploredName>Drassen</szUnexploredName>
@@ -735,7 +746,8 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>75</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>75</usCivilianPopulation> 
+		<usPrisonRoomNumber>43</usPrisonRoomNumber></SECTOR>
 	<SECTOR>
 		<SectorGrid>E8</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -882,7 +894,7 @@ Curfew values
 		<szDetailedUnexploredName>Hills</szDetailedUnexploredName>
 		<szExploredName>Mountain Mine</szExploredName>
 		<szDetailedExploredName>Mountain Mine</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
@@ -902,7 +914,7 @@ Curfew values
 		<szDetailedUnexploredName>Cambria, Hospital</szDetailedUnexploredName>
 		<szExploredName>Cambria, Hospital</szExploredName>
 		<szDetailedExploredName>Cambria, Hospital</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>500</usCivilianPopulation> </SECTOR>
@@ -912,7 +924,7 @@ Curfew values
 		<szDetailedUnexploredName>Cambria</szDetailedUnexploredName>
 		<szExploredName>Cambria</szExploredName>
 		<szDetailedExploredName>Cambria</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>250</usCivilianPopulation> </SECTOR>
@@ -1040,9 +1052,9 @@ Curfew values
 		<SectorGrid>G6</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
 		<szDetailedUnexploredName>Mountain, road</szDetailedUnexploredName>
-		<szExploredName>Mountain, road</szExploredName>
-		<szDetailedExploredName>Mountain, road</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<szExploredName>Almeria</szExploredName>
+		<szDetailedExploredName>Almeria</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
@@ -1062,7 +1074,7 @@ Curfew values
 		<szDetailedUnexploredName>Cambria</szDetailedUnexploredName>
 		<szExploredName>Cambria</szExploredName>
 		<szDetailedExploredName>Cambria</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>150</usCivilianPopulation> </SECTOR>
@@ -1072,10 +1084,17 @@ Curfew values
 		<szDetailedUnexploredName>Cambria</szDetailedUnexploredName>
 		<szExploredName>Cambria</szExploredName>
 		<szDetailedExploredName>Cambria</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>450</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>450</usCivilianPopulation> 
+		<usPrisonRoomNumber>159</usPrisonRoomNumber>
+		<usPrisonRoomNumber>160</usPrisonRoomNumber>
+		<usPrisonRoomNumber>161</usPrisonRoomNumber>
+		<usPrisonRoomNumber>162</usPrisonRoomNumber>
+		<usPrisonRoomNumber>163</usPrisonRoomNumber>
+		<usPrisonRoomNumber>164</usPrisonRoomNumber>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G10</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1222,7 +1241,7 @@ Curfew values
 		<szDetailedUnexploredName>Cambria Mine</szDetailedUnexploredName>
 		<szExploredName>Cambria Mine</szExploredName>
 		<szDetailedExploredName>Cambria Mine</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>100</usCivilianPopulation> </SECTOR>
@@ -1382,7 +1401,7 @@ Curfew values
 		<szDetailedUnexploredName>Desert</szDetailedUnexploredName>
 		<szExploredName>SAM Site</szExploredName>
 		<szDetailedExploredName>Desert, SAM Site</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
@@ -1552,10 +1571,49 @@ Curfew values
 		<szDetailedUnexploredName>Desert</szDetailedUnexploredName>
 		<szExploredName>Desert</szExploredName>
 		<szDetailedExploredName>Desert</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>8</usCivilianPopulation> </SECTOR>
+		<usPrisonRoomNumber>83</usPrisonRoomNumber>
+		<usPrisonRoomNumber>84</usPrisonRoomNumber>
+		<usPrisonRoomNumber>85</usPrisonRoomNumber>
+		<usPrisonRoomNumber>86</usPrisonRoomNumber>
+		<usPrisonRoomNumber>87</usPrisonRoomNumber>
+		<usPrisonRoomNumber>89</usPrisonRoomNumber>
+		<usPrisonRoomNumber>90</usPrisonRoomNumber>
+		<usPrisonRoomNumber>91</usPrisonRoomNumber>
+		<usPrisonRoomNumber>92</usPrisonRoomNumber>
+		<usPrisonRoomNumber>93</usPrisonRoomNumber>
+		<usPrisonRoomNumber>94</usPrisonRoomNumber>
+		<usPrisonRoomNumber>95</usPrisonRoomNumber>
+		<usPrisonRoomNumber>96</usPrisonRoomNumber>
+		<usPrisonRoomNumber>97</usPrisonRoomNumber>
+		<usPrisonRoomNumber>98</usPrisonRoomNumber>
+		<usPrisonRoomNumber>100</usPrisonRoomNumber>
+		<usPrisonRoomNumber>101</usPrisonRoomNumber>
+		<usPrisonRoomNumber>102</usPrisonRoomNumber>
+		<usPrisonRoomNumber>103</usPrisonRoomNumber>
+		<usPrisonRoomNumber>104</usPrisonRoomNumber>
+		<usPrisonRoomNumber>105</usPrisonRoomNumber>
+		<usPrisonRoomNumber>106</usPrisonRoomNumber>
+		<usPrisonRoomNumber>107</usPrisonRoomNumber>
+		<usPrisonRoomNumber>108</usPrisonRoomNumber>
+		<usPrisonRoomNumber>109</usPrisonRoomNumber>
+		<usPrisonRoomNumber>110</usPrisonRoomNumber>
+		<usPrisonRoomNumber>111</usPrisonRoomNumber>
+		<usPrisonRoomNumber>112</usPrisonRoomNumber>
+		<usPrisonRoomNumber>113</usPrisonRoomNumber>
+		<usPrisonRoomNumber>114</usPrisonRoomNumber>
+		<usPrisonRoomNumber>115</usPrisonRoomNumber>
+		<usPrisonRoomNumber>75</usPrisonRoomNumber>
+		<usPrisonRoomNumber>76</usPrisonRoomNumber>
+		<usPrisonRoomNumber>77</usPrisonRoomNumber>
+		<usPrisonRoomNumber>78</usPrisonRoomNumber>
+		<usPrisonRoomNumber>79</usPrisonRoomNumber>
+		<usPrisonRoomNumber>80</usPrisonRoomNumber>
+		<usPrisonRoomNumber>81</usPrisonRoomNumber>
+		<usPrisonRoomNumber>82</usPrisonRoomNumber>
 	<SECTOR>
 		<SectorGrid>J10</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>

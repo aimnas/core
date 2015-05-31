@@ -264,4 +264,8 @@
 		<id>65</id>
 		<name>Shotgun</name>
 	</Silhouette>
+	<Silhouette>
+		<id>66</id>
+		<name>Grenade Loop</name>
+	</Silhouette>
 </JA2Data>

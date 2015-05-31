@@ -683,7 +683,7 @@
 		<Sector y="F" x="6">
 			<TravelRating>9</TravelRating>
 			<North>HILLS</North>
-			<East>DENSE</East>
+			<East>ROAD</East>
 			<South>ROAD</South>
 			<West>HILLS</West>
 			<Here>TOWN</Here>
@@ -693,7 +693,7 @@
 			<North>ROAD</North>
 			<East>PLAINS</East>
 			<South>ROAD</South>
-			<West>DENSE</West>
+			<West>ROAD</West>
 			<Here>FARMLAND_ROAD</Here>
 		</Sector>
 		<Sector y="F" x="8">
@@ -804,7 +804,7 @@
 			<TravelRating>65</TravelRating>
 			<North>HILLS</North>
 			<East>ROAD</East>
-			<South>HILLS</South>
+			<South>GROUNDBARRIER</South>
 			<West>ROAD</West>
 			<Here>HILLS_ROAD</Here>
 		</Sector>
@@ -939,7 +939,7 @@
 		<Sector y="H" x="6">
 			<TravelRating>60</TravelRating>
 			<North>ROAD</North>
-			<East>ROAD</East>
+			<East>HILLS</East>
 			<South>ROAD</South>
 			<West>ROAD</West>
 			<Here>HILLS_ROAD</Here>
@@ -947,34 +947,34 @@
 		<Sector y="H" x="7">
 			<TravelRating>8</TravelRating>
 			<North>PLAINS</North>
-			<East>PLAINS</East>
-			<South>PLAINS</South>
-			<West>ROAD</West>
+			<East>ROAD</East>
+			<South>ROAD</South>
+			<West>HILLS</West>
 			<Here>PLAINS_ROAD</Here>
 		</Sector>
 		<Sector y="H" x="8">
 			<TravelRating>15</TravelRating>
 			<North>TOWN</North>
-			<East>PLAINS</East>
+			<East>ROAD</East>
 			<South>GROUNDBARRIER</South>
-			<West>PLAINS</West>
+			<West>ROAD</West>
 			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="H" x="9">
 			<TravelRating>15</TravelRating>
 			<North>PLAINS</North>
-			<East>SAND</East>
+			<East>ROAD</East>
 			<South>SAND</South>
-			<West>PLAINS</West>
-			<Here>PLAINS</Here>
+			<West>ROAD</West>
+			<Here>PLAINS_ROAD</Here>
 		</Sector>
 		<Sector y="H" x="10">
 			<TravelRating>3</TravelRating>
 			<North>ROAD</North>
 			<East>SAND</East>
 			<South>SAND</South>
-			<West>SAND</West>
-			<Here>SAND</Here>
+			<West>ROAD</West>
+			<Here>SAND_ROAD</Here>
 		</Sector>
 		<Sector y="H" x="11">
 			<TravelRating>7</TravelRating>
@@ -1067,18 +1067,18 @@
 		<Sector y="I" x="6">
 			<TravelRating>55</TravelRating>
 			<North>ROAD</North>
-			<East>TOWN</East>
-			<South>TOWN</South>
+			<East>ROAD</East>
+			<South>ROAD</South>
 			<West>SPARSE</West>
 			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="I" x="7">
 			<TravelRating>10</TravelRating>
-			<North>PLAINS</North>
+			<North>ROAD</North>
 			<East>GROUNDBARRIER</East>
 			<South>PLAINS</South>
-			<West>TOWN</West>
-			<Here>TOWN</Here>
+			<West>ROAD</West>
+			<Here>PLAINS_ROAD</Here>
 		</Sector>
 		<Sector y="I" x="8">
 			<TravelRating>5</TravelRating>
@@ -1194,11 +1194,11 @@
 		</Sector>
 		<Sector y="J" x="6">
 			<TravelRating>50</TravelRating>
-			<North>TOWN</North>
+			<North>ROAD</North>
 			<East>DENSE</East>
-			<South>TOWN</South>
+			<South>ROAD</South>
 			<West>DENSE</West>
-			<Here>TOWN</Here>
+			<Here>PLAINS_ROAD</Here>
 		</Sector>
 		<Sector y="J" x="7">
 			<TravelRating>6</TravelRating>
@@ -1322,11 +1322,11 @@
 		</Sector>
 		<Sector y="K" x="6">
 			<TravelRating>60</TravelRating>
-			<North>TOWN</North>
+			<North>ROAD</North>
 			<East>ROAD</East>
 			<South>ROAD</South>
 			<West>ROAD</West>
-			<Here>TOWN</Here>
+			<Here>PLAINS_ROAD</Here>
 		</Sector>
 		<Sector y="K" x="7">
 			<TravelRating>60</TravelRating>

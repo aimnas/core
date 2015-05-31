@@ -182,9 +182,9 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>15000</iInitialCash>
     <uiFlags>1342177280</uiFlags>
-    <dailyIncrement>15000</dailyIncrement>
-    <dailyMaximum>15000</dailyMaximum>
-    <dailyRetained>0</dailyRetained>
+    <dailyIncrement>25000</dailyIncrement>
+    <dailyMaximum>25000</dailyMaximum>
+    <dailyRetained>20000</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
     <addToCoolness>1</addToCoolness>
@@ -203,8 +203,8 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>5000</iInitialCash>
     <uiFlags>1342177280</uiFlags>
-    <dailyIncrement>5000</dailyIncrement>
-    <dailyMaximum>5000</dailyMaximum>
+    <dailyIncrement>15000</dailyIncrement>
+    <dailyMaximum>25000</dailyMaximum>
     <dailyRetained>0</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>
@@ -224,8 +224,8 @@ uiFlags must be of
     <ubTypeOfArmsDealer>0</ubTypeOfArmsDealer>
     <iInitialCash>1500</iInitialCash>
     <uiFlags>402653184</uiFlags>
-    <dailyIncrement>1500</dailyIncrement>
-    <dailyMaximum>1500</dailyMaximum>
+    <dailyIncrement>2500</dailyIncrement>
+    <dailyMaximum>5000</dailyMaximum>
     <dailyRetained>0</dailyRetained>
     <minCoolness>1</minCoolness>
     <maxCoolness>10</maxCoolness>

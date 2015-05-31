@@ -211,8 +211,8 @@
 	<!-- Igor -->
 	<BACKGROUND>
 		<uiIndex>9</uiIndex>
-		<szName>Chechnya Campaign Veteran</szName>
-		<szShortName>Chechnya Campaign Veteran</szShortName>
+		<szName>Chechnya Veteran</szName>
+		<szShortName>Chechnya Veteran</szShortName>
 		<szDescription>Serving in the Russian campaign in Chechnya, Igor is used to harsh environments.</szDescription>
 		<ap_mountain>8</ap_mountain>
 		<resistance_fear>5</resistance_fear>
@@ -503,7 +503,6 @@
 		<stealth>5</stealth>
 		<food>10</food>
 		<hearing_night>1</hearing_night>
-		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -1024,9 +1023,11 @@
 	<!-- Conrad -->
 	<BACKGROUND>
 		<uiIndex>70</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Military Advisor</szName>
+		<szShortName>Military Advisor</szShortName>
+		<szDescription>Pointing the gun in the right direction is a start, but someone needs &#10;to teach these people how to teach other people where to point.</szDescription>
+		<leadership>5</leadership>
+		<approach_direct>10</approach_direct>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -2081,7 +2082,7 @@
 		<szShortName>B-Movie Star</szShortName>
 		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.</szDescription>
 		<approach_friendly>20</approach_friendly>
-		<camo>10</camo>
+		<camo>20</camo>
 		<capitulation>5</capitulation>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2235,6 +2236,7 @@
 		<wisdom>-5</wisdom>
 		<leadership>-5</leadership>
 		<resistance_suppression>20</resistance_suppression>
+		<interrogation>20</interrogation>
 		<approach_direct>-50</approach_direct>
 		<approach_threaten>50</approach_threaten>
 		<approach_recruit>-50</approach_recruit>
@@ -2365,9 +2367,9 @@
 	<!-- Wink -->
 	<BACKGROUND>
 		<uiIndex>190</uiIndex>
-		<szName>Placeholder</szName>
-		<szShortName>Placeholder</szShortName>
-		<szDescription>Not needed!</szDescription>
+		<szName>Baseball Pro</szName>
+		<szShortName>Baseball Pro</szShortName>
+		<szDescription>A former baseball pro, after several unsuccessful series, Wink decided to take on a new career choice.</szDescription>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>

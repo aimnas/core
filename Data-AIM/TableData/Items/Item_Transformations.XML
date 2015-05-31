@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TRANSFORMATIONS_LIST>
 	<TRANSFORM>
+		<usItem>54</usItem>
+		<usResult1>5880</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>292</usItem>
 		<usResult1>291</usResult1>
 		<usResult2>291</usResult2>
@@ -4030,6 +4047,108 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>1239</usItem>
+		<usResult1>1241</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 6x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1239</usItem>
+		<usResult1>1240</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 4x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1240</usItem>
+		<usResult1>1241</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 6x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1240</usItem>
+		<usResult1>1239</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 2x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1241</usItem>
+		<usResult1>1240</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 4x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1241</usItem>
+		<usResult1>1239</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust to 2x Magnification</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>1271</usItem>
 		<usResult1>1272</usResult1>
 		<usResult2>0</usResult2>
@@ -4234,6 +4353,91 @@
 		<szTooltipText>seperate into 4 small stacks</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>1549</usItem>
+		<usResult1>1548</usResult1>
+		<usResult2>1548</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Seperate Stacks</szMenuRowText>
+		<szTooltipText>seperate into 1 + 1</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1550</usItem>
+		<usResult1>1548</usResult1>
+		<usResult2>1548</usResult2>
+		<usResult3>1548</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Seperate Stacks</szMenuRowText>
+		<szTooltipText>seperate into 1 + 1 + 1</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1550</usItem>
+		<usResult1>1549</usResult1>
+		<usResult2>1548</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>5</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Seperate Stacks</szMenuRowText>
+		<szTooltipText>seperate into 2 + 1</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1554</usItem>
+		<usResult1>327</usResult1>
+		<usResult2>1553</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>90</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Split into Canisters</szMenuRowText>
+		<szTooltipText>Splits the Gas drum into Tanks of Gas</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1555</usItem>
+		<usResult1>327</usResult1>
+		<usResult2>327</usResult2>
+		<usResult3>1553</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>90</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Split into Canisters</szMenuRowText>
+		<szTooltipText>Splits the Gas drum into Tanks of Gas</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>1651</usItem>
 		<usResult1>1652</usResult1>
 		<usResult2>0</usResult2>
@@ -4431,7 +4635,7 @@
 		<usResult7>1751</usResult7>
 		<usResult8>1751</usResult8>
 		<usResult9>1762</usResult9>
-		<usResult10>1906</usResult10>
+		<usResult10>1908</usResult10>
 		<usAPCost>25</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Open box</szMenuRowText>
@@ -4449,6 +4653,23 @@
 		<usResult8>1735</usResult8>
 		<usResult9>1735</usResult9>
 		<usResult10>1735</usResult10>
+		<usAPCost>25</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Open box</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1706</usItem>
+		<usResult1>1773</usResult1>
+		<usResult2>1773</usResult2>
+		<usResult3>1773</usResult3>
+		<usResult4>1773</usResult4>
+		<usResult5>1773</usResult5>
+		<usResult6>1773</usResult6>
+		<usResult7>1773</usResult7>
+		<usResult8>1773</usResult8>
+		<usResult9>1773</usResult9>
+		<usResult10>1773</usResult10>
 		<usAPCost>25</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Open box</szMenuRowText>
@@ -4593,7 +4814,7 @@
 	<TRANSFORM>
 		<usItem>2411</usItem>
 		<usResult1>2211</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4610,7 +4831,7 @@
 	<TRANSFORM>
 		<usItem>2412</usItem>
 		<usResult1>2212</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4627,7 +4848,7 @@
 	<TRANSFORM>
 		<usItem>2413</usItem>
 		<usResult1>2213</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4644,7 +4865,7 @@
 	<TRANSFORM>
 		<usItem>2414</usItem>
 		<usResult1>2214</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4661,7 +4882,7 @@
 	<TRANSFORM>
 		<usItem>2415</usItem>
 		<usResult1>2215</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4678,7 +4899,7 @@
 	<TRANSFORM>
 		<usItem>2416</usItem>
 		<usResult1>2216</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4695,7 +4916,7 @@
 	<TRANSFORM>
 		<usItem>2421</usItem>
 		<usResult1>2221</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4712,7 +4933,7 @@
 	<TRANSFORM>
 		<usItem>2422</usItem>
 		<usResult1>2222</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4729,7 +4950,7 @@
 	<TRANSFORM>
 		<usItem>2423</usItem>
 		<usResult1>2223</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4746,7 +4967,7 @@
 	<TRANSFORM>
 		<usItem>2424</usItem>
 		<usResult1>2224</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4763,7 +4984,7 @@
 	<TRANSFORM>
 		<usItem>2425</usItem>
 		<usResult1>2225</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4780,7 +5001,7 @@
 	<TRANSFORM>
 		<usItem>2426</usItem>
 		<usResult1>2226</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4797,7 +5018,7 @@
 	<TRANSFORM>
 		<usItem>2427</usItem>
 		<usResult1>2227</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4814,7 +5035,7 @@
 	<TRANSFORM>
 		<usItem>2431</usItem>
 		<usResult1>2231</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4831,7 +5052,7 @@
 	<TRANSFORM>
 		<usItem>2441</usItem>
 		<usResult1>2241</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4848,7 +5069,7 @@
 	<TRANSFORM>
 		<usItem>2442</usItem>
 		<usResult1>2242</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4865,7 +5086,7 @@
 	<TRANSFORM>
 		<usItem>2443</usItem>
 		<usResult1>2243</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4882,7 +5103,7 @@
 	<TRANSFORM>
 		<usItem>2451</usItem>
 		<usResult1>2251</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4899,7 +5120,7 @@
 	<TRANSFORM>
 		<usItem>2452</usItem>
 		<usResult1>2252</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4916,7 +5137,7 @@
 	<TRANSFORM>
 		<usItem>2453</usItem>
 		<usResult1>2253</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4933,7 +5154,7 @@
 	<TRANSFORM>
 		<usItem>2461</usItem>
 		<usResult1>2261</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4950,7 +5171,7 @@
 	<TRANSFORM>
 		<usItem>2462</usItem>
 		<usResult1>2262</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4967,7 +5188,7 @@
 	<TRANSFORM>
 		<usItem>2471</usItem>
 		<usResult1>2271</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -4984,7 +5205,7 @@
 	<TRANSFORM>
 		<usItem>2481</usItem>
 		<usResult1>2281</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -5001,7 +5222,24 @@
 	<TRANSFORM>
 		<usItem>2482</usItem>
 		<usResult1>2282</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>20</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Remove Tripwire</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2484</usItem>
+		<usResult1>2284</usResult1>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -5018,7 +5256,7 @@
 	<TRANSFORM>
 		<usItem>2491</usItem>
 		<usResult1>2291</usResult1>
-		<usResult2>1524</usResult2>
+		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -6866,6 +7104,23 @@
 		<usAPCost>20</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Remove Suppressor</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4302</usItem>
+		<usResult1>4301</usResult1>
+		<usResult2>2072</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>40</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Remove Stock</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -13939,6 +14194,23 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Wire Cutters</szMenuRowText>
 		<szTooltipText>Transforms the KCB Knife into wire cutters.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5880</usItem>
+		<usResult1>54</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5882</usItem>

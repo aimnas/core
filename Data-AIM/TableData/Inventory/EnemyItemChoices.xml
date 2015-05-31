@@ -333,11 +333,11 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>6</uiIndex>
 		<name>Misc</name>
-		<ubChoices>42</ubChoices>
+		<ubChoices>50</ubChoices>
 		<bItemNo1>5821</bItemNo1>
-		<bItemNo2>1901</bItemNo2>
-		<bItemNo3>1901</bItemNo3>
-		<bItemNo4>1901</bItemNo4>
+		<bItemNo2>1903</bItemNo2>
+		<bItemNo3>1903</bItemNo3>
+		<bItemNo4>1903</bItemNo4>
 		<bItemNo5>216</bItemNo5>
 		<bItemNo6>1981</bItemNo6>
 		<bItemNo7>1982</bItemNo7>
@@ -359,11 +359,11 @@
 		<bItemNo23>1911</bItemNo23>
 		<bItemNo24>316</bItemNo24>
 		<bItemNo25>320</bItemNo25>
-		<bItemNo26>0</bItemNo26>
-		<bItemNo27>323</bItemNo27>
-		<bItemNo28>336</bItemNo28>
-		<bItemNo29>1952</bItemNo29>
-		<bItemNo30>339</bItemNo30>
+		<bItemNo26>1767</bItemNo26>
+		<bItemNo27>1767</bItemNo27>
+		<bItemNo28>1767</bItemNo28>
+		<bItemNo29>1767</bItemNo29>
+		<bItemNo30>1767</bItemNo30>
 		<bItemNo31>331</bItemNo31>
 		<bItemNo32>5831</bItemNo32>
 		<bItemNo33>332</bItemNo33>
@@ -376,14 +376,14 @@
 		<bItemNo40>401</bItemNo40>
 		<bItemNo41>291</bItemNo41>
 		<bItemNo42>292</bItemNo42>
-		<bItemNo43>0</bItemNo43>
-		<bItemNo44>0</bItemNo44>
-		<bItemNo45>0</bItemNo45>
-		<bItemNo46>0</bItemNo46>
-		<bItemNo47>0</bItemNo47>
-		<bItemNo48>0</bItemNo48>
-		<bItemNo49>0</bItemNo49>
-		<bItemNo50>0</bItemNo50>
+		<bItemNo43>1767</bItemNo43>
+		<bItemNo44>1767</bItemNo44>
+		<bItemNo45>1767</bItemNo45>
+		<bItemNo46>1767</bItemNo46>
+		<bItemNo47>1767</bItemNo47>
+		<bItemNo48>1767</bItemNo48>
+		<bItemNo49>1767</bItemNo49>
+		<bItemNo50>1767</bItemNo50>
 	</ENEMYITEMCHOICES>
 	<ENEMYITEMCHOICES>
 		<uiIndex>7</uiIndex>

@@ -129,10 +129,10 @@
 				<usDestinationFee>45</usDestinationFee>
 				<bDaysAhead>1</bDaysAhead>
 			</DESTINATIONDELIVERYINFO>
-				<DESTINATIONDELIVERYINFO>	
+			<DESTINATIONDELIVERYINFO>	
 				<uiDestinationIndex>18</uiDestinationIndex>
 				<usDestinationFee>2</usDestinationFee>
-				<bDaysAhead>7</bDaysAhead>
+				<bDaysAhead>5</bDaysAhead>
 			</DESTINATIONDELIVERYINFO>
 		</DESTINATIONDELIVERYINFOTABLE>
 	</DELIVERYMETHOD>
@@ -268,7 +268,7 @@
 				<DESTINATIONDELIVERYINFO>	
 				<uiDestinationIndex>18</uiDestinationIndex>
 				<usDestinationFee>2</usDestinationFee>
-				<bDaysAhead>7</bDaysAhead>
+				<bDaysAhead>5</bDaysAhead>
 			</DESTINATIONDELIVERYINFO>
 		</DESTINATIONDELIVERYINFOTABLE>
 	</DELIVERYMETHOD>
@@ -404,7 +404,7 @@
 				<DESTINATIONDELIVERYINFO>	
 				<uiDestinationIndex>18</uiDestinationIndex>
 				<usDestinationFee>2</usDestinationFee>
-				<bDaysAhead>7</bDaysAhead>
+				<bDaysAhead>5</bDaysAhead>
 			</DESTINATIONDELIVERYINFO>
 		</DESTINATIONDELIVERYINFOTABLE>
 	</DELIVERYMETHOD>

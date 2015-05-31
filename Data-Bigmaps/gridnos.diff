@@ -1,0 +1,269 @@
+Index: gameloop.cpp
+===================================================================
+--- gameloop.cpp	(revision 5346)
++++ gameloop.cpp	(working copy)
+@@ -134,6 +134,8 @@
+ 
+ 	// HEADROCK HAM 4: Read CTH values
+ 	LoadCTHConstants();
++	//DBrot: load mod settings
++	LoadModSettings();
+ 
+ #ifdef JA2UB
+ 	LoadGameUBOptions(); // JA25 UB
+Index: GameSettings.cpp
+===================================================================
+--- GameSettings.cpp	(revision 5346)
++++ GameSettings.cpp	(working copy)
+@@ -61,6 +61,9 @@
+ // HEADROCK HAM 4: This file contains all the settings required to tweak the new Shooting Mechanism. There's lots of them.
+ #define				CTH_COEFFICIENTS_FILE			"CTHConstants.ini"
+ 
++//DBrot: Settings for a mod that don't really fit in the Options file. This means GridNos for now.
++#define				MOD_SETTINGS_FILE						"Mod_Settings.ini" 
++
+ #define				CD_ROOT_DIR						"DATA\\"
+ 
+ GAME_SETTINGS		gGameSettings;
+@@ -70,6 +73,8 @@
+ SKILL_TRAIT_VALUES gSkillTraitValues;  // SANDRO - added this one
+ CTH_CONSTANTS gGameCTHConstants;	// HEADROCK HAM 4: CTH constants
+ 
++MOD_SETTINGS gModSettings;	//DBrot: mod specific settings
++
+ extern	SGPFILENAME	gCheckFilenames[];
+ extern	CHAR8		gzErrorMsg[256];
+ extern INT16 APBPConstants[TOTAL_APBP_VALUES];
+@@ -2058,8 +2063,48 @@
+ 	gSkillTraitValues.fSCThrowMessageIfAmbushPrevented = iniReader.ReadBoolean("Scouting","SHOW_MESSAGE_IF_AMBUSH_PREVENTED", TRUE);
+ 
+ }
++//DBrot: Grids
++void LoadModSettings(){
++	CIniReader iniReader(MOD_SETTINGS_FILE);
++	gModSettings.ubHideoutSectorX = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SECTOR_X", 10, 1, 16);
++	gModSettings.ubHideoutSectorY = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SECTOR_Y", 1, 1, 16);
++	gModSettings.ubHideoutSectorZ = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SECTOR_Z", 1, 0, 3);
++	gModSettings.iHideoutExitGrid = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_EXIT", 12722);
+ 
++	gModSettings.ubHideoutSurfaceX = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SURFACE_X", 10, 1, 16);
++	gModSettings.ubHideoutSurfaceY = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SURFACE_Y", 1, 1, 16);
++	gModSettings.ubHideoutSurfaceZ = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_SURFACE_Z", 0, 0, 3);
++	gModSettings.iHideoutEntryGrid = iniReader.ReadInteger("Rebel Hideout", "HIDEOUT_ENTRY", 7887);
+ 
++	gModSettings.iBasementEntry[0] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_1", 13362);
++	gModSettings.iBasementEntry[1] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_2", 13363);
++	gModSettings.iBasementEntry[2] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_3", 13364);
++	gModSettings.iBasementEntry[3] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_4", 13365);
++	gModSettings.iBasementEntry[4] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_5", 13325);
++	gModSettings.iBasementEntry[5] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_6", 13324);
++	gModSettings.iBasementEntry[6] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_7", 0);
++	gModSettings.iBasementEntry[7] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_8", 0);
++	gModSettings.iBasementEntry[8] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_9", 0);
++	gModSettings.iBasementEntry[9] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_ENTRY_10", 0);
++
++	gModSettings.iBasementExit[0] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_1", 8047);
++	gModSettings.iBasementExit[1] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_2", 8207);
++	gModSettings.iBasementExit[2] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_3", 8208);
++	gModSettings.iBasementExit[3] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_4", 8048);
++	gModSettings.iBasementExit[4] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_5", 7888);
++	gModSettings.iBasementExit[5] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_6", 7728);
++	gModSettings.iBasementExit[6] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_7", 7727);
++	gModSettings.iBasementExit[7] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_8", 7567);
++	gModSettings.iBasementExit[8] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_9", 0);
++	gModSettings.iBasementExit[9] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_10", 0);
++	gModSettings.iBasementExit[10] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_11", 0);
++	gModSettings.iBasementExit[11] = iniReader.ReadInteger("Rebel Hideout", "BASEMENT_EXIT_12", 0);
++
++	gModSettings.iFinalCrateGrid = iniReader.ReadInteger("Rebel Hideout", "FINAL_CRATE_GRID", 8207);
++	gModSettings.usCrateTileDef = iniReader.ReadInteger("Rebel Hideout", "CRATE_TILE_DEF", 411);
++	gModSettings.usTrapdoorTileDef = iniReader.ReadInteger("Rebel Hideout", "TRAPDOOR_TILE_DEF", 2041);
++
++}
+ INT16 DynamicAdjustAPConstants(INT16 iniReadValue, INT16 iniDefaultValue, BOOLEAN reverse)
+ {
+ 	//CHRISL: This function will dynamically adjust all the APBPConstant values based on the AP_MAXIMUM value.  This way
+Index: GameSettings.h
+===================================================================
+--- GameSettings.h	(revision 5346)
++++ GameSettings.h	(working copy)
+@@ -1475,7 +1475,35 @@
+ 	BOOLEAN MAX_EFFECTIVE_USE_GRADIENT;
+ 
+ } CTH_CONSTANTS;
++//DBrot: Grids
++typedef struct
++{
++	//defines the basement and the bottom of the stairs
++	UINT8 ubHideoutSectorX;
++	UINT8 ubHideoutSectorY;
++	UINT8 ubHideoutSectorZ;
++	INT32 iHideoutExitGrid;
++	//defines the surface and the top of the stairs
++	UINT8 ubHideoutSurfaceX;
++	UINT8 ubHideoutSurfaceY;
++	UINT8 ubHideoutSurfaceZ;
++	INT32 iHideoutEntryGrid;
++	//where your mercs land when entering the basement, added some for 10 man squads
++	INT32 iBasementEntry[10];
++	
++	//where your mercs land when leaving the basement, again added some
++	INT32 iBasementExit[12];
++	
++	//this moves the crate to reveal the entrance
++	INT32 iFinalCrateGrid;
++	UINT16 usCrateTileDef;
++	UINT16 usTrapdoorTileDef;
+ 
++
++}MOD_SETTINGS;
++
++extern MOD_SETTINGS gModSettings;
++
+ //This structure will contain general Ja2 settings	NOT individual game settings.
+ extern GAME_SETTINGS		gGameSettings;
+ 
+@@ -1498,6 +1526,7 @@
+ // Snap: Read options from an INI file in the default of custom Data directory
+ void LoadGameExternalOptions();
+ void LoadSkillTraitsExternalSettings(); // SANDRO - added this one
++void LoadModSettings();
+ void LoadGameAPBPConstants();
+ // HEADROCK HAM 4: Read CTH/Shooting coefficients from file
+ void LoadCTHConstants();
+Index: Tactical/Interface Dialogue.cpp
+===================================================================
+--- Tactical/Interface Dialogue.cpp	(revision 5346)
++++ Tactical/Interface Dialogue.cpp	(working copy)
+@@ -102,10 +102,10 @@
+ class OBJECTTYPE;
+ class SOLDIERTYPE;
+ 
++//DBrot: not needed anymore, got an option for those
++//INT32	sBasementEnterGridNos[ ] = { 13362, 13363, 13364, 13365, 13525, 13524 };
++//INT32	sBasementExitGridNos[ ] = { 8047, 8207, 8208, 8048, 7888, 7728, 7727, 7567 };
+ 
+-INT32	sBasementEnterGridNos[ ] = { 13362, 13363, 13364, 13365, 13525, 13524 };
+-INT32	sBasementExitGridNos[ ] = { 8047, 8207, 8208, 8048, 7888, 7728, 7727, 7567 };
+-
+ extern	UINT8		gubWaitingForAllMercsToExitCode;
+ extern BOOLEAN fFoundTixa;
+ void	DoneFadeOutActionBasement( void );
+@@ -1850,14 +1850,14 @@
+ 				// OK, we want to goto the basement level!
+ 
+ 				//DEF: First thing, Add the exit grid to the map temps file
++				//DBrot: Grids
++				ExitGrid.ubGotoSectorX = gModSettings.ubHideoutSectorX;
++				ExitGrid.ubGotoSectorY = gModSettings.ubHideoutSectorY;
++				ExitGrid.ubGotoSectorZ = gModSettings.ubHideoutSectorZ;
++				ExitGrid.usGridNo = gModSettings.iHideoutExitGrid; //dnl!!!
+ 
+-				ExitGrid.ubGotoSectorX = 10;
+-				ExitGrid.ubGotoSectorY = 1;
+-				ExitGrid.ubGotoSectorZ = 1;
+-				ExitGrid.usGridNo = 12722; //dnl!!!
+-
+ 				ApplyMapChangesToMapTempFile( TRUE );
+-				AddExitGridToWorld( 7887, &ExitGrid );
++				AddExitGridToWorld( gModSettings.iHideoutEntryGrid, &ExitGrid );
+ 				ApplyMapChangesToMapTempFile( FALSE );
+ 
+ 				// For one, loop through our current squad and move them over
+@@ -1873,19 +1873,21 @@
+ 					if ( pSoldier->bActive && pSoldier->stats.bLife >= OKLIFE && pSoldier->bInSector && pSoldier->bAssignment == CurrentSquad( ) )
+ 					{
+ 						gfTacticalTraversal = TRUE;
+-						SetGroupSectorValue( 10, 1, 1, pSoldier->ubGroupID );
++						SetGroupSectorValue( gModSettings.ubHideoutSectorX, gModSettings.ubHideoutSectorY, gModSettings.ubHideoutSectorZ, pSoldier->ubGroupID );
+ 
+ 						// Set insertion gridno
+ 						if ( bNumDone < 6 )
+ 						{
+ 							// Set next sectore
+-							pSoldier->sSectorX = 10;
+-							pSoldier->sSectorY = 1;
+-							pSoldier->bSectorZ = 1;
++							//DBrot: Grids
++							pSoldier->sSectorX = gModSettings.ubHideoutSectorX;
++							pSoldier->sSectorY = gModSettings.ubHideoutSectorY;
++							pSoldier->bSectorZ = gModSettings.ubHideoutSectorZ;
+ 
+ 							// Set gridno
+ 							pSoldier->ubStrategicInsertionCode = INSERTION_CODE_GRIDNO;
+-							pSoldier->usStrategicInsertionData = sBasementEnterGridNos[ bNumDone ];
++							//pSoldier->usStrategicInsertionData = sBasementEnterGridNos[ bNumDone ];
++							pSoldier->usStrategicInsertionData = gModSettings.iBasementEntry[ bNumDone ];
+ 						}
+ 						bNumDone++;
+ 					}
+@@ -1897,14 +1899,14 @@
+ 				gMercProfiles[ 101 ].sSectorY = 1;
+ 				gMercProfiles[ 101 ].bSectorZ = 1;
+ */
+-				ChangeNpcToDifferentSector( FATIMA, 10, 1, 1 );
++				ChangeNpcToDifferentSector( FATIMA, gModSettings.ubHideoutSectorX, gModSettings.ubHideoutSectorY, gModSettings.ubHideoutSectorZ);
+ 
+ 				// Dimitri
+ /*				gMercProfiles[ 60 ].sSectorX = 10;
+ 				gMercProfiles[ 60 ].sSectorY = 1;
+ 				gMercProfiles[ 60 ].bSectorZ = 1;
+ */
+-				ChangeNpcToDifferentSector( DIMITRI, 10, 1, 1 );
++				ChangeNpcToDifferentSector( DIMITRI, gModSettings.ubHideoutSectorX, gModSettings.ubHideoutSectorY, gModSettings.ubHideoutSectorZ);
+ 
+ 				gFadeOutDoneCallback = DoneFadeOutActionBasement;
+ 
+@@ -2161,19 +2163,21 @@
+ 					if ( pSoldier->bActive && pSoldier->stats.bLife >= OKLIFE && pSoldier->bInSector )
+ 					{
+ 						gfTacticalTraversal = TRUE;
+-						SetGroupSectorValue( 10, 1, 0, pSoldier->ubGroupID );
++						//DBrot: Grids
++						SetGroupSectorValue( gModSettings.ubHideoutSurfaceX, gModSettings.ubHideoutSurfaceY, gModSettings.ubHideoutSurfaceZ, pSoldier->ubGroupID );
+ 
+ 						// Set insertion gridno
+ 						if ( bNumDone < 8 )
+ 						{
+ 							// Set next sectore
+-							pSoldier->sSectorX = 10;
+-							pSoldier->sSectorY = 1;
+-							pSoldier->bSectorZ = 0;
++							pSoldier->sSectorX = gModSettings.ubHideoutSurfaceX;
++							pSoldier->sSectorY = gModSettings.ubHideoutSurfaceY;
++							pSoldier->bSectorZ = gModSettings.ubHideoutSurfaceZ;
+ 
+ 							// Set gridno
+ 							pSoldier->ubStrategicInsertionCode = INSERTION_CODE_GRIDNO;
+-							pSoldier->usStrategicInsertionData = sBasementExitGridNos[ bNumDone ];
++							//pSoldier->usStrategicInsertionData = sBasementExitGridNos[ bNumDone ];
++							pSoldier->usStrategicInsertionData = gModSettings.iBasementExit[ bNumDone ];
+ 						}
+ 						bNumDone++;
+ 					}
+@@ -4918,7 +4922,8 @@
+ void	DoneFadeOutActionBasement( )
+ {
+ 	// OK, insertion data found, enter sector!
+-	SetCurrentWorldSector( 10, 1, 1 );
++	//DBrot: Grids
++	SetCurrentWorldSector( gModSettings.ubHideoutSectorX, gModSettings.ubHideoutSectorY, gModSettings.ubHideoutSectorZ );
+ 
+ 	// OK, once down here, adjust the above map with crate info....
+ 	gfTacticalTraversal = FALSE;
+@@ -4926,12 +4931,12 @@
+ 	gpTacticalTraversalChosenSoldier = NULL;
+ 
+ 	// Remove crate
+-	RemoveStructFromUnLoadedMapTempFile( 7887, SECONDOSTRUCT1, 10, 1, 0 );
++	RemoveStructFromUnLoadedMapTempFile( gModSettings.iHideoutEntryGrid, gModSettings.usCrateTileDef, gModSettings.ubHideoutSurfaceX, gModSettings.ubHideoutSurfaceY, gModSettings.ubHideoutSurfaceZ );
+ 	// Add crate
+-	AddStructToUnLoadedMapTempFile( 8207, SECONDOSTRUCT1, 10, 1, 0 );
++	AddStructToUnLoadedMapTempFile( gModSettings.iFinalCrateGrid, gModSettings.usCrateTileDef, gModSettings.ubHideoutSurfaceX, gModSettings.ubHideoutSurfaceY, gModSettings.ubHideoutSurfaceZ );
+ 
+ 	// Add trapdoor
+-	AddStructToUnLoadedMapTempFile( 7887, DEBRIS2MISC1, 10, 1, 0 );
++	AddStructToUnLoadedMapTempFile( gModSettings.iHideoutEntryGrid, gModSettings.usTrapdoorTileDef, gModSettings.ubHideoutSurfaceX, gModSettings.ubHideoutSurfaceY, gModSettings.ubHideoutSurfaceZ );
+ 
+ 
+ 	gFadeInDoneCallback = DoneFadeInActionBasement;

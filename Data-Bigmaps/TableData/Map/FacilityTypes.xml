@@ -124,7 +124,7 @@
 		<ubIndex>2</ubIndex>
 		<szFacilityName>Small Sleazy Bar</szFacilityName>
 		<szFacilityShortName>Bar</szFacilityShortName>
-		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>Have a drink at the local bar! The locals might join in to carouse with you, though you may find yourself in a friendly fist-fight. It's all in a night's work.</szTooltipText>
@@ -170,11 +170,11 @@
 		<ubIndex>3</ubIndex>
 		<szFacilityName>Prison Complex</szFacilityName>
 		<szFacilityShortName>Prison</szFacilityShortName>
-		<ubTotalStaffLimit>12</ubTotalStaffLimit>
+		<ubTotalStaffLimit>20</ubTotalStaffLimit>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
 			<szTooltipText>Assign guards to operate this prison. Maintaining the semblence of law (or at least, punishment) will encourage Arulcans to stay on you good side. The locals won't like it though, and your guards might not enjoy it either. It is dangeruos work.</szTooltipText>
-			<ubStaffLimit>8</ubStaffLimit>
+			<ubStaffLimit>20</ubStaffLimit>
 			<sCostPerHour>25</sCostPerHour>
 			<CONDITIONS>
 				<ubMinimumStrength>75</ubMinimumStrength>
@@ -209,7 +209,7 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
 			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
-			<ubStaffLimit>2</ubStaffLimit>
+			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>100</usPerformance>
 			<usPrisonBaseLimit>5</usPrisonBaseLimit>
 			<CONDITIONS>
@@ -240,7 +240,7 @@
 			<usMineIncomeModifier>130</usMineIncomeModifier>
 			<CONDITIONS>
 				<ubMinimumWisdom>70</ubMinimumWisdom>
-				<ubMinimumLeadership>20</ubMinimumLeadership>
+				<ubMinimumLeadership>25</ubMinimumLeadership>
 			</CONDITIONS>
 			<LOYALTY_LOCAL>
 				<ubChance>50</ubChance>
@@ -248,12 +248,12 @@
 				<ubRange>4</ubRange>
 			</LOYALTY_LOCAL>
 			<HEALTH>
-				<ubChance>10</ubChance>
+				<ubChance>5</ubChance>
 				<bBaseEffect>-2</bBaseEffect>
 				<ubRange>2</ubRange>
 			</HEALTH>
 			<INJURY>
-				<ubChance>35</ubChance>
+				<ubChance>20</ubChance>
 				<bBaseEffect>-15</bBaseEffect>
 				<ubRange>20</ubRange>
 			</INJURY>
@@ -454,7 +454,7 @@
 		<ubIndex>7</ubIndex>
 		<szFacilityName>Military Barracks</szFacilityName>
 		<szFacilityShortName>Barracks</szFacilityShortName>
-		<ubTotalStaffLimit>12</ubTotalStaffLimit>
+		<ubTotalStaffLimit>32</ubTotalStaffLimit>
 		<ubMilitiaTrainersAllowed>3</ubMilitiaTrainersAllowed>
 		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>
 		<usMilitiaTraining>110</usMilitiaTraining>
@@ -462,7 +462,7 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
-			<ubStaffLimit>10</ubStaffLimit>
+			<ubStaffLimit>32</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>105</usSleep>
 		</ASSIGNMENT>
@@ -638,12 +638,38 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
 			<szTooltipText>The head miner is looking for assistants to help coordinate the mining efforts. This will definitely increase output from this mine. Just remember that mine work isn't very safe, nor very healthy.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usMineIncomeModifier>120</usMineIncomeModifier>
+			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>25</ubMinimumLeadership>
+			</CONDITIONS>
+			<LEADERSHIP>
+				<ubChance>40</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LEADERSHIP>
+			<INJURY>
+				<ubChance>8</ubChance>
+				<bBaseEffect>-15</bBaseEffect>
+				<ubRange>10</ubRange>
+			</INJURY>
+			<HEALTH>
+				<ubChance>4</ubChance>
+				<bBaseEffect>-2</bBaseEffect>
+				<ubRange>2</ubRange>
+			</HEALTH>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Working as a senior consultant to coordinate the mines overall output requires some expertise in leadership.</szTooltipText>
 			<ubStaffLimit>1</ubStaffLimit>
 			<usMineIncomeModifier>150</usMineIncomeModifier>
 			<fOnlyLocalMineAffected>1</fOnlyLocalMineAffected>
 			<CONDITIONS>
-				<ubMinimumWisdom>70</ubMinimumWisdom>
-				<ubMinimumLeadership>30</ubMinimumLeadership>
+				<ubMinimumWisdom>75</ubMinimumWisdom>
+				<ubMinimumLeadership>40</ubMinimumLeadership>
 			</CONDITIONS>
 			<LEADERSHIP>
 				<ubChance>40</ubChance>
@@ -692,7 +718,7 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>Hoo-boy! Lemme at those ladies!</szTooltipText>
-			<ubStaffLimit>2</ubStaffLimit>
+			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>140</usPerformance>
 			<sCostPerHour>20</sCostPerHour>
 			<CONDITIONS>
@@ -725,7 +751,39 @@
 		<ubIndex>14</ubIndex>
 		<szFacilityName>Small Church</szFacilityName>
 		<szFacilityShortName>Church</szFacilityShortName>
-		<ubTotalStaffLimit>2</ubTotalStaffLimit>	
+		<ubTotalStaffLimit>6</ubTotalStaffLimit>	
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>Preaching in this small church might help to convince the locals to support your cause.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<sCostPerHour>-25</sCostPerHour>
+			<usFatigue>125</usFatigue>
+			<CONDITIONS>
+				<ubMinimumLoyaltyHere>50</ubMinimumLoyaltyHere>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>40</ubMinimumLeadership>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>40</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>3</ubRange>
+			</LOYALTY_LOCAL>
+			<LOYALTY_GLOBAL>
+				<ubChance>10</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>2</ubRange>
+			</LOYALTY_GLOBAL>
+			<LEADERSHIP>
+				<ubChance>20</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</LEADERSHIP>
+			<WISDOM>
+				<ubChance>5</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>0</ubRange>
+			</WISDOM>
+		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>A solemn hour of prayer and devotion in a quiet little church can help raise anyone's spirit. It might also convince the locals that you respect their way of life.</szTooltipText>
@@ -735,12 +793,12 @@
 			</CONDITIONS>
 			<MORALE>
 				<ubChance>200</ubChance>
-				<bBaseEffect>10</bBaseEffect>
+				<bBaseEffect>5</bBaseEffect>
 				<ubRange>10</ubRange>
 			</MORALE>
 			<LOYALTY_LOCAL>
 				<ubChance>100</ubChance>
-				<bBaseEffect>2</bBaseEffect>
+				<bBaseEffect>1</bBaseEffect>
 				<ubRange>1</ubRange>
 			</LOYALTY_LOCAL>
 		</ASSIGNMENT>
@@ -791,7 +849,7 @@
 			</DRUNK>
 			<WISDOM>
 				<ubChance>5</ubChance>
-				<bBaseEffect>-2</bBaseEffect>
+				<bBaseEffect>-1</bBaseEffect>
 				<ubRange>1</ubRange>
 			</WISDOM>
 		</ASSIGNMENT>
@@ -850,7 +908,7 @@
 				<ubRange>10</ubRange>
 			</LOYALTY_GLOBAL>
 			<WISDOM>
-				<ubChance>40</ubChance>
+				<ubChance>20</ubChance>
 				<bBaseEffect>1</bBaseEffect>
 				<ubRange>0</ubRange>
 			</WISDOM>
@@ -875,7 +933,7 @@
 				<ubRange>5</ubRange>
 			</LOYALTY_GLOBAL>
 			<WISDOM>
-				<ubChance>100</ubChance>
+				<ubChance>40</ubChance>
 				<bBaseEffect>1</bBaseEffect>
 				<ubRange>1</ubRange>
 			</WISDOM>
@@ -1562,4 +1620,19 @@
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 	
+	<FACILITYTYPE>
+		<ubIndex>34</ubIndex>
+		<szFacilityName>Farm Prison</szFacilityName>
+		<szFacilityShortName>Farm Prison</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Not exactly a state of the art prison, nevertheless your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>100</usPerformance>
+			<usPrisonBaseLimit>2</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
 </FACILITYTYPES>

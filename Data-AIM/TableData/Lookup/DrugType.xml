@@ -73,6 +73,10 @@
 		<name>Stim</name>
 	</DrugType>
 	<DrugType>
+		<id>32369</id>
+		<name>Cocaine</name>
+	</DrugType>
+	<DrugType>
 		<id>32768</id>
 		<name>Blindness</name>
 	</DrugType>

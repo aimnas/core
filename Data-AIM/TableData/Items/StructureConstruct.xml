@@ -176,7 +176,7 @@
 	<STRUCTURE><!--wooden wall, large -->
 		<usCreationItem>1547</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
-		<szTileSetName>build_06b</szTileSetName>
+		<szTileSetName>build_06b.sti</szTileSetName>
 		<northfacingtile>3</northfacingtile>
 		<northfacingtile>4</northfacingtile>
 		<northfacingtile>5</northfacingtile>
@@ -189,5 +189,77 @@
 		<westfacingtile>0</westfacingtile>
 		<westfacingtile>1</westfacingtile>
 		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #1 -->
+		<usCreationItem>1548</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<northfacingtile>0</northfacingtile>
+		<southfacingtile>0</southfacingtile>
+		<eastfacingtile>0</eastfacingtile>
+		<westfacingtile>0</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #2 -->
+		<usCreationItem>1549</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<northfacingtile>1</northfacingtile>
+		<southfacingtile>1</southfacingtile>
+		<eastfacingtile>1</eastfacingtile>
+		<westfacingtile>1</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- tire #3 -->
+		<usCreationItem>1550</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<northfacingtile>2</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<eastfacingtile>2</eastfacingtile>
+		<westfacingtile>2</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--roadblock -->
+		<usCreationItem>1551</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>9</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!--sawhorse -->
+		<usCreationItem>1552</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>dump1.sti</szTileSetName>
+		<northfacingtile>10</northfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<eastfacingtile>8</eastfacingtile>
+		<westfacingtile>8</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- oil drum #1 -->
+		<usCreationItem>1553</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<northfacingtile>10</northfacingtile>
+		<southfacingtile>10</southfacingtile>
+		<eastfacingtile>10</eastfacingtile>
+		<westfacingtile>10</westfacingtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- oil drum #2 -->
+		<usCreationItem>1554</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>spot_1.sti</szTileSetName>
+		<northfacingtile>11</northfacingtile>
+		<southfacingtile>11</southfacingtile>
+		<eastfacingtile>11</eastfacingtile>
+		<westfacingtile>11</westfacingtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- oil drum #3 -->
+		<usCreationItem>1555</usCreationItem>
+		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetName>drum_01.sti</szTileSetName>
+		<northfacingtile>6</northfacingtile>
+		<southfacingtile>6</southfacingtile>
+		<eastfacingtile>6</eastfacingtile>
+		<westfacingtile>6</westfacingtile>
 	</STRUCTURE>
 </STRUCTURESLIST>

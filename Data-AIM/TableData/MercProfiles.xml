@@ -41,6 +41,7 @@ Max Profiles 0 - 254
 <!-- major Skills (20)  Covert Ops /Spy             -->
 <!-- minor Skill (21)	Radio Operator		-->
 <!-- minor Skill (22)   Snitch -->
+<!-- minor Skill (23)   Survival -->
 
 <!-- STOMP Character Traits -->
 
@@ -193,9 +194,9 @@ Max Profiles 0 - 254
 		<bDeathRate>22</bDeathRate>
 		<bLifeMax>82</bLifeMax>
 		<bLife>82</bLife>
-		<bStrength>80</bStrength>
+		<bStrength>72</bStrength>
 		<bAgility>72</bAgility>
-		<bDexterity>84</bDexterity>
+		<bDexterity>80</bDexterity>
 		<bWisdom>91</bWisdom>
 		<bMarksmanship>65</bMarksmanship>
 		<bExplosive>78</bExplosive>
@@ -408,8 +409,8 @@ Max Profiles 0 - 254
 		<!-- STOMP -->
 		<bNewSkillTrait1>1</bNewSkillTrait1>
 		<bNewSkillTrait2>3</bNewSkillTrait2>
-		<bNewSkillTrait3>13</bNewSkillTrait3>
-		<bNewSkillTrait4>15</bNewSkillTrait4>
+		<bNewSkillTrait3>4</bNewSkillTrait3>
+		<bNewSkillTrait4>13</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>18</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -610,7 +611,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait3>8</bNewSkillTrait3>
 		<bNewSkillTrait4>10</bNewSkillTrait4>
 		<!-- STOMP -->
-		<bBuddy1>-1</bBuddy1>
+		<bBuddy1>230</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
 		<bBuddy4>-1</bBuddy4>
@@ -1105,6 +1106,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>1</bNewSkillTrait1>
 		<bNewSkillTrait2>13</bNewSkillTrait2>
 		<bNewSkillTrait3>14</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>7</bBuddy1>
 		<bBuddy2>6</bBuddy2>
@@ -1202,9 +1204,9 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>14</bOldSkillTrait2>
 		<!-- STOMP -->
 		<bNewSkillTrait1>3</bNewSkillTrait1>
-		<bNewSkillTrait2>4</bNewSkillTrait2>
-		<bNewSkillTrait3>4</bNewSkillTrait3>
-		<bNewSkillTrait4>14</bNewSkillTrait4>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
+		<bNewSkillTrait3>19</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -1897,8 +1899,8 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
-		<bNewSkillTrait2>14</bNewSkillTrait2>
-		<bNewSkillTrait3>18</bNewSkillTrait3>
+		<bNewSkillTrait2>9</bNewSkillTrait2>
+		<bNewSkillTrait3>14</bNewSkillTrait3>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -2559,7 +2561,7 @@ Max Profiles 0 - 254
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>7</bAttitude>
 		<!-- STOMP -->
-		<bCharacterTrait>12</bCharacterTrait>
+		<bCharacterTrait>11</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
 		<ubNeedForSleep>6</ubNeedForSleep>
@@ -2658,7 +2660,7 @@ Max Profiles 0 - 254
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>0</bAttitude>
 		<!-- STOMP -->
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>12</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
 		<ubNeedForSleep>6</ubNeedForSleep>
@@ -4169,7 +4171,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<!-- STOMP -->
 		<bNewSkillTrait1>14</bNewSkillTrait1>
-		<bNewSkillTrait2>18</bNewSkillTrait2>
+		<bNewSkillTrait2>22</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<!-- STOMP -->
 		<bBuddy1>46</bBuddy1>
@@ -4552,7 +4554,7 @@ Max Profiles 0 - 254
 		<bLife>58</bLife>
 		<bStrength>45</bStrength>
 		<bAgility>52</bAgility>
-		<bDexterity>74</bDexterity>
+		<bDexterity>69</bDexterity>
 		<bWisdom>82</bWisdom>
 		<bMarksmanship>38</bMarksmanship>
 		<bExplosive>2</bExplosive>
@@ -4564,7 +4566,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>11</bOldSkillTrait2>
 		<!-- STOMP -->
-		<bNewSkillTrait1>18</bNewSkillTrait1>
+		<bNewSkillTrait1>20</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<!-- STOMP -->
@@ -6005,7 +6007,7 @@ Max Profiles 0 - 254
 		<!-- STOMP -->
 		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>14</bNewSkillTrait2>
-		<bNewSkillTrait3>18</bNewSkillTrait3>
+		<bNewSkillTrait3>19</bNewSkillTrait3>
 		<!-- STOMP -->
 		<bBuddy1>60</bBuddy1>
 		<bBuddy2>57</bBuddy2>
@@ -6887,7 +6889,7 @@ Max Profiles 0 - 254
 		<!-- STOMP -->
 		<bNewSkillTrait1>1</bNewSkillTrait1>
 		<bNewSkillTrait2>1</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
+		<bNewSkillTrait3>2</bNewSkillTrait3>
 		<!-- STOMP -->
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -7322,8 +7324,8 @@ Max Profiles 0 - 254
 		<usApproachFactorDirect>90</usApproachFactorDirect>
 		<usApproachFactorThreaten>150</usApproachFactorThreaten>
 		<usApproachFactorRecruit>40</usApproachFactorRecruit>
-		<sSectorX>14</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>6</sSectorX>
+		<sSectorY>9</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>12</ubCivilianGroup>
 		<bTown>8</bTown>
@@ -11205,8 +11207,8 @@ Max Profiles 0 - 254
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>14</sSectorX>
-		<sSectorY>3</sSectorY>
+		<sSectorX>6</sSectorX>
+		<sSectorY>9</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>12</ubCivilianGroup>
 		<bTown>8</bTown>
@@ -16580,9 +16582,9 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<!-- STOMP -->
 		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>4</bNewSkillTrait2>
-		<bNewSkillTrait3>4</bNewSkillTrait3>
-		<bNewSkillTrait4>19</bNewSkillTrait4>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
+		<bNewSkillTrait3>19</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>175</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -16883,6 +16885,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait2>2</bNewSkillTrait2>
 		<bNewSkillTrait3>3</bNewSkillTrait3>
 		<bNewSkillTrait4>14</bNewSkillTrait4>
+		<bNewSkillTrait5>18</bNewSkillTrait5>
 		<!-- STOMP -->
 		<bBuddy1>177</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -17255,7 +17258,7 @@ Max Profiles 0 - 254
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
 		<bAttitude>1</bAttitude>
 		<!-- STOMP -->
-		<bCharacterTrait>0</bCharacterTrait>
+		<bCharacterTrait>7</bCharacterTrait>
 		<bDisability>1</bDisability>
 		<!-- STOMP -->
 		<ubNeedForSleep>9</ubNeedForSleep>
@@ -17278,9 +17281,9 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<!-- STOMP -->
 		<bNewSkillTrait1>3</bNewSkillTrait1>
-		<bNewSkillTrait2>7</bNewSkillTrait2>
-		<bNewSkillTrait3>13</bNewSkillTrait3>
-		<bNewSkillTrait4>18</bNewSkillTrait4>
+		<bNewSkillTrait2>5</bNewSkillTrait2>
+		<bNewSkillTrait3>7</bNewSkillTrait3>
+		<bNewSkillTrait4>13</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>175</bBuddy1>
 		<bBuddy2>173</bBuddy2>
@@ -17375,10 +17378,10 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>15</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>4</bNewSkillTrait2>
-		<bNewSkillTrait3>4</bNewSkillTrait3>
-		<bNewSkillTrait4>11</bNewSkillTrait4>
-		<bNewSkillTrait5>14</bNewSkillTrait5>
+		<bNewSkillTrait2>11</bNewSkillTrait2>
+		<bNewSkillTrait3>13</bNewSkillTrait3>
+		<bNewSkillTrait4>14</bNewSkillTrait4>
+		<bNewSkillTrait5>23</bNewSkillTrait5>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -17662,7 +17665,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>12</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
-		<bNewSkillTrait2>6</bNewSkillTrait2>
+		<bNewSkillTrait2>11</bNewSkillTrait2>
 		<bNewSkillTrait3>16</bNewSkillTrait3>
 		<bBuddy1>149</bBuddy1>
 		<bBuddy2>255</bBuddy2>
@@ -18232,7 +18235,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
-		<bNewSkillTrait2>18</bNewSkillTrait2>
+		<bNewSkillTrait2>21</bNewSkillTrait2>
 		<bNewSkillTrait3>22</bNewSkillTrait3>
 		<bBuddy1>184</bBuddy1>
 		<bBuddy2>255</bBuddy2>
@@ -18988,7 +18991,7 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
+		<bNewSkillTrait1>4</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>-1</bBuddy1>
@@ -19275,6 +19278,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>12</bNewSkillTrait2>
 		<bNewSkillTrait3>14</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -19600,7 +19604,7 @@ Max Profiles 0 - 254
 		<usApproachFactorDirect>0</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
 		<usApproachFactorRecruit>0</usApproachFactorRecruit>
-		<sSectorX>10</sSectorX>
+		<sSectorX>6</sSectorX>
 		<sSectorY>1</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
@@ -21822,7 +21826,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
-		<bNewSkillTrait2>18</bNewSkillTrait2>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
 		<bNewSkillTrait3>22</bNewSkillTrait3>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -22201,9 +22205,9 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
-		<bNewSkillTrait1>4</bNewSkillTrait1>
-		<bNewSkillTrait2>14</bNewSkillTrait2>
-		<bNewSkillTrait3>19</bNewSkillTrait3>
+		<bNewSkillTrait1>14</bNewSkillTrait1>
+		<bNewSkillTrait2>19</bNewSkillTrait2>
+		<bNewSkillTrait3>23</bNewSkillTrait3>
 		<bBuddy1>59</bBuddy1>
 		<bBuddy2>60</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -22301,7 +22305,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait3>8</bNewSkillTrait3>
 		<bNewSkillTrait4>13</bNewSkillTrait4>
 		<bBuddy1>243</bBuddy1>
-		<bBuddy2>-1</bBuddy2>
+		<bBuddy2>4</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
 		<bBuddy4>-1</bBuddy4>
 		<bBuddy5>-1</bBuddy5>
@@ -22395,6 +22399,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>5</bNewSkillTrait1>
 		<bNewSkillTrait2>14</bNewSkillTrait2>
 		<bNewSkillTrait3>15</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<bBuddy1>18</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -23251,9 +23256,8 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
-		<bNewSkillTrait2>18</bNewSkillTrait2>
-		<bNewSkillTrait3>21</bNewSkillTrait3>
-		<bNewSkillTrait4>22</bNewSkillTrait4>
+		<bNewSkillTrait2>21</bNewSkillTrait2>
+		<bNewSkillTrait3>22</bNewSkillTrait3>
 		<bBuddy1>236</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -23631,8 +23635,8 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
-		<bNewSkillTrait1>14</bNewSkillTrait1>
-		<bNewSkillTrait2>8</bNewSkillTrait2>
+		<bNewSkillTrait1>8</bNewSkillTrait1>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
 		<bNewSkillTrait3>20</bNewSkillTrait3>
 		<bNewSkillTrait4>20</bNewSkillTrait4>
 		<bBuddy1>-1</bBuddy1>
@@ -23727,8 +23731,8 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>20</bNewSkillTrait1>
-		<bNewSkillTrait2>14</bNewSkillTrait2>
+		<bNewSkillTrait1>14</bNewSkillTrait1>
+		<bNewSkillTrait2>20</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>248</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -24012,9 +24016,9 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>9</bNewSkillTrait1>
+		<bNewSkillTrait1>2</bNewSkillTrait1>
 		<bNewSkillTrait2>9</bNewSkillTrait2>
-		<bNewSkillTrait3>2</bNewSkillTrait3>
+		<bNewSkillTrait3>9</bNewSkillTrait3>
 		<bBuddy1>245</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
