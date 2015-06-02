@@ -36024,7 +36024,7 @@
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>40</ubAttackVolume>
 		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
+		<sSound>419</sSound>
 		<sReloadSound>103</sReloadSound>
 		<APsToReload>24</APsToReload>
 		<SwapClips>1</SwapClips>
@@ -36068,6 +36068,38 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>55</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5923</uiIndex>
+		<szWeaponName>Colt Launcher System DS</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>54</ubCalibre>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>8.2</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubImpact>54</ubImpact>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>650</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>30</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>419</sSound>
+		<sReloadSound>103</sReloadSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>45</nAccuracy>
+		<bRecoilY>5</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5931</uiIndex>

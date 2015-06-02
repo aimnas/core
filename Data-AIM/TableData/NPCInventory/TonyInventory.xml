@@ -10553,4 +10553,8 @@
 		<sItemIndex>5507</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2480</uiIndex>
+		<sItemIndex>5923</sItemIndex>
+	</INVENTORY>
 </INVENTORYLIST>
