@@ -118,6 +118,12 @@ Doing so makes everything a lot easier to read.
 		<xspread>0.0100</xspread> <yspread>0.0100</yspread>
 		<p><x> 0.0000</x><y> 0.0000</y></p>
 	</SPREADPATTERN>
+	<SPREADPATTERN>
+		<NAME>PiranhaSpread</NAME>
+		<DESC>Spread range slightly wider than the original game.</DESC>
+		<xspread>0.0350</xspread> <yspread>0.0500</yspread>
+		<method>Ellipse</method>
+	</SPREADPATTERN>
 	<!-- *** Section for Ammo item specific spread patterns *** -->
 
 	<!-- *** Section for Weapon item specific spread patterns *** -->

@@ -2590,4 +2590,41 @@
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>70</uiIndex>
+		<name>Piranha 12gauge</name>
+		<fontColour>193</fontColour>
+		<grayed>12</grayed>
+		<offNormal>21</offNormal>
+		<onNormal>23</onNormal>
+		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<zeroMinimumDamage>0</zeroMinimumDamage>
+		<canGoThrough>0</canGoThrough>
+		<standardIssue>0</standardIssue>
+		<numberOfBullets>24</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>6</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>2</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern>BuckshotSpread</spreadPattern>
+		<temperatureModificator>1</temperatureModificator>
+		<PoisonPercentage>0</PoisonPercentage>
+		<dirtModificator>0</dirtModificator>
+		<ammoflag>0</ammoflag>
+	</AMMOTYPE>
 </AMMOTYPELIST>
