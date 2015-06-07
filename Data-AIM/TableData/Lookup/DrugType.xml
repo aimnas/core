@@ -112,4 +112,24 @@
 		<id>425984</id>
 		<name>Occulin</name>
 	</DrugType>
+	<DrugType>
+		<id>1048576</id>
+		<name>Cure</name>
+	</DrugType>
+	<DrugType>
+		<id>1081324</id>
+		<name>Cure+Regen+Dmg Resist+Agl+Dex+Wis+Per+Psycho+Nerv+Claus+Heat Int+Fear Ins+Forget</name>
+	</DrugType>
+	<DrugType>
+		<id>4194304</id>
+		<name>Plague Cure</name>
+	</DrugType>
+	<DrugType>
+		<id>8388608</id>
+		<name>Tetanus Cure</name>
+	</DrugType>
+	<DrugType>
+		<id>16777216</id>
+		<name>Cholera Cure</name>
+	</DrugType>
 </JA2Data>

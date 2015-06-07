@@ -220,4 +220,44 @@
 		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
 		<ubMoralBacklash>1</ubMoralBacklash>
 	</DRUG>
+	<DRUG>
+		<ubType>22</ubType>
+		<name>Etorphine</name>
+		<ubDrugTravelRate>10</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
+		<ubDrugEffect>10</ubDrugEffect>
+		<ubDrugSideEffect>0</ubDrugSideEffect>
+		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
+		<ubMoralBacklash>0</ubMoralBacklash>
+	</DRUG>
+	<DRUG>
+		<ubType>23</ubType>
+		<name>Plague cure</name>
+		<ubDrugTravelRate>10</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
+		<ubDrugEffect>10</ubDrugEffect>
+		<ubDrugSideEffect>0</ubDrugSideEffect>
+		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
+		<ubMoralBacklash>0</ubMoralBacklash>
+	</DRUG>
+	<DRUG>
+		<ubType>24</ubType>
+		<name>Tetanus cure</name>
+		<ubDrugTravelRate>10</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
+		<ubDrugEffect>10</ubDrugEffect>
+		<ubDrugSideEffect>0</ubDrugSideEffect>
+		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
+		<ubMoralBacklash>0</ubMoralBacklash>
+	</DRUG>
+	<DRUG>
+		<ubType>25</ubType>
+		<name>Cholera cure</name>
+		<ubDrugTravelRate>10</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
+		<ubDrugEffect>10</ubDrugEffect>
+		<ubDrugSideEffect>0</ubDrugSideEffect>
+		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
+		<ubMoralBacklash>0</ubMoralBacklash>
+	</DRUG>
 </DRUGSLIST>
