@@ -211,7 +211,7 @@
 			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>100</usPerformance>
-			<usPrisonBaseLimit>5</usPrisonBaseLimit>
+			<usPrisonBaseLimit>100</usPrisonBaseLimit>
 			<CONDITIONS>
 			</CONDITIONS>
 		</ASSIGNMENT>
@@ -1302,7 +1302,7 @@
 			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
 			<ubStaffLimit>6</ubStaffLimit>
 			<usPerformance>100</usPerformance>
-			<usPrisonBaseLimit>20</usPrisonBaseLimit>
+			<usPrisonBaseLimit>50</usPrisonBaseLimit>
 			<CONDITIONS>
 			</CONDITIONS>
 		</ASSIGNMENT>
@@ -1318,7 +1318,7 @@
 			<szTooltipText>Your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>100</usPerformance>
-			<usPrisonBaseLimit>5</usPrisonBaseLimit>
+			<usPrisonBaseLimit>12</usPrisonBaseLimit>
 			<CONDITIONS>
 			</CONDITIONS>
 		</ASSIGNMENT>
@@ -1505,7 +1505,7 @@
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside. Though it's quite hot in the desert. </szTooltipText>
-			<ubStaffLimit>10</ubStaffLimit>
+			<ubStaffLimit>20</ubStaffLimit>
 			<usPerformance>110</usPerformance>
 			<usSleep>105</usSleep>
 		</ASSIGNMENT>
@@ -1630,7 +1630,7 @@
 			<szTooltipText>Not exactly a state of the art prison, nevertheless your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
 			<ubStaffLimit>2</ubStaffLimit>
 			<usPerformance>100</usPerformance>
-			<usPrisonBaseLimit>2</usPrisonBaseLimit>
+			<usPrisonBaseLimit>8</usPrisonBaseLimit>
 			<CONDITIONS>
 			</CONDITIONS>
 		</ASSIGNMENT>
