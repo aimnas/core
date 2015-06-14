@@ -11435,6 +11435,47 @@
 		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4636</uiIndex>
+		<szWeaponName>Thompson Light Rifle</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>45</ubCalibre>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>14</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>23</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>480</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>43</BurstAniDelay>
+		<ubAttackVolume>64</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>155</sSound>
+		<sBurstSound>123</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<bAutofireShotsPerFiveAP>4</bAutofireShotsPerFiveAP>
+		<APsToReload>22</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>9</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>48</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>13</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4651</uiIndex>
 		<szWeaponName>KAC PDW 8"</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
