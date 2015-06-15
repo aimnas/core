@@ -132,4 +132,8 @@
 		<id>16777216</id>
 		<name>Cholera Cure</name>
 	</DrugType>
+	<DrugType>
+		<id>33554432</id>
+		<name>Malaria Cure</name>
+	</DrugType>
 </JA2Data>

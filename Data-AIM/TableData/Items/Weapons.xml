@@ -4658,7 +4658,7 @@
 		<AutoPenalty>6</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>16</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>7</Handling>
@@ -4860,7 +4860,7 @@
 		<AutoPenalty>7</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>12</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>8</Handling>
@@ -5186,7 +5186,7 @@
 		<AutoPenalty>10</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>11</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>7</Handling>
@@ -5268,7 +5268,7 @@
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>11</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>8</Handling>
@@ -5553,7 +5553,7 @@
 		<AutoPenalty>7</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>12</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>7</Handling>
@@ -5881,7 +5881,7 @@
 		<AutoPenalty>10</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>11</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>5</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>7</Handling>
@@ -7264,7 +7264,7 @@
 		<NoSemiAuto>1</NoSemiAuto>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>16</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>9</Handling>
@@ -8815,7 +8815,7 @@
 		<NoSemiAuto>1</NoSemiAuto>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>15</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>5</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>8</Handling>
@@ -10768,7 +10768,7 @@
 		<NoSemiAuto>1</NoSemiAuto>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>19</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>11</Handling>
@@ -10935,7 +10935,7 @@
 		<NoSemiAuto>1</NoSemiAuto>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>17</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>5</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>10</Handling>
@@ -11142,7 +11142,7 @@
 		<AutoPenalty>7</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>18</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>9</Handling>
@@ -12626,7 +12626,7 @@
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>65</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>11</Handling>
@@ -12664,7 +12664,7 @@
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>63</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>12</Handling>
@@ -12817,7 +12817,7 @@
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>62</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>12</Handling>
@@ -12858,7 +12858,7 @@
 		<AutoPenalty>9</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>63</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>12</Handling>
@@ -12977,7 +12977,7 @@
 		<APsToReloadManually>9</APsToReloadManually>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>72</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>1</bRecoilX>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>11</Handling>
@@ -26477,7 +26477,7 @@
 		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>60</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>11</Handling>
@@ -26641,7 +26641,7 @@
 		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>58</nAccuracy>
-		<bRecoilX>3</bRecoilX>
+		<bRecoilX>2</bRecoilX>
 		<bRecoilY>7</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>14</Handling>
@@ -30066,8 +30066,8 @@
 		<AutoPenalty>8</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>60</nAccuracy>
-		<bRecoilX>3</bRecoilX>
-		<bRecoilY>6</bRecoilY>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>14</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -31516,7 +31516,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>68</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>25</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -31559,7 +31559,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>69</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>24</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -31766,7 +31766,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>70</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>5</bRecoilY>
+		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -31807,7 +31807,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>71</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>5</bRecoilY>
+		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -31848,7 +31848,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>65</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>5</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<ubRecoilDelay>3</ubRecoilDelay>
 		<Handling>16</Handling>
@@ -31973,7 +31973,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>76</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>28</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32016,7 +32016,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>70</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>30</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32058,7 +32058,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>68</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>28</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32100,7 +32100,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>67</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>4</bRecoilY>
+		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>30</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32140,8 +32140,8 @@
 		<AutoPenalty>12</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>60</nAccuracy>
-		<bRecoilX>3</bRecoilX>
-		<bRecoilY>5</bRecoilY>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>2</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32433,7 +32433,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>62</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>6</bRecoilY>
+		<bRecoilY>5</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32473,7 +32473,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>64</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>5</bRecoilY>
+		<bRecoilY>4</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32514,7 +32514,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>63</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>3</bRecoilY>
+		<bRecoilY>2</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>18</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -32555,7 +32555,7 @@
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>62</nAccuracy>
 		<bRecoilX>1</bRecoilX>
-		<bRecoilY>3</bRecoilY>
+		<bRecoilY>2</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>20</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>

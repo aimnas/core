@@ -303,7 +303,7 @@
 		<sInfectionPtsFull>1000</sInfectionPtsFull>
 		<sInfectionPtsGainPerHour>6</sInfectionPtsGainPerHour>		
 		<InfectionChance_SWAMP>2</InfectionChance_SWAMP>
-		<InfectionChance_TROPICS>2</InfectionChance_TROPICS>
+		<InfectionChance_TROPICS>0.75</InfectionChance_TROPICS>
 		<InfectionChance_SEX>0</InfectionChance_SEX>
 		<InfectionChance_CONTACT_HUMAN>2</InfectionChance_CONTACT_HUMAN>
 		<InfectionChance_CONTACT_CORPSE>0</InfectionChance_CONTACT_CORPSE>
@@ -443,8 +443,8 @@
 		<InfectionChance_WOUND_TRAUMATIC>0</InfectionChance_WOUND_TRAUMATIC>
 		<InfectionChance_BADFOOD>0</InfectionChance_BADFOOD>
 		<InfectionChance_BADWATER>0</InfectionChance_BADWATER>
-		<fCanBeCured>0</fCanBeCured>
-		<fReverseOnFull>0</fReverseOnFull>
+		<fCanBeCured>1</fCanBeCured>
+		<fReverseOnFull>1</fReverseOnFull>
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>

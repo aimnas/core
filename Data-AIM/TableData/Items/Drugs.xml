@@ -260,4 +260,14 @@
 		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
 		<ubMoralBacklash>0</ubMoralBacklash>
 	</DRUG>
+	<DRUG>
+		<ubType>26</ubType>
+		<name>Malaria cure</name>
+		<ubDrugTravelRate>10</ubDrugTravelRate>
+		<ubDrugWearoffRate>1</ubDrugWearoffRate>
+		<ubDrugEffect>10</ubDrugEffect>
+		<ubDrugSideEffect>0</ubDrugSideEffect>
+		<ubDrugSideEffectRate>0</ubDrugSideEffectRate>
+		<ubMoralBacklash>0</ubMoralBacklash>
+	</DRUG>
 </DRUGSLIST>
