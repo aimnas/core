@@ -549,4 +549,31 @@
 		<bMoraleMod>0</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
 	</FOOD>
+	<FOOD>
+		<uiIndex>61</uiIndex>
+		<szName>Cigarettes</szName>
+		<bFoodPoints>1</bFoodPoints>
+		<bDrinkPoints>0</bDrinkPoints>
+		<ubPortionSize>5</ubPortionSize>
+		<bMoraleMod>1</bMoraleMod>
+		<usDecayRate>0</usDecayRate>
+	</FOOD>
+	<FOOD>
+		<uiIndex>62</uiIndex>
+		<szName>Cigars</szName>
+		<bFoodPoints>1</bFoodPoints>
+		<bDrinkPoints>0</bDrinkPoints>
+		<ubPortionSize>10</ubPortionSize>
+		<bMoraleMod>1</bMoraleMod>
+		<usDecayRate>0</usDecayRate>
+	</FOOD>
+	<FOOD>
+		<uiIndex>63</uiIndex>
+		<szName>Cuban Cigars</szName>
+		<bFoodPoints>1</bFoodPoints>
+		<bDrinkPoints>0</bDrinkPoints>
+		<ubPortionSize>13</ubPortionSize>
+		<bMoraleMod>2</bMoraleMod>
+		<usDecayRate>0</usDecayRate>
+	</FOOD>
 </FOODSLIST>

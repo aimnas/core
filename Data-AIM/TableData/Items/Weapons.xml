@@ -35659,7 +35659,7 @@
 		<ubImpact>15</ubImpact>
 		<ubDeadliness>2</ubDeadliness>
 		<bAccuracy>10</bAccuracy>
-		<usRange>180</usRange>
+		<usRange>250</usRange>
 		<ubAttackVolume>2</ubAttackVolume>
 		<sSound>152</sSound>
 		<MaxDistForMessyDeath>1</MaxDistForMessyDeath>

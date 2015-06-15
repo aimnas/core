@@ -330,8 +330,8 @@ Note: The regeneration drug has no entries - that is intended, because this effe
 		<ubMoralBacklash>0</ubMoralBacklash>
 		<ubDiseaseCure>6</ubDiseaseCure>
 	</DRUG>
-		<DRUG>
-		<ubType>25</ubType>
+	<DRUG>
+		<ubType>26</ubType>
 		<name>Malaria cure</name>
 		<ubDrugTravelRate>2</ubDrugTravelRate>
 		<ubDrugWearoffRate>1</ubDrugWearoffRate>

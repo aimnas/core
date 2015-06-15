@@ -60,6 +60,9 @@
 58 C-Ration (-5)
 59 Canteen (0)
 60 Canteen (0)
+61 Cigarettes (1)
+62 Cigars (1)
+63 Cuban Cigars (2)
 
 XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
@@ -315,6 +318,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Blood -->
 	<FOODOPINION>
@@ -558,6 +573,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Lynx -->
@@ -803,6 +830,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Grizzly -->
 	<FOODOPINION>
@@ -1046,6 +1085,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Vicky -->
@@ -1291,6 +1342,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Trevor -->
 	<FOODOPINION>
@@ -1535,6 +1598,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>-2</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>-2</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>-2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Grunty -->
 	<FOODOPINION>
@@ -1777,6 +1852,18 @@ XML Code Structure of Food Opinions
 		</PROFILE_OPINION>
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
+			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
@@ -2023,6 +2110,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Steroid -->
 	<FOODOPINION>
@@ -2266,6 +2365,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Igor -->
@@ -2511,6 +2622,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Shadow -->
 	<FOODOPINION>
@@ -2754,6 +2877,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Red -->
@@ -2999,6 +3134,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Reaper -->
 	<FOODOPINION>
@@ -3242,6 +3389,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Fidel -->
@@ -3487,6 +3646,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>3</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Fox -->
 	<FOODOPINION>
@@ -3730,6 +3901,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Sidney -->
@@ -3975,6 +4158,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Gus -->
 	<FOODOPINION>
@@ -4218,6 +4413,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Buns -->
@@ -4463,6 +4670,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>-5</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>-8</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>-8</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Ice -->
 	<FOODOPINION>
@@ -4706,6 +4925,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Spider -->
@@ -4951,6 +5182,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Cliff -->
 	<FOODOPINION>
@@ -5194,6 +5437,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Bull -->
@@ -5439,6 +5694,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Hitman -->
 	<FOODOPINION>
@@ -5682,6 +5949,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Buzz -->
@@ -5927,6 +6206,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Raider -->
 	<FOODOPINION>
@@ -6170,6 +6461,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Raven -->
@@ -6415,6 +6718,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Static -->
 	<FOODOPINION>
@@ -6658,6 +6973,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Len -->
@@ -6903,6 +7230,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Danny -->
 	<FOODOPINION>
@@ -7146,6 +7485,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Magic -->
@@ -7391,6 +7742,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Stephen -->
 	<FOODOPINION>
@@ -7634,6 +7997,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Scully -->
@@ -7879,6 +8254,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Malice -->
 	<FOODOPINION>
@@ -8122,6 +8509,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Dr. Q -->
@@ -8367,6 +8766,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Nails -->
 	<FOODOPINION>
@@ -8610,6 +9021,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Thor -->
@@ -8855,6 +9278,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>-8</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>-8</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>-8</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Scope -->
 	<FOODOPINION>
@@ -9098,6 +9533,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Wolf -->
@@ -9343,6 +9790,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- MD -->
 	<FOODOPINION>
@@ -9586,6 +10045,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Meltdown -->
@@ -9831,6 +10302,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Biff -->
 	<FOODOPINION>
@@ -10074,6 +10557,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Haywire -->
@@ -10319,6 +10814,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Gasket -->
 	<FOODOPINION>
@@ -10562,6 +11069,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Razor -->
@@ -10807,6 +11326,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Flo -->
 	<FOODOPINION>
@@ -11050,6 +11581,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Gumpy -->
@@ -11295,6 +11838,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Larry -->
 	<FOODOPINION>
@@ -11538,6 +12093,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Larry stoned -->
@@ -11783,6 +12350,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Cougar -->
 	<FOODOPINION>
@@ -12026,6 +12605,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Numb -->
@@ -12271,6 +12862,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Bubba -->
 	<FOODOPINION>
@@ -12514,6 +13117,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 1 -->
@@ -12759,6 +13374,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 2 -->
 	<FOODOPINION>
@@ -13002,6 +13629,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 3 -->
@@ -13247,6 +13886,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 4 -->
 	<FOODOPINION>
@@ -13490,6 +14141,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 5 -->
@@ -13735,6 +14398,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Imp 6 -->
 	<FOODOPINION>
@@ -13978,6 +14653,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Miguel -->
@@ -14223,6 +14910,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Carlos -->
 	<FOODOPINION>
@@ -14466,6 +15165,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Ira -->
@@ -14711,6 +15422,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Dimitri -->
 	<FOODOPINION>
@@ -14954,6 +15677,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Devin -->
@@ -15199,6 +15934,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Hamous -->
 	<FOODOPINION>
@@ -15442,6 +16189,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Slay -->
@@ -15687,6 +16446,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Dynamo -->
 	<FOODOPINION>
@@ -15930,6 +16701,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Shank -->
@@ -16175,6 +16958,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Iggy -->
 	<FOODOPINION>
@@ -16418,6 +17213,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Vince -->
@@ -16663,6 +17470,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Conrad -->
 	<FOODOPINION>
@@ -16906,6 +17725,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Maddog -->
@@ -17151,6 +17982,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Gaston -->
 	<FOODOPINION>
@@ -17394,6 +18237,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Stogie -->
@@ -17639,6 +18494,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Tex -->
 	<FOODOPINION>
@@ -17882,6 +18749,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Biggins -->
@@ -18127,6 +19006,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Monk -->
 	<FOODOPINION>
@@ -18370,6 +19261,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Brain -->
@@ -18615,6 +19518,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Lennart -->
 	<FOODOPINION>
@@ -18858,6 +19773,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Henning -->
@@ -19103,6 +20030,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Lucky -->
 	<FOODOPINION>
@@ -19346,6 +20285,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Laura -->
@@ -19591,6 +20542,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Grace -->
 	<FOODOPINION>
@@ -19834,6 +20797,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Rudolf -->
@@ -20079,6 +21054,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Spooky -->
 	<FOODOPINION>
@@ -20322,6 +21309,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Skitz -->
@@ -20567,6 +21566,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Weasel -->
 	<FOODOPINION>
@@ -20810,6 +21821,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- It -->
@@ -21055,6 +22078,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Bernie -->
 	<FOODOPINION>
@@ -21298,6 +22333,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>3</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Pops -->
@@ -21543,6 +22590,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Wally -->
 	<FOODOPINION>
@@ -21786,6 +22845,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Eli -->
@@ -22031,6 +23102,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Mitch -->
 	<FOODOPINION>
@@ -22274,6 +23357,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Carp -->
@@ -22519,6 +23614,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Lance -->
 	<FOODOPINION>
@@ -22762,6 +23869,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Raffi -->
@@ -23007,6 +24126,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Wink -->
 	<FOODOPINION>
@@ -23250,6 +24381,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Speck -->
@@ -23495,6 +24638,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- John Kulba -->
 	<FOODOPINION>
@@ -23738,6 +24893,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>	
 	<!-- Elio -->
@@ -23983,6 +25150,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Juan -->
 	<FOODOPINION>
@@ -24226,6 +25405,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Wahan -->
@@ -24471,6 +25662,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Postie -->
 	<FOODOPINION>
@@ -24714,6 +25917,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Reuban -->
@@ -24959,6 +26174,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Leon -->
 	<FOODOPINION>
@@ -25202,6 +26429,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Gary -->
@@ -25447,6 +26686,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Sparky -->
 	<FOODOPINION>
@@ -25690,6 +26941,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Beth -->
@@ -25935,6 +27198,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Sam -->
 	<FOODOPINION>
@@ -26178,6 +27453,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Hurl -->
@@ -26423,6 +27710,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Doc -->
 	<FOODOPINION>
@@ -26666,6 +27965,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Manuel -->
@@ -26911,6 +28222,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Boss -->
 	<FOODOPINION>
@@ -27154,6 +28477,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Snake -->
@@ -27399,6 +28734,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Spam -->
 	<FOODOPINION>
@@ -27642,6 +28989,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Spike -->
@@ -27887,6 +29246,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Jimmy -->
 	<FOODOPINION>
@@ -28130,6 +29501,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Leech -->
@@ -28375,6 +29758,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Bob -->
 	<FOODOPINION>
@@ -28618,6 +30013,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Kelly -->
@@ -28863,6 +30270,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Vinny -->
 	<FOODOPINION>
@@ -29106,6 +30525,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Kaboom -->
@@ -29351,6 +30782,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Bud -->
 	<FOODOPINION>
@@ -29594,6 +31037,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Rusty -->
@@ -29839,6 +31294,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Needle -->
 	<FOODOPINION>
@@ -30082,6 +31549,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Screw -->
@@ -30327,6 +31806,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Elroy -->
 	<FOODOPINION>
@@ -30570,6 +32061,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Mouse -->
@@ -30815,6 +32318,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Hector -->
 	<FOODOPINION>
@@ -31058,6 +32573,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Rev -->
@@ -31303,6 +32830,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Stella -->
 	<FOODOPINION>
@@ -31546,6 +33085,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Ears -->
@@ -31791,6 +33342,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Moses -->
 	<FOODOPINION>
@@ -32034,6 +33597,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Smoke -->
@@ -32279,6 +33854,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Dyno -->
 	<FOODOPINION>
@@ -32523,6 +34110,18 @@ XML Code Structure of Food Opinions
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
 		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
+		</PROFILE_OPINION>
 	</FOODOPINION>
 	<!-- Turtle -->
 	<FOODOPINION>
@@ -32766,6 +34365,18 @@ XML Code Structure of Food Opinions
 		<PROFILE_OPINION>
 			<FoodNumber>60</FoodNumber>
 			<MoraleMod>0</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>61</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>62</FoodNumber>
+			<MoraleMod>1</MoraleMod>
+		</PROFILE_OPINION>
+		<PROFILE_OPINION>
+			<FoodNumber>63</FoodNumber>
+			<MoraleMod>2</MoraleMod>
 		</PROFILE_OPINION>
 	</FOODOPINION>
 </FOODOPINIONSLIST>

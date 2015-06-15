@@ -168,7 +168,7 @@ Changes require starting of a new game.
 	<COMPOSITION>
 		<Index>10</Index>
 		<Priority>0</Priority>
-		<ElitePercentage>0</ElitePercentage>
+		<ElitePercentage>1</ElitePercentage>
 		<TroopPercentage>20</TroopPercentage>
 		<AdminPercentage>80</AdminPercentage>
 		<DesiredPopulation>8</DesiredPopulation>
@@ -351,7 +351,7 @@ Changes require starting of a new game.
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>30</Index>
-		<Priority>10</Priority>
+		<Priority>2</Priority>
 		<ElitePercentage>0</ElitePercentage>
 		<TroopPercentage>30</TroopPercentage>
 		<AdminPercentage>70</AdminPercentage>
@@ -360,7 +360,7 @@ Changes require starting of a new game.
 	</COMPOSITION>
 	<COMPOSITION>
 		<Index>31</Index>
-		<Priority>8</Priority>
+		<Priority>5</Priority>
 		<ElitePercentage>10</ElitePercentage>
 		<TroopPercentage>80</TroopPercentage>
 		<AdminPercentage>20</AdminPercentage>
