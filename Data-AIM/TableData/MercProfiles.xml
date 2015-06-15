@@ -1404,7 +1404,7 @@ Max Profiles 0 - 254
 		<!-- STOMP -->
 		<bNewSkillTrait1>3</bNewSkillTrait1>
 		<bNewSkillTrait2>3</bNewSkillTrait2>
-		<bNewSkillTrait3>8</bNewSkillTrait3>
+		<bNewSkillTrait3>5</bNewSkillTrait3>
 		<bNewSkillTrait4>14</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>10</bBuddy1>
@@ -22112,7 +22112,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>9</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
+		<bNewSkillTrait3>15</bNewSkillTrait3>
 		<bBuddy1>242</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -23542,7 +23542,8 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
 		<bNewSkillTrait2>8</bNewSkillTrait2>
-		<bNewSkillTrait3>13</bNewSkillTrait3>
+		<bNewSkillTrait3>8</bNewSkillTrait3>
+		<bNewSkillTrait4>13</bNewSkillTrait4>
 		<bBuddy1>230</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
