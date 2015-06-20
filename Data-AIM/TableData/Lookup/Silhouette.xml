@@ -268,4 +268,8 @@
 		<id>66</id>
 		<name>Grenade Loop</name>
 	</Silhouette>
+	<Silhouette>
+		<id>67</id>
+		<name>LMG Belt</name>
+	</Silhouette>
 </JA2Data>

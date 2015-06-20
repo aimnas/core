@@ -507,9 +507,11 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<!-- STOMP -->
-		<bNewSkillTrait1>2</bNewSkillTrait1>
-		<bNewSkillTrait2>6</bNewSkillTrait2>
-		<bNewSkillTrait3>16</bNewSkillTrait3>
+		<bNewSkillTrait1>1</bNewSkillTrait1>
+		<bNewSkillTrait2>1</bNewSkillTrait2>
+		<bNewSkillTrait3>2</bNewSkillTrait3>
+		<bNewSkillTrait4>11</bNewSkillTrait4>
+		<bNewSkillTrait5>16</bNewSkillTrait5>
 		<!-- STOMP -->
 		<bBuddy1>21</bBuddy1>
 		<bBuddy2>10</bBuddy2>
@@ -540,9 +542,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>650</sSalary>
-		<uiWeeklySalary>4400</uiWeeklySalary>
-		<uiBiWeeklySalary>8250</uiBiWeeklySalary>
+		<sSalary>1400</sSalary>
+		<uiWeeklySalary>8500</uiWeeklySalary>
+		<uiBiWeeklySalary>16500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>3670</usOptionalGearCost>
@@ -23830,7 +23832,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
 		<bNewSkillTrait2>15</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
+		<bNewSkillTrait3>20</bNewSkillTrait3>
 		<bBuddy1>63</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>

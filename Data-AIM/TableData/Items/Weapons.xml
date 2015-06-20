@@ -1343,6 +1343,41 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4047</uiIndex>
+		<szWeaponName>Charter Arms Bulldog</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>26</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>14.00</ubShotsPer4Turns>
+		<ubBulletSpeed>20</ubBulletSpeed>
+		<ubImpact>39</ubImpact>
+		<ubDeadliness>18</ubDeadliness>
+		<bAccuracy>1</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>200</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>55</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>316</sSound>
+		<sReloadSound>99</sReloadSound>
+		<sLocknLoadSound>105</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>11</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>16</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>3</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>25.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4051</uiIndex>
 		<szWeaponName>Ruger S. Redhawk Alaskan .45</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
@@ -13828,6 +13863,41 @@
 		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4797</uiIndex>
+		<szWeaponName>Radom Hunter</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>10</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>13.2</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>38</ubImpact>
+		<ubDeadliness>40</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>800</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>50</BurstAniDelay>
+		<ubAttackVolume>80</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
+		<sSound>358</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>75</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>14</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4801</uiIndex>
 		<szWeaponName>Mosin-Nagant M1891/30</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -16780,6 +16850,42 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>70.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4935</uiIndex>
+		<szWeaponName>L129A1</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>5</ubWeaponType>
+		<ubCalibre>9</ubCalibre>
+		<ubReadyTime>12</ubReadyTime>
+		<ubShotsPer4Turns>12.3</ubShotsPer4Turns>
+		<ubBulletSpeed>23</ubBulletSpeed>
+		<ubImpact>42</ubImpact>
+		<ubDeadliness>45</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>20</ubMagSize>
+		<usRange>1200</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>50</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
+		<sSound>347</sSound>
+		<sBurstSound>6</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>25</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>80</nAccuracy>
+		<bRecoilY>6</bRecoilY>
+		<ubAimLevels>7</ubAimLevels>
+		<Handling>13</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4951</uiIndex>

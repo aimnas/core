@@ -8778,4 +8778,28 @@
 		<ItemCapacityPerSize694>1</ItemCapacityPerSize694>
 		<ItemCapacityPerSize695>1</ItemCapacityPerSize695>
 	</POCKET>
+	<POCKET>
+		<pIndex>62</pIndex>
+		<pName>Bandoleer Pistol</pName>
+		<pSilhouette>61</pSilhouette>
+		<pType>1</pType>
+		<ItemCapacityPerSize620>6</ItemCapacityPerSize620>
+		<ItemCapacityPerSize623>6</ItemCapacityPerSize623>
+		<ItemCapacityPerSize635>6</ItemCapacityPerSize635>
+		<ItemCapacityPerSize641>6</ItemCapacityPerSize641>
+	</POCKET>
+	<POCKET>
+		<pIndex>63</pIndex>
+		<pName>Bandoleer Rifle</pName>
+		<pSilhouette>62</pSilhouette>
+		<pType>1</pType>
+	</POCKET>
+	<POCKET>
+		<pIndex>64</pIndex>
+		<pName>Ammo Belt</pName>
+		<pSilhouette>67</pSilhouette>
+		<pType>2</pType>
+		<ItemCapacityPerSize659>1</ItemCapacityPerSize659>
+		<ItemCapacityPerSize671>1</ItemCapacityPerSize671>
+	</POCKET>
 </POCKETLIST>
