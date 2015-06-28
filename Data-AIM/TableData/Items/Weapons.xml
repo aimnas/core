@@ -23080,6 +23080,47 @@
 		<usOverheatingSingleShotTemperature>70</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>5235</uiIndex>
+		<szWeaponName>Thales F90</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>6</ubWeaponType>
+		<ubCalibre>8</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>14.8</ubShotsPer4Turns>
+		<ubBurstPenalty>7</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>31</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>750</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>40</BurstAniDelay>
+		<ubAttackVolume>70</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>439</sSound>
+		<sBurstSound>82</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>36</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>62</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>6</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>5236</uiIndex>
 		<szWeaponName>Beretta AR-70/90</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
