@@ -3183,7 +3183,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>201</uiIndex>
-		<Name>Army Jeep 1</Name>	
+		<Name>Jeep 1</Name>	
 		<LongName>Jeep 1</LongName>
 		<ShortName>Jeep 1</ShortName>	
 		<MvtTypes>1</MvtTypes>
@@ -3269,7 +3269,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>202</uiIndex>
-		<Name>Army Jeep 2</Name>	
+		<Name>Jeep 2</Name>	
 		<LongName>Jeep 2</LongName>
 		<ShortName>Jeep 2</ShortName>	
 		<MvtTypes>1</MvtTypes>
@@ -3355,7 +3355,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>203</uiIndex>
-		<Name>Army Jeep 3</Name>	
+		<Name>Jeep 3</Name>	
 		<LongName>Jeep 3</LongName>
 		<ShortName>Jeep 3</ShortName>	
 		<MvtTypes>1</MvtTypes>
@@ -3441,108 +3441,605 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>204</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 4</Name>	
+		<LongName>Jeep 4</LongName>
+		<ShortName>Jeep 4</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>205</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 5</Name>	
+		<LongName>Jeep 5</LongName>
+		<ShortName>Jeep 5</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>206</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 6</Name>	
+		<LongName>Jeep 6</LongName>
+		<ShortName>Jeep 6</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>207</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 7</Name>	
+		<LongName>Jeep 7</LongName>
+		<ShortName>Jeep 7</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>208</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 8</Name>	
+		<LongName>Jeep 8</LongName>
+		<ShortName>Jeep 8</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>209</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 9</Name>	
+		<LongName>Jeep 9</LongName>
+		<ShortName>Jeep 9</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>210</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
-		<VehicleArmourType>164</VehicleArmourType>
+		<Name>Jeep 10</Name>	
+		<LongName>Jeep 10</LongName>
+		<ShortName>Jeep 10</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>10</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Interior #1</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>211</uiIndex>
