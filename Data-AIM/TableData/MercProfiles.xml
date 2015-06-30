@@ -3976,7 +3976,7 @@ Max Profiles 0 - 254
 		<!-- STOMP -->
 		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>9</bNewSkillTrait2>
-		<bNewSkillTrait3>11</bNewSkillTrait3>
+		<bNewSkillTrait3>4</bNewSkillTrait3>
 		<!-- STOMP -->
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -14560,27 +14560,29 @@ Max Profiles 0 - 254
 		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>7</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
 		<bLifeMax>99</bLifeMax>
 		<bLife>99</bLife>
-		<bStrength>99</bStrength>
-		<bAgility>99</bAgility>
-		<bDexterity>99</bDexterity>
-		<bWisdom>99</bWisdom>
-		<bMarksmanship>99</bMarksmanship>
-		<bExplosive>99</bExplosive>
-		<bLeadership>99</bLeadership>
-		<bMedical>99</bMedical>
-		<bMechanical>99</bMechanical>
+		<bStrength>92</bStrength>
+		<bAgility>95</bAgility>
+		<bDexterity>96</bDexterity>
+		<bWisdom>93</bWisdom>
+		<bMarksmanship>98</bMarksmanship>
+		<bExplosive>92</bExplosive>
+		<bLeadership>85</bLeadership>
+		<bMedical>54</bMedical>
+		<bMechanical>82</bMechanical>
 		<bExpLevel>9</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
 		<bNewSkillTrait2>3</bNewSkillTrait2>
-		<bNewSkillTrait3>16</bNewSkillTrait3>
+		<bNewSkillTrait3>15</bNewSkillTrait3>
+		<bNewSkillTrait4>16</bNewSkillTrait4>
+		<bNewSkillTrait5>17</bNewSkillTrait5>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>
@@ -14610,9 +14612,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>0</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
+		<sSalary>8000</sSalary>
+		<uiWeeklySalary>50000</uiWeeklySalary>
+		<uiBiWeeklySalary>90000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>10129</usOptionalGearCost>
@@ -23710,7 +23712,7 @@ Max Profiles 0 - 254
 		<PANTS>BLACKPANTS</PANTS>
 		<VEST>WHITEVEST</VEST>
 		<SKIN>TANSKIN</SKIN>
-		<HAIR>WHITEHEAD</HAIR>
+		<HAIR>BLONDHEAD</HAIR>
 		<bSex>1</bSex>
 		<ubBodyType>3</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>

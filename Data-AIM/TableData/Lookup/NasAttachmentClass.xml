@@ -116,4 +116,8 @@
 		<id>100663296</id>
 		<name>MOLLE All</name>
 	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>134217728</id>
+		<name>Armor++</name>
+	</NasAttachmentClass>
 </JA2Data>

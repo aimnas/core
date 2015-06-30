@@ -759,4 +759,15 @@
 		<fBigSlot>0</fBigSlot>
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>69</uiSlotIndex>
+		<szSlotName>Armor Attachment Groin</szSlotName>
+		<nasAttachmentClass>134217728</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>224</usDescPanelPosX>
+		<usDescPanelPosY>92</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>
 </ATTACHMENTSLOTLIST>
