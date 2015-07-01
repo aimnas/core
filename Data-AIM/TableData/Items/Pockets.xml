@@ -5389,6 +5389,8 @@
 		<ItemCapacityPerSize723>4</ItemCapacityPerSize723>
 		<ItemCapacityPerSize725>1</ItemCapacityPerSize725>
 		<ItemCapacityPerSize726>1</ItemCapacityPerSize726>
+		<ItemCapacityPerSize731>2</ItemCapacityPerSize731>
+		<ItemCapacityPerSize732>2</ItemCapacityPerSize732>
 		<ItemCapacityPerSize746>1</ItemCapacityPerSize746>
 		<ItemCapacityPerSize747>1</ItemCapacityPerSize747>
 		<ItemCapacityPerSize752>1</ItemCapacityPerSize752>
@@ -6089,6 +6091,8 @@
 		<ItemCapacityPerSize723>2</ItemCapacityPerSize723>
 		<ItemCapacityPerSize725>1</ItemCapacityPerSize725>
 		<ItemCapacityPerSize726>1</ItemCapacityPerSize726>
+		<ItemCapacityPerSize731>1</ItemCapacityPerSize731>
+		<ItemCapacityPerSize732>1</ItemCapacityPerSize732>
 		<ItemCapacityPerSize736>1</ItemCapacityPerSize736>
 		<ItemCapacityPerSize740>1</ItemCapacityPerSize740>
 		<ItemCapacityPerSize773>2</ItemCapacityPerSize773>

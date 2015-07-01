@@ -140,4 +140,11 @@
 		<bAttachmentSkillCheck>3</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
+	<ATTACHMENTINFO>
+		<uiIndex>20</uiIndex>
+		<usItem>351</usItem>
+		<uiItemClass>2</uiItemClass>
+		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
+		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
+	</ATTACHMENTINFO>
 </ATTACHMENTINFOLIST>
