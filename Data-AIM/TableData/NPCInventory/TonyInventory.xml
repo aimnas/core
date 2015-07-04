@@ -10671,4 +10671,33 @@
 		<uiIndex>2508</uiIndex>
 		<sItemIndex>5235</sItemIndex>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2509</uiIndex>
+		<sItemIndex>4798</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2510</uiIndex>
+		<sItemIndex>4322</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2511</uiIndex>
+		<sItemIndex>4323</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2512</uiIndex>
+		<sItemIndex>2204</sItemIndex>
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2513</uiIndex>
+		<sItemIndex>2202</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2514</uiIndex>
+		<sItemIndex>1152</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2515</uiIndex>
+		<sItemIndex>5045</sItemIndex>
+	</INVENTORY>
 </INVENTORYLIST>

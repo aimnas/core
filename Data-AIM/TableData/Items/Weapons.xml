@@ -5474,6 +5474,79 @@
 		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4322</uiIndex>
+		<szWeaponName>Magpul FMG9</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>2</ubWeaponType>
+		<ubCalibre>2</ubCalibre>
+		<ubReadyTime>4</ubReadyTime>
+		<ubShotsPer4Turns>17.8</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>29</ubImpact>
+		<ubDeadliness>16</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>32</ubMagSize>
+		<usRange>230</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>23</BurstAniDelay>
+		<ubAttackVolume>48</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>299</sSound>
+		<sBurstSound>57</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
+		<APsToReload>16</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>9</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>13</nAccuracy>
+		<bRecoilX>2</bRecoilX>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>7</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4323</uiIndex>
+		<szWeaponName>FMG9 - folded</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>2</ubWeaponType>
+		<ubCalibre>2</ubCalibre>
+		<ubReadyTime>4</ubReadyTime>
+		<ubShotsPer4Turns>17.8</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>29</ubImpact>
+		<ubDeadliness>16</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>32</ubMagSize>
+		<usRange>230</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>23</BurstAniDelay>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
+		<APsToReload>16</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>9</AutoPenalty>
+		<nAccuracy>13</nAccuracy>
+		<bRecoilX>2</bRecoilX>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>7</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4341</uiIndex>
 		<szWeaponName>AEK-919K Kashtan</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
@@ -13898,6 +13971,40 @@
 		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4798</uiIndex>
+		<szWeaponName>SG SKS Carbine</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>10</ubCalibre>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>13.60</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>39</ubImpact>
+		<ubDeadliness>22</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>680</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>80</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
+		<sSound>355</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>70</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4801</uiIndex>
 		<szWeaponName>Mosin-Nagant M1891/30</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -17966,7 +18073,7 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>400</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
-		<APsToReloadManually>20</APsToReloadManually>
+		<APsToReloadManually>18</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
 		<nAccuracy>92</nAccuracy>
 		<bRecoilY>8</bRecoilY>
@@ -18410,6 +18517,43 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>90</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5045</uiIndex>
+		<szWeaponName>M2010 ESR</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>5</ubWeaponType>
+		<ubCalibre>39</ubCalibre>
+		<ubReadyTime>13</ubReadyTime>
+		<ubShotsPer4Turns>10.2</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>48</ubImpact>
+		<ubDeadliness>80</ubDeadliness>
+		<bAccuracy>12</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>1850</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>440</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>250</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>18</APsToReloadManually>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>94</nAccuracy>
+		<bRecoilY>7</bRecoilY>
+		<ubAimLevels>8</ubAimLevels>
+		<Handling>16</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5051</uiIndex>
@@ -33690,7 +33834,7 @@
 		<sLocknLoadSound>109</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>14</APsToReload>
+		<APsToReload>20</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>481</ManualReloadSound>
 		<nAccuracy>40</nAccuracy>
@@ -33726,7 +33870,7 @@
 		<sLocknLoadSound>109</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>14</APsToReload>
+		<APsToReload>20</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>481</ManualReloadSound>
 		<nAccuracy>40</nAccuracy>
