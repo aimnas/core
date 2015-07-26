@@ -6641,22 +6641,6 @@
 		<APCost>90</APCost>
 	</MERGE>
 	<MERGE>
-		<firstItemIndex>2060</firstItemIndex>
-		<secondItemIndex>4811</secondItemIndex>
-		<firstResultingItemIndex>4812</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>90</APCost>
-	</MERGE>
-	<MERGE>
-		<firstItemIndex>2060</firstItemIndex>
-		<secondItemIndex>5051</secondItemIndex>
-		<firstResultingItemIndex>5052</firstResultingItemIndex>
-		<secondResultingItemIndex>0</secondResultingItemIndex>
-		<mergeType>4</mergeType>
-		<APCost>90</APCost>
-	</MERGE>
-	<MERGE>
 		<firstItemIndex>2061</firstItemIndex>
 		<secondItemIndex>4591</secondItemIndex>
 		<firstResultingItemIndex>4592</firstResultingItemIndex>

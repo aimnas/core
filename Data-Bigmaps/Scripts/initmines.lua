@@ -116,7 +116,7 @@ function InitializeMines()
         -- Drassen
         {
             Location = "D13", Type = MineType.Silver,
-            MinimumProduction = 2000,
+            MinimumProduction = 2500,
             AssociatedUnderground = { "D13-1", "E13-1" },
             Infectible = 1,
         },
@@ -124,7 +124,7 @@ function InitializeMines()
         -- Alma
         {
             Location = "I14", Type = MineType.Silver,
-            MinimumProduction = 2500,
+            MinimumProduction = 2000,
             AssociatedUnderground = { "I14-1", "J14-1" },
             Infectible = 1,
         },
@@ -147,7 +147,7 @@ function InitializeMines()
         -- Grumm
         {
             Location = "H3", Type = MineType.Gold,
-            MinimumProduction = 4000,
+            MinimumProduction = 2000,
             AssociatedUnderground = { "H3-1", "I3-1", "I3-2", "H3-2", "H4-2" },
             Infectible = 1,
         },
@@ -155,7 +155,7 @@ function InitializeMines()
 		-- Mountain Mine
         {
             Location = "F6", Type = MineType.Gold,
-            MinimumProduction = 2000,
+            MinimumProduction = 2500,
             AssociatedUnderground = { "F6-1"},
             Infectible = 0,
         },
@@ -163,7 +163,7 @@ function InitializeMines()
 		-- Desert Mine
         {
             Location = "L8", Type = MineType.Diamonds,
-            MinimumProduction = 3500,
+            MinimumProduction = 5000,
             AssociatedUnderground = { "L8-1"},
             Infectible = 0,
         },

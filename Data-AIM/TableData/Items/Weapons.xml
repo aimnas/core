@@ -13717,6 +13717,43 @@
 		<usOverheatingSingleShotTemperature>45.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4782</uiIndex>
+		<szWeaponName>Santa Barbara FR 8</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>9</ubCalibre>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>42</ubImpact>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>960</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>85</ubAttackVolume>
+		<ubHitVolume>5</ubHitVolume>
+		<sSound>314</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>25</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>14</APsToReloadManually>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>78</nAccuracy>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>6</ubAimLevels>
+		<Handling>13</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4791</uiIndex>
 		<szWeaponName>SKS</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -14214,44 +14251,7 @@
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>16</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
-		<nAccuracy>74</nAccuracy>
-		<bRecoilY>3</bRecoilY>
-		<ubAimLevels>7</ubAimLevels>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>50</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>4812</uiIndex>
-		<szWeaponName>Mauser Karabiner 98k-2</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>4</ubWeaponType>
-		<ubCalibre>40</ubCalibre>
-		<ubReadyTime>10</ubReadyTime>
-		<ubShotsPer4Turns>11.9</ubShotsPer4Turns>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>48</ubImpact>
-		<ubDeadliness>43</ubDeadliness>
-		<bAccuracy>6</bAccuracy>
-		<ubMagSize>5</ubMagSize>
-		<usRange>1320</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>85</ubAttackVolume>
-		<ubHitVolume>7</ubHitVolume>
-		<sSound>486</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<APsToReloadManually>9</APsToReloadManually>
-		<ManualReloadSound>477</ManualReloadSound>
-		<nAccuracy>75</nAccuracy>
+		<nAccuracy>80</nAccuracy>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>7</ubAimLevels>
 		<Handling>16</Handling>
@@ -14286,7 +14286,7 @@
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>72</nAccuracy>
+		<nAccuracy>74</nAccuracy>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>16</Handling>
@@ -14323,7 +14323,7 @@
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>16</APsToReloadManually>
 		<ManualReloadSound>477</ManualReloadSound>
-		<nAccuracy>70</nAccuracy>
+		<nAccuracy>76</nAccuracy>
 		<bRecoilY>3</bRecoilY>
 		<ubAimLevels>6</ubAimLevels>
 		<Handling>15</Handling>
@@ -18591,43 +18591,6 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>70</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5052</uiIndex>
-		<szWeaponName>Mauser M-03-2</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubWeaponType>5</ubWeaponType>
-		<ubCalibre>40</ubCalibre>
-		<ubReadyTime>11</ubReadyTime>
-		<ubShotsPer4Turns>11.9</ubShotsPer4Turns>
-		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>47</ubImpact>
-		<ubDeadliness>45</ubDeadliness>
-		<bAccuracy>8</bAccuracy>
-		<ubMagSize>5</ubMagSize>
-		<usRange>1370</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>85</ubAttackVolume>
-		<ubHitVolume>7</ubHitVolume>
-		<sSound>486</sSound>
-		<sReloadSound>102</sReloadSound>
-		<sLocknLoadSound>108</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>16</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<APsToReloadManually>9</APsToReloadManually>
-		<ManualReloadSound>477</ManualReloadSound>
-		<nAccuracy>90</nAccuracy>
-		<bRecoilY>8</bRecoilY>
-		<ubAimLevels>8</ubAimLevels>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>60</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5061</uiIndex>
@@ -36008,6 +35971,19 @@
 		<ubImpact>23</ubImpact>
 		<ubDeadliness>7</ubDeadliness>
 		<ubAttackVolume>1</ubAttackVolume>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5865</uiIndex>
+		<szWeaponName>Balisong</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>19</ubShotsPer4Turns>
+		<ubImpact>19</ubImpact>
+		<ubDeadliness>5</ubDeadliness>
+		<ubAttackVolume>2</ubAttackVolume>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
