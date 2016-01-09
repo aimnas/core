@@ -350,4 +350,14 @@
 		<AmmoCaliber>.380 ACP</AmmoCaliber>
 		<BRCaliber>.380 ACP</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>70</uiIndex>
+		<AmmoCaliber>12 gauge Mini</AmmoCaliber>
+		<BRCaliber>12 gauge Mini</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>71</uiIndex>
+		<AmmoCaliber>Gyrojet</AmmoCaliber>
+		<BRCaliber>Gyrojet</BRCaliber>
+	</AMMO>
 </AMMOLIST>

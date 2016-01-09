@@ -766,7 +766,7 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<szLocation>E10</szLocation>
 		<RandomAltSector>0</RandomAltSector>
 		<szImageFormat>STI</szImageFormat>
-		<szDay>Loadscreens\LS_DayForest</szDay>
+		<szDay>Loadscreens\LS_DayGeneric</szDay>
 		<szNight>Loadscreens\LS_NightForest</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>

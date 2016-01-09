@@ -257,7 +257,7 @@
 		<szName>Bread</szName>
 		<bFoodPoints>550</bFoodPoints>
 		<bDrinkPoints>0</bDrinkPoints>
-		<ubPortionSize>20</ubPortionSize>
+		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>0</bMoraleMod>
 		<usDecayRate>1</usDecayRate>
 	</FOOD>

@@ -2769,4 +2769,82 @@
 		<dDamageModifierLife>0.7</dDamageModifierLife>
 		<dDamageModifierBreath>1.5</dDamageModifierBreath>
 	</AMMOTYPE>
+		<AMMOTYPE>
+		<uiIndex>71</uiIndex>
+		<name>12gauge Mini Slug</name>
+		<fontColour>136</fontColour>
+		<grayed>4</grayed>
+		<offNormal>1</offNormal>
+		<onNormal>3</onNormal>
+		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<zeroMinimumDamage>0</zeroMinimumDamage>
+		<canGoThrough>1</canGoThrough>
+		<standardIssue>1</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>5</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern />
+		<temperatureModificator>1</temperatureModificator>
+		<PoisonPercentage>0</PoisonPercentage>
+		<dirtModificator>0</dirtModificator>
+		<ammoflag>0</ammoflag>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
+	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>72</uiIndex>
+		<name>12gauge Mini Shot</name>
+		<fontColour>125</fontColour>
+		<grayed>4</grayed>
+		<offNormal>1</offNormal>
+		<onNormal>3</onNormal>
+		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<zeroMinimumDamage>1</zeroMinimumDamage>
+		<canGoThrough>0</canGoThrough>
+		<standardIssue>1</standardIssue>
+		<numberOfBullets>6</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>0</acidic>
+		<ignoreArmour>0</ignoreArmour>
+		<lockBustingPower>1</lockBustingPower>
+		<tracerEffect>0</tracerEffect>
+		<spreadPattern>BuckshotSpread</spreadPattern>
+		<temperatureModificator>1</temperatureModificator>
+		<PoisonPercentage>0</PoisonPercentage>
+		<dirtModificator>0</dirtModificator>
+		<ammoflag>0</ammoflag>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
+	</AMMOTYPE>
 </AMMOTYPELIST>
