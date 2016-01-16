@@ -379,7 +379,7 @@
 		<szWeaponName>Bushknife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>11</ubShotsPer4Turns>
-		<ubImpact>35</ubImpact>
+		<ubImpact>36</ubImpact>
 		<ubDeadliness>6</ubDeadliness>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
@@ -10677,6 +10677,47 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>45</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4581</uiIndex>
+		<szWeaponName>Reising M50</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>3</ubCalibre>
+		<ubReadyTime>5</ubReadyTime>
+		<ubShotsPer4Turns>13.8</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>21</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>20</ubMagSize>
+		<usRange>400</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>43</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>415</sSound>
+		<sBurstSound>76</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>2</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>25</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>10</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4591</uiIndex>
@@ -35100,6 +35141,109 @@
 		<usOverheatingSingleShotTemperature>55</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>5693</uiIndex>
+		<szWeaponName>TP 82</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>28</ubCalibre>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>15.6</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>27</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>2</ubMagSize>
+		<usRange>200</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<bBurstAP>4</bBurstAP>
+		<APsToReload>10</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>30</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>6</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>10.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5694</uiIndex>
+		<szWeaponName>TP 82 w/o stock</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>28</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>15.6</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>27</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>2</ubMagSize>
+		<usRange>180</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<bBurstAP>4</bBurstAP>
+		<APsToReload>10</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>20</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>3</ubAimLevels>
+		<Handling>6</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>10.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5695</uiIndex>
+		<szWeaponName>TP 82 5.45 Barrel</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>7</ubCalibre>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>15.6</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>30</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>300</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>75</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>331</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<APsToReload>10</APsToReload>
+		<MaxDistForMessyDeath>9</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>40</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>6</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>5696</uiIndex>
 		<szWeaponName>HK CAWS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
@@ -36689,7 +36833,7 @@
 		<szWeaponName>Steak Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>20</ubShotsPer4Turns>
-		<ubImpact>14</ubImpact>
+		<ubImpact>16</ubImpact>
 		<ubDeadliness>1</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36715,7 +36859,7 @@
 		<szWeaponName>Balisong</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>19</ubShotsPer4Turns>
-		<ubImpact>19</ubImpact>
+		<ubImpact>21</ubImpact>
 		<ubDeadliness>5</ubDeadliness>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
@@ -36728,7 +36872,7 @@
 		<szWeaponName>Light Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>18</ubShotsPer4Turns>
-		<ubImpact>20</ubImpact>
+		<ubImpact>23</ubImpact>
 		<ubDeadliness>4</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36742,7 +36886,7 @@
 		<szWeaponName>Fairbairn-Sykes Combat Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>16</ubShotsPer4Turns>
-		<ubImpact>28</ubImpact>
+		<ubImpact>30</ubImpact>
 		<ubDeadliness>7</ubDeadliness>
 		<ubAttackVolume>1</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
@@ -36755,7 +36899,7 @@
 		<szWeaponName>Combat Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14</ubShotsPer4Turns>
-		<ubImpact>22</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>5</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36769,7 +36913,7 @@
 		<szWeaponName>KCB Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14</ubShotsPer4Turns>
-		<ubImpact>21</ubImpact>
+		<ubImpact>23</ubImpact>
 		<ubDeadliness>5</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36783,7 +36927,7 @@
 		<szWeaponName>SOG Seal 2000</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>15</ubShotsPer4Turns>
-		<ubImpact>23</ubImpact>
+		<ubImpact>26</ubImpact>
 		<ubDeadliness>5</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36797,7 +36941,7 @@
 		<szWeaponName>AKM Type I Bayonet</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14.60</ubShotsPer4Turns>
-		<ubImpact>22</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>6</ubDeadliness>
 		<ubAttackVolume>2</ubAttackVolume>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
@@ -36810,7 +36954,7 @@
 		<szWeaponName>Ka-Bar Cutlass</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>12</ubShotsPer4Turns>
-		<ubImpact>25</ubImpact>
+		<ubImpact>27</ubImpact>
 		<ubDeadliness>6</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36824,7 +36968,7 @@
 		<szWeaponName>Rambo Knife</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>12</ubShotsPer4Turns>
-		<ubImpact>26</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>8</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36865,10 +37009,22 @@
 		<szWeaponName>Machete</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>11</ubShotsPer4Turns>
-		<ubImpact>33</ubImpact>
+		<ubImpact>38</ubImpact>
 		<ubDeadliness>6</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5884</uiIndex>
+		<szWeaponName>Russian Machete</szWeaponName>
+		<ubWeaponClass>6</ubWeaponClass>
+		<ubShotsPer4Turns>12.6</ubShotsPer4Turns>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>9</ubDeadliness>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
@@ -36879,7 +37035,7 @@
 		<szWeaponName>Sabre</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>13.50</ubShotsPer4Turns>
-		<ubImpact>30</ubImpact>
+		<ubImpact>34</ubImpact>
 		<ubDeadliness>9</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -36893,7 +37049,7 @@
 		<szWeaponName>Katana</szWeaponName>
 		<ubWeaponClass>6</ubWeaponClass>
 		<ubShotsPer4Turns>14.60</ubShotsPer4Turns>
-		<ubImpact>32</ubImpact>
+		<ubImpact>35</ubImpact>
 		<ubDeadliness>9</ubDeadliness>
 		<usReloadDelay>200</usReloadDelay>
 		<ubAttackVolume>2</ubAttackVolume>
@@ -37075,12 +37231,45 @@
 		<APsToReload>16</APsToReload>
 		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>18</nAccuracy>
+		<nAccuracy>15</nAccuracy>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>4</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>1.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5917</uiIndex>
+		<szWeaponName>Gyrojet Carbine</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>71</ubCalibre>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>14.2</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>30</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>360</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>12</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>111</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<bBurstAP>13</bBurstAP>
+		<APsToReload>16</APsToReload>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>65</nAccuracy>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>9</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>2.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5921</uiIndex>
