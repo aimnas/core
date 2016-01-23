@@ -240,6 +240,10 @@ Changes require starting of a new game.
 		<Composition>12</Composition>
 	</GARRISON>
 		<GARRISON>
+		<Sector>J13</Sector>
+		<Composition>31</Composition>
+	</GARRISON>
+		<GARRISON>
 		<Sector>L8</Sector>
 		<Composition>15</Composition>
 	</GARRISON>

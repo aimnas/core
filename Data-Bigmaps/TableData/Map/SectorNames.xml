@@ -1646,14 +1646,14 @@ Curfew values
 		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>J13</SectorGrid>
-		<szUnexploredName>Woods</szUnexploredName>
-		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
-		<szExploredName>Woods</szExploredName>
-		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<szUnexploredName>Farm, road</szUnexploredName>
+		<szDetailedUnexploredName>Coffee Plantation</szDetailedUnexploredName>
+		<szExploredName>Farm, road</szExploredName>
+		<szDetailedExploredName>Coffee Plantation</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>1</usCurfewValue>
+		<usCivilianPopulation>25</usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>J14</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>

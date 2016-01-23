@@ -28,4 +28,14 @@ Fields index:
 		<sNameType>Mine</sNameType>
 		<sMineral>Diamonds</sMineral>
 	</TYPE>
+		<TYPE>
+		<uiIndex>3</uiIndex>
+		<sNameType>Plantation</sNameType>
+		<sMineral>Coca</sMineral>
+	</TYPE>
+		<TYPE>
+		<uiIndex>4</uiIndex>
+		<sNameType>Plantation</sNameType>
+		<sMineral>Coffee</sMineral>
+	</TYPE>
 </MINERALS>
