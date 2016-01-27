@@ -15778,6 +15778,44 @@
 		<usOverheatingSingleShotTemperature>60</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4879</uiIndex>
+		<szWeaponName>Ruger American Ranch Rifle</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>58</ubCalibre>
+		<ubReadyTime>9</ubReadyTime>
+		<ubShotsPer4Turns>14.8</ubShotsPer4Turns>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>39</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>7</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>600</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>64</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>323</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>9</APsToReloadManually>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>78</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>10</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4881</uiIndex>
 		<szWeaponName>Izmash Tigr-9</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
@@ -30009,7 +30047,7 @@
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>6</ubWeaponType>
 		<ubCalibre>58</ubCalibre>
-		<ubReadyTime>11</ubReadyTime>
+		<ubReadyTime>10</ubReadyTime>
 		<ubShotsPer4Turns>14.4</ubShotsPer4Turns>
 		<ubBurstPenalty>8</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
@@ -30017,7 +30055,7 @@
 		<ubDeadliness>50</ubDeadliness>
 		<bAccuracy>6</bAccuracy>
 		<ubMagSize>30</ubMagSize>
-		<usRange>720</usRange>
+		<usRange>600</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>32</BurstAniDelay>
 		<ubAttackVolume>68</ubAttackVolume>

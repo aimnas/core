@@ -451,4 +451,36 @@
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>
 	</STRUCTURE>
+	<STRUCTURE><!-- Bamboo2 with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
+		<szTileSetName>bamboo2.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- Bamboo2 with Machete-->
+		<usDeconstructItem>5883</usDeconstructItem>
+		<szTileSetName>bamboo2.sti</szTileSetName>
+		<allowedtile>0</allowedtile>
+		<allowedtile>1</allowedtile>
+		<allowedtile>2</allowedtile>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>6</allowedtile>
+		<allowedtile>7</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+		<allowedtile>10</allowedtile>
+		<allowedtile>11</allowedtile>
+	</STRUCTURE>
 </STRUCTURESLIST>

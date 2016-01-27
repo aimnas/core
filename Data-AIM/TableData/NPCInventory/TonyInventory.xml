@@ -11001,4 +11001,20 @@
 		<sItemIndex>4581</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2587</uiIndex>
+		<sItemIndex>6062</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2588</uiIndex>
+		<sItemIndex>6067</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2589</uiIndex>
+		<sItemIndex>6072</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2590</uiIndex>
+		<sItemIndex>4879</sItemIndex>
+	</INVENTORY>
 </INVENTORYLIST>
