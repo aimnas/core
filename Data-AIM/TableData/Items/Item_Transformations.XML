@@ -5169,6 +5169,23 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>1707</usItem>
+		<usResult1>1767</usResult1>
+		<usResult2>1767</usResult2>
+		<usResult3>1767</usResult3>
+		<usResult4>1767</usResult4>
+		<usResult5>1767</usResult5>
+		<usResult6>1767</usResult6>
+		<usResult7>1767</usResult7>
+		<usResult8>1767</usResult8>
+		<usResult9>1767</usResult9>
+		<usResult10>1767</usResult10>
+		<usAPCost>25</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Open box</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>1711</usItem>
 		<usResult1>1741</usResult1>
 		<usResult2>1741</usResult2>
@@ -14759,6 +14776,40 @@
 	<TRANSFORM>
 		<usItem>5883</usItem>
 		<usResult1>5882</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5884</usItem>
+		<usResult1>5885</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5885</usItem>
+		<usResult1>5884</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
