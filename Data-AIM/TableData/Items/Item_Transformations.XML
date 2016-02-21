@@ -14571,7 +14571,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5711</usItem>
-		<usResult1>5921</usResult1>
+		<usResult1>5911</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -14588,7 +14588,41 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5712</usItem>
-		<usResult1>5922</usResult1>
+		<usResult1>5912</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5713</usItem>
+		<usResult1>5913</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5714</usItem>
+		<usResult1>5914</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -14605,7 +14639,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5715</usItem>
-		<usResult1>5923</usResult1>
+		<usResult1>5915</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -14825,7 +14859,7 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5921</usItem>
+		<usItem>5911</usItem>
 		<usResult1>5711</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14842,7 +14876,7 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5922</usItem>
+		<usItem>5912</usItem>
 		<usResult1>5712</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14859,7 +14893,41 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5923</usItem>
+		<usItem>5913</usItem>
+		<usResult1>5713</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Grenade Launcher</szMenuRowText>
+		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5914</usItem>
+		<usResult1>5714</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Grenade Launcher</szMenuRowText>
+		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5915</usItem>
 		<usResult1>5715</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>

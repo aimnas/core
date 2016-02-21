@@ -559,7 +559,7 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>33</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>27</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
@@ -977,7 +977,7 @@
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
-		<name>Lock Buster</name>
+		<name>Brenneke</name>
 		<fontColour>133</fontColour>
 		<grayed>4</grayed>
 		<offNormal>13</offNormal>
@@ -988,10 +988,10 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
-		<canGoThrough>0</canGoThrough>
+		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
@@ -1004,7 +1004,7 @@
 		<monsterSpit>0</monsterSpit>
 		<acidic>0</acidic>
 		<ignoreArmour>0</ignoreArmour>
-		<lockBustingPower>100</lockBustingPower>
+		<lockBustingPower>75</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>

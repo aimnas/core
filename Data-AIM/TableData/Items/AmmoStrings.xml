@@ -360,4 +360,79 @@
 		<AmmoCaliber>Gyrojet</AmmoCaliber>
 		<BRCaliber>Gyrojet</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>72</uiIndex>
+		<AmmoCaliber>.22 Hornet</AmmoCaliber>
+		<BRCaliber>.22 Hornet</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>73</uiIndex>
+		<AmmoCaliber>.243 Win</AmmoCaliber>
+		<BRCaliber>.243 Win</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>74</uiIndex>
+		<AmmoCaliber>.30-30</AmmoCaliber>
+		<BRCaliber>.30-30</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>75</uiIndex>
+		<AmmoCaliber>.30-40 Krag</AmmoCaliber>
+		<BRCaliber>.30-40 Krag</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>76</uiIndex>
+		<AmmoCaliber>.357 SIG</AmmoCaliber>
+		<BRCaliber>.357 SIG</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>77</uiIndex>
+		<AmmoCaliber>.38 LC</AmmoCaliber>
+		<BRCaliber>.38 LC</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>78</uiIndex>
+		<AmmoCaliber>.410</AmmoCaliber>
+		<BRCaliber>.410</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>79</uiIndex>
+		<AmmoCaliber>.416 Barrett</AmmoCaliber>
+		<BRCaliber>.416 Barrett</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>80</uiIndex>
+		<AmmoCaliber>.45 LC</AmmoCaliber>
+		<BRCaliber>.45 LC</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>81</uiIndex>
+		<AmmoCaliber>.45-70</AmmoCaliber>
+		<BRCaliber>.45-70</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>82</uiIndex>
+		<AmmoCaliber>.455 Webley</AmmoCaliber>
+		<BRCaliber>.455 Webley</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>83</uiIndex>
+		<AmmoCaliber>.458 SOCOM</AmmoCaliber>
+		<BRCaliber>.458 SOCOM</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>84</uiIndex>
+		<AmmoCaliber>6.5 Arisaka</AmmoCaliber>
+		<BRCaliber>6.5 Arisaka</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>85</uiIndex>
+		<AmmoCaliber>7.63x25mm</AmmoCaliber>
+		<BRCaliber>7.63x25mm</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>86</uiIndex>
+		<AmmoCaliber>7.7 Arisaka</AmmoCaliber>
+		<BRCaliber>7.7 Arisaka</BRCaliber>
+	</AMMO>
 </AMMOLIST>
