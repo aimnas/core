@@ -17470,7 +17470,7 @@ Max Profiles 0 - 254
 		<bDexterity>51</bDexterity>
 		<bWisdom>31</bWisdom>
 		<bMarksmanship>47</bMarksmanship>
-		<bExplosive>69</bExplosive>
+		<bExplosive>76</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>3</bMedical>
 		<bMechanical>2</bMechanical>
@@ -17659,7 +17659,7 @@ Max Profiles 0 - 254
 		<bAgility>55</bAgility>
 		<bDexterity>74</bDexterity>
 		<bWisdom>29</bWisdom>
-		<bMarksmanship>61</bMarksmanship>
+		<bMarksmanship>68</bMarksmanship>
 		<bExplosive>5</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>3</bMedical>
@@ -18146,6 +18146,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>9</bNewSkillTrait1>
 		<bNewSkillTrait2>9</bNewSkillTrait2>
 		<bNewSkillTrait3>20</bNewSkillTrait3>
+		<bNewSkillTrait4>21</bNewSkillTrait4>
 		<bBuddy1>255</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -18417,13 +18418,13 @@ Max Profiles 0 - 254
 		<bLife>85</bLife>
 		<bStrength>70</bStrength>
 		<bAgility>93</bAgility>
-		<bDexterity>24</bDexterity>
+		<bDexterity>44</bDexterity>
 		<bWisdom>29</bWisdom>
-		<bMarksmanship>44</bMarksmanship>
+		<bMarksmanship>56</bMarksmanship>
 		<bExplosive>2</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>4</bMedical>
-		<bMechanical>18</bMechanical>
+		<bMechanical>8</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
@@ -24010,7 +24011,7 @@ Max Profiles 0 - 254
 		<bLifeMax>88</bLifeMax>
 		<bLife>88</bLife>
 		<bStrength>78</bStrength>
-		<bAgility>38</bAgility>
+		<bAgility>35</bAgility>
 		<bDexterity>75</bDexterity>
 		<bWisdom>88</bWisdom>
 		<bMarksmanship>79</bMarksmanship>
@@ -24022,9 +24023,10 @@ Max Profiles 0 - 254
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>2</bNewSkillTrait1>
-		<bNewSkillTrait2>9</bNewSkillTrait2>
+		<bNewSkillTrait1>1</bNewSkillTrait1>
+		<bNewSkillTrait2>1</bNewSkillTrait2>
 		<bNewSkillTrait3>9</bNewSkillTrait3>
+		<bNewSkillTrait4>9</bNewSkillTrait4>
 		<bBuddy1>245</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
 		<bBuddy3>-1</bBuddy3>

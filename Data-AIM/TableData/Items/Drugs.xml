@@ -98,7 +98,7 @@ If <chance> is set, this is the chance that this effect is applied when consumin
 		<DRUG_EFFECT>
 			<effect>2</effect>
 			<duration>8</duration>
-			<size>15</size>
+			<size>25</size>
 		</DRUG_EFFECT>
 		
 		<DISEASE_EFFECT>
@@ -896,5 +896,16 @@ If <chance> is set, this is the chance that this effect is applied when consumin
 			<duration>20</duration>
 			<chance>50</chance>
 		</PERSONALITY_EFFECT>
+	</DRUG>
+	<DRUG>
+	<!-- this drug is applied when hit with certain less than lethal bullets 
+	like 40mm sponge grenades -->
+		<uiIndex>24</uiIndex>
+		<szName>Concussion Trauma</szName>
+		<DRUG_EFFECT>
+			<effect>1</effect>
+			<duration>10</duration>
+			<size>-1000</size>
+		</DRUG_EFFECT>
 	</DRUG>
 	</DRUGSLIST>

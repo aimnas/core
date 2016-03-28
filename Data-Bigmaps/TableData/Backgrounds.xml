@@ -843,6 +843,7 @@
 		<szName>Bouncer</szName>
 		<szShortName>Bouncer</szShortName>
 		<szDescription>Doormen make good soldiers in close combat, though the &#10;killing part is a change (hopefully).</szDescription>
+		<ap_urban>6</ap_urban>
 		<meleedamage>4</meleedamage>
 		<dexterity>2</dexterity>
 		<resistance_physical>5</resistance_physical>
@@ -3821,6 +3822,7 @@
 		<szName>Pretender</szName>
 		<szShortName>Pretender</szShortName>
 		<szDescription>Pretending to be anything and everything he is not, nobody knows &#10;who he actually is.</szDescription>
+		<ap_tropical>6</ap_tropical>
 		<leadership>-5</leadership>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
@@ -4413,6 +4415,7 @@
 		<szName>Battlefield Medic</szName>
 		<szShortName>Battlefield Medic</szShortName>
 		<szDescription>Everyone can cut human flesh - but sewing it back while under fire is a quest for &#10;the best!</szDescription>
+		<ap_desert>6</ap_desert>
 		<medical>5</medical>
 		<dexterity>5</dexterity>
 		<stealth>1</stealth>
@@ -4420,6 +4423,7 @@
 		<resistance_fear>7</resistance_fear>
 		<resistance_suppression>15</resistance_suppression>
 		<speed_bandaging>15</speed_bandaging>
+		<water>-10</water>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4713,6 +4717,7 @@
 		<szName>Pyrotechnician</szName>
 		<szShortName>Pyrotechnician</szShortName>
 		<szDescription>When you want to break enemy morale by blowing up his privy, it's time to get yourself a qualified pyrotechnician.</szDescription>
+		<ap_desert>6</ap_desert>
 		<dexterity>3</dexterity>
 		<mechanical>3</mechanical>
 		<explosives>5</explosives>
@@ -4721,6 +4726,7 @@
 		<disarm_trap>10</disarm_trap>
 		<traplevel>1</traplevel>
 		<insurance>20</insurance>
+		<water>-10</water>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4732,6 +4738,7 @@
 		<szDescription>Everyone can cut human flesh - but sewing it back is a quest for &#10;the best!</szDescription>
 		<medical>10</medical>
 		<dexterity>8</dexterity>
+		<marksmanship>-10</marksmanship>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>

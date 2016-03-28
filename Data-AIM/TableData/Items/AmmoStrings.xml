@@ -435,4 +435,9 @@
 		<AmmoCaliber>7.7 Arisaka</AmmoCaliber>
 		<BRCaliber>7.7 Arisaka</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>87</uiIndex>
+		<AmmoCaliber>10.6x25mm</AmmoCaliber>
+		<BRCaliber>10.6x25mm</BRCaliber>
+	</AMMO>
 </AMMOLIST>

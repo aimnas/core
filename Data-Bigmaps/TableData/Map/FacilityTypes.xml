@@ -232,6 +232,7 @@
 		<szFacilityName>Commercial Harbor</szFacilityName>
 		<szFacilityShortName>Harbor</szFacilityShortName>
 		<ubTotalStaffLimit>12</ubTotalStaffLimit>
+		<pmcentrypoint>1</pmcentrypoint>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
 			<szTooltipText>By staffing the Harbor's head office, you can maximize the efficiency of mineral exports leaving the country. Your mine income will soar as a result! It's a good way to win the locals' trust, but the heavy machinery on the docks has its dangers.</szTooltipText>
@@ -297,6 +298,7 @@
 		<szFacilityName>Small Airport</szFacilityName>
 		<szFacilityShortName>Airport</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<pmcentrypoint>1</pmcentrypoint>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
 			<szTooltipText>This airport's paperwork could use some optimizing. By paying a few extra workers, you can ship out some of your mine output to premium jewellers worldwide, increasing your revenues. The locals will appreciate the work you put in. Just remember - jet fumes aren't very good for your health.</szTooltipText>
@@ -1625,6 +1627,22 @@
 		<szFacilityName>Farm Prison</szFacilityName>
 		<szFacilityShortName>Farm Prison</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
+			<szTooltipText>Not exactly a state of the art prison, nevertheless your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>100</usPerformance>
+			<usPrisonBaseLimit>8</usPrisonBaseLimit>
+			<CONDITIONS>
+			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+		<FACILITYTYPE>
+		<ubIndex>35</ubIndex>
+		<szFacilityName>Border Checkpoint</szFacilityName>
+		<szFacilityShortName>Boder Checkpoint</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<pmcentrypoint>1</pmcentrypoint>
 		<ASSIGNMENT>
 			<ubAssignmentType>INTERROGATE_PRISONERS</ubAssignmentType>
 			<szTooltipText>Not exactly a state of the art prison, nevertheless your mercs can Interrogate prisoners of war here. Prisoners might join you cause, or give you helpful information.</szTooltipText>

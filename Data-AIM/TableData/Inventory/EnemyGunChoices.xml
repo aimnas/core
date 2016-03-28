@@ -7,8 +7,8 @@
 		<bItemNo1>4121</bItemNo1>
 		<bItemNo2>4121</bItemNo2>
 		<bItemNo3>4121</bItemNo3>
-		<bItemNo4>4141</bItemNo4>
-		<bItemNo5>4141</bItemNo5>
+		<bItemNo4>4187</bItemNo4>
+		<bItemNo5>4187</bItemNo5>
 		<bItemNo6>4141</bItemNo6>
 		<bItemNo7>4141</bItemNo7>
 		<bItemNo8>4141</bItemNo8>
@@ -44,16 +44,16 @@
 		<bItemNo38>4821</bItemNo38>
 		<bItemNo39>5581</bItemNo39>
 		<bItemNo40>4717</bItemNo40>
-		<bItemNo41>5623</bItemNo41>
-		<bItemNo42>5623</bItemNo42>
-		<bItemNo43>5623</bItemNo43>
-		<bItemNo44>5623</bItemNo44>
-		<bItemNo45>5623</bItemNo45>
-		<bItemNo46>5623</bItemNo46>
-		<bItemNo47>5623</bItemNo47>
+		<bItemNo41>5621</bItemNo41>
+		<bItemNo42>5621</bItemNo42>
+		<bItemNo43>5621</bItemNo43>
+		<bItemNo44>5621</bItemNo44>
+		<bItemNo45>5621</bItemNo45>
+		<bItemNo46>5621</bItemNo46>
+		<bItemNo47>5621</bItemNo47>
 		<bItemNo48>5625</bItemNo48>
-		<bItemNo49>5621</bItemNo49>
-		<bItemNo50>5621</bItemNo50>
+		<bItemNo49>5618</bItemNo49>
+		<bItemNo50>5618</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>1</uiIndex>
@@ -61,7 +61,7 @@
 		<ubChoices>50</ubChoices>
 		<bItemNo1>4121</bItemNo1>
 		<bItemNo2>4121</bItemNo2>
-		<bItemNo3>4121</bItemNo3>
+		<bItemNo3>4187</bItemNo3>
 		<bItemNo4>4141</bItemNo4>
 		<bItemNo5>4053</bItemNo5>
 		<bItemNo6>4201</bItemNo6>
@@ -100,14 +100,14 @@
 		<bItemNo39>5581</bItemNo39>
 		<bItemNo40>4811</bItemNo40>
 		<bItemNo41>4717</bItemNo41>
-		<bItemNo42>5623</bItemNo42>
-		<bItemNo43>5623</bItemNo43>
+		<bItemNo42>5621</bItemNo42>
+		<bItemNo43>5621</bItemNo43>
 		<bItemNo44>5625</bItemNo44>
 		<bItemNo45>5625</bItemNo45>
 		<bItemNo46>5625</bItemNo46>
-		<bItemNo47>5621</bItemNo47>
-		<bItemNo48>5621</bItemNo48>
-		<bItemNo49>5621</bItemNo49>
+		<bItemNo47>5618</bItemNo47>
+		<bItemNo48>5618</bItemNo48>
+		<bItemNo49>5618</bItemNo49>
 		<bItemNo50>5631</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
@@ -117,7 +117,7 @@
 		<bItemNo1>4121</bItemNo1>
 		<bItemNo2>4121</bItemNo2>
 		<bItemNo3>4121</bItemNo3>
-		<bItemNo4>4201</bItemNo4>
+		<bItemNo4>4187</bItemNo4>
 		<bItemNo5>4201</bItemNo5>
 		<bItemNo6>4201</bItemNo6>
 		<bItemNo7>4201</bItemNo7>
@@ -155,12 +155,12 @@
 		<bItemNo39>5583</bItemNo39>
 		<bItemNo40>5073</bItemNo40>
 		<bItemNo41>4801</bItemNo41>
-		<bItemNo42>5623</bItemNo42>
+		<bItemNo42>5621</bItemNo42>
 		<bItemNo43>5625</bItemNo43>
 		<bItemNo44>5625</bItemNo44>
 		<bItemNo45>5625</bItemNo45>
-		<bItemNo46>5621</bItemNo46>
-		<bItemNo47>5621</bItemNo47>
+		<bItemNo46>5618</bItemNo46>
+		<bItemNo47>5618</bItemNo47>
 		<bItemNo48>5631</bItemNo48>
 		<bItemNo49>5631</bItemNo49>
 		<bItemNo50>5631</bItemNo50>

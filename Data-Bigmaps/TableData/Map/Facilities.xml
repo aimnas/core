@@ -35,6 +35,12 @@
 	</FACILITY>	
 
 	<FACILITY>
+		<SectorGrid>A6</SectorGrid>
+		<FacilityType>35</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+	
+	<FACILITY>
 		<SectorGrid>A9</SectorGrid>
 		<FacilityType>25</FacilityType>
 		<ubHidden>1</ubHidden>

@@ -395,7 +395,7 @@
 		<ubReadyTime>12</ubReadyTime>
 		<ubShotsPer4Turns>13.2</ubShotsPer4Turns>
 		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>65</ubImpact>
+		<ubImpact>68</ubImpact>
 		<ubDeadliness>57</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>5</ubMagSize>
@@ -557,7 +557,7 @@
 		<ubShotsPer4Turns>13.2</ubShotsPer4Turns>
 		<ubShotsPerBurst>5</ubShotsPerBurst>
 		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>65</ubImpact>
+		<ubImpact>66</ubImpact>
 		<ubDeadliness>63</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>5</ubMagSize>
@@ -1309,41 +1309,6 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4046</uiIndex>
-		<szWeaponName>M1879 Revolver</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>26</ubCalibre>
-		<ubReadyTime>2</ubReadyTime>
-		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
-		<ubBulletSpeed>20</ubBulletSpeed>
-		<ubImpact>39</ubImpact>
-		<ubDeadliness>17</ubDeadliness>
-		<bAccuracy>2</bAccuracy>
-		<ubMagSize>6</ubMagSize>
-		<usRange>270</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>58</ubAttackVolume>
-		<ubHitVolume>4</ubHitVolume>
-		<sSound>423</sSound>
-		<sReloadSound>99</sReloadSound>
-		<sLocknLoadSound>105</sLocknLoadSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>12</APsToReload>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>15</nAccuracy>
-		<bRecoilY>2</bRecoilY>
-		<ubAimLevels>4</ubAimLevels>
-		<Handling>6</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>4047</uiIndex>
 		<szWeaponName>Charter Arms Bulldog</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
@@ -1563,7 +1528,7 @@
 		<ubDeadliness>19</ubDeadliness>
 		<bAccuracy>1</bAccuracy>
 		<ubMagSize>5</ubMagSize>
-		<usRange>200</usRange>
+		<usRange>150</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
 		<ubAttackVolume>60</ubAttackVolume>
@@ -1619,6 +1584,139 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>20</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4081</uiIndex>
+		<szWeaponName>Webley Mk. VI</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>82</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>14.8</ubShotsPer4Turns>
+		<ubBulletSpeed>20</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>180</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>54</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>426</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>8</APsToReload>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>100</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>4</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>20.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4086</uiIndex>
+		<szWeaponName>M1879 Revolver</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>87</ubCalibre>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
+		<ubBulletSpeed>20</ubBulletSpeed>
+		<ubImpact>39</ubImpact>
+		<ubDeadliness>17</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>270</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>58</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>423</sSound>
+		<sReloadSound>99</sReloadSound>
+		<sLocknLoadSound>105</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>12</APsToReload>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>6</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4096</uiIndex>
+		<szWeaponName>Snake Slayer</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
+		<ubShotsPer4Turns>15.8</ubShotsPer4Turns>
+		<ubBulletSpeed>20</ubBulletSpeed>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>15</ubDeadliness>
+		<ubMagSize>2</ubMagSize>
+		<usRange>100</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<APsToReload>6</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>480</ManualReloadSound>
+		<nAccuracy>6</nAccuracy>
+		<bRecoilY>1</bRecoilY>
+		<ubAimLevels>2</ubAimLevels>
+		<Handling>2</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>20.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4097</uiIndex>
+		<szWeaponName>Taurus Judge</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>15.60</ubShotsPer4Turns>
+		<ubBulletSpeed>20</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>19</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>160</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<APsToReload>6</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>480</ManualReloadSound>
+		<nAccuracy>14</nAccuracy>
+		<bRecoilY>1.5</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>6</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>20.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4101</uiIndex>
@@ -2653,7 +2751,7 @@
 		<ubReadyTime>1</ubReadyTime>
 		<ubShotsPer4Turns>24.8</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>12</ubDeadliness>
 		<bAccuracy>3</bAccuracy>
 		<ubMagSize>12</ubMagSize>
@@ -2688,7 +2786,7 @@
 		<ubReadyTime>1</ubReadyTime>
 		<ubShotsPer4Turns>25</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>11</ubDeadliness>
 		<bAccuracy>2</bAccuracy>
 		<ubMagSize>12</ubMagSize>
@@ -2783,6 +2881,40 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4155</uiIndex>
+		<szWeaponName>Colt M1911 22LR</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>49</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>18.8</ubShotsPer4Turns>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>26</ubImpact>
+		<ubDeadliness>12</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>17</ubMagSize>
+		<usRange>200</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>40</ubAttackVolume>
+		<ubHitVolume>1</ubHitVolume>
+		<sSound>300</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<APsToReload>9</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>4</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>3</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4157</uiIndex>
@@ -3350,37 +3482,78 @@
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4181</uiIndex>
-		<szWeaponName>Walther PPK</szWeaponName>
+		<uiIndex>4176</uiIndex>
+		<szWeaponName>Glock 31</szWeaponName>
 		<ubWeaponClass>1</ubWeaponClass>
 		<ubWeaponType>1</ubWeaponType>
-		<ubCalibre>62</ubCalibre>
-		<ubShotsPer4Turns>21</ubShotsPer4Turns>
+		<ubCalibre>76</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>18.8</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
-		<ubDeadliness>11</ubDeadliness>
-		<ubMagSize>8</ubMagSize>
-		<usRange>170</usRange>
+		<ubImpact>32</ubImpact>
+		<ubDeadliness>17</ubDeadliness>
+		<ubMagSize>15</ubMagSize>
+		<usRange>270</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>38</ubAttackVolume>
-		<ubHitVolume>2</ubHitVolume>
-		<sSound>311</sSound>
+		<ubAttackVolume>54</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>424</sSound>
+		<sBurstSound>57</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
 		<sReloadSound>100</sReloadSound>
 		<sLocknLoadSound>106</sLocknLoadSound>
 		<SilencedSound>156</SilencedSound>
-		<bBurstAP>20</bBurstAP>
-		<APsToReload>6</APsToReload>
+		<bBurstAP>12</bBurstAP>
+		<APsToReload>9</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<nAccuracy>14</nAccuracy>
+		<nAccuracy>10</nAccuracy>
 		<bRecoilY>2</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
+		<Handling>4</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4177</uiIndex>
+		<szWeaponName>Glock 32</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>76</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>18.50</ubShotsPer4Turns>
+		<ubBurstPenalty>9</ubBurstPenalty>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>32</ubImpact>
+		<ubDeadliness>17</ubDeadliness>
+		<ubMagSize>13</ubMagSize>
+		<usRange>240</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>54</ubAttackVolume>
+		<ubHitVolume>3</ubHitVolume>
+		<sSound>424</sSound>
+		<sBurstSound>57</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<APsToReload>8</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>10</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>3</ubAimLevels>
 		<Handling>2</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4182</uiIndex>
@@ -3390,7 +3563,7 @@
 		<ubCalibre>62</ubCalibre>
 		<ubShotsPer4Turns>21.5</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>24</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>10</ubDeadliness>
 		<ubMagSize>8</ubMagSize>
 		<usRange>120</usRange>
@@ -3424,7 +3597,7 @@
 		<ubReadyTime>1</ubReadyTime>
 		<ubShotsPer4Turns>19.20</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>15</ubDeadliness>
 		<ubMagSize>12</ubMagSize>
 		<usRange>200</usRange>
@@ -3445,6 +3618,39 @@
 		<bRecoilY>1</bRecoilY>
 		<ubAimLevels>4</ubAimLevels>
 		<Handling>4</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4187</uiIndex>
+		<szWeaponName>Walther PPK</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>69</ubCalibre>
+		<ubShotsPer4Turns>21</ubShotsPer4Turns>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>27</ubImpact>
+		<ubDeadliness>11</ubDeadliness>
+		<ubMagSize>8</ubMagSize>
+		<usRange>170</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>38</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>311</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>156</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>6</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>14</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>2</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
@@ -3553,6 +3759,77 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4194</uiIndex>
+		<szWeaponName>Tangfolio Force</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>27</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>17.8</ubShotsPer4Turns>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>33</ubImpact>
+		<ubDeadliness>18</ubDeadliness>
+		<ubMagSize>12</ubMagSize>
+		<usRange>260</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>388</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>8</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>5</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4195</uiIndex>
+		<szWeaponName>Glock 20</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubWeaponType>1</ubWeaponType>
+		<ubCalibre>27</ubCalibre>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>18.2</ubShotsPer4Turns>
+		<ubBurstPenalty>10</ubBurstPenalty>
+		<ubBulletSpeed>21</ubBulletSpeed>
+		<ubImpact>33</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<ubMagSize>15</ubMagSize>
+		<usRange>250</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>387</sSound>
+		<sBurstSound>15</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<APsToReload>9</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>4</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>44</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4201</uiIndex>
@@ -3819,7 +4096,7 @@
 		<ubCalibre>33</ubCalibre>
 		<ubShotsPer4Turns>25.4</ubShotsPer4Turns>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>25</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>14</ubDeadliness>
 		<ubMagSize>8</ubMagSize>
 		<usRange>160</usRange>
@@ -5918,7 +6195,7 @@
 		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
 		<ubBurstPenalty>9</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>19</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>30</ubMagSize>
@@ -5959,7 +6236,7 @@
 		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
 		<ubBurstPenalty>9</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>30</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>19</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>30</ubMagSize>
@@ -5989,6 +6266,84 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>45</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4353</uiIndex>
+		<szWeaponName>Mendoza HM-3S</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>2</ubWeaponType>
+		<ubCalibre>69</ubCalibre>
+		<ubReadyTime>4</ubReadyTime>
+		<ubShotsPer4Turns>14.40</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>27</ubImpact>
+		<ubDeadliness>18</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>20</ubMagSize>
+		<usRange>180</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>27</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>425</sSound>
+		<sBurstSound>79</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
+		<APsToReload>16</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilX>0.5</bRecoilX>
+		<bRecoilY>3.5</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>9</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4354</uiIndex>
+		<szWeaponName>Mendoza HM-3S - folded</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>2</ubWeaponType>
+		<ubCalibre>69</ubCalibre>
+		<ubReadyTime>4</ubReadyTime>
+		<ubShotsPer4Turns>14.40</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>27</ubImpact>
+		<ubDeadliness>18</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>20</ubMagSize>
+		<usRange>120</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>27</BurstAniDelay>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>425</sSound>
+		<sBurstSound>79</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bAutofireShotsPerFiveAP>5</bAutofireShotsPerFiveAP>
+		<APsToReload>16</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>15</nAccuracy>
+		<bRecoilX>1.5</bRecoilX>
+		<bRecoilY>7</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>8</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4361</uiIndex>
@@ -6330,7 +6685,7 @@
 		<ubShotsPerBurst>3</ubShotsPerBurst>
 		<ubBurstPenalty>2</ubBurstPenalty>
 		<ubBulletSpeed>21</ubBulletSpeed>
-		<ubImpact>24</ubImpact>
+		<ubImpact>23</ubImpact>
 		<ubDeadliness>14</ubDeadliness>
 		<ubMagSize>24</ubMagSize>
 		<usRange>160</usRange>
@@ -9744,7 +10099,7 @@
 		<ubShotsPer4Turns>19.8</ubShotsPer4Turns>
 		<ubBurstPenalty>6</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>25</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>14</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>20</ubMagSize>
@@ -9785,7 +10140,7 @@
 		<ubShotsPer4Turns>19.8</ubShotsPer4Turns>
 		<ubBurstPenalty>6</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>25</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>14</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>20</ubMagSize>
@@ -10754,6 +11109,88 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>4582</uiIndex>
+		<szWeaponName>LWRC 45 SMG</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>3</ubCalibre>
+		<ubReadyTime>5</ubReadyTime>
+		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>22</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>300</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>43</BurstAniDelay>
+		<ubAttackVolume>52</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>416</sSound>
+		<sBurstSound>77</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>8</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>25</nAccuracy>
+		<bRecoilX>1</bRecoilX>
+		<bRecoilY>3.6</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4583</uiIndex>
+		<szWeaponName>LWRC 45 SMG - folded</szWeaponName>
+		<ubWeaponClass>2</ubWeaponClass>
+		<ubWeaponType>3</ubWeaponType>
+		<ubCalibre>3</ubCalibre>
+		<ubReadyTime>5</ubReadyTime>
+		<ubShotsPer4Turns>14.6</ubShotsPer4Turns>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>34</ubImpact>
+		<ubDeadliness>22</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>30</ubMagSize>
+		<usRange>200</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>43</BurstAniDelay>
+		<ubAttackVolume>52</ubAttackVolume>
+		<ubHitVolume>2</ubHitVolume>
+		<sSound>416</sSound>
+		<sBurstSound>77</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<sReloadSound>101</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>8</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<AutoPenalty>8</AutoPenalty>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>25</nAccuracy>
+		<bRecoilX>3</bRecoilX>
+		<bRecoilY>8.6</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>10</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>4591</uiIndex>
 		<szWeaponName>FN P90</szWeaponName>
 		<ubWeaponClass>2</ubWeaponClass>
@@ -10845,7 +11282,7 @@
 		<ubShotsPer4Turns>18.5</ubShotsPer4Turns>
 		<ubBurstPenalty>5</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>27</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>27</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>50</ubMagSize>
@@ -10886,7 +11323,7 @@
 		<ubShotsPer4Turns>18.5</ubShotsPer4Turns>
 		<ubBurstPenalty>5</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>27</ubImpact>
+		<ubImpact>28</ubImpact>
 		<ubDeadliness>27</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>50</ubMagSize>
@@ -12395,7 +12832,7 @@
 		<ubImpact>39</ubImpact>
 		<ubDeadliness>17</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
-		<ubMagSize>6</ubMagSize>
+		<ubMagSize>7</ubMagSize>
 		<usRange>370</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
@@ -12466,7 +12903,7 @@
 		<ubImpact>38</ubImpact>
 		<ubDeadliness>20</ubDeadliness>
 		<bAccuracy>8</bAccuracy>
-		<ubMagSize>9</ubMagSize>
+		<ubMagSize>8</ubMagSize>
 		<usRange>600</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
@@ -12502,7 +12939,7 @@
 		<ubImpact>38</ubImpact>
 		<ubDeadliness>20</ubDeadliness>
 		<bAccuracy>6</bAccuracy>
-		<ubMagSize>9</ubMagSize>
+		<ubMagSize>10</ubMagSize>
 		<usRange>500</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
@@ -12538,7 +12975,7 @@
 		<ubImpact>38</ubImpact>
 		<ubDeadliness>20</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
-		<ubMagSize>9</ubMagSize>
+		<ubMagSize>10</ubMagSize>
 		<usRange>500</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>43</BurstAniDelay>
@@ -14338,6 +14775,8 @@
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
 		<ubCalibre>24</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>13.6</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
 		<ubImpact>48</ubImpact>
 		<ubDeadliness>30</ubDeadliness>
@@ -14353,8 +14792,7 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
-		<APsToReload>28</APsToReload>
-		<SwapClips>1</SwapClips>
+		<APsToReload>8</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<EasyUnjam>1</EasyUnjam>
 		<APsToReloadManually>9</APsToReloadManually>
@@ -15041,7 +15479,7 @@
 		<ubReadyTime>6</ubReadyTime>
 		<ubShotsPer4Turns>15.8</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>27</ubImpact>
+		<ubImpact>26</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>30</ubMagSize>
@@ -15076,7 +15514,7 @@
 		<ubReadyTime>5</ubReadyTime>
 		<ubShotsPer4Turns>16.0</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>3</bAccuracy>
 		<ubMagSize>12</ubMagSize>
@@ -15111,7 +15549,7 @@
 		<ubReadyTime>5</ubReadyTime>
 		<ubShotsPer4Turns>16.0</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>25</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>3</bAccuracy>
 		<ubMagSize>12</ubMagSize>
@@ -15147,7 +15585,7 @@
 		<ubShotsPer4Turns>16.0</ubShotsPer4Turns>
 		<ubBurstPenalty>5</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>100</ubMagSize>
@@ -15185,7 +15623,7 @@
 		<ubShotsPer4Turns>16.0</ubShotsPer4Turns>
 		<ubBurstPenalty>5</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>26</ubImpact>
+		<ubImpact>24</ubImpact>
 		<ubDeadliness>18</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>100</ubMagSize>
@@ -15703,7 +16141,7 @@
 		<ubReadyTime>10</ubReadyTime>
 		<ubShotsPer4Turns>12.60</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>65</ubImpact>
+		<ubImpact>64</ubImpact>
 		<ubDeadliness>28</ubDeadliness>
 		<bAccuracy>4</bAccuracy>
 		<ubMagSize>4</ubMagSize>
@@ -16028,7 +16466,7 @@
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4891</uiIndex>
+		<uiIndex>4888</uiIndex>
 		<szWeaponName>Grendel R31</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -16063,7 +16501,7 @@
 		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4892</uiIndex>
+		<uiIndex>4889</uiIndex>
 		<szWeaponName>Grendel R31 -  collapsed</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -16099,7 +16537,7 @@
 		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>4896</uiIndex>
+		<uiIndex>4891</uiIndex>
 		<szWeaponName>AA Grendel AWS 20"</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubWeaponType>4</ubWeaponType>
@@ -16132,6 +16570,42 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>60.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>4896</uiIndex>
+		<szWeaponName>Winchester 1895</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>4</ubWeaponType>
+		<ubCalibre>75</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>13.6</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>45</ubImpact>
+		<ubDeadliness>28</ubDeadliness>
+		<bAccuracy>8</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>1500</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>90</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>363</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>8</APsToReload>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>9</APsToReloadManually>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>72</nAccuracy>
+		<bRecoilY>3</bRecoilY>
+		<ubAimLevels>7</ubAimLevels>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>40.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>4901</uiIndex>
@@ -19084,7 +19558,7 @@
 		<ubReadyTime>15</ubReadyTime>
 		<ubShotsPer4Turns>9.20</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>60</ubImpact>
+		<ubImpact>61</ubImpact>
 		<ubDeadliness>240</ubDeadliness>
 		<bAccuracy>5</bAccuracy>
 		<ubMagSize>5</ubMagSize>
@@ -19190,7 +19664,7 @@
 		<ubReadyTime>12</ubReadyTime>
 		<ubShotsPer4Turns>11.7</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>56</ubImpact>
+		<ubImpact>58</ubImpact>
 		<ubDeadliness>49</ubDeadliness>
 		<bAccuracy>11</bAccuracy>
 		<ubMagSize>5</ubMagSize>
@@ -33334,6 +33808,7 @@
 		<bBurstAP>4</bBurstAP>
 		<APsToReload>14</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
 		<ManualReloadSound>481</ManualReloadSound>
 		<nAccuracy>48</nAccuracy>
 		<bRecoilY>6</bRecoilY>
@@ -33365,7 +33840,7 @@
 		<sReloadSound>103</sReloadSound>
 		<sLocknLoadSound>109</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
-		<APsToReload>14</APsToReload>
+		<APsToReload>6</APsToReload>
 		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>481</ManualReloadSound>
 		<nAccuracy>45</nAccuracy>
@@ -33375,6 +33850,38 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5609</uiIndex>
+		<szWeaponName>Browning Auto-5</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>5</ubCalibre>
+		<ubReadyTime>9</ubReadyTime>
+		<ubShotsPer4Turns>12.2</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>50</ubImpact>
+		<ubDeadliness>29</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>5</ubMagSize>
+		<usRange>360</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>75</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>297</sSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>107</sLocknLoadSound>
+		<APsToReload>10</APsToReload>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>47</nAccuracy>
+		<bRecoilY>5.8</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>14</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>36</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5611</uiIndex>
@@ -33556,7 +34063,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5621</uiIndex>
+		<uiIndex>5618</uiIndex>
 		<szWeaponName>Ithaca Model 37</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -33593,7 +34100,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5622</uiIndex>
+		<uiIndex>5619</uiIndex>
 		<szWeaponName>Mossberg 500</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -33630,7 +34137,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5623</uiIndex>
+		<uiIndex>5621</uiIndex>
 		<szWeaponName>Remington M870</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -33665,6 +34172,42 @@
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5622</uiIndex>
+		<szWeaponName>Remington M870 SBS</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>5</ubCalibre>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>50</ubImpact>
+		<ubDeadliness>28</ubDeadliness>
+		<ubMagSize>5</ubMagSize>
+		<usRange>250</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>75</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>435</sSound>
+		<sBurstSound>3</sBurstSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>14</APsToReload>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>6</APsToReloadManually>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>40</nAccuracy>
+		<bRecoilY>6</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>11</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>35.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5624</uiIndex>
@@ -33779,7 +34322,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5627</uiIndex>
+		<uiIndex>5628</uiIndex>
 		<szWeaponName>Winchester 1200 Defender</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34517,7 +35060,7 @@
 		<usOverheatingSingleShotTemperature>40</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5666</uiIndex>
+		<uiIndex>5664</uiIndex>
 		<szWeaponName>KAC Masterkey</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34554,7 +35097,7 @@
 		<usOverheatingSingleShotTemperature>45</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5671</uiIndex>
+		<uiIndex>5666</uiIndex>
 		<szWeaponName>Baikal MP-133 *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34590,7 +35133,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5672</uiIndex>
+		<uiIndex>5667</uiIndex>
 		<szWeaponName>Baikal MP-233B *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34625,7 +35168,7 @@
 		<usOverheatingSingleShotTemperature>37.5</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5673</uiIndex>
+		<uiIndex>5668</uiIndex>
 		<szWeaponName>Chiappa Triple Threat *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34658,7 +35201,7 @@
 		<usOverheatingSingleShotTemperature>30</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5674</uiIndex>
+		<uiIndex>5669</uiIndex>
 		<szWeaponName>Fabarm FP6 *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34694,7 +35237,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5675</uiIndex>
+		<uiIndex>5670</uiIndex>
 		<szWeaponName>Fabarm SDASS *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34731,7 +35274,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5676</uiIndex>
+		<uiIndex>5671</uiIndex>
 		<szWeaponName>Ithaca Model 37 *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34768,7 +35311,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5677</uiIndex>
+		<uiIndex>5672</uiIndex>
 		<szWeaponName>Mossberg 500 *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34805,7 +35348,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5678</uiIndex>
+		<uiIndex>5674</uiIndex>
 		<szWeaponName>Remington M870 *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34842,7 +35385,43 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5679</uiIndex>
+		<uiIndex>5675</uiIndex>
+		<szWeaponName>Remington M870 SBS *</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>70</ubCalibre>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>35</ubImpact>
+		<ubDeadliness>28</ubDeadliness>
+		<ubMagSize>7</ubMagSize>
+		<usRange>220</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>75</ubAttackVolume>
+		<ubHitVolume>6</ubHitVolume>
+		<sSound>435</sSound>
+		<sBurstSound>3</sBurstSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>109</sLocknLoadSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>20</bBurstAP>
+		<APsToReload>14</APsToReload>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>6</APsToReloadManually>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>40</nAccuracy>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>11</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5677</uiIndex>
 		<szWeaponName>Remington M870 Sawed-off *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34879,7 +35458,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5680</uiIndex>
+		<uiIndex>5678</uiIndex>
 		<szWeaponName>Remington 870 SPM *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -34916,7 +35495,7 @@
 		<usOverheatingSingleShotTemperature>35</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5681</uiIndex>
+		<uiIndex>5679</uiIndex>
 		<szWeaponName>Remington 870 SPM - folded *</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
@@ -35471,7 +36050,7 @@
 		<ubShotsPer4Turns>11.7</ubShotsPer4Turns>
 		<ubBurstPenalty>12</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>55</ubImpact>
+		<ubImpact>54</ubImpact>
 		<ubDeadliness>59</ubDeadliness>
 		<ubMagSize>10</ubMagSize>
 		<usRange>400</usRange>
@@ -35511,7 +36090,7 @@
 		<ubShotsPer4Turns>11.7</ubShotsPer4Turns>
 		<ubBurstPenalty>12</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>55</ubImpact>
+		<ubImpact>54</ubImpact>
 		<ubDeadliness>59</ubDeadliness>
 		<ubMagSize>10</ubMagSize>
 		<usRange>400</usRange>
@@ -35551,7 +36130,7 @@
 		<ubShotsPer4Turns>11.7</ubShotsPer4Turns>
 		<ubBurstPenalty>12</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>55</ubImpact>
+		<ubImpact>54</ubImpact>
 		<ubDeadliness>59</ubDeadliness>
 		<bAccuracy>-2</bAccuracy>
 		<ubMagSize>10</ubMagSize>
@@ -35591,7 +36170,7 @@
 		<ubReadyTime>8</ubReadyTime>
 		<ubShotsPer4Turns>12.7</ubShotsPer4Turns>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>54</ubImpact>
+		<ubImpact>56</ubImpact>
 		<ubDeadliness>48</ubDeadliness>
 		<bAccuracy>1</bAccuracy>
 		<ubMagSize>5</ubMagSize>
@@ -35619,659 +36198,170 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5701</uiIndex>
-		<szWeaponName>HK Emergency Flare Launcher</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubShotsPer4Turns>12.50</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>15</ubDeadliness>
-		<ubMagSize>5</ubMagSize>
-		<usRange>560</usRange>
+		<szWeaponName>Marlin 410</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>280</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>30</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sReloadSound>100</sReloadSound>
-		<sLocknLoadSound>106</sLocknLoadSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<ManualReloadSound>480</ManualReloadSound>
+		<ubAttackVolume>58</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<APsToReload>12</APsToReload>
+		<MaxDistForMessyDeath>6</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>6</APsToReloadManually>
+		<ManualReloadSound>478</ManualReloadSound>
+		<nAccuracy>54</nAccuracy>
+		<bRecoilY>2.5</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>12</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>35.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5702</uiIndex>
-		<szWeaponName>M210 Flare Gun</szWeaponName>
-		<ubWeaponClass>1</ubWeaponClass>
-		<ubShotsPer4Turns>11.80</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>17</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>480</usRange>
+		<szWeaponName>Mossberg 500E</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>12.8</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>300</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>28</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>397</sSound>
-		<sReloadSound>99</sReloadSound>
-		<sLocknLoadSound>105</sLocknLoadSound>
-		<APsToReload>18</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<EasyUnjam>1</EasyUnjam>
-		<ManualReloadSound>480</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5703</uiIndex>
-		<szWeaponName>M64 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>10.70</ubShotsPer4Turns>
-		<ubShotsPerBurst>2</ubShotsPerBurst>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>24</ubDeadliness>
-		<bAccuracy>4</bAccuracy>
-		<ubMagSize>2</ubMagSize>
-		<usRange>640</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>38</ubAttackVolume>
-		<ubHitVolume>8</ubHitVolume>
-		<sSound>397</sSound>
-		<sReloadSound>103</sReloadSound>
+		<ubAttackVolume>56</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>102</sReloadSound>
 		<sLocknLoadSound>108</sLocknLoadSound>
-		<bBurstAP>4</bBurstAP>
 		<APsToReload>12</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5706</uiIndex>
-		<szWeaponName>XM-25 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>11</ubReadyTime>
-		<ubShotsPer4Turns>9.00</ubShotsPer4Turns>
-		<ubBurstPenalty>8</ubBurstPenalty>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>65</ubDeadliness>
-		<ubMagSize>6</ubMagSize>
-		<usRange>1000</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>446</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>28</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>9</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>11</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5711</uiIndex>
-		<szWeaponName>M79 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>5</ubReadyTime>
-		<ubShotsPer4Turns>8.60</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>3</bAccuracy>
-		<ubMagSize>1</ubMagSize>
-		<usRange>900</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>5</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5712</uiIndex>
-		<szWeaponName>M79 CAW</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>2</ubReadyTime>
-		<ubShotsPer4Turns>10.70</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>700</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5713</uiIndex>
-		<szWeaponName>EX-41</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>10</ubReadyTime>
-		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>1</bAccuracy>
-		<ubMagSize>4</ubMagSize>
-		<usRange>840</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5714</uiIndex>
-		<szWeaponName>KAC Launcher System</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>7</ubReadyTime>
-		<ubShotsPer4Turns>9.20</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>1</bAccuracy>
-		<ubMagSize>1</ubMagSize>
-		<usRange>760</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5715</uiIndex>
-		<szWeaponName>Colt Launcher System</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>7</ubReadyTime>
-		<ubShotsPer4Turns>8.20</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>6</bAccuracy>
-		<ubMagSize>1</ubMagSize>
-		<usRange>840</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>7</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5716</uiIndex>
-		<szWeaponName>Milkor MGL-140 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>10</ubReadyTime>
-		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>75</ubDeadliness>
-		<bAccuracy>2</bAccuracy>
-		<ubMagSize>6</ubMagSize>
-		<usRange>840</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>404</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>20</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>15</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5717</uiIndex>
-		<szWeaponName>Sage Deuce</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>8</ubReadyTime>
-		<ubShotsPer4Turns>12</ubShotsPer4Turns>
-		<ubShotsPerBurst>2</ubShotsPerBurst>
-		<ubBurstPenalty>6</ubBurstPenalty>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>38</ubDeadliness>
-		<bAccuracy>3</bAccuracy>
-		<ubMagSize>2</ubMagSize>
-		<usRange>720</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>25</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>407</sSound>
-		<sBurstSound>74</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>2</bAutofireShotsPerFiveAP>
-		<APsToReload>20</APsToReload>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<AutoPenalty>6</AutoPenalty>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5721</uiIndex>
-		<szWeaponName>RGM Kastet Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>1</ubReadyTime>
-		<ubShotsPer4Turns>8.40</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>50</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>800</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>406</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>1</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5722</uiIndex>
-		<szWeaponName>RG-6 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>10</ubReadyTime>
-		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>70</ubDeadliness>
-		<bAccuracy>2</bAccuracy>
-		<ubMagSize>6</ubMagSize>
-		<usRange>800</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>406</sSound>
-		<APsToReload>28</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5726</uiIndex>
-		<szWeaponName>GM-94 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>8</ubReadyTime>
-		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
-		<ubBurstPenalty>8</ubBurstPenalty>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>75</ubDeadliness>
-		<bAccuracy>2</bAccuracy>
-		<ubMagSize>4</ubMagSize>
-		<usRange>840</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>408</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>20</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>13</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5728</uiIndex>
-		<szWeaponName>Metalstorm Launcher System</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>8</ubReadyTime>
-		<ubShotsPer4Turns>9.00</ubShotsPer4Turns>
-		<ubShotsPerBurst>3</ubShotsPerBurst>
-		<ubBurstPenalty>8</ubBurstPenalty>
-		<ubMagSize>3</ubMagSize>
-		<usRange>740</usRange>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>12</bBurstAP>
-		<APsToReload>20</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5730</uiIndex>
-		<szWeaponName>Colt M203 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>7</ubReadyTime>
-		<ubShotsPer4Turns>7.8</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>750</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>25</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>15</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5731</uiIndex>
-		<szWeaponName>Colt M203PI Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>680</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5732</uiIndex>
-		<szWeaponName>HK AG36 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.60</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>55</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>700</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>401</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>15</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5733</uiIndex>
-		<szWeaponName>FN EGLM Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>35</ubDeadliness>
-		<bAccuracy>4</bAccuracy>
-		<ubMagSize>1</ubMagSize>
-		<usRange>760</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>402</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>12</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5734</uiIndex>
-		<szWeaponName>HK 79 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>8</ubReadyTime>
-		<ubShotsPer4Turns>7.00</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>60</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>880</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>403</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5735</uiIndex>
-		<szWeaponName>F2000 Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>50</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>740</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>469</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>32</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>12</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5741</uiIndex>
-		<szWeaponName>GP-25 Kostyor Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.60</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>50</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>660</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>405</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>24</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
+		<MaxDistForMessyDeath>6</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<APsToReloadManually>8</APsToReloadManually>
+		<ManualReloadSound>481</ManualReloadSound>
+		<nAccuracy>56</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
 		<Handling>14</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>30.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5742</uiIndex>
-		<szWeaponName>GP-30 Obuvka Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
+		<uiIndex>5706</uiIndex>
+		<szWeaponName>Saiga 410K</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
 		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>7.20</ubShotsPer4Turns>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>50</ubDeadliness>
-		<ubMagSize>1</ubMagSize>
-		<usRange>720</usRange>
+		<ubShotsPer4Turns>16.5</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>240</usRange>
 		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>405</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<APsToReload>16</APsToReload>
-		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
-		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>16</Handling>
-		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
-		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
-	</WEAPON>
-	<WEAPON>
-		<uiIndex>5746</uiIndex>
-		<szWeaponName>AICW Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
-		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>8.40</ubShotsPer4Turns>
-		<ubShotsPerBurst>3</ubShotsPerBurst>
-		<ubBurstPenalty>8</ubBurstPenalty>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>65</ubDeadliness>
-		<ubMagSize>3</ubMagSize>
-		<usRange>700</usRange>
-		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>50</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>407</sSound>
-		<sBurstSound>74</sBurstSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
-		<bBurstAP>12</bBurstAP>
-		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<BurstAniDelay>41</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
 		<APsToReload>24</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>6</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>13</Handling>
+		<nAccuracy>50</nAccuracy>
+		<bRecoilY>2.5</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>11</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>30.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5747</uiIndex>
-		<szWeaponName>OICW Grenade Launcher</szWeaponName>
-		<ubWeaponClass>3</ubWeaponClass>
+		<uiIndex>5707</uiIndex>
+		<szWeaponName>Saiga 410K - folded</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
 		<ubReadyTime>6</ubReadyTime>
-		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
-		<ubBurstPenalty>8</ubBurstPenalty>
-		<ubBulletSpeed>30</ubBulletSpeed>
-		<ubDeadliness>55</ubDeadliness>
-		<ubMagSize>6</ubMagSize>
-		<usRange>700</usRange>
+		<ubShotsPer4Turns>16.5</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>160</usRange>
 		<usReloadDelay>200</usReloadDelay>
-		<BurstAniDelay>100</BurstAniDelay>
-		<ubAttackVolume>20</ubAttackVolume>
-		<ubHitVolume>10</ubHitVolume>
-		<sSound>397</sSound>
-		<sSilencedBurstSound>111</sSilencedBurstSound>
-		<SilencedSound>157</SilencedSound>
+		<BurstAniDelay>41</BurstAniDelay>
+		<ubAttackVolume>60</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
 		<APsToReload>24</APsToReload>
 		<SwapClips>1</SwapClips>
-		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<MaxDistForMessyDeath>10</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
-		<Handling>15</Handling>
+		<nAccuracy>50</nAccuracy>
+		<bRecoilY>2.5</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>9</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
-		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+		<usOverheatingSingleShotTemperature>30.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5708</uiIndex>
+		<szWeaponName>Saiga 410</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>78</ubCalibre>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>14.2</ubShotsPer4Turns>
+		<ubBulletSpeed>22</ubBulletSpeed>
+		<ubImpact>36</ubImpact>
+		<ubDeadliness>20</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>10</ubMagSize>
+		<usRange>280</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>58</ubAttackVolume>
+		<ubHitVolume>4</ubHitVolume>
+		<sSound>389</sSound>
+		<sReloadSound>102</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>6</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>48</nAccuracy>
+		<bRecoilY>2</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>14</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>30.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5751</uiIndex>
@@ -36343,6 +36433,110 @@
 		<MaxDistForMessyDeath>30</MaxDistForMessyDeath>
 		<ManualReloadSound>476</ManualReloadSound>
 		<Handling>1</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5756</uiIndex>
+		<szWeaponName>XM-25 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>11</ubReadyTime>
+		<ubShotsPer4Turns>9.00</ubShotsPer4Turns>
+		<ubBurstPenalty>8</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>65</ubDeadliness>
+		<ubMagSize>6</ubMagSize>
+		<usRange>1000</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>446</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>9</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>11</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5757</uiIndex>
+		<szWeaponName>HK Emergency Flare Launcher</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubShotsPer4Turns>12.50</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>15</ubDeadliness>
+		<ubMagSize>5</ubMagSize>
+		<usRange>560</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>30</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sReloadSound>100</sReloadSound>
+		<sLocknLoadSound>106</sLocknLoadSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<ManualReloadSound>480</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5758</uiIndex>
+		<szWeaponName>M210 Flare Gun</szWeaponName>
+		<ubWeaponClass>1</ubWeaponClass>
+		<ubShotsPer4Turns>11.80</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>17</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>480</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>28</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>397</sSound>
+		<sReloadSound>99</sReloadSound>
+		<sLocknLoadSound>105</sLocknLoadSound>
+		<APsToReload>18</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<EasyUnjam>1</EasyUnjam>
+		<ManualReloadSound>480</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5759</uiIndex>
+		<szWeaponName>M64 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>10.70</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>24</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>2</ubMagSize>
+		<usRange>640</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>38</ubAttackVolume>
+		<ubHitVolume>8</ubHitVolume>
+		<sSound>397</sSound>
+		<sReloadSound>103</sReloadSound>
+		<sLocknLoadSound>108</sLocknLoadSound>
+		<bBurstAP>4</bBurstAP>
+		<APsToReload>12</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
@@ -36512,7 +36706,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5771</uiIndex>
+		<uiIndex>5768</uiIndex>
 		<szWeaponName>RPG-7</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>6</ubReadyTime>
@@ -36542,7 +36736,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5772</uiIndex>
+		<uiIndex>5769</uiIndex>
 		<szWeaponName>Type 69</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>6</ubReadyTime>
@@ -36572,7 +36766,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5773</uiIndex>
+		<uiIndex>5770</uiIndex>
 		<szWeaponName>RPG-16 Grom</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>8</ubReadyTime>
@@ -36602,7 +36796,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5781</uiIndex>
+		<uiIndex>5772</uiIndex>
 		<szWeaponName>Bazooka M1A1</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>8</ubReadyTime>
@@ -36630,7 +36824,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5782</uiIndex>
+		<uiIndex>5773</uiIndex>
 		<szWeaponName>Carl-Gustaf M3</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>8</ubReadyTime>
@@ -36660,7 +36854,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5783</uiIndex>
+		<uiIndex>5774</uiIndex>
 		<szWeaponName>Panzerschreck</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubShotsPer4Turns>7.0</ubShotsPer4Turns>
@@ -36686,7 +36880,7 @@
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
-		<uiIndex>5791</uiIndex>
+		<uiIndex>5775</uiIndex>
 		<szWeaponName>M202 Flash</szWeaponName>
 		<ubWeaponClass>3</ubWeaponClass>
 		<ubReadyTime>8</ubReadyTime>
@@ -36710,6 +36904,558 @@
 		<nAccuracy>10</nAccuracy>
 		<ubAimLevels>5</ubAimLevels>
 		<Handling>1</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5776</uiIndex>
+		<szWeaponName>M79 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>5</ubReadyTime>
+		<ubShotsPer4Turns>8.60</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>900</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>5</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5777</uiIndex>
+		<szWeaponName>M79 CAW</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>2</ubReadyTime>
+		<ubShotsPer4Turns>10.70</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>700</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5778</uiIndex>
+		<szWeaponName>EX-41</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>1</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>840</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5779</uiIndex>
+		<szWeaponName>KAC Launcher System</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>9.20</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>1</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>760</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5780</uiIndex>
+		<szWeaponName>Colt Launcher System</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>8.20</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>6</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>840</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>7</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5781</uiIndex>
+		<szWeaponName>Milkor MGL-140 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>75</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>840</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>404</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>14</APsToReload>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5782</uiIndex>
+		<szWeaponName>Sage Deuce</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>12</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>38</ubDeadliness>
+		<bAccuracy>3</bAccuracy>
+		<ubMagSize>2</ubMagSize>
+		<usRange>720</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>25</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>407</sSound>
+		<sBurstSound>74</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>2</bAutofireShotsPerFiveAP>
+		<APsToReload>14</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<AutoPenalty>6</AutoPenalty>
+		<Handling>8</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5783</uiIndex>
+		<szWeaponName>RGM Kastet Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>1</ubReadyTime>
+		<ubShotsPer4Turns>8.40</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>50</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>800</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>406</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>1</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5784</uiIndex>
+		<szWeaponName>RG-6 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>70</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>800</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>406</sSound>
+		<APsToReload>28</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5785</uiIndex>
+		<szWeaponName>GM-94 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
+		<ubBurstPenalty>8</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>75</ubDeadliness>
+		<bAccuracy>2</bAccuracy>
+		<ubMagSize>4</ubMagSize>
+		<usRange>840</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>408</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>13</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5786</uiIndex>
+		<szWeaponName>Metalstorm Launcher System</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>9.00</ubShotsPer4Turns>
+		<ubShotsPerBurst>3</ubShotsPerBurst>
+		<ubBurstPenalty>8</ubBurstPenalty>
+		<ubMagSize>3</ubMagSize>
+		<usRange>740</usRange>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<APsToReload>20</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5791</uiIndex>
+		<szWeaponName>Colt M203 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>7</ubReadyTime>
+		<ubShotsPer4Turns>7.8</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>60</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>750</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>25</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>403</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5792</uiIndex>
+		<szWeaponName>Colt M203PI Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>60</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>680</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>403</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>16</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5793</uiIndex>
+		<szWeaponName>HK AG36 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.60</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>55</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>700</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>401</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5794</uiIndex>
+		<szWeaponName>FN EGLM Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>35</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>1</ubMagSize>
+		<usRange>760</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>402</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5795</uiIndex>
+		<szWeaponName>HK 79 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>7.00</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>60</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>880</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>403</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>16</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5796</uiIndex>
+		<szWeaponName>F2000 Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.80</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>50</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>740</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>469</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>32</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>12</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5797</uiIndex>
+		<szWeaponName>AICW Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>8.40</ubShotsPer4Turns>
+		<ubShotsPerBurst>3</ubShotsPerBurst>
+		<ubBurstPenalty>8</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>65</ubDeadliness>
+		<ubMagSize>3</ubMagSize>
+		<usRange>700</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>50</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>407</sSound>
+		<sBurstSound>74</sBurstSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<bBurstAP>12</bBurstAP>
+		<bAutofireShotsPerFiveAP>3</bAutofireShotsPerFiveAP>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>13</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5798</uiIndex>
+		<szWeaponName>OICW Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>8.00</ubShotsPer4Turns>
+		<ubBurstPenalty>8</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>55</ubDeadliness>
+		<ubMagSize>6</ubMagSize>
+		<usRange>700</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>397</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5799</uiIndex>
+		<szWeaponName>GP-25 Kostyor Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.60</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>50</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>660</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>405</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>24</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>14</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5800</uiIndex>
+		<szWeaponName>GP-30 Obuvka Grenade Launcher</szWeaponName>
+		<ubWeaponClass>3</ubWeaponClass>
+		<ubReadyTime>6</ubReadyTime>
+		<ubShotsPer4Turns>7.20</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubDeadliness>50</ubDeadliness>
+		<ubMagSize>1</ubMagSize>
+		<usRange>720</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>405</sSound>
+		<sSilencedBurstSound>111</sSilencedBurstSound>
+		<SilencedSound>157</SilencedSound>
+		<APsToReload>16</APsToReload>
+		<SwapClips>1</SwapClips>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<Handling>16</Handling>
 		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
 		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
 		<usOverheatingSingleShotTemperature>80</usOverheatingSingleShotTemperature>
@@ -37491,7 +38237,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5911</uiIndex>
-		<szWeaponName>M79 Direct Shot Launcher</szWeaponName>
+		<szWeaponName>M79 DS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>54</ubCalibre>
@@ -37523,7 +38269,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5912</uiIndex>
-		<szWeaponName>M79 CAW Direct Shot</szWeaponName>
+		<szWeaponName>M79 CAW DS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>54</ubCalibre>
@@ -37554,7 +38300,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5913</uiIndex>
-		<szWeaponName>EX-41 Direct Shot</szWeaponName>
+		<szWeaponName>EX-41 DS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>54</ubCalibre>
@@ -37588,7 +38334,7 @@
 	</WEAPON>
 	<WEAPON>
 		<uiIndex>5914</uiIndex>
-		<szWeaponName>KAC Launcher System Direct Shot</szWeaponName>
+		<szWeaponName>KAC Launcher System DS</szWeaponName>
 		<ubWeaponClass>5</ubWeaponClass>
 		<ubWeaponType>8</ubWeaponType>
 		<ubCalibre>54</ubCalibre>
@@ -37650,6 +38396,72 @@
 		<usOverheatingSingleShotTemperature>50.0</usOverheatingSingleShotTemperature>
 	</WEAPON>
 	<WEAPON>
+		<uiIndex>5916</uiIndex>
+		<szWeaponName>Milkor MGL-140 DS</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>54</ubCalibre>
+		<ubReadyTime>10</ubReadyTime>
+		<ubShotsPer4Turns>8</ubShotsPer4Turns>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubImpact>55</ubImpact>
+		<ubDeadliness>75</ubDeadliness>
+		<bAccuracy>5</bAccuracy>
+		<ubMagSize>6</ubMagSize>
+		<usRange>700</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>20</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>404</sSound>
+		<sReloadSound>103</sReloadSound>
+		<APsToReload>12</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>48</nAccuracy>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>5</ubAimLevels>
+		<Handling>15</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>10.0</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
+		<uiIndex>5917</uiIndex>
+		<szWeaponName>Sage Deuce DS</szWeaponName>
+		<ubWeaponClass>5</ubWeaponClass>
+		<ubWeaponType>8</ubWeaponType>
+		<ubCalibre>54</ubCalibre>
+		<ubReadyTime>8</ubReadyTime>
+		<ubShotsPer4Turns>12</ubShotsPer4Turns>
+		<ubShotsPerBurst>2</ubShotsPerBurst>
+		<ubBurstPenalty>6</ubBurstPenalty>
+		<ubBulletSpeed>30</ubBulletSpeed>
+		<ubImpact>48</ubImpact>
+		<ubDeadliness>38</ubDeadliness>
+		<bAccuracy>4</bAccuracy>
+		<ubMagSize>2</ubMagSize>
+		<usRange>650</usRange>
+		<usReloadDelay>200</usReloadDelay>
+		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>25</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>407</sSound>
+		<sBurstSound>74</sBurstSound>
+		<sReloadSound>103</sReloadSound>
+		<bBurstAP>12</bBurstAP>
+		<APsToReload>20</APsToReload>
+		<MaxDistForMessyDeath>7</MaxDistForMessyDeath>
+		<ManualReloadSound>476</ManualReloadSound>
+		<nAccuracy>38</nAccuracy>
+		<bRecoilY>4</bRecoilY>
+		<ubAimLevels>4</ubAimLevels>
+		<Handling>10</Handling>
+		<usOverheatingJamThreshold>4000</usOverheatingJamThreshold>
+		<usOverheatingDamageThreshold>5000</usOverheatingDamageThreshold>
+		<usOverheatingSingleShotTemperature>10</usOverheatingSingleShotTemperature>
+	</WEAPON>
+	<WEAPON>
 		<uiIndex>5981</uiIndex>
 		<szWeaponName>M134 Minigun</szWeaponName>
 		<ubWeaponClass>4</ubWeaponClass>
@@ -37659,7 +38471,7 @@
 		<ubShotsPer4Turns>25.00</ubShotsPer4Turns>
 		<ubBurstPenalty>5</ubBurstPenalty>
 		<ubBulletSpeed>22</ubBulletSpeed>
-		<ubImpact>50</ubImpact>
+		<ubImpact>44</ubImpact>
 		<ubDeadliness>100</ubDeadliness>
 		<bAccuracy>6</bAccuracy>
 		<ubMagSize>2000</ubMagSize>

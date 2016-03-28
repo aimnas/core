@@ -389,12 +389,12 @@
 		<uiIndex>7</uiIndex>
 		<name>Grenade Launchers</name>
 		<ubChoices>6</ubChoices>
-		<bItemNo1>5711</bItemNo1>
-		<bItemNo2>5716</bItemNo2>
-		<bItemNo3>5721</bItemNo3>
-		<bItemNo4>5711</bItemNo4>
-		<bItemNo5>5715</bItemNo5>
-		<bItemNo6>5726</bItemNo6>
+		<bItemNo1>5776</bItemNo1>
+		<bItemNo2>5781</bItemNo2>
+		<bItemNo3>5783</bItemNo3>
+		<bItemNo4>5776</bItemNo4>
+		<bItemNo5>5780</bItemNo5>
+		<bItemNo6>5785</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
@@ -499,10 +499,10 @@
 		<uiIndex>9</uiIndex>
 		<name>Multi-shot Rocket Launchers</name>
 		<ubChoices>4</ubChoices>
-		<bItemNo1>5771</bItemNo1>
-		<bItemNo2>5773</bItemNo2>
-		<bItemNo3>5772</bItemNo3>
-		<bItemNo4>5781</bItemNo4>
+		<bItemNo1>5768</bItemNo1>
+		<bItemNo2>5770</bItemNo2>
+		<bItemNo3>5769</bItemNo3>
+		<bItemNo4>5772</bItemNo4>
 		<bItemNo5>0</bItemNo5>
 		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
@@ -1079,10 +1079,10 @@
 		<bItemNo28>0</bItemNo28>
 		<bItemNo29>34</bItemNo29>
 		<bItemNo30>43</bItemNo30>
-		<bItemNo31>0</bItemNo31>
-		<bItemNo32>0</bItemNo32>
-		<bItemNo33>0</bItemNo33>
-		<bItemNo34>0</bItemNo34>
+		<bItemNo31>53</bItemNo31>
+		<bItemNo32>52</bItemNo32>
+		<bItemNo33>23</bItemNo33>
+		<bItemNo34>25</bItemNo34>
 		<bItemNo35>0</bItemNo35>
 		<bItemNo36>0</bItemNo36>
 		<bItemNo37>0</bItemNo37>

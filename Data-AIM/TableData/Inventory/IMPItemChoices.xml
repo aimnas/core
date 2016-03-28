@@ -27,7 +27,7 @@
 		<bItemNo20>0</bItemNo20>
 		<bItemNo21>751</bItemNo21>
 		<bItemNo22>752</bItemNo22>
-		<bItemNo23>772</bItemNo23>
+		<bItemNo23>773</bItemNo23>
 		<bItemNo24>821</bItemNo24>
 		<bItemNo25>823</bItemNo25>
 		<bItemNo26>824</bItemNo26>
@@ -477,7 +477,7 @@
 		<bItemNo22>4361</bItemNo22>
 		<bItemNo23>4741</bItemNo23>
 		<bItemNo24>4821</bItemNo24>
-		<bItemNo25>5623</bItemNo25>
+		<bItemNo25>5621</bItemNo25>
 		<bItemNo26>0</bItemNo26>
 		<bItemNo27>0</bItemNo27>
 		<bItemNo28>0</bItemNo28>
@@ -733,7 +733,7 @@
 		<name>Heavy Weapons</name>
 		<ubChoices>5</ubChoices>
 		<ubNumItems>5</ubNumItems>
-		<bItemNo1>5711</bItemNo1>
+		<bItemNo1>5776</bItemNo1>
 		<bItemNo2>2321</bItemNo2>
 		<bItemNo3>2321</bItemNo3>
 		<bItemNo4>2321</bItemNo4>
@@ -1909,7 +1909,7 @@
 		<name>HEAVY EXPERT</name>
 		<ubChoices>5</ubChoices>
 		<ubNumItems>5</ubNumItems>
-		<bItemNo1>5711</bItemNo1>
+		<bItemNo1>5776</bItemNo1>
 		<bItemNo2>2321</bItemNo2>
 		<bItemNo3>2321</bItemNo3>
 		<bItemNo4>2321</bItemNo4>
