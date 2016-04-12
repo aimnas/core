@@ -13,8 +13,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>11</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>104</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -36,8 +36,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>1</uiIndex>
@@ -52,8 +52,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>18</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>155</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -75,8 +75,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>2</uiIndex>
@@ -91,8 +91,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -114,8 +114,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>3</uiIndex>
@@ -130,8 +130,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>110</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -153,8 +153,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>4</uiIndex>
@@ -169,8 +169,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -192,8 +192,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>5</uiIndex>
@@ -208,8 +208,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -231,8 +231,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>6</uiIndex>
@@ -247,8 +247,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>4</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>3</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -270,8 +270,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>7</uiIndex>
@@ -286,8 +286,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -309,8 +309,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>8</uiIndex>
@@ -325,8 +325,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -348,8 +348,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>9</uiIndex>
@@ -364,8 +364,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>4</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>3</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -387,8 +387,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>10</uiIndex>
@@ -403,8 +403,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>4</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>3</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -426,8 +426,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>11</uiIndex>
@@ -442,8 +442,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -465,8 +465,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>12</uiIndex>
@@ -481,8 +481,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -504,8 +504,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>13</uiIndex>
@@ -520,8 +520,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>17</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>145</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -543,8 +543,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>14</uiIndex>
@@ -559,8 +559,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>27</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>250</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -582,8 +582,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>15</uiIndex>
@@ -598,7 +598,7 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>94</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
@@ -621,8 +621,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>16</uiIndex>
@@ -637,7 +637,7 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>96</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
@@ -660,8 +660,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>17</uiIndex>
@@ -699,8 +699,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>18</uiIndex>
@@ -738,8 +738,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>19</uiIndex>
@@ -777,8 +777,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>20</uiIndex>
@@ -793,8 +793,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>16</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>135</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -816,8 +816,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>21</uiIndex>
@@ -832,7 +832,7 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>75</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>84</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
@@ -855,8 +855,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>22</uiIndex>
@@ -871,8 +871,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>11</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>105</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -894,12 +894,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>23</uiIndex>
-		<name>AP/FMJ small Non Standard</name>
+		<name>AP/FMJ small Handgun</name>
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -910,8 +910,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -933,12 +933,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>24</uiIndex>
-		<name>unused 2</name>
+		<name>Cold Glaser FMJ</name>
 		<fontColour>184</fontColour>
 		<grayed>12</grayed>
 		<offNormal>21</offNormal>
@@ -949,8 +949,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>26</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>175</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -972,8 +972,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
@@ -988,8 +988,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>115</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1011,8 +1011,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>26</uiIndex>
@@ -1027,8 +1027,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>3</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1050,8 +1050,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>27</uiIndex>
@@ -1066,8 +1066,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1089,12 +1089,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>28</uiIndex>
-		<name>Crossbow HE</name>
+		<name>HE Crossbow Bolt</name>
 		<fontColour>75</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -1105,8 +1105,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>4</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>3</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1128,8 +1128,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>29</uiIndex>
@@ -1144,8 +1144,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>20</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>162</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1167,8 +1167,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>30</uiIndex>
@@ -1183,8 +1183,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>14</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>125</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1206,8 +1206,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>31</uiIndex>
@@ -1222,8 +1222,8 @@
 		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>102</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1245,8 +1245,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>32</uiIndex>
@@ -1261,8 +1261,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>101</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1284,8 +1284,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>33</uiIndex>
@@ -1300,8 +1300,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>19</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>159</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1323,8 +1323,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>34</uiIndex>
@@ -1339,8 +1339,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>108</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1362,8 +1362,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>35</uiIndex>
@@ -1378,8 +1378,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>13</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>112</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1401,8 +1401,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>36</uiIndex>
@@ -1417,8 +1417,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>105</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1440,8 +1440,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
@@ -1456,8 +1456,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>5</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>4</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>98</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1479,8 +1479,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>38</uiIndex>
@@ -1495,11 +1495,11 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>11</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>105</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
-		<standardIssue>0</standardIssue>
+		<standardIssue>1</standardIssue>
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
@@ -1518,8 +1518,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
@@ -1534,8 +1534,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>21</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>165</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1557,8 +1557,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>40</uiIndex>
@@ -1573,7 +1573,7 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageMultiplier>98</afterArmourDamageMultiplier>
 		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
@@ -1596,8 +1596,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>41</uiIndex>
@@ -1612,8 +1612,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>3</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>18</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>180</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1635,8 +1635,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>42</uiIndex>
@@ -1651,8 +1651,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>4</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>3</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>18</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>180</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1674,8 +1674,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>43</uiIndex>
@@ -1690,8 +1690,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>110</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1713,8 +1713,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>44</uiIndex>
@@ -1729,8 +1729,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>25</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>175</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1752,8 +1752,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>45</uiIndex>
@@ -1768,8 +1768,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>20</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>146</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1791,8 +1791,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>46</uiIndex>
@@ -1807,8 +1807,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>13</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>115</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1830,8 +1830,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>47</uiIndex>
@@ -1846,8 +1846,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>7</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>10</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>7</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>70</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1869,8 +1869,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.4</dDamageModifierLife>
+		<dDamageModifierBreath>1.6</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>48</uiIndex>
@@ -1885,8 +1885,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>13</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>118</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -1908,8 +1908,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>49</uiIndex>
@@ -1924,8 +1924,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>17</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>160</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1947,8 +1947,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>50</uiIndex>
@@ -1963,8 +1963,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -1986,8 +1986,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.8</dDamageModifierLife>
+		<dDamageModifierBreath>1.2</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>51</uiIndex>
@@ -2002,8 +2002,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>120</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2025,12 +2025,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>52</uiIndex>
-		<name>AP/FMJ medium Non Standard</name>
+		<name>AP/FMJ medium Handgun</name>
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -2041,8 +2041,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>101</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2064,12 +2064,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>53</uiIndex>
-		<name>AP/FMJ large Non Standard</name>
+		<name>AP/FMJ large Handgun</name>
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -2080,8 +2080,8 @@
 		<armourImpactReductionDivisor>3</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>102</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2103,8 +2103,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>54</uiIndex>
@@ -2119,8 +2119,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>124</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2142,8 +2142,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>55</uiIndex>
@@ -2158,8 +2158,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>13</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>128</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2181,8 +2181,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>56</uiIndex>
@@ -2197,8 +2197,8 @@
 		<armourImpactReductionDivisor>4</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>14</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>132</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2220,12 +2220,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>57</uiIndex>
-		<name>40mm Buckshot </name>
+		<name>Buckshot 40mm</name>
 		<fontColour>125</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -2236,8 +2236,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2259,8 +2259,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>58</uiIndex>
@@ -2275,8 +2275,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>120</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2298,8 +2298,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>59</uiIndex>
@@ -2314,8 +2314,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2337,12 +2337,12 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>60</uiIndex>
-		<name>40mm Flechette</name>
+		<name>Flechette 40mm</name>
 		<fontColour>218</fontColour>
 		<grayed>8</grayed>
 		<offNormal>5</offNormal>
@@ -2353,8 +2353,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2376,8 +2376,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>61</uiIndex>
@@ -2392,8 +2392,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>12</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>10</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>120</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2415,8 +2415,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>62</uiIndex>
@@ -2431,8 +2431,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>14</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>125</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2454,8 +2454,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>63</uiIndex>
@@ -2470,8 +2470,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>120</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2493,8 +2493,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>64</uiIndex>
@@ -2509,8 +2509,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>15</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>150</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2532,8 +2532,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>65</uiIndex>
@@ -2548,8 +2548,8 @@
 		<armourImpactReductionDivisor>2</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2571,8 +2571,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>66</uiIndex>
@@ -2587,8 +2587,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2610,8 +2610,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>67</uiIndex>
@@ -2626,8 +2626,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2649,8 +2649,8 @@
 		<PoisonPercentage>40</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>1</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>68</uiIndex>
@@ -2665,8 +2665,8 @@
 		<armourImpactReductionDivisor>10</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>120</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2688,8 +2688,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1.0</dDamageModifierLife>
+		<dDamageModifierBreath>1.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>69</uiIndex>
@@ -2702,10 +2702,10 @@
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
-		<beforeArmourDamageMultiplier>8</beforeArmourDamageMultiplier>
+		<beforeArmourDamageMultiplier>10</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>10</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>8</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2727,8 +2727,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.6</dDamageModifierLife>
+		<dDamageModifierBreath>2.4</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>70</uiIndex>
@@ -2741,14 +2741,14 @@
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
-		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
-		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<beforeArmourDamageMultiplier>7</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>10</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>70</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
-		<numberOfBullets>24</numberOfBullets>
+		<numberOfBullets>18</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>6</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
@@ -2761,13 +2761,13 @@
 		<ignoreArmour>0</ignoreArmour>
 		<lockBustingPower>2</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
-		<spreadPattern>BuckshotSpread</spreadPattern>
+		<spreadPattern>PiranhaSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.7</dDamageModifierLife>
+		<dDamageModifierBreath>1.5</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>71</uiIndex>
@@ -2782,8 +2782,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>12</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>112</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>1</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2805,8 +2805,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>72</uiIndex>
@@ -2821,8 +2821,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>90</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2844,8 +2844,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>73</uiIndex>
@@ -2860,8 +2860,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2878,17 +2878,17 @@
 		<ignoreArmour>0</ignoreArmour>
 		<lockBustingPower>2</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
-		<spreadPattern>BuckshotSpread</spreadPattern>
+		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>74</uiIndex>
-		<name>.410 Birdshot</name>
+		<name>Birdshot .410</name>
 		<fontColour>185</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -2899,8 +2899,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>100</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -2917,17 +2917,17 @@
 		<ignoreArmour>0</ignoreArmour>
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
-		<spreadPattern>HornetSpread</spreadPattern>
+		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.8</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>75</uiIndex>
-		<name>.410 Buckshot</name>
+		<name>Buckshot .410</name>
 		<fontColour>125</fontColour>
 		<grayed>4</grayed>
 		<offNormal>1</offNormal>
@@ -2938,8 +2938,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>95</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>1</standardIssue>
@@ -2956,13 +2956,13 @@
 		<ignoreArmour>0</ignoreArmour>
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
-		<spreadPattern>BuckshotSpread</spreadPattern>
+		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>76</uiIndex>
@@ -2977,8 +2977,8 @@
 		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>8</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>10</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>8</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>10</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>75</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>1</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -3000,8 +3000,8 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>0.2</dDamageModifierLife>
+		<dDamageModifierBreath>4.0</dDamageModifierBreath>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>77</uiIndex>
@@ -3016,8 +3016,8 @@
 		<armourImpactReductionDivisor>5</armourImpactReductionDivisor>
 		<beforeArmourDamageMultiplier>2</beforeArmourDamageMultiplier>
 		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
-		<afterArmourDamageMultiplier>2</afterArmourDamageMultiplier>
-		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<afterArmourDamageMultiplier>200</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>100</afterArmourDamageDivisor>
 		<zeroMinimumDamage>0</zeroMinimumDamage>
 		<canGoThrough>0</canGoThrough>
 		<standardIssue>0</standardIssue>
@@ -3039,7 +3039,7 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
-		<dDamageModifierLife>0</dDamageModifierLife>
-		<dDamageModifierBreath>0</dDamageModifierBreath>
+		<dDamageModifierLife>1</dDamageModifierLife>
+		<dDamageModifierBreath>1</dDamageModifierBreath>
 	</AMMOTYPE>
 </AMMOTYPELIST>

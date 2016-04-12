@@ -7940,6 +7940,40 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4356</usItem>
+		<usResult1>4357</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>20</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Fold</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4357</usItem>
+		<usResult1>4356</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>16</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4361</usItem>
 		<usResult1>4362</usResult1>
 		<usResult2>0</usResult2>
@@ -8003,40 +8037,6 @@
 		<usResult9>0</usResult9>
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>4371</usItem>
-		<usResult1>4372</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>12</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Collapse</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>4372</usItem>
-		<usResult1>4371</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>20</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Adjust</szMenuRowText>
 		<szTooltipText />
@@ -9113,40 +9113,6 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>4516</usItem>
-		<usResult1>4517</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>20</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Fold</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>4517</usItem>
-		<usResult1>4516</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>16</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
 		<usItem>4523</usItem>
 		<usResult1>4524</usResult1>
 		<usResult2>0</usResult2>
@@ -9229,6 +9195,40 @@
 		<usAPCost>80</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Disassemble</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4536</usItem>
+		<usResult1>4537</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>12</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Collapse</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>4537</usItem>
+		<usResult1>4536</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>20</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Adjust</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>

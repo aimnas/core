@@ -27347,7 +27347,7 @@
 			<mSmall6Quantity>1</mSmall6Quantity>
 			<lLeftThigh>604</lLeftThigh>
 			<lLeftThighStatus>86</lLeftThighStatus>
-			<lRightThigh>620</lRightThigh>
+			<lRightThigh>651</lRightThigh>
 			<lRightThighStatus>90</lRightThighStatus>
 			<lCPack>559</lCPack>
 			<lCPackStatus>88</lCPackStatus>
@@ -33011,7 +33011,7 @@
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
 			<lVestStatus>97</lVestStatus>
-			<lLeftThigh>601</lLeftThigh>
+			<lLeftThigh>604</lLeftThigh>
 			<lLeftThighStatus>98</lLeftThighStatus>
 			<lCPack>549</lCPack>
 			<lCPackStatus>96</lCPackStatus>
@@ -34884,9 +34884,9 @@
 			<mSmall5Quantity>1</mSmall5Quantity>
 			<lVest>731</lVest>
 			<lVestStatus>96</lVestStatus>
-			<lLeftThigh>604</lLeftThigh>
+			<lLeftThigh>610</lLeftThigh>
 			<lLeftThighStatus>94</lLeftThighStatus>
-			<lRightThigh>604</lRightThigh>
+			<lRightThigh>610</lRightThigh>
 			<lRightThighStatus>97</lRightThighStatus>
 		</GEARKIT>
 		<GEARKIT>

@@ -8977,6 +8977,11 @@
 		<pName>Bandoleer Rifle</pName>
 		<pSilhouette>62</pSilhouette>
 		<pType>1</pType>
+		<ItemCapacityPerSize661>6</ItemCapacityPerSize661>
+		<ItemCapacityPerSize662>3</ItemCapacityPerSize662>
+		<ItemCapacityPerSize663>1</ItemCapacityPerSize663>
+		<ItemCapacityPerSize664>1</ItemCapacityPerSize664>
+		<ItemCapacityPerSize665>1</ItemCapacityPerSize665>
 	</POCKET>
 	<POCKET>
 		<pIndex>64</pIndex>
