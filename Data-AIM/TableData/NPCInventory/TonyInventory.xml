@@ -13577,4 +13577,21 @@
 		<uiIndex>3212</uiIndex>
 		<sItemIndex>4184</sItemIndex>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3213</uiIndex>
+		<sItemIndex>4185</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3214</uiIndex>
+		<sItemIndex>4082</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3215</uiIndex>
+		<sItemIndex>4020</sItemIndex>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3216</uiIndex>
+		<sItemIndex>4727</sItemIndex>
+	</INVENTORY>
 </INVENTORYLIST>

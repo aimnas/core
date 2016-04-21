@@ -32979,7 +32979,7 @@
 			<mLegStatus>98</mLegStatus>
 			<mWeapon>5141</mWeapon>
 			<mWeaponStatus>97</mWeaponStatus>
-			<mBig0>4024</mBig0>
+			<mBig0>4201</mBig0>
 			<mBig0Status>97</mBig0Status>
 			<mBig0Quantity>1</mBig0Quantity>
 			<mBig1>5871</mBig1>
@@ -33011,7 +33011,7 @@
 			<mSmall7Quantity>1</mSmall7Quantity>
 			<lVest>824</lVest>
 			<lVestStatus>97</lVestStatus>
-			<lLeftThigh>604</lLeftThigh>
+			<lLeftThigh>601</lLeftThigh>
 			<lLeftThighStatus>98</lLeftThighStatus>
 			<lCPack>549</lCPack>
 			<lCPackStatus>96</lCPackStatus>
@@ -34583,7 +34583,7 @@
 		<GEARKIT>
 			<mPriceMod>0</mPriceMod>
 			<mGearKitName />
-			<mAbsolutePrice>500</mAbsolutePrice>
+			<mAbsolutePrice>400</mAbsolutePrice>
 			<mHelmet>0</mHelmet>
 			<mHelmetDrop>0</mHelmetDrop>
 			<mHelmetStatus>0</mHelmetStatus>
@@ -34593,7 +34593,7 @@
 			<mLeg>2908</mLeg>
 			<mLegDrop>0</mLegDrop>
 			<mLegStatus>99</mLegStatus>
-			<mWeapon>4201</mWeapon>
+			<mWeapon>4185</mWeapon>
 			<mWeaponDrop>0</mWeaponDrop>
 			<mWeaponStatus>97</mWeaponStatus>
 			<mBig0>5821</mBig0>
@@ -34612,7 +34612,7 @@
 			<mBig3Status>0</mBig3Status>
 			<mBig3Quantity>0</mBig3Quantity>
 			<mBig3Drop>0</mBig3Drop>
-			<mSmall0>6509</mSmall0>
+			<mSmall0>6215</mSmall0>
 			<mSmall0Status>100</mSmall0Status>
 			<mSmall0Quantity>4</mSmall0Quantity>
 			<mSmall1>0</mSmall1>

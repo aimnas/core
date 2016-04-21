@@ -7141,11 +7141,11 @@ Max Profiles 0 - 254
 		<bTownAttachment>25</bTownAttachment>
 		<usBackground>70</usBackground>
 	</PROFILE>
-	<PROFILE>
+<PROFILE>
 		<uiIndex>71</uiIndex>
-		<Type>3</Type>
-		<zName/>
-		<zNickname>RPC71</zNickname>
+		<Type>5</Type>
+		<zName>Combat Jeep</zName>
+		<zNickname>C. Jeep</zNickname>
 		<ubFaceIndex>71</ubFaceIndex>
 		<usEyesX>0</usEyesX>
 		<usEyesY>0</usEyesY>
@@ -7155,14 +7155,14 @@ Max Profiles 0 - 254
 		<uiMouthDelay>0</uiMouthDelay>
 		<uiBlinkFrequency>3000</uiBlinkFrequency>
 		<uiExpressionFrequency>2000</uiExpressionFrequency>
-		<PANTS/>
-		<VEST/>
-		<SKIN/>
-		<HAIR/>
+		<PANTS></PANTS>
+		<VEST></VEST>
+		<SKIN></SKIN>
+		<HAIR></HAIR>
 		<bSex>0</bSex>
 		<ubBodyType>0</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>   
+		<bAttitude>0</bAttitude>
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<ubNeedForSleep>7</ubNeedForSleep>
@@ -7186,24 +7186,24 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>0</bNewSkillTrait1>
 		<bNewSkillTrait2>0</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>-1</bBuddy1>
-		<bBuddy2>-1</bBuddy2>
-		<bBuddy3>-1</bBuddy3>
-		<bBuddy4>-1</bBuddy4>
-		<bBuddy5>-1</bBuddy5>
-		<bLearnToLike>-1</bLearnToLike>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
 		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>-1</bHated1>
+		<bHated1>255</bHated1>
 		<bHatedTime1>0</bHatedTime1>
-		<bHated2>-1</bHated2>
+		<bHated2>255</bHated2>
 		<bHatedTime2>0</bHatedTime2>
-		<bHated3>-1</bHated3>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>-1</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>-1</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>-1</bLearnToHate>
+		<bLearnToHate>255</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
 		<bRace>0</bRace>
 		<bNationality>0</bNationality>
@@ -7234,6 +7234,7 @@ Max Profiles 0 - 254
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
+		<usBackground>71</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>72</uiIndex>

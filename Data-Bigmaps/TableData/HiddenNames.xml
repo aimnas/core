@@ -356,7 +356,7 @@
 	</NAME>
 	<NAME>
 		<uiIndex>71</uiIndex>
-		<description>RPC71</description>
+		<description>Combat Jeep</description>
 		<Hidden>1</Hidden>
 	</NAME>
 	<NAME>
@@ -816,12 +816,12 @@
 	</NAME>
 	<NAME>
 		<uiIndex>163</uiIndex>
-		<description></description>
+		<description>Heli</description>
 		<Hidden>1</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>164</uiIndex>
-		<description></description>
+		<description>Tank</description>
 		<Hidden>1</Hidden>
 	</NAME>
 	<NAME>
@@ -891,72 +891,72 @@
 	</NAME>
 	<NAME>
 		<uiIndex>178</uiIndex>
-		<description></description>
+		<description>Spooky</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>179</uiIndex>
-		<description></description>
+		<description>Skitz</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>180</uiIndex>
-		<description></description>
+		<description>Weasel</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>181</uiIndex>
-		<description></description>
+		<description>It</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>182</uiIndex>
-		<description></description>
+		<description>Bernie</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>183</uiIndex>
-		<description></description>
+		<description>Pops</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>184</uiIndex>
-		<description></description>
+		<description>Wally</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>185</uiIndex>
-		<description></description>
+		<description>Eli</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>186</uiIndex>
-		<description></description>
+		<description>Mitch</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>187</uiIndex>
-		<description></description>
+		<description>Carp</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>188</uiIndex>
-		<description></description>
+		<description>Lance</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>189</uiIndex>
-		<description></description>
+		<description>Raffi</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>190</uiIndex>
-		<description></description>
+		<description>Wink</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>191</uiIndex>
-		<description></description>
+		<description>Speck</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
@@ -976,22 +976,22 @@
 	</NAME>
 	<NAME>
 		<uiIndex>195</uiIndex>
-		<description></description>
+		<description>John</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>196</uiIndex>
-		<description></description>
+		<description>Elio</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>197</uiIndex>
-		<description></description>
+		<description>Juan</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>198</uiIndex>
-		<description></description>
+		<description>Wahan</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
@@ -1136,12 +1136,12 @@
 	</NAME>
 	<NAME>
 		<uiIndex>227</uiIndex>
-		<description></description>
+		<description>Hurl</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>228</uiIndex>
-		<description></description>
+		<description>Doc</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>

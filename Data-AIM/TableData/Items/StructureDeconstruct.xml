@@ -1,19 +1,31 @@
 ﻿<STRUCTURESLIST>
-	<STRUCTURE><!-- sandbag -->
+	<STRUCTURE><!-- sandbag small -->
 		<usDeconstructItem>377</usDeconstructItem>
-		<usItemToCreate>1541</usItemToCreate>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- sandbag medium -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
 		<allowedtile>6</allowedtile>
 		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sandbagbarricade large -->
+		<usDeconstructItem>377</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- concertina wire -->
 		<usDeconstructItem>377</usDeconstructItem>
@@ -132,21 +144,33 @@
 		<allowedtile>10</allowedtile>
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- sandbag -->
+	<STRUCTURE><!-- sandbag small -->
 		<usDeconstructItem>5832</usDeconstructItem>
-		<usItemToCreate>1541</usItemToCreate>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- sandbag medium -->
+		<usDeconstructItem>5832</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
 		<allowedtile>6</allowedtile>
 		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sandbagbarricade large -->
+		<usDeconstructItem>5832</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- concertina wire -->
 		<usDeconstructItem>5832</usDeconstructItem>
@@ -179,21 +203,33 @@
 		<allowedtile>10</allowedtile>
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- sandbag -->
+	<STRUCTURE><!-- sandbag small -->
 		<usDeconstructItem>5834</usDeconstructItem>
-		<usItemToCreate>1541</usItemToCreate>
+		<usItemToCreate>1539</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>3</allowedtile>
+		<allowedtile>4</allowedtile>
+		<allowedtile>5</allowedtile>
+		<allowedtile>8</allowedtile>
+		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+		<STRUCTURE><!-- sandbag medium -->
+		<usDeconstructItem>5834</usDeconstructItem>
+		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
 		<allowedtile>6</allowedtile>
 		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
+	</STRUCTURE>
+	<STRUCTURE><!-- sandbagbarricade large -->
+		<usDeconstructItem>5834</usDeconstructItem>
+		<usItemToCreate>1541</usItemToCreate>
+		<usCreatedItemStatus>100</usCreatedItemStatus>
+		<szTileSetName>sandbag.sti</szTileSetName>
+		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- concertina wire -->
 		<usDeconstructItem>5834</usDeconstructItem>

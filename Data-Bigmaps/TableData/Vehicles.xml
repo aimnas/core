@@ -1036,18 +1036,20 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<VehicleEnabled>0</VehicleEnabled>
 		<Pilot>-1</Pilot>
 	</VEHICLE>
+	<!-- this record is used by all combat jeeps -->
 	<VEHICLE>
 		<uiIndex>71</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
+		<Name>Combat Jeep</Name>	
+		<LongName>Combat Jeep</LongName>
+		<ShortName>Jeep</ShortName>	
+		<MvtTypes>2</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
+		<SeatingCapacities>0</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>83</MoveVehicleSndID>
-		<VehicleArmourType>164</VehicleArmourType>
-		<Neutral>1</Neutral>
+		<VehicleArmourType>167</VehicleArmourType>
 		<VehicleEnabled>0</VehicleEnabled>
+		<Neutral>0</Neutral>
 		<Pilot>-1</Pilot>
 	</VEHICLE>
 	<VEHICLE>
@@ -2637,13 +2639,13 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName>Tank</LongName>
 		<ShortName>Tank</ShortName>	
 		<MvtTypes>1</MvtTypes>
-		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
-		<Neutral>1</Neutral>
+		<VehicleEnabled>0</VehicleEnabled>
+		<Neutral>0</Neutral>
 		<Pilot>-1</Pilot>
 	</VEHICLE>
 		<!-- End Jeep\Tank -->
