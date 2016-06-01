@@ -440,4 +440,19 @@
 		<AmmoCaliber>10.6x25mm</AmmoCaliber>
 		<BRCaliber>10.6x25mm</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>88</uiIndex>
+		<AmmoCaliber>8x22mm Nambu</AmmoCaliber>
+		<BRCaliber>8x22mm Nambu</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>89</uiIndex>
+		<AmmoCaliber>7.65x20mm Longue</AmmoCaliber>
+		<BRCaliber>7.65x20mm Longue</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>90</uiIndex>
+		<AmmoCaliber>7.5 French</AmmoCaliber>
+		<BRCaliber>7.5 French</BRCaliber>
+	</AMMO>
 </AMMOLIST>

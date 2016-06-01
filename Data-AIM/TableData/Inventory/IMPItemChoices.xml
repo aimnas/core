@@ -8,7 +8,7 @@
 		<bItemNo1>823</bItemNo1>
 		<bItemNo2>579</bItemNo2>
 		<bItemNo3>4111</bItemNo3>
-		<bItemNo4>7742</bItemNo4>
+		<bItemNo4>7653</bItemNo4>
 		<bItemNo5>2781</bItemNo5>
 		<bItemNo6>2908</bItemNo6>
 		<bItemNo7>2212</bItemNo7>
@@ -845,7 +845,7 @@
 		<name>Ranger</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>5651</bItemNo1>
+		<bItemNo1>5643</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -1293,8 +1293,8 @@
 		<name>Throwing</name>
 		<ubChoices>2</ubChoices>
 		<ubNumItems>2</ubNumItems>
-		<bItemNo1>5854</bItemNo1>
-		<bItemNo2>5854</bItemNo2>
+		<bItemNo1>5807</bItemNo1>
+		<bItemNo2>5807</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
 		<bItemNo5>0</bItemNo5>
@@ -2021,7 +2021,7 @@
 		<name>RANGER EXPERT</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>5651</bItemNo1>
+		<bItemNo1>5643</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
