@@ -2,7 +2,7 @@
 <TRANSFORMATIONS_LIST>
 	<TRANSFORM>
 		<usItem>54</usItem>
-		<usResult1>5880</usResult1>
+		<usResult1>1401</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -784,7 +784,7 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>386</usItem>
-		<usResult1>5874</usResult1>
+		<usResult1>5851</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
@@ -4622,6 +4622,125 @@
 		<usAPCost>8</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Switch off</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1401</usItem>
+		<usResult1>54</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1402</usItem>
+		<usResult1>5882</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1403</usItem>
+		<usResult1>5883</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1411</usItem>
+		<usResult1>5942</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Melee</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1412</usItem>
+		<usResult1>5943</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Melee</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1421</usItem>
+		<usResult1>5901</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>1422</usItem>
+		<usResult1>5902</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping people</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -10218,6 +10337,23 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>4898</usItem>
+		<usResult1>4837</usResult1>
+		<usResult2>2027</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>70</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Remove Pedersen Device</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>4918</usItem>
 		<usResult1>4917</usResult1>
 		<usResult2>2054</usResult2>
@@ -14351,7 +14487,7 @@
 	<TRANSFORM>
 		<usItem>5693</usItem>
 		<usResult1>5694</usResult1>
-		<usResult2>5884</usResult2>
+		<usResult2>5883</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -14400,296 +14536,7 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5776</usItem>
-		<usResult1>5911</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Direct Fire</szMenuRowText>
-		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5777</usItem>
-		<usResult1>5912</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Direct Fire</szMenuRowText>
-		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5778</usItem>
-		<usResult1>5913</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Direct Fire</szMenuRowText>
-		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5779</usItem>
-		<usResult1>5914</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Direct Fire</szMenuRowText>
-		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5780</usItem>
-		<usResult1>5915</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Direct Fire</szMenuRowText>
-		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5831</usItem>
-		<usResult1>5832</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for Digging</szMenuRowText>
-		<szTooltipText>If used for digging, you can fill empty sandbags with this shovel.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5832</usItem>
-		<usResult1>5831</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for Melee</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5833</usItem>
-		<usResult1>5834</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for Digging</szMenuRowText>
-		<szTooltipText>If used for digging, you can fill empty sandbags with this shovel.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5834</usItem>
-		<usResult1>5833</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for Melee</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5865</usItem>
-		<usResult1>5866</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>8</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Fold Knife</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5866</usItem>
-		<usResult1>5865</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>12</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Unfold Knife</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5874</usItem>
-		<usResult1>386</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>36</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Wire Cutters</szMenuRowText>
-		<szTooltipText>Transforms the KCB Knife into wire cutters.</szTooltipText>
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5880</usItem>
-		<usResult1>54</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for chopping people</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5882</usItem>
-		<usResult1>5883</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5883</usItem>
-		<usResult1>5882</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for chopping people</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5884</usItem>
-		<usResult1>5885</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5885</usItem>
-		<usResult1>5884</usResult1>
-		<usResult2>0</usResult2>
-		<usResult3>0</usResult3>
-		<usResult4>0</usResult4>
-		<usResult5>0</usResult5>
-		<usResult6>0</usResult6>
-		<usResult7>0</usResult7>
-		<usResult8>0</usResult8>
-		<usResult9>0</usResult9>
-		<usResult10>0</usResult10>
-		<usAPCost>0</usAPCost>
-		<iBPCost>0</iBPCost>
-		<szMenuRowText>Use for chopping people</szMenuRowText>
-		<szTooltipText />
-	</TRANSFORM>
-	<TRANSFORM>
-		<usItem>5911</usItem>
+		<usItem>5721</usItem>
 		<usResult1>5776</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14706,7 +14553,7 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5912</usItem>
+		<usItem>5722</usItem>
 		<usResult1>5777</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14723,7 +14570,7 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5913</usItem>
+		<usItem>5723</usItem>
 		<usResult1>5778</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14740,7 +14587,7 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5914</usItem>
+		<usItem>5724</usItem>
 		<usResult1>5779</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14757,7 +14604,7 @@
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>5915</usItem>
+		<usItem>5725</usItem>
 		<usResult1>5780</usResult1>
 		<usResult2>0</usResult2>
 		<usResult3>0</usResult3>
@@ -14772,5 +14619,243 @@
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Grenade Launcher</szMenuRowText>
 		<szTooltipText>Change to regular grenade launcher to use with 40mm grenade.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5776</usItem>
+		<usResult1>5721</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5777</usItem>
+		<usResult1>5722</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5778</usItem>
+		<usResult1>5723</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5779</usItem>
+		<usResult1>5724</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5780</usItem>
+		<usResult1>5725</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Direct Fire</szMenuRowText>
+		<szTooltipText>Change to direct fire to use 40mm buckshot and flechette rounds.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5851</usItem>
+		<usResult1>386</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>36</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Wire Cutters</szMenuRowText>
+		<szTooltipText>Transforms the KCB Knife into wire cutters.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5882</usItem>
+		<usResult1>1402</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5883</usItem>
+		<usResult1>1403</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping vegetation</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5886</usItem>
+		<usResult1>5887</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>8</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Fold Knife</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5887</usItem>
+		<usResult1>5886</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>12</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Unfold Knife</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5901</usItem>
+		<usResult1>1421</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping things</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5902</usItem>
+		<usResult1>1422</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for chopping things</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5942</usItem>
+		<usResult1>1411</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Digging</szMenuRowText>
+		<szTooltipText>If used for digging, you can fill empty sandbags with this shovel.</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>5943</usItem>
+		<usResult1>1412</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Digging</szMenuRowText>
+		<szTooltipText>If used for digging, you can fill empty sandbags with this shovel.</szTooltipText>
 	</TRANSFORM>
 </TRANSFORMATIONS_LIST>
