@@ -14095,14 +14095,14 @@
 		<uiIndex>2013</uiIndex>
 		<ubCalibre>59</ubCalibre>
 		<ubMagSize>50</ubMagSize>
-		<ubAmmoType>32</ubAmmoType>
+		<ubAmmoType>34</ubAmmoType>
 		<ubMagType>2</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>2014</uiIndex>
 		<ubCalibre>59</ubCalibre>
 		<ubMagSize>50</ubMagSize>
-		<ubAmmoType>34</ubAmmoType>
+		<ubAmmoType>52</ubAmmoType>
 		<ubMagType>2</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>

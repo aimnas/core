@@ -5,6 +5,26 @@
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>310</itemIndex>
+		<incompatibleattachmentIndex>5845</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>310</itemIndex>
+		<incompatibleattachmentIndex>5865</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>310</itemIndex>
+		<incompatibleattachmentIndex>5843</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>310</itemIndex>
+		<incompatibleattachmentIndex>5844</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>310</itemIndex>
+		<incompatibleattachmentIndex>5864</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1002</itemIndex>
 		<incompatibleattachmentIndex>1047</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -753,7 +773,6 @@
 		<incompatibleattachmentIndex>1017</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
-<<<<<<< HEAD
 		<itemIndex>1101</itemIndex>
 		<incompatibleattachmentIndex>5845</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -1234,8 +1253,6 @@
 		<incompatibleattachmentIndex>5864</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
-=======
->>>>>>> parent of d17565f... Summer Update
 		<itemIndex>1141</itemIndex>
 		<incompatibleattachmentIndex>1018</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -1723,7 +1740,6 @@
 		<itemIndex>5800</itemIndex>
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
-<<<<<<< HEAD
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>5843</itemIndex>
 		<incompatibleattachmentIndex>1140</incompatibleattachmentIndex>
@@ -2224,6 +2240,4 @@
 		<itemIndex>5865</itemIndex>
 		<incompatibleattachmentIndex>1140</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
-=======
->>>>>>> parent of d17565f... Summer Update
 </INCOMPATIBLEATTACHMENTLIST>
