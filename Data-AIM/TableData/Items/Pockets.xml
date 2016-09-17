@@ -2228,7 +2228,6 @@
 		<ItemCapacityPerSize735>6</ItemCapacityPerSize735>
 		<ItemCapacityPerSize736>12</ItemCapacityPerSize736>
 		<ItemCapacityPerSize737>6</ItemCapacityPerSize737>
-		<ItemCapacityPerSize738>12</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>24</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>12</ItemCapacityPerSize741>
 		<ItemCapacityPerSize742>12</ItemCapacityPerSize742>
@@ -3089,7 +3088,6 @@
 		<ItemCapacityPerSize735>1</ItemCapacityPerSize735>
 		<ItemCapacityPerSize736>6</ItemCapacityPerSize736>
 		<ItemCapacityPerSize737>1</ItemCapacityPerSize737>
-		<ItemCapacityPerSize738>4</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>6</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>4</ItemCapacityPerSize741>
 		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
@@ -3793,7 +3791,6 @@
 		<ItemCapacityPerSize733>2</ItemCapacityPerSize733>
 		<ItemCapacityPerSize734>1</ItemCapacityPerSize734>
 		<ItemCapacityPerSize736>4</ItemCapacityPerSize736>
-		<ItemCapacityPerSize738>3</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>4</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>3</ItemCapacityPerSize741>
 		<ItemCapacityPerSize743>2</ItemCapacityPerSize743>
@@ -4160,7 +4157,6 @@
 		<ItemCapacityPerSize731>6</ItemCapacityPerSize731>
 		<ItemCapacityPerSize732>3</ItemCapacityPerSize732>
 		<ItemCapacityPerSize736>3</ItemCapacityPerSize736>
-		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>3</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>2</ItemCapacityPerSize741>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>
@@ -4491,7 +4487,6 @@
 		<ItemCapacityPerSize731>6</ItemCapacityPerSize731>
 		<ItemCapacityPerSize732>2</ItemCapacityPerSize732>
 		<ItemCapacityPerSize736>2</ItemCapacityPerSize736>
-		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>2</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>1</ItemCapacityPerSize741>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>
@@ -5480,7 +5475,6 @@
 		<ItemCapacityPerSize726>1</ItemCapacityPerSize726>
 		<ItemCapacityPerSize731>2</ItemCapacityPerSize731>
 		<ItemCapacityPerSize732>2</ItemCapacityPerSize732>
-		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize746>1</ItemCapacityPerSize746>
 		<ItemCapacityPerSize747>1</ItemCapacityPerSize747>
 		<ItemCapacityPerSize752>1</ItemCapacityPerSize752>
@@ -7265,7 +7259,7 @@
 		<ItemCapacityPerSize669>2</ItemCapacityPerSize669>
 		<ItemCapacityPerSize670>2</ItemCapacityPerSize670>
 		<ItemCapacityPerSize671>2</ItemCapacityPerSize671>
-		<ItemCapacityPerSize675>10</ItemCapacityPerSize675>
+		<ItemCapacityPerSize675>8</ItemCapacityPerSize675>
 		<ItemCapacityPerSize676>1</ItemCapacityPerSize676>
 		<ItemCapacityPerSize678>2</ItemCapacityPerSize678>
 		<ItemCapacityPerSize680>5</ItemCapacityPerSize680>
@@ -7586,6 +7580,9 @@
 		<ItemCapacityPerSize18>1</ItemCapacityPerSize18>
 		<ItemCapacityPerSize647>5</ItemCapacityPerSize647>
 		<ItemCapacityPerSize649>1</ItemCapacityPerSize649>
+		<ItemCapacityPerSize675>10</ItemCapacityPerSize675>
+		<ItemCapacityPerSize676>2</ItemCapacityPerSize676>
+		<ItemCapacityPerSize677>1</ItemCapacityPerSize677>
 		<ItemCapacityPerSize699>1</ItemCapacityPerSize699>
 		<ItemCapacityPerSize715>5</ItemCapacityPerSize715>
 		<ItemCapacityPerSize716>2</ItemCapacityPerSize716>
@@ -8362,7 +8359,6 @@
 		<ItemCapacityPerSize731>6</ItemCapacityPerSize731>
 		<ItemCapacityPerSize732>2</ItemCapacityPerSize732>
 		<ItemCapacityPerSize736>2</ItemCapacityPerSize736>
-		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>2</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>1</ItemCapacityPerSize741>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>

@@ -334,7 +334,7 @@
 		<uiIndex>6</uiIndex>
 		<name>Misc</name>
 		<ubChoices>40</ubChoices>
-		<bItemNo1>5992</bItemNo1>
+		<bItemNo1>5821</bItemNo1>
 		<bItemNo2>214</bItemNo2>
 		<bItemNo3>214</bItemNo3>
 		<bItemNo4>214</bItemNo4>
@@ -349,7 +349,7 @@
 		<bItemNo13>264</bItemNo13>
 		<bItemNo14>476</bItemNo14>
 		<bItemNo15>267</bItemNo15>
-		<bItemNo16>5951</bItemNo16>
+		<bItemNo16>1411</bItemNo16>
 		<bItemNo17>304</bItemNo17>
 		<bItemNo18>305</bItemNo18>
 		<bItemNo19>306</bItemNo19>
@@ -362,17 +362,26 @@
 		<bItemNo26>322</bItemNo26>
 		<bItemNo27>323</bItemNo27>
 		<bItemNo28>336</bItemNo28>
-		<bItemNo29>5834</bItemNo29>
+		<bItemNo29>1412</bItemNo29>
 		<bItemNo30>339</bItemNo30>
 		<bItemNo31>331</bItemNo31>
-		<bItemNo32>5942</bItemNo32>
+		<bItemNo32>5831</bItemNo32>
 		<bItemNo33>332</bItemNo33>
-		<bItemNo34>1641</bItemNo34>
+<<<<<<< HEAD
+		<bItemNo34>1501</bItemNo34>
 		<bItemNo35>5943</bItemNo35>
 		<bItemNo36>304</bItemNo36>
 		<bItemNo37>309</bItemNo37>
-		<bItemNo38>1643</bItemNo38>
-		<bItemNo39>1644</bItemNo39>
+		<bItemNo38>1503</bItemNo38>
+		<bItemNo39>1504</bItemNo39>
+=======
+		<bItemNo34>5991</bItemNo34>
+		<bItemNo35>5833</bItemNo35>
+		<bItemNo36>304</bItemNo36>
+		<bItemNo37>309</bItemNo37>
+		<bItemNo38>5993</bItemNo38>
+		<bItemNo39>5994</bItemNo39>
+>>>>>>> parent of d17565f... Summer Update
 		<bItemNo40>401</bItemNo40>
 		<bItemNo41>0</bItemNo41>
 		<bItemNo42>0</bItemNo42>
@@ -943,16 +952,16 @@
 		<bItemNo2>1021</bItemNo2>
 		<bItemNo3>1031</bItemNo3>
 		<bItemNo4>1031</bItemNo4>
-		<bItemNo5>1051</bItemNo5>
-		<bItemNo6>1051</bItemNo6>
-		<bItemNo7>1055</bItemNo7>
-		<bItemNo8>1055</bItemNo8>
+		<bItemNo5>1061</bItemNo5>
+		<bItemNo6>1061</bItemNo6>
+		<bItemNo7>1083</bItemNo7>
+		<bItemNo8>1083</bItemNo8>
 		<bItemNo9>1058</bItemNo9>
 		<bItemNo10>1058</bItemNo10>
 		<bItemNo11>1058</bItemNo11>
 		<bItemNo12>1059</bItemNo12>
-		<bItemNo13>1106</bItemNo13>
-		<bItemNo14>1106</bItemNo14>
+		<bItemNo13>1093</bItemNo13>
+		<bItemNo14>1093</bItemNo14>
 		<bItemNo15>1171</bItemNo15>
 		<bItemNo16>1174</bItemNo16>
 		<bItemNo17>1175</bItemNo17>
@@ -998,14 +1007,14 @@
 		<bItemNo2>5805</bItemNo2>
 		<bItemNo3>5882</bItemNo3>
 		<bItemNo4>5871</bItemNo4>
-		<bItemNo5>5983</bItemNo5>
+		<bItemNo5>5824</bItemNo5>
 		<bItemNo6>386</bItemNo6>
 		<bItemNo7>5877</bItemNo7>
 		<bItemNo8>5875</bItemNo8>
 		<bItemNo9>5806</bItemNo9>
-		<bItemNo10>5842</bItemNo10>
+		<bItemNo10>5876</bItemNo10>
 		<bItemNo11>5878</bItemNo11>
-		<bItemNo12>5982</bItemNo12>
+		<bItemNo12>5822</bItemNo12>
 		<bItemNo13>0</bItemNo13>
 		<bItemNo14>0</bItemNo14>
 		<bItemNo15>0</bItemNo15>

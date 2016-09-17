@@ -22,7 +22,7 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>4</uiIndex>
-		<sItemIndex>5741</sItemIndex>
+		<sItemIndex>5901</sItemIndex>
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
@@ -152,17 +152,29 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>30</uiIndex>
-		<sItemIndex>1642</sItemIndex>
+<<<<<<< HEAD
+		<sItemIndex>1502</sItemIndex>
+=======
+		<sItemIndex>5992</sItemIndex>
+>>>>>>> parent of d17565f... Summer Update
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>31</uiIndex>
-		<sItemIndex>1643</sItemIndex>
+<<<<<<< HEAD
+		<sItemIndex>1503</sItemIndex>
+=======
+		<sItemIndex>5993</sItemIndex>
+>>>>>>> parent of d17565f... Summer Update
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>32</uiIndex>
-		<sItemIndex>1644</sItemIndex>
+<<<<<<< HEAD
+		<sItemIndex>1504</sItemIndex>
+=======
+		<sItemIndex>5994</sItemIndex>
+>>>>>>> parent of d17565f... Summer Update
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>
@@ -202,7 +214,11 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>40</uiIndex>
-		<sItemIndex>1645</sItemIndex>
+<<<<<<< HEAD
+		<sItemIndex>1505</sItemIndex>
+=======
+		<sItemIndex>5995</sItemIndex>
+>>>>>>> parent of d17565f... Summer Update
 		<ubOptimalNumber>1</ubOptimalNumber>
 	</INVENTORY>
 	<INVENTORY>

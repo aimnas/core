@@ -120,12 +120,4 @@
 		<id>134217728</id>
 		<name>Armor++</name>
 	</NasAttachmentClass>
-	<NasAttachmentClass>
-		<id>268435456</id>
-		<name>Multibarrel</name>
-	</NasAttachmentClass>
-	<NasAttachmentClass>
-		<id>536870912</id>
-		<name>Bayonet</name>
-	</NasAttachmentClass>
 </JA2Data>

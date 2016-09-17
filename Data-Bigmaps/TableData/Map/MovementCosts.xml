@@ -501,7 +501,7 @@
 			<North>SWAMP</North>
 			<East>ROAD</East>
 			<South>ROAD</South>
-			<West>GRUNDBARRIER</West>
+			<West>GROUNDBARRIER</West>
 			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="D" x="16">

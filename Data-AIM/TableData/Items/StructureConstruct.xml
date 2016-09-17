@@ -50,7 +50,7 @@
 		<westfacingtile>4</westfacingtile>
 	</STRUCTURE>
 	<STRUCTURE><!--spade creates a pile of earth-->
-		<usCreationItem>1411</usCreationItem>
+		<usCreationItem>5832</usCreationItem>
 		<usItemStatusLoss>0</usItemStatusLoss>
 		<szTileSetName>crate.sti</szTileSetName>
 		<northfacingtile>7</northfacingtile>
@@ -75,7 +75,7 @@
 		<westfacingtile>11</westfacingtile>
 	</STRUCTURE>
 	<STRUCTURE><!--shovel creates a pile of earth-->
-		<usCreationItem>1412</usCreationItem>
+		<usCreationItem>5834</usCreationItem>
 		<usItemStatusLoss>0</usItemStatusLoss>
 		<szTileSetName>crate.sti</szTileSetName>
 		<northfacingtile>7</northfacingtile>
@@ -285,14 +285,5 @@
 		<southfacingtile>6</southfacingtile>
 		<eastfacingtile>6</eastfacingtile>
 		<westfacingtile>6</westfacingtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- chair -->
-		<usCreationItem>1556</usCreationItem>
-		<usItemStatusLoss>100</usItemStatusLoss>
-		<szTileSetName>furniture1.sti</szTileSetName>
-		<northfacingtile>0</northfacingtile>
-		<southfacingtile>1</southfacingtile>
-		<eastfacingtile>2</eastfacingtile>
-		<westfacingtile>3</westfacingtile>
 	</STRUCTURE>
 </STRUCTURESLIST>

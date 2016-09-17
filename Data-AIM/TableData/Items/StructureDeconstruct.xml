@@ -133,18 +133,8 @@
 		<szTileSetName>drum_01.sti</szTileSetName>
 		<allowedtile>6</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- Chair -->
-		<usDeconstructItem>377</usDeconstructItem>
-		<usItemToCreate>1556</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>furniture1.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-	</STRUCTURE>
 	<STRUCTURE><!-- earthpile -->
-	<usDeconstructItem>1411</usDeconstructItem>
+	<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>0</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>crate.sti</szTileSetName>
@@ -155,7 +145,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- sandbag small -->
-		<usDeconstructItem>1411</usDeconstructItem>
+		<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>1539</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -166,7 +156,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- sandbag medium -->
-		<usDeconstructItem>1411</usDeconstructItem>
+		<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -176,14 +166,14 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- sandbagbarricade large -->
-		<usDeconstructItem>1411</usDeconstructItem>
+		<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- concertina wire -->
-		<usDeconstructItem>1411</usDeconstructItem>
+		<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
 		<usCreatedItemStatus>10</usCreatedItemStatus>
 		<szTileSetName>spot_1.sti</szTileSetName>
@@ -195,7 +185,7 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- concertina wire -->
-		<usDeconstructItem>1411</usDeconstructItem>
+		<usDeconstructItem>5832</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
 		<usCreatedItemStatus>5</usCreatedItemStatus>
 		<szTileSetName>spot_1.sti</szTileSetName>
@@ -203,7 +193,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- earthpile -->
-	<usDeconstructItem>1412</usDeconstructItem>
+	<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>0</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>crate.sti</szTileSetName>
@@ -214,7 +204,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- sandbag small -->
-		<usDeconstructItem>1412</usDeconstructItem>
+		<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>1539</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -225,7 +215,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- sandbag medium -->
-		<usDeconstructItem>1412</usDeconstructItem>
+		<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>1540</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
@@ -235,14 +225,14 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- sandbagbarricade large -->
-		<usDeconstructItem>1412</usDeconstructItem>
+		<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>1541</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<allowedtile>2</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- concertina wire -->
-		<usDeconstructItem>1412</usDeconstructItem>
+		<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
 		<usCreatedItemStatus>10</usCreatedItemStatus>
 		<szTileSetName>spot_1.sti</szTileSetName>
@@ -254,7 +244,7 @@
 		<allowedtile>7</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- concertina wire -->
-		<usDeconstructItem>1412</usDeconstructItem>
+		<usDeconstructItem>5834</usDeconstructItem>
 		<usItemToCreate>1542</usItemToCreate>
 		<usCreatedItemStatus>5</usCreatedItemStatus>
 		<szTileSetName>spot_1.sti</szTileSetName>
@@ -262,7 +252,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- Vegetation, grass with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1561</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>f_weed.sti</szTileSetName>
@@ -280,7 +270,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- Vegetation, grass with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1561</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>fl_weed.sti</szTileSetName>
@@ -298,7 +288,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, agaves with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1562</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>l_weed2.sti</szTileSetName>
@@ -311,7 +301,7 @@
 		<allowedtile>6</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, agaves with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1562</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>stweed.sti</szTileSetName>
@@ -321,14 +311,14 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, desert grass with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1563</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>cactus.sti</szTileSetName>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, desert grass with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1563</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -336,7 +326,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, cactus with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1564</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>cactus.sti</szTileSetName>
@@ -344,7 +334,7 @@
 		<allowedtile>8</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- Vegetation, cactus with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1564</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -352,7 +342,7 @@
 		<allowedtile>8</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, scrub with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1565</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>weeds_1.sti</szTileSetName>
@@ -368,7 +358,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, scrub with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
+		<usDeconstructItem>5880</usDeconstructItem>
 		<usItemToCreate>1565</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -379,24 +369,8 @@
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- Bamboo2 with Bushknife-->
-		<usDeconstructItem>1401</usDeconstructItem>
-		<szTileSetName>bamboo2.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-		<allowedtile>6</allowedtile>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-		<allowedtile>10</allowedtile>
-		<allowedtile>11</allowedtile>
-	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, grass with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1561</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>f_weed.sti</szTileSetName>
@@ -414,7 +388,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- Vegetation, grass with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1561</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>fl_weed.sti</szTileSetName>
@@ -432,7 +406,7 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, agaves with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1562</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>l_weed2.sti</szTileSetName>
@@ -445,7 +419,7 @@
 		<allowedtile>6</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, agaves with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1562</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>stweed.sti</szTileSetName>
@@ -455,14 +429,14 @@
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, desert grass with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1563</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>cactus.sti</szTileSetName>
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, desert grass with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1563</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -470,7 +444,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, cactus with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1564</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>cactus.sti</szTileSetName>
@@ -478,7 +452,7 @@
 		<allowedtile>8</allowedtile>
 	</STRUCTURE>
 		<STRUCTURE><!-- Vegetation, cactus with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1564</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -486,7 +460,7 @@
 		<allowedtile>8</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, scrub with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1565</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>weeds_1.sti</szTileSetName>
@@ -502,7 +476,7 @@
 		<allowedtile>9</allowedtile>
 	</STRUCTURE>
 	<STRUCTURE><!-- Vegetation, scrub with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+		<usDeconstructItem>5883</usDeconstructItem>
 		<usItemToCreate>1565</usItemToCreate>
 		<usCreatedItemStatus>100</usCreatedItemStatus>
 		<szTileSetName>SM_cactus.sti</szTileSetName>
@@ -513,8 +487,8 @@
 		<allowedtile>4</allowedtile>
 		<allowedtile>5</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- Bamboo2 with Machete-->
-		<usDeconstructItem>1402</usDeconstructItem>
+	<STRUCTURE><!-- Bamboo2 with Bushknife-->
+		<usDeconstructItem>5880</usDeconstructItem>
 		<szTileSetName>bamboo2.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>
@@ -529,126 +503,8 @@
 		<allowedtile>10</allowedtile>
 		<allowedtile>11</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, grass with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1561</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>f_weed.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-		<allowedtile>6</allowedtile>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-		<allowedtile>10</allowedtile>
-		<allowedtile>11</allowedtile>
-	</STRUCTURE>
-		<STRUCTURE><!-- Vegetation, grass with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1561</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>fl_weed.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-		<allowedtile>6</allowedtile>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-		<allowedtile>10</allowedtile>
-		<allowedtile>11</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, agaves with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1562</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>l_weed2.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-		<allowedtile>6</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, agaves with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1562</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>stweed.sti</szTileSetName>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-		<allowedtile>10</allowedtile>
-		<allowedtile>11</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, desert grass with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1563</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>cactus.sti</szTileSetName>
-		<allowedtile>9</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, desert grass with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1563</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>SM_cactus.sti</szTileSetName>
-		<allowedtile>6</allowedtile>
-		<allowedtile>9</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, cactus with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1564</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>cactus.sti</szTileSetName>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-	</STRUCTURE>
-		<STRUCTURE><!-- Vegetation, cactus with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1564</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>SM_cactus.sti</szTileSetName>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, scrub with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1565</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>weeds_1.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-		<allowedtile>6</allowedtile>
-		<allowedtile>7</allowedtile>
-		<allowedtile>8</allowedtile>
-		<allowedtile>9</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Vegetation, scrub with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
-		<usItemToCreate>1565</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>SM_cactus.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-		<allowedtile>4</allowedtile>
-		<allowedtile>5</allowedtile>
-	</STRUCTURE>
-	<STRUCTURE><!-- Bamboo2 with Russian Machete-->
-		<usDeconstructItem>1403</usDeconstructItem>
+	<STRUCTURE><!-- Bamboo2 with Machete-->
+		<usDeconstructItem>5883</usDeconstructItem>
 		<szTileSetName>bamboo2.sti</szTileSetName>
 		<allowedtile>0</allowedtile>
 		<allowedtile>1</allowedtile>

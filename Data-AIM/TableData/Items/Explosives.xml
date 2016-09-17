@@ -4139,48 +4139,6 @@
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>197</uiIndex>
-		<ubType>1</ubType>
-		<ubDamage>35</ubDamage>
-		<ubStunDamage>35</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>3</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>4</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>198</uiIndex>
-		<ubType>1</ubType>
-		<ubDamage>28</ubDamage>
-		<ubStunDamage>20</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>4</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>199</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>35</ubDamage>
 		<ubStunDamage>5</ubStunDamage>
@@ -4201,7 +4159,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>200</uiIndex>
+		<uiIndex>198</uiIndex>
 		<ubType>9</ubType>
 		<ubDamage>2</ubDamage>
 		<ubStunDamage>125</ubStunDamage>
@@ -4222,7 +4180,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>201</uiIndex>
+		<uiIndex>199</uiIndex>
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4243,7 +4201,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>202</uiIndex>
+		<uiIndex>200</uiIndex>
 		<ubType>3</ubType>
 		<ubDamage>15</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -4264,7 +4222,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>203</uiIndex>
+		<uiIndex>201</uiIndex>
 		<ubType>8</ubType>
 		<ubDamage>18</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -4285,7 +4243,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>204</uiIndex>
+		<uiIndex>202</uiIndex>
 		<ubType>6</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4306,7 +4264,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>205</uiIndex>
+		<uiIndex>203</uiIndex>
 		<ubType>1</ubType>
 		<ubDamage>1</ubDamage>
 		<ubStunDamage>140</ubStunDamage>
@@ -4327,7 +4285,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>206</uiIndex>
+		<uiIndex>204</uiIndex>
 		<ubType>2</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -4348,7 +4306,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>207</uiIndex>
+		<uiIndex>205</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
 		<ubStunDamage>140</ubStunDamage>
@@ -4369,7 +4327,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>208</uiIndex>
+		<uiIndex>206</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
 		<ubStunDamage>5</ubStunDamage>
@@ -4390,7 +4348,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>209</uiIndex>
+		<uiIndex>207</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>33</ubDamage>
 		<ubStunDamage>5</ubStunDamage>
@@ -4411,7 +4369,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>210</uiIndex>
+		<uiIndex>208</uiIndex>
 		<ubType>6</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4432,7 +4390,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>211</uiIndex>
+		<uiIndex>209</uiIndex>
 		<ubType>2</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>50</ubStunDamage>
@@ -4453,7 +4411,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>212</uiIndex>
+		<uiIndex>210</uiIndex>
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4474,7 +4432,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>213</uiIndex>
+		<uiIndex>211</uiIndex>
 		<ubType>8</ubType>
 		<ubDamage>14</ubDamage>
 		<ubStunDamage>30</ubStunDamage>
@@ -4495,7 +4453,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>214</uiIndex>
+		<uiIndex>212</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>26</ubDamage>
 		<ubStunDamage>38</ubStunDamage>
@@ -4516,7 +4474,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>215</uiIndex>
+		<uiIndex>213</uiIndex>
 		<ubType>3</ubType>
 		<ubDamage>18</ubDamage>
 		<ubStunDamage>36</ubStunDamage>
@@ -4537,7 +4495,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>216</uiIndex>
+		<uiIndex>214</uiIndex>
 		<ubType>6</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4558,7 +4516,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>217</uiIndex>
+		<uiIndex>215</uiIndex>
 		<ubType>6</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -4579,7 +4537,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>218</uiIndex>
+		<uiIndex>216</uiIndex>
 		<ubType>2</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>50</ubStunDamage>
@@ -4600,7 +4558,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>219</uiIndex>
+		<uiIndex>217</uiIndex>
 		<ubType>2</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>80</ubStunDamage>
@@ -4621,7 +4579,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>220</uiIndex>
+		<uiIndex>218</uiIndex>
 		<ubType>1</ubType>
 		<ubDamage>20</ubDamage>
 		<ubStunDamage>140</ubStunDamage>
@@ -4642,7 +4600,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>221</uiIndex>
+		<uiIndex>219</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>40</ubDamage>
 		<ubStunDamage>20</ubStunDamage>
@@ -4663,7 +4621,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>222</uiIndex>
+		<uiIndex>220</uiIndex>
 		<ubType>8</ubType>
 		<ubDamage>18</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -4684,7 +4642,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>223</uiIndex>
+		<uiIndex>221</uiIndex>
 		<ubType>3</ubType>
 		<ubDamage>15</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -4705,7 +4663,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>224</uiIndex>
+		<uiIndex>222</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>35</ubDamage>
 		<ubStunDamage>25</ubStunDamage>

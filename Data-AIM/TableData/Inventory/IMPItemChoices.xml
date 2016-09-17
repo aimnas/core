@@ -306,8 +306,8 @@
 		<bItemNo19>0</bItemNo19>
 		<bItemNo20>0</bItemNo20>
 		<bItemNo21>5871</bItemNo21>
-		<bItemNo22>5992</bItemNo22>
-		<bItemNo23>1411</bItemNo23>
+		<bItemNo22>5821</bItemNo22>
+		<bItemNo23>5832</bItemNo23>
 		<bItemNo24>0</bItemNo24>
 		<bItemNo25>0</bItemNo25>
 		<bItemNo26>0</bItemNo26>
@@ -957,7 +957,7 @@
 		<name>Hand to Hand</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>5992</bItemNo1>
+		<bItemNo1>5821</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -1629,7 +1629,11 @@
 		<name>Scouting</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>1642</bItemNo1>
+<<<<<<< HEAD
+		<bItemNo1>1502</bItemNo1>
+=======
+		<bItemNo1>5992</bItemNo1>
+>>>>>>> parent of d17565f... Summer Update
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
