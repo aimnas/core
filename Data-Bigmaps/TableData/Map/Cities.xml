@@ -433,7 +433,7 @@ Changes do not require starting of a new game.
 		<CITY_TABLE_ROW row="01"> 0  12 12 0  0  0  0  0  0  1  1  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="02"> 0  12 12 0  0  0  0  0  0  1  0  0  0  2  2  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="03"> 0  0  0  0  0  7  7  0  0  1  0  0  0  2  2  0  0  0 </CITY_TABLE_ROW>
-		<CITY_TABLE_ROW row="04"> 0  0  0  0  7  7  0  0  0  0  0  0  0  2  2  0  0  0 </CITY_TABLE_ROW>
+		<CITY_TABLE_ROW row="04"> 0  0  0  0  7  7  0  0  0  0  0  0  0  2  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="05"> 0  0  0  0  0  0  0  16 0  0  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="06"> 0  0  4  0  0  0  17 0  6  6  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
 		<CITY_TABLE_ROW row="07"> 0  4  4  0  0  0  17 0  6  6  0  0  0  0  0  0  0  0 </CITY_TABLE_ROW>
