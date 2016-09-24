@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <INCOMPATIBLEATTACHMENTLIST>
 	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>0</itemIndex>
+		<incompatibleattachmentIndex>1047</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>50</itemIndex>
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -269,8 +273,32 @@
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1021</itemIndex>
+		<incompatibleattachmentIndex>1023</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1022</itemIndex>
 		<incompatibleattachmentIndex>5664</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1022</itemIndex>
+		<incompatibleattachmentIndex>1023</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1023</itemIndex>
+		<incompatibleattachmentIndex>1021</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1023</itemIndex>
+		<incompatibleattachmentIndex>1022</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1023</itemIndex>
+		<incompatibleattachmentIndex>1027</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1023</itemIndex>
+		<incompatibleattachmentIndex>1028</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1026</itemIndex>
@@ -289,6 +317,10 @@
 		<incompatibleattachmentIndex>5791</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1027</itemIndex>
+		<incompatibleattachmentIndex>1023</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1028</itemIndex>
 		<incompatibleattachmentIndex>5792</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
@@ -299,6 +331,10 @@
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1028</itemIndex>
 		<incompatibleattachmentIndex>5791</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1028</itemIndex>
+		<incompatibleattachmentIndex>1023</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1031</itemIndex>
@@ -723,6 +759,10 @@
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1047</itemIndex>
 		<incompatibleattachmentIndex>1240</incompatibleattachmentIndex>
+	</INCOMPATIBLEATTACHMENT>
+	<INCOMPATIBLEATTACHMENT>
+		<itemIndex>1047</itemIndex>
+		<incompatibleattachmentIndex>0</incompatibleattachmentIndex>
 	</INCOMPATIBLEATTACHMENT>
 	<INCOMPATIBLEATTACHMENT>
 		<itemIndex>1048</itemIndex>
