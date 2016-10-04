@@ -161,8 +161,8 @@ Changes require starting of a new game.
 		<ElitePercentage>25</ElitePercentage>
 		<TroopPercentage>75</TroopPercentage>
 		<AdminPercentage>45</AdminPercentage>
-		<DesiredPopulation>15</DesiredPopulation>
-		<StartPopulation>15</StartPopulation>
+		<DesiredPopulation>50</DesiredPopulation>
+		<StartPopulation>50</StartPopulation>
 	</COMPOSITION>
 	<!-- Changed -->
 	<COMPOSITION>
