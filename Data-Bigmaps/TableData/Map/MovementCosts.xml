@@ -796,7 +796,7 @@
 			<TravelRating>65</TravelRating>
 			<North>PLAINS</North>
 			<East>ROAD</East>
-			<South>PLAINS</South>
+			<South>ROAD</South>
 			<West>ROAD</West>
 			<Here>HILLS_ROAD</Here>
 		</Sector>
