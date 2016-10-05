@@ -4451,7 +4451,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust Magnification to 6x </szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 6x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
