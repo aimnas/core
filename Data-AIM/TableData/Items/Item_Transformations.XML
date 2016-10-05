@@ -4451,7 +4451,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 6x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 6x </szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -4468,7 +4468,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 4x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 4x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -4485,7 +4485,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 6x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 6x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -4502,7 +4502,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 2x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 2x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -4519,7 +4519,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 4x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 4x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -4536,7 +4536,7 @@
 		<usResult10>0</usResult10>
 		<usAPCost>16</usAPCost>
 		<iBPCost>0</iBPCost>
-		<szMenuRowText>Adjust to 2x Magnification</szMenuRowText>
+		<szMenuRowText>Adjust Magnification to 2x</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -5319,6 +5319,108 @@
 		<usAPCost>5</usAPCost>
 		<iBPCost>0</iBPCost>
 		<szMenuRowText>Pour out</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2001</usItem>
+		<usResult1>2127</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use as replacement Barrel</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2002</usItem>
+		<usResult1>2128</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use as replacement Barrel</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2003</usItem>
+		<usResult1>2129</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use as replacement Barrel</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2127</usItem>
+		<usResult1>2001</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Barrel conversion</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2128</usItem>
+		<usResult1>2002</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Barrel conversion</szMenuRowText>
+		<szTooltipText />
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>2129</usItem>
+		<usResult1>2003</usResult1>
+		<usResult2>0</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>0</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Use for Barrel conversion</szMenuRowText>
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
@@ -8315,8 +8417,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4406</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2115</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2096</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -9318,8 +9420,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4530</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2117</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2098</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -9437,8 +9539,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4576</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2116</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2097</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10304,8 +10406,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4851</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2105</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2086</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10321,8 +10423,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4853</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2106</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2087</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10338,8 +10440,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>4855</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2107</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2088</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10559,8 +10661,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5032</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2114</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2095</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10916,8 +11018,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5121</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2109</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2090</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10933,8 +11035,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5141</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2108</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2089</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10950,8 +11052,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5143</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2111</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2092</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -10967,8 +11069,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5149</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2110</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2091</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -12922,8 +13024,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5382</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2113</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2094</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -13092,8 +13194,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5411</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2103</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2084</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -13109,8 +13211,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5412</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2101</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2082</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -13126,8 +13228,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5413</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2102</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2083</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -13279,8 +13381,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5444</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2112</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2093</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
@@ -13568,8 +13670,8 @@
 	</TRANSFORM>
 	<TRANSFORM>
 		<usItem>5511</usItem>
-		<usResult1>2100</usResult1>
-		<usResult2>2104</usResult2>
+		<usResult1>2081</usResult1>
+		<usResult2>2085</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>
