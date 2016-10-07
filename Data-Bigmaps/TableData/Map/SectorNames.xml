@@ -1199,7 +1199,7 @@ Curfew values
 		<SectorGrid>H4</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
 		<szDetailedUnexploredName>Forest</szDetailedUnexploredName>
-		<szExploredName>Forest</szExploredName>
+		<szExploredName>Abandoned Mine</szExploredName>
 		<szDetailedExploredName>Forest</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
@@ -1337,13 +1337,13 @@ Curfew values
 		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>I2</SectorGrid>
-		<szUnexploredName>Impassable</szUnexploredName>
-		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-		<szExploredName>Impassable</szExploredName>
-		<szDetailedExploredName>Impassable</szDetailedExploredName>
-		<sWaterType>0</sWaterType>
+		<szUnexploredName>Coastal</szUnexploredName>
+		<szDetailedUnexploredName>Coastal</szDetailedUnexploredName>
+		<szExploredName>Naval Base</szExploredName>
+		<szDetailedExploredName>Naval Base</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
+		<usCurfewValue>2</usCurfewValue>
 		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>I3</SectorGrid>

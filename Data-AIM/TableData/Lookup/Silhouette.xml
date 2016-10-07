@@ -272,4 +272,8 @@
 		<id>67</id>
 		<name>LMG Belt</name>
 	</Silhouette>
+	<Silhouette>
+		<id>68</id>
+		<name>Carbiner Ring</name>
+	</Silhouette>
 </JA2Data>

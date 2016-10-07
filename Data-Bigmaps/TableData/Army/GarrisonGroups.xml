@@ -232,6 +232,10 @@ Changes require starting of a new game.
 		<Composition>18</Composition>
 	</GARRISON>
 	<GARRISON>
+	<Sector>I2</Sector>
+		<Composition>20</Composition>
+	</GARRISON>
+	<GARRISON>
 		<Sector>I8</Sector>
 		<Composition>44</Composition>
 	</GARRISON>

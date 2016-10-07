@@ -5535,6 +5535,7 @@
 		<pName>Bandoleer Shotgun small</pName>
 		<pSilhouette>56</pSilhouette>
 		<pType>1</pType>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize604>4</ItemCapacityPerSize604>
 		<ItemCapacityPerSize605>2</ItemCapacityPerSize605>
 		<ItemCapacityPerSize610>8</ItemCapacityPerSize610>
@@ -7072,6 +7073,7 @@
 		<pName>Magazine SR x3</pName>
 		<pSilhouette>59</pSilhouette>
 		<pType>1</pType>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
@@ -7449,6 +7451,7 @@
 		<pName>Magazine SR x2</pName>
 		<pSilhouette>27</pSilhouette>
 		<pType>1</pType>
+		<pVolume>3</pVolume>
 		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
@@ -9021,5 +9024,24 @@
 		<pType>2</pType>
 		<ItemCapacityPerSize659>1</ItemCapacityPerSize659>
 		<ItemCapacityPerSize674>1</ItemCapacityPerSize674>
+	</POCKET>
+	<POCKET>
+		<pIndex>65</pIndex>
+		<pName>Carbiner Ring</pName>
+		<pSilhouette>68</pSilhouette>
+		<pType>1</pType>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize777>1</ItemCapacityPerSize777>
+		<ItemCapacityPerSize778>1</ItemCapacityPerSize778>
+		<ItemCapacityPerSize779>1</ItemCapacityPerSize779>
+		<ItemCapacityPerSize780>1</ItemCapacityPerSize780>
+		<ItemCapacityPerSize781>1</ItemCapacityPerSize781>
+		<ItemCapacityPerSize782>1</ItemCapacityPerSize782>
+		<ItemCapacityPerSize783>1</ItemCapacityPerSize783>
+		<ItemCapacityPerSize784>1</ItemCapacityPerSize784>
+		<ItemCapacityPerSize785>1</ItemCapacityPerSize785>
+		<ItemCapacityPerSize787>1</ItemCapacityPerSize787>
+		<ItemCapacityPerSize906>1</ItemCapacityPerSize906>
+		<ItemCapacityPerSize907>1</ItemCapacityPerSize907>
 	</POCKET>
 </POCKETLIST>

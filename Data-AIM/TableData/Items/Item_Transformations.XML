@@ -2874,6 +2874,23 @@
 		<szTooltipText>Split into single MOLLE pouches</szTooltipText>
 	</TRANSFORM>
 	<TRANSFORM>
+		<usItem>953</usItem>
+		<usResult1>965</usResult1>
+		<usResult2>965</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>10</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Seperate MOLLE</szMenuRowText>
+		<szTooltipText>Split into single MOLLE pouches</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
 		<usItem>955</usItem>
 		<usResult1>954</usResult1>
 		<usResult2>954</usResult2>
@@ -2979,6 +2996,23 @@
 		<usItem>983</usItem>
 		<usResult1>982</usResult1>
 		<usResult2>982</usResult2>
+		<usResult3>0</usResult3>
+		<usResult4>0</usResult4>
+		<usResult5>0</usResult5>
+		<usResult6>0</usResult6>
+		<usResult7>0</usResult7>
+		<usResult8>0</usResult8>
+		<usResult9>0</usResult9>
+		<usResult10>0</usResult10>
+		<usAPCost>10</usAPCost>
+		<iBPCost>0</iBPCost>
+		<szMenuRowText>Seperate MOLLE</szMenuRowText>
+		<szTooltipText>Split into single MOLLE pouches</szTooltipText>
+	</TRANSFORM>
+	<TRANSFORM>
+		<usItem>983</usItem>
+		<usResult1>995</usResult1>
+		<usResult2>995</usResult2>
 		<usResult3>0</usResult3>
 		<usResult4>0</usResult4>
 		<usResult5>0</usResult5>

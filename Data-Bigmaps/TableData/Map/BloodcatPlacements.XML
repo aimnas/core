@@ -507,24 +507,24 @@
 		<SectorGrid>I4</SectorGrid>
 		<ubPlacementType>0</ubPlacementType>
 		<NOVICE>
-			<ubAmbushChance>5</ubAmbushChance>
+			<ubAmbushChance>10</ubAmbushChance>
 			<ubMinBloodcats>3</ubMinBloodcats>
 			<ubMaxBloodcats>8</ubMaxBloodcats>
 		</NOVICE>
 		<EXPERIENCED>
-			<ubAmbushChance>10</ubAmbushChance>
+			<ubAmbushChance>20</ubAmbushChance>
 			<ubMinBloodcats>3</ubMinBloodcats>
 			<ubMaxBloodcats>8</ubMaxBloodcats>
 		</EXPERIENCED>
 		<EXPERT>
-			<ubAmbushChance>15</ubAmbushChance>
-			<ubMinBloodcats>3</ubMinBloodcats>
-			<ubMaxBloodcats>8</ubMaxBloodcats>
+			<ubAmbushChance>25</ubAmbushChance>
+			<ubMinBloodcats>5</ubMinBloodcats>
+			<ubMaxBloodcats>10</ubMaxBloodcats>
 		</EXPERT>
 		<INSANE>
-			<ubAmbushChance>20</ubAmbushChance>
-			<ubMinBloodcats>3</ubMinBloodcats>
-			<ubMaxBloodcats>8</ubMaxBloodcats>
+			<ubAmbushChance>30</ubAmbushChance>
+			<ubMinBloodcats>5</ubMinBloodcats>
+			<ubMaxBloodcats>10</ubMaxBloodcats>
 		</INSANE>
 	</SECTOR>
 	<SECTOR>
