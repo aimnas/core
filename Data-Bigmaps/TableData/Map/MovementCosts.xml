@@ -1291,7 +1291,7 @@
 		<Sector y="K" x="2">
 			<TravelRating>55</TravelRating>
 			<North>ROAD</North>
-			<East>SWAMP</East>
+			<East>EW_RIVER</East>
 			<South>ROAD</South>
 			<West>GROUNDBARRIER</West>
 			<Here>COASTAL_ROAD</Here>
@@ -1301,7 +1301,7 @@
 			<North>PLAINS</North>
 			<East>SWAMP</East>
 			<South>SWAMP</South>
-			<West>SWAMP</West>
+			<West>EW_RIVER</West>
 			<Here>SWAMP</Here>
 		</Sector>
 		<Sector y="K" x="4">

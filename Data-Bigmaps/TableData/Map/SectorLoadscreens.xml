@@ -1319,19 +1319,19 @@ INFO: Hight resolution loadscreens must be postfixed in the filesystem with _800
 		<uiIndex>129</uiIndex>
 		<szLocation>I1</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat></szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
-		<szDayAlt></szDayAlt>
-		<szNightAlt></szNightAlt>
+		<szImageFormat>STI</szImageFormat>
+		<szDay>Loadscreens\LS_DayTown2</szDay>
+		<szNight>Loadscreens\LS_NightTown2</szNight>
+		<szDayAlt>Loadscreens\LS_DayTown1</szDayAlt>
+		<szNightAlt>Loadscreens\LS_NightTown1</szNightAlt>
 	</SECTOR>
 	<SECTOR>
 		<uiIndex>130</uiIndex>
 		<szLocation>I2</szLocation>
 		<RandomAltSector>0</RandomAltSector>
-		<szImageFormat></szImageFormat>
-		<szDay></szDay>
-		<szNight></szNight>
+		<szImageFormat>STI</szImageFormat>
+		<szDay>Loadscreens\LS_DayTropical</szDay>
+		<szNight>Loadscreens\LS_NightTropical</szNight>
 		<szDayAlt></szDayAlt>
 		<szNightAlt></szNightAlt>
 	</SECTOR>

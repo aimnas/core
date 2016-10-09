@@ -572,6 +572,30 @@
 		</INSANE>
 	</SECTOR>
 	<SECTOR>
+		<SectorGrid>J3</SectorGrid>
+		<ubPlacementType>0</ubPlacementType>
+		<NOVICE>
+			<ubAmbushChance>5</ubAmbushChance>
+			<ubMinBloodcats>3</ubMinBloodcats>
+			<ubMaxBloodcats>8</ubMaxBloodcats>
+		</NOVICE>
+		<EXPERIENCED>
+			<ubAmbushChance>10</ubAmbushChance>
+			<ubMinBloodcats>3</ubMinBloodcats>
+			<ubMaxBloodcats>10</ubMaxBloodcats>
+		</EXPERIENCED>
+		<EXPERT>
+			<ubAmbushChance>15</ubAmbushChance>
+			<ubMinBloodcats>3</ubMinBloodcats>
+			<ubMaxBloodcats>12</ubMaxBloodcats>
+		</EXPERT>
+		<INSANE>
+			<ubAmbushChance>20</ubAmbushChance>
+			<ubMinBloodcats>3</ubMinBloodcats>
+			<ubMaxBloodcats>14</ubMaxBloodcats>
+		</INSANE>
+	</SECTOR>
+	<SECTOR>
 		<SectorGrid>J7</SectorGrid>
 		<ubPlacementType>0</ubPlacementType>
 		<NOVICE>
