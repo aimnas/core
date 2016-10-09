@@ -1327,10 +1327,10 @@ Curfew values
 		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>I1</SectorGrid>
-		<szUnexploredName>Impassable</szUnexploredName>
-		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-		<szExploredName>Impassable</szExploredName>
-		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<szUnexploredName>Grumm</szUnexploredName>
+		<szDetailedUnexploredName>Grumm</szDetailedUnexploredName>
+		<szExploredName>Grumm Marina</szExploredName>
+		<szDetailedExploredName>Grumm Marina</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>

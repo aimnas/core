@@ -900,7 +900,7 @@
 			<TravelRating>67</TravelRating>
 			<North>TOWN</North>
 			<East>TOWN</East>
-			<South>GROUNDBARRIER</South>
+			<South>TOWN</South>
 			<West>EDGEOFWORLD</West>
 			<Here>TOWN</Here>
 		</Sector>
@@ -1026,18 +1026,18 @@
 		</Sector>
 		<Sector y="I" x="1">
 			<TravelRating>0</TravelRating>
-			<North>GROUNDBARRIER</North>
-			<East>GROUNDBARRIER</East>
+			<North>TOWN</North>
+			<East>SPARSE</East>
 			<South>GROUNDBARRIER</South>
 			<West>EDGEOFWORLD</West>
-			<Here>GROUNDBARRIER</Here>
+			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="I" x="2">
 			<TravelRating>3</TravelRating>
 			<North>SPARSE</North>
 			<East>SPARSE</East>
 			<South>ROAD</South>
-			<West>GROUNDBARRIER</West>
+			<West>SPARSE</West>
 			<Here>COASTAL_ROAD</Here>
 		</Sector>
 		<Sector y="I" x="3">
