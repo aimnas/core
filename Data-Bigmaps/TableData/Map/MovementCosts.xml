@@ -268,7 +268,7 @@
 			<TravelRating>40</TravelRating>
 			<North>ROAD</North>
 			<East>ROAD</East>
-			<South>DENSE</South>
+			<South>ROAD</South>
 			<West>ROAD</West>
 			<Here>TROPICS_ROAD</Here>
 		</Sector>
@@ -394,9 +394,9 @@
 		</Sector>
 		<Sector y="D" x="2">
 			<TravelRating>7</TravelRating>
-			<North>DENSE</North>
-			<East>ROAD</East>
-			<South>PLAINS</South>
+			<North>ROAD</North>
+			<East>DENSE</East>
+			<South>ROAD</South>
 			<West>PLAINS</West>
 			<Here>TROPICS</Here>
 		</Sector>
@@ -405,7 +405,7 @@
 			<North>ROAD</North>
 			<East>GROUNDBARRIER</East>
 			<South>ROAD</South>
-			<West>ROAD</West>
+			<West>DENSE</West>
 			<Here>TROPICS_ROAD</Here>
 		</Sector>
 		<Sector y="D" x="4">
@@ -522,11 +522,11 @@
 		</Sector>
 		<Sector y="E" x="2">
 			<TravelRating>10</TravelRating>
-			<North>PLAINS</North>
+			<North>ROAD</North>
 			<East>PLAINS</East>
 			<South>GROUNDBARRIER</South>
 			<West>GROUNDBARRIER</West>
-			<Here>TROPICS</Here>
+			<Here>TROPICS_ROAD</Here>
 		</Sector>
 		<Sector y="E" x="3">
 			<TravelRating>45</TravelRating>

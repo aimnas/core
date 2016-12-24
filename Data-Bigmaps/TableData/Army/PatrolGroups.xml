@@ -97,7 +97,7 @@ Changes require starting of a new game.
 		<Waypoints>
 			<Sector1>D3</Sector1>
 			<Sector2>G3</Sector2>
-			<Sector3>0</Sector3>
+			<Sector3>G4</Sector3>
 			<Sector4>0</Sector4>
 		</Waypoints>
 	</PATROL>
@@ -207,8 +207,8 @@ Changes require starting of a new game.
 		<Waypoints>
 			<Sector1>J2</Sector1>
 			<Sector2>K2</Sector2>
-			<Sector3>0</Sector3>
-			<Sector4>0</Sector4>
+			<Sector3>K3</Sector3>
+			<Sector4>J3</Sector4>
 		</Waypoints>
 	</PATROL>
 	<PATROL>
@@ -217,8 +217,8 @@ Changes require starting of a new game.
 		<Waypoints>
 			<Sector1>I3</Sector1>
 			<Sector2>J3</Sector2>
-			<Sector3>0</Sector3>
-			<Sector4>0</Sector4>
+			<Sector3>J4</Sector3>
+			<Sector4>I4</Sector4>
 		</Waypoints>
 	</PATROL>
 	<PATROL>
@@ -227,8 +227,8 @@ Changes require starting of a new game.
 		<Waypoints>
 			<Sector1>J6</Sector1>
 			<Sector2>K6</Sector2>
-			<Sector3>0</Sector3>
-			<Sector4>0</Sector4>
+			<Sector3>K7</Sector3>
+			<Sector4>J7</Sector4>
 		</Waypoints>
 	</PATROL>
 	<PATROL>
@@ -278,7 +278,7 @@ Changes require starting of a new game.
 			<Sector1>H4</Sector1>
 			<Sector2>H5</Sector2>
 			<Sector3>I5</Sector3>
-			<Sector4>0</Sector4>
+			<Sector4>K5</Sector4>
 		</Waypoints>
 	</PATROL>
 	<PATROL>

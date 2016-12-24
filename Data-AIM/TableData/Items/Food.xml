@@ -31,8 +31,8 @@
 		<uiIndex>3</uiIndex>
 		<szName>Beer</szName>
 		<bFoodPoints>0</bFoodPoints>
-		<bDrinkPoints>800</bDrinkPoints>
-		<ubPortionSize>100</ubPortionSize>
+		<bDrinkPoints>600</bDrinkPoints>
+		<ubPortionSize>50</ubPortionSize>
 		<bMoraleMod>3</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
 	</FOOD>
@@ -455,7 +455,7 @@
 		<szName>Soda</szName>
 		<bFoodPoints>0</bFoodPoints>
 		<bDrinkPoints>500</bDrinkPoints>
-		<ubPortionSize>50</ubPortionSize>
+		<ubPortionSize>100</ubPortionSize>
 		<bMoraleMod>1</bMoraleMod>
 		<usDecayRate>0.1</usDecayRate>
 	</FOOD>
@@ -573,6 +573,24 @@
 		<bFoodPoints>1</bFoodPoints>
 		<bDrinkPoints>0</bDrinkPoints>
 		<ubPortionSize>13</ubPortionSize>
+		<bMoraleMod>2</bMoraleMod>
+		<usDecayRate>0</usDecayRate>
+	</FOOD>
+	<FOOD>
+		<uiIndex>64</uiIndex>
+		<szName>Water Canister</szName>
+		<bFoodPoints>0</bFoodPoints>
+		<bDrinkPoints>10000</bDrinkPoints>
+		<ubPortionSize>2</ubPortionSize>
+		<bMoraleMod>0</bMoraleMod>
+		<usDecayRate>0</usDecayRate>
+	</FOOD>
+	<FOOD>
+		<uiIndex>65</uiIndex>
+		<szName>Beer Can</szName>
+		<bFoodPoints>0</bFoodPoints>
+		<bDrinkPoints>500</bDrinkPoints>
+		<ubPortionSize>100</ubPortionSize>
 		<bMoraleMod>2</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
 	</FOOD>

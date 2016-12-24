@@ -239,8 +239,8 @@ local function PopulateSectors(difficultyLevel, gameStyle)
 	s["A16-1"].numElites = ({  4,  6,  8, 12 })[difficultyLevel]
 		
     -- Orta
-    s["K4-1"].numTroops = 6 + 2*difficultyLevel + math.random(0, 2)
-    s["K4-1"].numElites = 4 +   difficultyLevel + math.random(0, 1)
+    s["K4-1"].numTroops = 20 + 2*difficultyLevel + math.random(0, ({ 1, 2, 3, 4 })[difficultyLevel])
+    s["K4-1"].numElites = 8 + 5*difficultyLevel + math.random(0, ({ 1, 2, 3, 4 })[difficultyLevel])
 
     -- Meduna
     s["O3-1"].numTroops = 6 + 2*difficultyLevel + math.random(0, 2)

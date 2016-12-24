@@ -286,13 +286,4 @@
 		<eastfacingtile>6</eastfacingtile>
 		<westfacingtile>6</westfacingtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- chair -->
-		<usCreationItem>1556</usCreationItem>
-		<usItemStatusLoss>100</usItemStatusLoss>
-		<szTileSetName>furniture1.sti</szTileSetName>
-		<northfacingtile>0</northfacingtile>
-		<southfacingtile>1</southfacingtile>
-		<eastfacingtile>2</eastfacingtile>
-		<westfacingtile>3</westfacingtile>
-	</STRUCTURE>
 </STRUCTURESLIST>

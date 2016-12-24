@@ -133,16 +133,6 @@
 		<szTileSetName>drum_01.sti</szTileSetName>
 		<allowedtile>6</allowedtile>
 	</STRUCTURE>
-	<STRUCTURE><!-- Chair -->
-		<usDeconstructItem>377</usDeconstructItem>
-		<usItemToCreate>1556</usItemToCreate>
-		<usCreatedItemStatus>100</usCreatedItemStatus>
-		<szTileSetName>furniture1.sti</szTileSetName>
-		<allowedtile>0</allowedtile>
-		<allowedtile>1</allowedtile>
-		<allowedtile>2</allowedtile>
-		<allowedtile>3</allowedtile>
-	</STRUCTURE>
 	<STRUCTURE><!-- earthpile -->
 	<usDeconstructItem>1411</usDeconstructItem>
 		<usItemToCreate>0</usItemToCreate>

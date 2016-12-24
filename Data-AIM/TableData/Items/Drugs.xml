@@ -908,4 +908,103 @@ If <chance> is set, this is the chance that this effect is applied when consumin
 			<size>-1000</size>
 		</DRUG_EFFECT>
 	</DRUG>
+	<DRUG>
+		<uiIndex>25</uiIndex>
+		<szName>Alcohol (beer, 4.7%)</szName>
+		<DRUG_EFFECT>
+			<effect>1</effect>
+			<duration>10</duration>
+			<size>40</size>
+		</DRUG_EFFECT>
+		<DRUG_EFFECT>
+			<effect>2</effect>
+			<duration>10</duration>
+			<size>2</size>
+			<chance>50</chance>
+		</DRUG_EFFECT>
+		<DRUG_EFFECT>
+			<effect>3</effect>
+			<duration>10</duration>
+			<size>1</size>
+		</DRUG_EFFECT>
+		<DRUG_EFFECT>
+			<effect>8</effect>
+			<duration>20</duration>
+			<size>-3</size>
+			<chance>15</chance>
+		</DRUG_EFFECT>
+		
+		<!-- Hungover effect - if we drink too much, hungover disease becomes active -->
+		<DISEASE_EFFECT>
+			<disease>16</disease>
+			<size>12</size>		<!-- alcohol (g) -->
+		</DISEASE_EFFECT>
+		
+		<DISABILITY_EFFECT>
+			<disability>9</disability>
+			<duration>5</duration>
+			<chance>5</chance>
+		</DISABILITY_EFFECT>
+		
+		<PERSONALITY_EFFECT>
+			<personality>1</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>2</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>3</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>4</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>5</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>6</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>7</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>8</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>9</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>10</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>11</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+		<PERSONALITY_EFFECT>
+			<personality>12</personality>
+			<duration>5</duration>
+			<chance>10</chance>
+		</PERSONALITY_EFFECT>
+	</DRUG>
 	</DRUGSLIST>
