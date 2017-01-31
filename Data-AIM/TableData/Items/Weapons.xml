@@ -12191,7 +12191,7 @@
 		<usRange>360</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>33</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
+		<ubAttackVolume>48</ubAttackVolume>
 		<ubHitVolume>3</ubHitVolume>
 		<sSound>328</sSound>
 		<sBurstSound>20</sBurstSound>
@@ -12232,7 +12232,7 @@
 		<usRange>330</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>33</BurstAniDelay>
-		<ubAttackVolume>40</ubAttackVolume>
+		<ubAttackVolume>38</ubAttackVolume>
 		<ubHitVolume>3</ubHitVolume>
 		<sSound>328</sSound>
 		<sBurstSound>20</sBurstSound>
@@ -17284,9 +17284,11 @@
 		<sLocknLoadSound>108</sLocknLoadSound>
 		<SilencedSound>157</SilencedSound>
 		<bBurstAP>20</bBurstAP>
+		<bAutofireShotsPerFiveAP>2</bAutofireShotsPerFiveAP>
 		<APsToReload>28</APsToReload>
 		<SwapClips>1</SwapClips>
 		<MaxDistForMessyDeath>15</MaxDistForMessyDeath>
+		<AutoPenalty>10</AutoPenalty>
 		<ManualReloadSound>476</ManualReloadSound>
 		<nAccuracy>75</nAccuracy>
 		<bRecoilX>0.45</bRecoilX>
@@ -39256,6 +39258,9 @@
 		<usRange>1400</usRange>
 		<usReloadDelay>200</usReloadDelay>
 		<BurstAniDelay>100</BurstAniDelay>
+		<ubAttackVolume>89</ubAttackVolume>
+		<ubHitVolume>10</ubHitVolume>
+		<sSound>428</sSound>
 		<MaxDistForMessyDeath>8</MaxDistForMessyDeath>
 		<nAccuracy>10</nAccuracy>
 		<ubAimLevels>5</ubAimLevels>

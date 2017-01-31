@@ -3092,7 +3092,7 @@
 		<ItemCapacityPerSize738>4</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>6</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>4</ItemCapacityPerSize741>
-		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
+		<ItemCapacityPerSize742>2</ItemCapacityPerSize742>
 		<ItemCapacityPerSize743>4</ItemCapacityPerSize743>
 		<ItemCapacityPerSize744>2</ItemCapacityPerSize744>
 		<ItemCapacityPerSize745>1</ItemCapacityPerSize745>
@@ -3796,6 +3796,7 @@
 		<ItemCapacityPerSize738>3</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>4</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>3</ItemCapacityPerSize741>
+		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
 		<ItemCapacityPerSize743>2</ItemCapacityPerSize743>
 		<ItemCapacityPerSize744>2</ItemCapacityPerSize744>
 		<ItemCapacityPerSize746>6</ItemCapacityPerSize746>
@@ -4163,6 +4164,7 @@
 		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>3</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>2</ItemCapacityPerSize741>
+		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>
 		<ItemCapacityPerSize744>1</ItemCapacityPerSize744>
 		<ItemCapacityPerSize746>2</ItemCapacityPerSize746>
@@ -4494,6 +4496,7 @@
 		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>2</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>1</ItemCapacityPerSize741>
+		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>
 		<ItemCapacityPerSize744>1</ItemCapacityPerSize744>
 		<ItemCapacityPerSize746>2</ItemCapacityPerSize746>
@@ -5481,6 +5484,7 @@
 		<ItemCapacityPerSize731>2</ItemCapacityPerSize731>
 		<ItemCapacityPerSize732>2</ItemCapacityPerSize732>
 		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
+		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
 		<ItemCapacityPerSize746>1</ItemCapacityPerSize746>
 		<ItemCapacityPerSize747>1</ItemCapacityPerSize747>
 		<ItemCapacityPerSize752>1</ItemCapacityPerSize752>
@@ -8371,6 +8375,7 @@
 		<ItemCapacityPerSize738>1</ItemCapacityPerSize738>
 		<ItemCapacityPerSize740>2</ItemCapacityPerSize740>
 		<ItemCapacityPerSize741>1</ItemCapacityPerSize741>
+		<ItemCapacityPerSize742>1</ItemCapacityPerSize742>
 		<ItemCapacityPerSize743>1</ItemCapacityPerSize743>
 		<ItemCapacityPerSize744>1</ItemCapacityPerSize744>
 		<ItemCapacityPerSize746>2</ItemCapacityPerSize746>
