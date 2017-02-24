@@ -2964,13 +2964,10 @@
 		<szDescription>While others may keep to their pasts and its labels, you've chosen &#10;the life of a gun for hire - and embraced it. This is who you really are.</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
-		<ap_fortify>-5</ap_fortify>
-		<ap_artillery>-2</ap_artillery> 
-		<resistance_physical>3</resistance_physical>
+		<resistance_physical>10</resistance_physical>
 		<resistance_fear>10</resistance_fear>
 		<resistance_suppression>10</resistance_suppression>
-		<interrogation>5</interrogation>
-		<carrystrength>3</carrystrength>
+		<carrystrength>5</carrystrength>
 		<capitulation>15</capitulation>
 		<insurance>-20</insurance>
 		<smoker>1</smoker>
@@ -2983,19 +2980,8 @@
 		<szName>B-Movie Star/Veteran Mercenary</szName>
 		<szShortName>Movie Star/Vet Merc</szShortName>
 		<szDescription>Target of thrown popcorn in cinemas around the world, scoffed by critics &#10;yet adored by loyal fans.</szDescription>
-		<leadership>5</leadership>
-		<ap_fortify>5</ap_fortify>
-		<ap_artillery>5</ap_artillery>
-		<ap_airdrop>-3</ap_airdrop>
-		<ap_assault>5</ap_assault>
 		<camo>10</camo>
-		<interrogation>5</interrogation>
-		<carrystrength>3</carrystrength>
-		<speed_run>-5</speed_run>
 		<capitulation>25</capitulation>
-		<betterprices_guns>5</betterprices_guns>
-		<betterprices>10</betterprices>
-		<insurance>-20</insurance>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3201,11 +3187,10 @@
 		<szName>Mad Bomber</szName>
 		<szShortName>Mad Bomber</szShortName>
 		<szDescription>Explosives experts are hard to find . . . but everyone wishes &#10;they hadn't found this one!</szDescription>
-		<dexterity>3</dexterity>
-		<mechanical>3</mechanical>
-		<wisdom>-6</wisdom>
-		<leadership>-9</leadership>
-		<explosives>9</explosives>
+		<mechanical>5</mechanical>
+		<wisdom>-5</wisdom>
+		<leadership>-10</leadership>
+		<explosives>5</explosives>
 		<disarm_trap>33</disarm_trap>
 		<breachingcharge>66</breachingcharge>
 		<traplevel>1</traplevel>
@@ -3217,7 +3202,6 @@
 		<approach_direct>-50</approach_direct>
 		<approach_threaten>50</approach_threaten>
 		<approach_recruit>-50</approach_recruit>
-		<insurance>100</insurance>
 		<druguse>1</druguse>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
