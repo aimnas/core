@@ -647,6 +647,8 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		elseif ( sSectorX == 1 and sSectorY == SectorY.MAP_ROW_B) then
 			-- Diving Store
 			CreateCivilian(50139, 0, 68, Bodytype.REGMALE, -1, -1, -1, -1, -1, -1, -1, -1)
+			-- Chinese Take Away
+			CreateCivilian(84501, 0, 70, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_B) then
 		
 		-- Outside Cambria (E7)

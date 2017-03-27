@@ -220,6 +220,14 @@ Changes require starting of a new game.
 		<Composition>18</Composition>
 	</GARRISON>
 	<GARRISON>
+		<Sector>H1</Sector>
+		<Composition>9</Composition>
+	</GARRISON>
+	<GARRISON>
+		<Sector>H2</Sector>
+		<Composition>8</Composition>
+	</GARRISON>
+	<GARRISON>
 		<Sector>H3</Sector>
 		<Composition>9</Composition>
 	</GARRISON>

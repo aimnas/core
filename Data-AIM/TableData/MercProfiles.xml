@@ -28,20 +28,20 @@ Max Profiles 0 - 254
 <!-- major Skill (8)	Technician/Engineer			-->
 <!-- major Skill (9)	Paramedic/Doctor			-->
 
-<!-- minor Skills (10)	Ambidex						-->
-<!-- minor Skills (11)	Melee						-->	
-<!-- minor Skills (12)  Throwing					-->
-<!-- minor Skills (13)	Night Ops					-->
-<!-- minor Skills (14)	Stealthy					-->	
-<!-- minor Skills (15)	Athletics					-->
-<!-- minor Skills (16)	Bodybuilding				-->
-<!-- minor Skills (17)	Demolitions					-->
-<!-- minor Skills (18)	Teaching					-->
-<!-- minor Skills (19)	Scouting					-->
-<!-- major Skills (20)  Covert Ops /Spy             -->
-<!-- minor Skill (21)	Radio Operator		-->
-<!-- minor Skill (22)   Snitch -->
-<!-- minor Skill (23)   Survival -->
+<!-- minor Skill (10)	Ambidex						-->
+<!-- minor Skill (11)	Melee						-->	
+<!-- minor Skill (12)   Throwing					-->
+<!-- minor Skill (13)	Night Ops					-->
+<!-- minor Skill (14)	Stealthy					-->	
+<!-- minor Skill (15)	Athletics					-->
+<!-- minor Skill (16)	Bodybuilding				-->
+<!-- minor Skill (17)	Demolitions					-->
+<!-- minor Skill (18)	Teaching					-->
+<!-- minor Skill (19)	Scouting					-->
+<!-- major Skill (20)   Covert Ops /Spy             -->
+<!-- minor Skill (21)	Radio Operator				-->
+<!-- minor Skill (22)   Snitch 						-->
+<!-- minor Skill (23)   Survival 					-->
 
 <!-- STOMP Character Traits -->
 
@@ -232,16 +232,16 @@ Max Profiles 0 - 254
 		<bHatedTime5>0</bHatedTime5>
 		<bLearnToHate>-1</bLearnToHate>
 		<bLearnToHateTime>0</bLearnToHateTime>
-	<bRace>0</bRace>
-	<bNationality>16</bNationality>
-	<bAppearance>3</bAppearance>
-	<bAppearanceCareLevel>0</bAppearanceCareLevel>
-	<bRefinement>0</bRefinement>
-	<bRefinementCareLevel>0</bRefinementCareLevel>
-	<bHatedNationality>-1</bHatedNationality>
-	<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
-	<bRacist>0</bRacist>
-	<bSexist>3</bSexist>
+		<bRace>0</bRace>
+		<bNationality>16</bNationality>
+		<bAppearance>3</bAppearance>
+		<bAppearanceCareLevel>0</bAppearanceCareLevel>
+		<bRefinement>0</bRefinement>
+		<bRefinementCareLevel>0</bRefinementCareLevel>
+		<bHatedNationality>-1</bHatedNationality>
+		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
+		<bRacist>0</bRacist>
+		<bSexist>3</bSexist>
 		<sSalary>350</sSalary>
 		<uiWeeklySalary>2200</uiWeeklySalary>
 		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
@@ -594,7 +594,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>11</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>8</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>33</bReputationTolerance>
 		<bDeathRate>18</bDeathRate>
 		<bLifeMax>79</bLifeMax>
@@ -795,7 +795,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>3</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>6</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>37</bReputationTolerance>
 		<bDeathRate>40</bDeathRate>
 		<bLifeMax>82</bLifeMax>
@@ -1800,7 +1800,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>10</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>50</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>79</bLifeMax>
@@ -2196,7 +2196,7 @@ Max Profiles 0 - 254
 		<bAttitude>6</bAttitude>   
 		<bCharacterTrait>8</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>5</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>51</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
 		<bLifeMax>82</bLifeMax>
@@ -2490,7 +2490,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>7</bCharacterTrait>
 		<bDisability>7</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>5</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>71</bLifeMax>
@@ -3202,7 +3202,7 @@ Max Profiles 0 - 254
 		<bStrength>76</bStrength>
 		<bAgility>71</bAgility>
 		<bDexterity>76</bDexterity>
-		<bWisdom>78</bWisdom>
+		<bWisdom>85</bWisdom>
 		<bMarksmanship>73</bMarksmanship>
 		<bExplosive>30</bExplosive>
 		<bLeadership>44</bLeadership>
@@ -3596,8 +3596,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>10</ubNeedForSleep>
 		<bReputationTolerance>94</bReputationTolerance>
 		<bDeathRate>49</bDeathRate>
-		<bLifeMax>72</bLifeMax>
-		<bLife>72</bLife>
+		<bLifeMax>86</bLifeMax>
+		<bLife>86</bLife>
 		<bStrength>90</bStrength>
 		<bAgility>60</bAgility>
 		<bDexterity>88</bDexterity>
@@ -4094,7 +4094,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>11</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>5</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>99</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>78</bLifeMax>
@@ -4494,7 +4494,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>11</bCharacterTrait>
 		<bDisability>7</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>3</ubNeedForSleep>
+		<ubNeedForSleep>4</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>84</bLifeMax>
@@ -4988,7 +4988,7 @@ Max Profiles 0 - 254
 		<bAttitude>8</bAttitude>   
 		<bCharacterTrait>4</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>6</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>84</bLifeMax>
@@ -5967,9 +5967,9 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<!-- STOMP -->
-		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>12</bNewSkillTrait2>
-		<bNewSkillTrait3>14</bNewSkillTrait3>
+		<bNewSkillTrait1>12</bNewSkillTrait1>
+		<bNewSkillTrait2>14</bNewSkillTrait2>
+		<bNewSkillTrait3>23</bNewSkillTrait3>
 		<!-- STOMP -->
 		<bBuddy1>57</bBuddy1>
 		<bBuddy2>60</bBuddy2>
@@ -16738,7 +16738,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>2</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>7</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>64</bReputationTolerance>
 		<bDeathRate>95</bDeathRate>
 		<bLifeMax>79</bLifeMax>
@@ -16839,7 +16839,7 @@ Max Profiles 0 - 254
 		<bCharacterTrait>0</bCharacterTrait>
 		<bDisability>0</bDisability>
 		<!-- STOMP -->
-		<ubNeedForSleep>7</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>50</bReputationTolerance>
 		<bDeathRate>80</bDeathRate>
 		<bLifeMax>94</bLifeMax>
@@ -18313,7 +18313,7 @@ Max Profiles 0 - 254
 		<bAttitude>7</bAttitude>
 		<bCharacterTrait>10</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>8</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>10</bReputationTolerance>
 		<bDeathRate>5</bDeathRate>
 		<bLifeMax>83</bLifeMax>
@@ -18506,7 +18506,7 @@ Max Profiles 0 - 254
 		<bAttitude>9</bAttitude>
 		<bCharacterTrait>13</bCharacterTrait>
 		<bDisability>1</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>76</bLifeMax>
@@ -21557,7 +21557,7 @@ Max Profiles 0 - 254
 		<bAttitude>8</bAttitude>
 		<bCharacterTrait>11</bCharacterTrait>
 		<bDisability>2</bDisability>
-		<ubNeedForSleep>11</ubNeedForSleep>
+		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>68</bLifeMax>
@@ -21653,7 +21653,7 @@ Max Profiles 0 - 254
 		<bAttitude>8</bAttitude>
 		<bCharacterTrait>11</bCharacterTrait>
 		<bDisability>7</bDisability>
-		<ubNeedForSleep>10</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>69</bLifeMax>
@@ -22039,7 +22039,7 @@ Max Profiles 0 - 254
 		<bAttitude>1</bAttitude>
 		<bCharacterTrait>1</bCharacterTrait>
 		<bDisability>2</bDisability>
-		<ubNeedForSleep>11</ubNeedForSleep>
+		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>26</bReputationTolerance>
 		<bDeathRate>22</bDeathRate>
 		<bLifeMax>74</bLifeMax>
@@ -22423,7 +22423,7 @@ Max Profiles 0 - 254
 		<bAttitude>2</bAttitude>
 		<bCharacterTrait>2</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>3</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>82</bLifeMax>
@@ -22616,7 +22616,7 @@ Max Profiles 0 - 254
 		<bAttitude>2</bAttitude>
 		<bCharacterTrait>2</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>5</ubNeedForSleep>
+		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>69</bReputationTolerance>
 		<bDeathRate>62</bDeathRate>
 		<bLifeMax>69</bLifeMax>
@@ -22713,7 +22713,7 @@ Max Profiles 0 - 254
 		<bAttitude>3</bAttitude>
 		<bCharacterTrait>3</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>6</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>39</bReputationTolerance>
 		<bDeathRate>36</bDeathRate>
 		<bLifeMax>85</bLifeMax>
@@ -22809,7 +22809,7 @@ Max Profiles 0 - 254
 		<bAttitude>6</bAttitude>
 		<bCharacterTrait>9</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>6</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>48</bReputationTolerance>
 		<bDeathRate>42</bDeathRate>
 		<bLifeMax>82</bLifeMax>
@@ -23293,7 +23293,7 @@ Max Profiles 0 - 254
 		<bAttitude>4</bAttitude>
 		<bCharacterTrait>9</bCharacterTrait>
 		<bDisability>4</bDisability>
-		<ubNeedForSleep>10</ubNeedForSleep>
+		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>33</bReputationTolerance>
 		<bDeathRate>31</bDeathRate>
 		<bLifeMax>72</bLifeMax>
@@ -23873,18 +23873,18 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>63</bLifeMax>
-		<bLife>63</bLife>
+		<bLifeMax>68</bLifeMax>
+		<bLife>68</bLife>
 		<bStrength>68</bStrength>
-		<bAgility>64</bAgility>
-		<bDexterity>88</bDexterity>
-		<bWisdom>62</bWisdom>
+		<bAgility>74</bAgility>
+		<bDexterity>78</bDexterity>
+		<bWisdom>72</bWisdom>
 		<bMarksmanship>55</bMarksmanship>
 		<bExplosive>6</bExplosive>
 		<bLeadership>15</bLeadership>
 		<bMedical>12</bMedical>
-		<bMechanical>81</bMechanical>
-		<bExpLevel>2</bExpLevel>
+		<bMechanical>72</bMechanical>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
@@ -23921,7 +23921,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>450</sSalary>
+		<sSalary>800</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24159,7 +24159,7 @@ Max Profiles 0 - 254
 		<bAttitude>7</bAttitude>
 		<bCharacterTrait>9</bCharacterTrait>
 		<bDisability>0</bDisability>
-		<ubNeedForSleep>6</ubNeedForSleep>
+		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>12</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>74</bLifeMax>
@@ -24449,7 +24449,7 @@ Max Profiles 0 - 254
 		<bAttitude>1</bAttitude>
 		<bCharacterTrait>5</bCharacterTrait>
 		<bDisability>6</bDisability>
-		<ubNeedForSleep>10</ubNeedForSleep>
+		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>70</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
 		<bLifeMax>49</bLifeMax>
@@ -24644,8 +24644,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>80</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
-		<bLifeMax>48</bLifeMax>
-		<bLife>48</bLife>
+		<bLifeMax>68</bLifeMax>
+		<bLife>68</bLife>
 		<bStrength>73</bStrength>
 		<bAgility>80</bAgility>
 		<bDexterity>95</bDexterity>
@@ -24740,9 +24740,9 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>90</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>53</bLifeMax>
-		<bLife>53</bLife>
-		<bStrength>61</bStrength>
+		<bLifeMax>67</bLifeMax>
+		<bLife>67</bLife>
+		<bStrength>65</bStrength>
 		<bAgility>8</bAgility>
 		<bDexterity>68</bDexterity>
 		<bWisdom>85</bWisdom>

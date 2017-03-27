@@ -15,6 +15,8 @@
 		<ap_coastal>0</ap_coastal>
 		<ap_tropical>0</ap_tropical>
 		<ap_mountain>0</ap_mountain>
+		<ap_forest>0</ap_forest>
+		<ap_plains>0</ap_plains>
 
 		<!-- stat effectiveness modifiers, values from -10 to 10 -->
 		<agility>0</agility>
@@ -28,19 +30,19 @@
 		<marksmanship>0</marksmanship>
 
 		<!-- +- AP for other tasks-->
-		<ap_height>0</ap_height>		<!-- +- AP if on a roof, -8 to 8 -->
-		<ap_swimming>0</ap_swimming>	<!-- +- % APs needed for task, -40 to 40 -->
-		<ap_fortify>0</ap_fortify>		<!-- +- % APs needed for task, -40 to 40 -->
-		<ap_artillery>0</ap_artillery>	<!-- +- % APs needed for task, -40 to 40 -->
-		<ap_inventory>0</ap_inventory>	<!-- +- % APs needed for task, -40 to 40 -->
-		<ap_airdrop>0</ap_airdrop>		<!-- +-AP in first turn after airdrop, -10 to 10 -->
-		<ap_assault>0</ap_assault>		<!-- +- AP in first turn if attacking, -10 to 10 -->
+		<ap_height>0</ap_height>						<!-- +- AP if on a roof, -8 to 8 -->
+		<ap_swimming>0</ap_swimming>					<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_fortify>0</ap_fortify>						<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_artillery>0</ap_artillery>					<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_inventory>0</ap_inventory>					<!-- +- % APs needed for task, -40 to 40 -->
+		<ap_airdrop>0</ap_airdrop>						<!-- +- AP in first turn after airdrop, -10 to 10 -->
+		<ap_assault>0</ap_assault>						<!-- +- AP in first turn if attacking, -10 to 10 -->
 
 		<!-- +-% travel speed modifiers, -20 to 20-->
 		<travel_foot>0</travel_foot>
 		<travel_car>0</travel_car>
 		<travel_air>0</travel_air>
-		<travel_boat>0</travel_boat>		<!-- no boats exist in the trunk -->
+		<travel_boat>0</travel_boat>					<!-- no boats exist in the trunk -->
 
 		<!-- +-% resistances, -20 to 20-->
 		<resistance_fear>0</resistance_fear>
@@ -50,62 +52,62 @@
 		<resistance_disease>0</resistance_disease>
 
 		<!--various boni-->
-		<interrogation>0</interrogation>	<!-- +- prisoner interrogation strength, -50 to 300 -->
-		<prisonguard>0</prisonguard>		<!-- +- prison guard strength, -50 to 300 -->
-		<betterprices_guns>0</betterprices_guns>          <!-- +- % prices when trading guns and ammo, -10 to 10 -->
-		<betterprices>0</betterprices>                    <!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
-		<capitulation>0</capitulation>                    <!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
-		<speed_run>0</speed_run>                          <!-- +- running speed, -50 to 50 -->
-		<speed_bandaging>0</speed_bandaging>              <!-- +- bandaging speed, -50 to 50 -->
-		<drink_energyregen>0</drink_energyregen>  <!-- +- % breath restored by drinking, -80 to 300 -->
-		<carrystrength>0</carrystrength>                  <!-- +- % strength for weight calculations, -20 to 20 -->
-		<food>0</food>				<!-- +- % need for food, -50 to 100 -->
-		<water>0</water>			<!-- +- % need for water, -50 to 100 -->
-		<sleep>0</sleep>			<!-- +- need for sleep, -1 to 1 -->
-		<meleedamage>0</meleedamage>		<!-- +- damage with melee attacks, -10 to 10 -->
-		<cth_blades>0</cth_blades>		<!-- +- cth with blade weapons, -10 to 10 -->
-		<camo>0</camo>				<!-- +- effectiveness, -20 to 20 -->
-		<stealth>0</stealth>			<!-- +- effectiveness, -20 to 20 -->
-		<increased_maxcth>0</increased_maxcth>	<!-- +- max possible cth, -5 to 5 -->
-		<hearing_night>0</hearing_night>	<!-- +- hearing range, -5 to 2 -->
-		<hearing_day>0</hearing_day>		<!-- +- hearing range, -5 to 2 -->
-		<disarm_trap>0</disarm_trap>                      <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
-		<SAM_cth>0</SAM_cth>				<!-- +- % CTH with SAMs, -50 to 100 -->
+		<interrogation>0</interrogation>				<!-- +- prisoner interrogation strength, -50 to 300 -->
+		<prisonguard>0</prisonguard>					<!-- +- prison guard strength, -50 to 300 -->
+		<betterprices_guns>0</betterprices_guns>        <!-- +- % prices when trading guns and ammo, -10 to 10 -->
+		<betterprices>0</betterprices>      			<!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
+		<capitulation>0</capitulation>      			<!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
+		<speed_run>0</speed_run>            			<!-- +- running speed, -50 to 50 -->
+		<speed_bandaging>0</speed_bandaging>            <!-- +- bandaging speed, -50 to 50 -->
+		<drink_energyregen>0</drink_energyregen>  	    <!-- +- % breath restored by drinking, -80 to 300 -->
+		<carrystrength>0</carrystrength>                <!-- +- % strength for weight calculations, -20 to 20 -->
+		<food>0</food>									<!-- +- % need for food, -50 to 100 -->
+		<water>0</water>								<!-- +- % need for water, -50 to 100 -->
+		<sleep>0</sleep>								<!-- +- need for sleep, -1 to 1, only needed for IMP backgrounds -->
+		<meleedamage>0</meleedamage>					<!-- +- damage with melee attacks, -10 to 10 -->
+		<cth_blades>0</cth_blades>						<!-- +- cth with blade weapons, -10 to 10 -->
+		<camo>0</camo>									<!-- +- effectiveness, -20 to 20 -->
+		<stealth>0</stealth>							<!-- +- effectiveness, -20 to 20 -->
+		<increased_maxcth>0</increased_maxcth>			<!-- +- max possible cth, -5 to 5 -->
+		<hearing_night>0</hearing_night>				<!-- +- hearing range, -5 to 2 -->
+		<hearing_day>0</hearing_day>					<!-- +- hearing range, -5 to 2 -->
+		<disarm_trap>0</disarm_trap>                    <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
+		<SAM_cth>0</SAM_cth>							<!-- +- % CTH with SAMs, -50 to 100 -->
 
-		<!-- +- % approach effectiveness, -50 to 20 -->
+		<!-- +- % approach effectiveness, -50 to 20, only needed for IMP backgrounds-->
 		<approach_friendly>0</approach_friendly>
 		<approach_direct>0</approach_direct>
 		<approach_threaten>0</approach_threaten>
 		<approach_recruit>0</approach_recruit>
 
-		<breachingcharge>0</breachingcharge>              <!-- +- success chance with door braching charges, -100 to 100 -->
-		<cth_vs_creatures>0</cth_vs_creatures>            <!-- +- cth with firearms when aiming at creatures, -10 to 10 -->
-		<insurance>0</insurance>                          <!-- +- % insurance cost, -50 to 200 -->
-		<spotter>0</spotter>                              <!-- +- % spotter skill effectiveness, -30 to 30 -->
-		<disease_diagnose>0</disease_diagnose>            <!-- +- % effectiveness on diagnosing disease, -50 to 50 -->
-		<disease_treatment>0</disease_treatment>          <!-- +- % effectiveness on treating civilians against disease, -50 to 50 -->
-		<tracker_ability>0</tracker_ability>			  <!-- + % range on tracking ability, see [Ranger] in Skills_Setings.ini, 0 to 40 -->
-		<ambush_radius>0</ambush_radius>				  <!-- + % bonus on ambush range, see AMBUSH_MERCS_SPREAD_RADIUS in JA2_Options.ini, 0 to 50 -->
-		<smoker>0</smoker>								  <!-- 0: doesn't care about smoking 
+		<breachingcharge>0</breachingcharge>            <!-- +- success chance with door braching charges, -100 to 100 -->
+		<cth_vs_creatures>0</cth_vs_creatures>          <!-- +- cth with firearms when aiming at creatures, -10 to 10 -->
+		<insurance>0</insurance>                        <!-- +- % insurance cost, -50 to 200 -->
+		<spotter>0</spotter>                            <!-- +- % spotter skill effectiveness, -30 to 30 -->
+		<disease_diagnose>0</disease_diagnose>          <!-- +- % effectiveness on diagnosing disease, -50 to 50 -->
+		<disease_treatment>0</disease_treatment>        <!-- +- % effectiveness on treating civilians against disease, -50 to 50 -->
+		<tracker_ability>0</tracker_ability>			<!-- + % range on tracking ability, see [Ranger] in Skills_Setings.ini, 0 to 40 -->
+		<ambush_radius>0</ambush_radius>				<!-- + % bonus on ambush range, see AMBUSH_MERCS_SPREAD_RADIUS in JA2_Options.ini, 0 to 50 -->
+		<smoker>0</smoker>								<!-- 0: doesn't care about smoking 
 															   1: smoker: consumes cigarettes, dislikes anti-smokers 
 															   2: anti-smoker: refuses to smoke, dislikes smokers-->
-		<croucheddefense>0</croucheddefense>			  <!-- +- enemy cth if we are crouched against thick cover in their direction, -30 to 30-->
-		<fortify_assignment>0</fortify_assignment>		  <!-- +- % building speed, -50 to 200 -->
-		<snake_defense>0</snake_defense>				  <!-- +- % chance to evade snake attacks, -100 to 100 -->
-		<hackerskill>0</hackerskill>					  <!-- hacker skill, 0 to 100. Value > 0 means we can hack computers -->	
+		<croucheddefense>0</croucheddefense>			<!-- +- enemy cth if we are crouched against thick cover in their direction, -30 to 30-->
+		<fortify_assignment>0</fortify_assignment>		<!-- +- % building speed, -50 to 200 -->
+		<snake_defense>0</snake_defense>				<!-- +- % chance to evade snake attacks, -100 to 100 -->
+		<hackerskill>0</hackerskill>					<!-- hacker skill, 0 to 100. Value > 0 means we can hack computers -->	
 
-		<dislikebackground>0</dislikebackground>          <!-- dislike everybody with a background that has the negative of this value -->
+		<dislikebackground>0</dislikebackground>        <!-- dislike everybody with a background that has the negative of this value -->
 
 		<!-- on/off properties: 1 for on, 0 for off -->		  
-		<druguse>0</druguse>			<!-- might use drugs from inventory (the 'Larry'-behaviour) -->
-		<xenophobic>0</xenophobic>		<!-- lower opinion of everybody without this background -->
-		<level_underground>0</level_underground>  <!-- +1 effective level if underground -->
-		<scrounging>0</scrounging>		<!-- might steal items (and put them in personal inventory) -->
-		<traplevel>0</traplevel>		<!-- +1 level on bombs planted -->
-		<corruptionspread>0</corruptionspread>	<!-- unused in the trunk -->
-		<no_male>0</no_male>			<!-- IMP creation: cannot be selected by males -->
-		<no_female>0</no_female>		<!-- IMP creation: cannot be selected by females -->
-		<loyalitylossondeath>0</loyalitylossondeath>      <!-- huge loyality loss in entire country on death -->
+		<druguse>0</druguse>							<!-- might use drugs from inventory (the 'Larry'-behaviour) -->
+		<xenophobic>0</xenophobic>						<!-- lower opinion of everybody without this background -->
+		<level_underground>0</level_underground>  		<!-- +1 effective level if underground -->
+		<scrounging>0</scrounging>						<!-- might steal items (and put them in personal inventory) -->
+		<traplevel>0</traplevel>						<!-- +1 level on bombs planted -->
+		<corruptionspread>0</corruptionspread>			<!-- unused in the trunk -->
+		<no_male>0</no_male>							<!-- IMP creation: cannot be selected by males -->
+		<no_female>0</no_female>						<!-- IMP creation: cannot be selected by females -->
+		<loyalitylossondeath>0</loyalitylossondeath>    <!-- huge loyality loss in entire country on death -->
 	</BACKGROUND>
 	<!-- Note that Barry's background had to be moved to slot 255 due to index number 0 already being taken -->
 	<!-- Blood -->
@@ -137,6 +139,7 @@
 		<ap_desert>5</ap_desert>
 		<ap_tropical>5</ap_tropical>
 		<ap_mountain>5</ap_mountain>
+		<ap_plains>5</ap_plains>
 		<travel_foot>5</travel_foot>
 		<stealth>5</stealth>
 		<cth_vs_creatures>10</cth_vs_creatures>
@@ -176,7 +179,6 @@
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<disarm_trap>5</disarm_trap>
-		<sleep>-1</sleep>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -258,6 +260,8 @@
 		<ap_mountain>8</ap_mountain>
 		<ap_swamp>-5</ap_swamp>
 		<ap_tropical>-5</ap_tropical>
+		<ap_forest>5</ap_forest>
+		<ap_plains>5</ap_plains>
 		<ap_assault>5</ap_assault>
 		<ap_fortify>-5</ap_fortify>
 		<resistance_fear>5</resistance_fear>
@@ -280,6 +284,8 @@
 		<szName>Ranger</szName>
 		<szShortName>Ranger</szShortName>
 		<szDescription>The Rangers form the elite of US army infantry.</szDescription>
+		<ap_forest>4</ap_forest>
+		<ap_plains>4</ap_plains>
 		<ap_assault>5</ap_assault>
 		<marksmanship>5</marksmanship>
 		<travel_foot>5</travel_foot>
@@ -407,8 +413,6 @@
 		<szDescription>Just like boyscouts. But with violence. So not like boyscouts &#10;at all.</szDescription>
 		<leadership>5</leadership>
 		<ap_assault>5</ap_assault>
-		<approach_direct>10</approach_direct>
-		<approach_recruit>5</approach_recruit>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -462,8 +466,6 @@
 		<szShortName>Vet Merc/Instructor</szShortName>
 		<szDescription>This might be Frank's last tour - there are several private &#10;organisations that are interested in recruiting him to train their staff.</szDescription>
 		<leadership>5</leadership>
-		<approach_friendly>10</approach_friendly>
-		<approach_recruit>5</approach_recruit>
 		<interrogation>5</interrogation>
 		<speed_run>-5</speed_run>
 		<insurance>-20</insurance>
@@ -482,8 +484,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<ap_assault>8</ap_assault>
 		<interrogation>50</interrogation>
-		<approach_friendly>-25</approach_friendly>
-		<approach_threaten>15</approach_threaten>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -565,6 +565,8 @@
 		<ap_coastal>3</ap_coastal>
 		<ap_tropical>3</ap_tropical>
 		<ap_mountain>3</ap_mountain>
+		<ap_forest>3</ap_forest>
+		<ap_plains>3</ap_plains>
 		<ap_airdrop>5</ap_airdrop>
 		<ap_height>5</ap_height>
 		<ap_swimming>-5</ap_swimming>
@@ -656,7 +658,6 @@
 		<ap_tropical>-3</ap_tropical>
 		<explosives>5</explosives>
 		<traplevel>1</traplevel>
-		<approach_threaten>10</approach_threaten>
 		<smoker>1</smoker>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
@@ -689,7 +690,6 @@
 		<ap_mountain>5</ap_mountain>
 		<ap_airdrop>10</ap_airdrop>
 		<travel_foot>5</travel_foot>
-		<sleep>-1</sleep>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -774,6 +774,7 @@
 		<ap_height>-5</ap_height>
 		<ap_urban>-5</ap_urban>
 		<ap_mountain>5</ap_mountain>
+		<ap_forest>3</ap_forest>
 		<travel_foot>5</travel_foot>
 		<resistance_alcohol>10</resistance_alcohol>
 		<disarm_trap>5</disarm_trap>
@@ -796,7 +797,6 @@
 		<resistance_fear>20</resistance_fear>
 		<resistance_suppression>20</resistance_suppression>
 		<interrogation>100</interrogation>
-		<approach_threaten>50</approach_threaten>
 		<druguse>1</druguse>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -841,7 +841,6 @@
 		<traplevel>1</traplevel>
 		<resistance_physical>5</resistance_physical>
 		<resistance_suppression>10</resistance_suppression>
-		<approach_recruit>-25</approach_recruit>
 		<druguse>1</druguse>
 		<scrounging>1</scrounging>
 		<smoker>2</smoker>
@@ -863,8 +862,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<meleedamage>10</meleedamage>
 		<cth_blades>10</cth_blades>
-		<approach_threaten>20</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<druguse>1</druguse>
 		<scrounging>1</scrounging>
 		<smoker>1</smoker>
@@ -881,7 +878,6 @@
 		<ap_fortify>-5</ap_fortify>
 		<ap_artillery>-5</ap_artillery> 
 		<prisonguard>20</prisonguard>
-		<sleep>-1</sleep>
 		<level_underground>1</level_underground>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -898,7 +894,6 @@
 		<resistance_alcohol>10</resistance_alcohol>
 		<speed_run>10</speed_run>
 		<stealth>5</stealth>
-		<approach_recruit>-15</approach_recruit>
 		<druguse>1</druguse>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -987,13 +982,14 @@
 		<ap_coastal>2</ap_coastal>
 		<ap_tropical>2</ap_tropical>
 		<ap_mountain>2</ap_mountain>
+		<ap_forest>2</ap_forest>
+		<ap_plains>2</ap_plains>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
 		<leadership>10</leadership>
 		<capitulation>12</capitulation>
 		<travel_foot>5</travel_foot>
-		<approach_recruit>15</approach_recruit>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -1008,13 +1004,14 @@
 		<ap_urban>5</ap_urban>
 		<ap_tropical>5</ap_tropical>
 		<ap_mountain>5</ap_mountain>
+		<ap_forest>2</ap_forest>
+		<ap_plains>2</ap_plains>
 		<resistance_physical>3</resistance_physical>
 		<resistance_fear>3</resistance_fear>
 		<resistance_suppression>3</resistance_suppression>
 		<leadership>4</leadership>
 		<resistance_alcohol>6</resistance_alcohol>
 		<travel_foot>5</travel_foot>
-		<approach_threaten>10</approach_threaten>
 		<level_underground>1</level_underground>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -1053,6 +1050,8 @@
 		<ap_coastal>2</ap_coastal>
 		<ap_tropical>2</ap_tropical>
 		<ap_mountain>2</ap_mountain>
+		<ap_forest>2</ap_forest>
+		<ap_plains>2</ap_plains>
 		<resistance_physical>3</resistance_physical>
 		<travel_foot>5</travel_foot>
 		<cth_blades>3</cth_blades>
@@ -1130,8 +1129,6 @@
 		<resistance_suppression>2</resistance_suppression>
 		<increased_maxcth>3</increased_maxcth>
 		<spotter>15</spotter>
-		<approach_friendly>-15</approach_friendly>
-		<approach_recruit>-10</approach_recruit>
 		<insurance>40</insurance>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -1158,7 +1155,6 @@
 		<carrystrength>-10</carrystrength>
 		<food>-10</food>
 		<water>-10</water>
-		<sleep>-1</sleep> 
 		<hearing_night>2</hearing_night>
 		<level_underground>1</level_underground>
 		<smoker>1</smoker>
@@ -1178,7 +1174,6 @@
 		<resistance_physical>10</resistance_physical>
 		<food>-10</food>
 		<water>-10</water>
-		<sleep>-1</sleep> 
 		<hearing_night>2</hearing_night>
 		<druguse>1</druguse>
 		<level_underground>1</level_underground>
@@ -1220,7 +1215,6 @@
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>20</speed_bandaging>
 		<betterprices>3</betterprices>
-		<approach_friendly>10</approach_friendly>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -2950,7 +2944,6 @@
 		<resistance_suppression>10</resistance_suppression>
 		<capitulation>10</capitulation>
 		<speed_bandaging>10</speed_bandaging>
-		<approach_friendly>5</approach_friendly>
 		<spotter>2</spotter>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -2969,7 +2962,6 @@
 		<resistance_suppression>10</resistance_suppression>
 		<carrystrength>5</carrystrength>
 		<capitulation>15</capitulation>
-		<insurance>-20</insurance>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3002,7 +2994,6 @@
 		<interrogation>5</interrogation>
 		<speed_run>-5</speed_run>
 		<capitulation>15</capitulation>
-		<insurance>20</insurance>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3022,6 +3013,7 @@
 		<szName>Red Army</szName>
 		<szShortName>Red Army</szShortName>
 		<szDescription>With Russian stoicism, the Red Army prevailed against Hitler, &#10;Father Frost, and chronic shortages.</szDescription>
+		<ap_forest>5</ap_forest>
 		<leadership>2</leadership>
 		<ap_assault>5</ap_assault>
 		<resistance_physical>3</resistance_physical>
@@ -3082,8 +3074,6 @@
 		<resistance_suppression>3</resistance_suppression>
 		<interrogation>5</interrogation>
 		<carrystrength>2</carrystrength>
-		<approach_direct>10</approach_direct>
-		<approach_recruit>5</approach_recruit>
 		<spotter>3</spotter>
 		<capitulation>10</capitulation>
 		<smoker>1</smoker>
@@ -3168,6 +3158,7 @@
 		<szDescription>The Studies and Observations Group was a classified special forces &#10;unit conducting unconventional warfare in Vietnam.</szDescription>
 		<ap_swamp>2</ap_swamp>
 		<ap_tropical>4</ap_tropical>
+		<ap_forest>4</ap_forest>
 		<resistance_physical>5</resistance_physical>
 		<resistance_fear>5</resistance_fear>
 		<resistance_suppression>5</resistance_suppression>
@@ -3199,9 +3190,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<interrogation>100</interrogation>
 		<capitulation>-50</capitulation>
-		<approach_direct>-50</approach_direct>
-		<approach_threaten>50</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<druguse>1</druguse>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3242,8 +3230,6 @@
 		<carrystrength>75</carrystrength> 
 		<speed_run>5</speed_run>
 		<stealth>-5</stealth>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -3262,8 +3248,6 @@
 		<ap_assault>-5</ap_assault>
 		<speed_bandaging>10</speed_bandaging>
 		<speed_run>-10</speed_run>
-		<approach_friendly>-5</approach_friendly>
-		<approach_threaten>10</approach_threaten>
 		<resistance_disease>-20</resistance_disease>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3317,7 +3301,6 @@
 		<szShortName>Surgeon</szShortName>
 		<szDescription>Everyone can cut human flesh - but sewing it back is a quest for &#10;the best!</szDescription>
 		<medical>10</medical>
-		<dexterity>8</dexterity>
 		<ap_fortify>10</ap_fortify>
 		<ap_artillery>10</ap_artillery>
 		<ap_inventory>-5</ap_inventory>
@@ -3344,7 +3327,6 @@
 		<resistance_poison>5</resistance_poison>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>20</speed_bandaging>
-		<approach_friendly>10</approach_friendly>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3359,7 +3341,6 @@
 		<stealth>3</stealth>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
-		<approach_direct>5</approach_direct>
 		<resistance_suppression>-10</resistance_suppression>
 		<ap_urban>2</ap_urban>
 		<ap_desert>-5</ap_desert>
@@ -3373,7 +3354,6 @@
 		<interrogation>50</interrogation>
 		<spotter>-10</spotter>
 		<capitulation>-30</capitulation>
-		<insurance>20</insurance>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -3417,9 +3397,6 @@
 		<resistance_physical>-10</resistance_physical>
 		<interrogation>3</interrogation>
 		<betterprices>3</betterprices>
-		<approach_friendly>6</approach_friendly>
-		<approach_threaten>-3</approach_threaten>
-		<approach_recruit>3</approach_recruit>
 		<meleedamage>-3</meleedamage>
 		<xenophobic>1</xenophobic>
 		<smoker>1</smoker>
@@ -3519,6 +3496,8 @@
 		<ap_coastal>3</ap_coastal>
 		<ap_swamp>3</ap_swamp>
 		<ap_tropical>3</ap_tropical>
+		<ap_forest>3</ap_forest>
+		<ap_plains>3</ap_plains>
 		<ap_swimming>-10</ap_swimming>
 		<travel_boat>5</travel_boat>
 		<speed_run>10</speed_run>
@@ -3548,6 +3527,8 @@
 		<ap_tropical>3</ap_tropical>
 		<ap_swamp>3</ap_swamp>
 		<ap_tropical>3</ap_tropical>
+		<ap_forest>3</ap_forest>
+		<ap_plains>3</ap_plains>
 		<ap_swimming>-10</ap_swimming>
 		<travel_boat>5</travel_boat>
 		<speed_run>10</speed_run>
@@ -3573,6 +3554,8 @@
 		<ap_coastal>3</ap_coastal>
 		<ap_tropical>3</ap_tropical>
 		<ap_urban>-3</ap_urban>
+		<ap_forest>3</ap_forest>
+		<ap_plains>3</ap_plains>
 		<ap_swimming>-10</ap_swimming>
 		<medical>10</medical>
 		<wisdom>3</wisdom>
@@ -3794,10 +3777,6 @@
 		<szName>Postal Worker</szName>
 		<szShortName>Postal Worker</szShortName>
 		<szDescription>Through rain, snow, sleet and hail the mail must get through - and IT NEVER STOPS!</szDescription>
-		<dexterity>2</dexterity>
-		<agility>2</agility>
-		<stealth>2</stealth>
-		<ap_polar>1</ap_polar>
 		<ap_desert>2</ap_desert>
 		<ap_swamp>2</ap_swamp>
 		<ap_urban>4</ap_urban>
@@ -3805,8 +3784,6 @@
 		<ap_coastal>2</ap_coastal>
 		<ap_tropical>2</ap_tropical>
 		<ap_mountain>2</ap_mountain>
-		<ap_artillery>10</ap_artillery>
-		<approach_direct>5</approach_direct>
 		<resistance_fear>2</resistance_fear>
 		<carrystrength>3</carrystrength>
 		<drink_energyregen>10</drink_energyregen>
@@ -3844,9 +3821,6 @@
 		<resistance_suppression>20</resistance_suppression>
 		<interrogation>100</interrogation>
 		<capitulation>-50</capitulation>
-		<approach_direct>-50</approach_direct>
-		<approach_threaten>50</approach_threaten>
-		<approach_recruit>-50</approach_recruit>
 		<hearing_night>1</hearing_night>
 		<speed_run>3</speed_run>
 		<no_male>1</no_male>
@@ -3897,7 +3871,6 @@
 		<hearing_day>1</hearing_day>
 		<interrogation>50</interrogation>
 		<spotter>2</spotter>
-		<xenophobic>1</xenophobic>
 		<insurance>50</insurance>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
@@ -3917,8 +3890,6 @@
 		<resistance_physical>-5</resistance_physical>
 		<ap_inventory>-10</ap_inventory>
 		<betterprices>10</betterprices>
-		<approach_friendly>20</approach_friendly>
-		<approach_threaten>-20</approach_threaten>
 		<disarm_trap>10</disarm_trap>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3940,7 +3911,6 @@
 		<resistance_poison>5</resistance_poison>
 		<resistance_fear>5</resistance_fear>
 		<speed_bandaging>30</speed_bandaging>
-		<approach_friendly>10</approach_friendly>
 		<interrogation>50</interrogation>
 		<stealth>10</stealth>
 		<hearing_night>1</hearing_night>
@@ -3988,7 +3958,6 @@
 		<ap_polar>-4</ap_polar>
 		<ap_desert>-4</ap_desert>
 		<ap_swamp>-4</ap_swamp>
-		<ap_urban>-4</ap_urban>
 		<ap_river>-4</ap_river>
 		<ap_coastal>-4</ap_coastal>
 		<ap_tropical>-4</ap_tropical>
@@ -4033,11 +4002,12 @@
 		<ap_coastal>2</ap_coastal>
 		<ap_tropical>2</ap_tropical>
 		<ap_mountain>2</ap_mountain>
+		<ap_forest>2</ap_forest>
+		<ap_plains>5</ap_plains>
 		<travel_foot>7</travel_foot>
 		<speed_bandaging>7</speed_bandaging>
 		<food>-10</food>
 		<water>-10</water>
-		<approach_direct>5</approach_direct>
 		<spotter>6</spotter>
 		<ambush_radius>5</ambush_radius>
 		<no_male>1</no_male>
@@ -4059,14 +4029,12 @@
 		<resistance_physical>6</resistance_physical>
 		<resistance_fear>12</resistance_fear>
 		<resistance_suppression>12</resistance_suppression>
-		<approach_threaten>10</approach_threaten>
 		<disarm_trap>5</disarm_trap>
 		<interrogation>5</interrogation>
 		<carrystrength>3</carrystrength>
 		<speed_run>-5</speed_run>
 		<capitulation>15</capitulation>
 		<spotter>5</spotter>
-		<insurance>-20</insurance>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -4080,6 +4048,7 @@
 		<marksmanship>3</marksmanship>
 		<stealth>5</stealth>
 		<ap_urban>3</ap_urban>
+		<ap_forest>5</ap_forest>
 		<ap_assault>5</ap_assault>
 		<ap_inventory>-3</ap_inventory>
 		<resistance_fear>10</resistance_fear>
@@ -4087,13 +4056,8 @@
 		<resistance_physical>5</resistance_physical>
 		<increased_maxcth>3</increased_maxcth>
 		<cth_blades>3</cth_blades>
-		<approach_friendly>-10</approach_friendly>
-		<approach_direct>5</approach_direct>
-		<approach_threaten>10</approach_threaten>
-		<approach_recruit>-10</approach_recruit>
 		<interrogation>10</interrogation>
 		<capitulation>10</capitulation>
-		<insurance>20</insurance>
 		<spotter>5</spotter>
 		<camo>10</camo>
 		<no_male>1</no_male>
@@ -4114,7 +4078,6 @@
 		<resistance_suppression>14</resistance_suppression>
 		<capitulation>14</capitulation>
 		<speed_bandaging>10</speed_bandaging>
-		<approach_friendly>4</approach_friendly>
 		<spotter>2</spotter>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -4163,7 +4126,6 @@
 		<stealth>5</stealth>
 		<food>-6</food>
 		<water>-6</water>
-		<sleep>-1</sleep>
 		<hearing_night>2</hearing_night>
 		<breachingcharge>20</breachingcharge>
 		<spotter>3</spotter>
@@ -4254,8 +4216,6 @@
 		<betterprices_guns>5</betterprices_guns>
 		<betterprices>10</betterprices>
 		<capitulation>10</capitulation>
-		<approach_threaten>20</approach_threaten>
-		<approach_recruit>10</approach_recruit>
 		<meleedamage>3</meleedamage>
 		<cth_blades>3</cth_blades>
 		<scrounging>1</scrounging> 
@@ -4274,7 +4234,6 @@
 		<traplevel>1</traplevel>
 		<wisdom>-10</wisdom>
 		<ap_urban>-5</ap_urban>
-		<approach_recruit>-5</approach_recruit>
 		<disarm_trap>10</disarm_trap>
 		<carrystrength>10</carrystrength>
 		<resistance_fear>3</resistance_fear>
@@ -4302,7 +4261,6 @@
 		<ap_swamp>-3</ap_swamp>
 		<stealth>3</stealth>
 		<interrogation>100</interrogation>
-		<approach_threaten>10</approach_threaten>
 		<hearing_night>1</hearing_night>
 		<hearing_day>1</hearing_day>
 		<spotter>3</spotter>
@@ -4369,22 +4327,17 @@
 	<BACKGROUND>
 		<uiIndex>244</uiIndex>
 		<szName>Convicted Watergate Burglar</szName>
-		<szShortName>Convict/Burglar</szShortName>
-		<szDescription>Well, that didn't go as planned.</szDescription>
+		<szShortName>Burglar</szShortName>
+		<szDescription>Getting in and especially out of buildings unnoticed requires a specific set of skills.</szDescription>
 		<agility>5</agility>
 		<dexterity>5</dexterity>
-		<ap_urban>1</ap_urban>
+		<ap_urban>5</ap_urban>
 		<ap_inventory>-10</ap_inventory>
-		<meleedamage>2</meleedamage>
-		<approach_threaten>10</approach_threaten>
 		<resistance_fear>5</resistance_fear>
-		<resistance_disease>5</resistance_disease>
-		<resistance_physical>5</resistance_physical>
-		<carrystrength>3</carrystrength>
 		<stealth>5</stealth>
 		<hearing_night>1</hearing_night>
 		<breachingcharge>20</breachingcharge>
-		<hackerskill>40</hackerskill>
+		<hackerskill>30</hackerskill>
 		<scrounging>1</scrounging>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
@@ -4401,8 +4354,6 @@
 		<ap_artillery>10</ap_artillery>
 		<ap_airdrop>-3</ap_airdrop>
 		<ap_assault>-3</ap_assault>
-		<approach_direct>-15</approach_direct>
-		<approach_recruit>-15</approach_recruit>
 		<interrogation>-15</interrogation>
 		<camo>10</camo>
 		<stealth>10</stealth>
@@ -4450,9 +4401,6 @@
 		<cth_blades>-5</cth_blades>
 		<betterprices_guns>-5</betterprices_guns>
 		<betterprices>10</betterprices>
-		<approach_friendly>10</approach_friendly>
-		<approach_threaten>-10</approach_threaten>
-		<approach_recruit>10</approach_recruit>
 		<scrounging>1</scrounging>
 		<smoker>2</smoker>
 		<no_male>1</no_male>
@@ -4548,8 +4496,6 @@
 		<breachingcharge>30</breachingcharge>
 		<disarm_trap>10</disarm_trap>
 		<traplevel>1</traplevel>
-		<approach_friendly>15</approach_friendly>
-		<approach_threaten>-10</approach_threaten>
 		<interrogation>-20</interrogation>
 		<resistance_suppression>5</resistance_suppression>
 		<water>10</water>

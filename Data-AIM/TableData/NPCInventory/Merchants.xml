@@ -1720,4 +1720,26 @@ uiFlags must be of
 		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
 		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
 	</MERCHANT>
+	<MERCHANT>
+		<uiIndex>70</uiIndex>
+		<szName>Take Away Chitzena (A1)</szName>
+		<dBuyModifier>1.0</dBuyModifier>
+		<dSellModifier>1.0</dSellModifier>
+		<ubShopKeeperID>200</ubShopKeeperID>
+		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
+		<iInitialCash>250</iInitialCash>
+		<uiFlags>268435456</uiFlags>
+		<dailyIncrement>250</dailyIncrement>
+		<dailyMaximum>250</dailyMaximum>
+		<dailyRetained>0</dailyRetained>
+		<minCoolness>1</minCoolness>
+		<maxCoolness>10</maxCoolness>
+		<addToCoolness>0</addToCoolness>
+		<coolnessProgressRate>100</coolnessProgressRate>
+		<daysDelayMin>1</daysDelayMin>
+		<daysDelayMax>2</daysDelayMax>
+		<useBRSetting>0</useBRSetting>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
+		<nonprofile_loyaltyrequired>0</nonprofile_loyaltyrequired>
+	</MERCHANT>
 </MERCHANTSLIST>
