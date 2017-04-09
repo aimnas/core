@@ -789,7 +789,7 @@
 		<name>Sniper</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>4755</bItemNo1>
+		<bItemNo1>4828</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -845,7 +845,7 @@
 		<name>Ranger</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>5643</bItemNo1>
+		<bItemNo1>5616</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -1965,7 +1965,7 @@
 		<name>SNIPER EXPERT</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>4755</bItemNo1>
+		<bItemNo1>5009</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>
@@ -2021,7 +2021,7 @@
 		<name>RANGER EXPERT</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>5643</bItemNo1>
+		<bItemNo1>5631</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>

@@ -16,15 +16,15 @@
 		<bItemNo10>5102</bItemNo10>
 		<bItemNo11>4001</bItemNo11>
 		<bItemNo12>4001</bItemNo12>
-		<bItemNo13>4053</bItemNo13>
-		<bItemNo14>4053</bItemNo14>
+		<bItemNo13>4048</bItemNo13>
+		<bItemNo14>4048</bItemNo14>
 		<bItemNo15>4117</bItemNo15>
 		<bItemNo16>4141</bItemNo16>
 		<bItemNo17>4141</bItemNo17>
 		<bItemNo18>4112</bItemNo18>
 		<bItemNo19>4112</bItemNo19>
 		<bItemNo20>4112</bItemNo20>
-		<bItemNo21>4841</bItemNo21>
+		<bItemNo21>4382</bItemNo21>
 		<bItemNo22>4841</bItemNo22>
 		<bItemNo23>4841</bItemNo23>
 		<bItemNo24>4841</bItemNo24>
@@ -33,7 +33,7 @@
 		<bItemNo27>4821</bItemNo27>
 		<bItemNo28>4717</bItemNo28>
 		<bItemNo29>4755</bItemNo29>
-		<bItemNo30>4886</bItemNo30>
+		<bItemNo30>4672</bItemNo30>
 		<bItemNo31>4460</bItemNo31>
 		<bItemNo32>4460</bItemNo32>
 		<bItemNo33>4460</bItemNo33>
@@ -53,7 +53,7 @@
 		<bItemNo47>4460</bItemNo47>
 		<bItemNo48>4460</bItemNo48>
 		<bItemNo49>4460</bItemNo49>
-		<bItemNo50>5490</bItemNo50>
+		<bItemNo50>4605</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>1</uiIndex>
@@ -70,7 +70,7 @@
 		<bItemNo9>5238</bItemNo9>
 		<bItemNo10>5238</bItemNo10>
 		<bItemNo11>4001</bItemNo11>
-		<bItemNo12>4053</bItemNo12>
+		<bItemNo12>4048</bItemNo12>
 		<bItemNo13>4117</bItemNo13>
 		<bItemNo14>4117</bItemNo14>
 		<bItemNo15>4141</bItemNo15>
@@ -88,7 +88,7 @@
 		<bItemNo27>4821</bItemNo27>
 		<bItemNo28>4717</bItemNo28>
 		<bItemNo29>4871</bItemNo29>
-		<bItemNo30>4886</bItemNo30>
+		<bItemNo30>4408</bItemNo30>
 		<bItemNo31>4460</bItemNo31>
 		<bItemNo32>4356</bItemNo32>
 		<bItemNo33>4416</bItemNo33>
