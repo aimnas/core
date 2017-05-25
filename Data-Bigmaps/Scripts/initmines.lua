@@ -124,7 +124,7 @@ function InitializeMines()
         -- Alma
         {
             Location = "I14", Type = MineType.Silver,
-            MinimumProduction = 2000,
+            MinimumProduction = 2500,
             AssociatedUnderground = { "I14-1", "J14-1" },
             Infectible = 1,
         },
@@ -132,7 +132,7 @@ function InitializeMines()
         -- Cambria
         {
             Location = "H8", Type = MineType.Silver,
-            MinimumProduction = 2500,
+            MinimumProduction = 3000,
             AssociatedUnderground = { "H8-1", "H9-1" },
             Infectible = 1,
         },
@@ -140,14 +140,14 @@ function InitializeMines()
         -- Chitzena
         {
             Location = "B2", Type = MineType.Silver,
-            MinimumProduction = 1500,
+            MinimumProduction = 2000,
             AssociatedUnderground = { "B2-1" },
         },
 
         -- Grumm
         {
             Location = "H3", Type = MineType.Gold,
-            MinimumProduction = 2000,
+            MinimumProduction = 3500,
             AssociatedUnderground = { "H3-1", "I3-1", "I3-2", "H3-2", "H4-2" },
             Infectible = 1,
         },

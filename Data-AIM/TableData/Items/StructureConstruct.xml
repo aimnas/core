@@ -5,12 +5,12 @@
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<northfacingtile>3</northfacingtile>
 		<northfacingtile>4</northfacingtile>
-		<northfacingtile>5</northfacingtile>
 		<southfacingtile>3</southfacingtile>
 		<southfacingtile>4</southfacingtile>
-		<southfacingtile>5</southfacingtile>
+		<eastfacingtile>5</eastfacingtile>
 		<eastfacingtile>8</eastfacingtile>
 		<eastfacingtile>9</eastfacingtile>
+		<westfacingtile>5</westfacingtile>
 		<westfacingtile>8</westfacingtile>
 		<westfacingtile>9</westfacingtile>
 	</STRUCTURE>
@@ -18,7 +18,6 @@
 		<usCreationItem>1540</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
 		<szTileSetName>sandbag.sti</szTileSetName>
-		<northfacingtile>0</northfacingtile>
 		<northfacingtile>1</northfacingtile>
 		<southfacingtile>0</southfacingtile>
 		<southfacingtile>1</southfacingtile>
@@ -40,14 +39,14 @@
 		<usCreationItem>1542</usCreationItem>
 		<usItemStatusLoss>10</usItemStatusLoss>
 		<szTileSetName>spot_1.sti</szTileSetName>
-		<northfacingtile>3</northfacingtile>
-		<northfacingtile>5</northfacingtile>
-		<southfacingtile>3</southfacingtile>
-		<southfacingtile>5</southfacingtile>
-		<eastfacingtile>2</eastfacingtile>
-		<eastfacingtile>4</eastfacingtile>
-		<westfacingtile>2</westfacingtile>
-		<westfacingtile>4</westfacingtile>
+		<northfacingtile>2</northfacingtile>
+		<northfacingtile>4</northfacingtile>
+		<southfacingtile>2</southfacingtile>
+		<southfacingtile>4</southfacingtile>
+		<eastfacingtile>3</eastfacingtile>
+		<eastfacingtile>5</eastfacingtile>
+		<westfacingtile>3</westfacingtile>
+		<westfacingtile>5</westfacingtile>
 	</STRUCTURE>
 	<STRUCTURE><!--spade creates a pile of earth-->
 		<usCreationItem>1411</usCreationItem>

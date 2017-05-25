@@ -814,4 +814,26 @@
 		<fBigSlot>0</fBigSlot>
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>74</uiSlotIndex>
+		<szSlotName>MOLLE Combat Pack 5</szSlotName>
+		<nasAttachmentClass>100663296</nasAttachmentClass>
+		<nasLayoutClass>32</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>92</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>5</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>75</uiSlotIndex>
+		<szSlotName>MOLLE Combat Pack 6</szSlotName>
+		<nasAttachmentClass>100663296</nasAttachmentClass>
+		<nasLayoutClass>32</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>6</ubPocketMapping>
+	</ATTACHMENTSLOT>
 </ATTACHMENTSLOTLIST>

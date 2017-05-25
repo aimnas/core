@@ -22,7 +22,7 @@
 		<uiIndex>2</uiIndex>
 		<szName>Alcohol</szName>
 		<bFoodPoints>0</bFoodPoints>
-		<bDrinkPoints>6000</bDrinkPoints>
+		<bDrinkPoints>600</bDrinkPoints>
 		<ubPortionSize>10</ubPortionSize>
 		<bMoraleMod>2</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
@@ -40,7 +40,7 @@
 		<uiIndex>4</uiIndex>
 		<szName>Wine</szName>
 		<bFoodPoints>0</bFoodPoints>
-		<bDrinkPoints>4400</bDrinkPoints>
+		<bDrinkPoints>440</bDrinkPoints>
 		<ubPortionSize>20</ubPortionSize>
 		<bMoraleMod>2</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
@@ -581,7 +581,7 @@
 		<szName>Water Canister</szName>
 		<bFoodPoints>0</bFoodPoints>
 		<bDrinkPoints>10000</bDrinkPoints>
-		<ubPortionSize>2</ubPortionSize>
+		<ubPortionSize>5</ubPortionSize>
 		<bMoraleMod>0</bMoraleMod>
 		<usDecayRate>0</usDecayRate>
 	</FOOD>

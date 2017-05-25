@@ -100,4 +100,19 @@
 		<sItemIndex>1922</sItemIndex>
 		<ubOptimalNumber>12</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>20</uiIndex>
+		<sItemIndex>1956</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>21</uiIndex>
+		<sItemIndex>1957</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>22</uiIndex>
+		<sItemIndex>1958</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>

@@ -31,10 +31,10 @@
 		<bItemNo25>4601</bItemNo25>
 		<bItemNo26>4601</bItemNo26>
 		<bItemNo27>5101</bItemNo27>
-		<bItemNo28>4755</bItemNo28>
-		<bItemNo29>4755</bItemNo29>
-		<bItemNo30>4755</bItemNo30>
-		<bItemNo31>4755</bItemNo31>
+		<bItemNo28>4758</bItemNo28>
+		<bItemNo29>4758</bItemNo29>
+		<bItemNo30>4758</bItemNo30>
+		<bItemNo31>4758</bItemNo31>
 		<bItemNo32>4754</bItemNo32>
 		<bItemNo33>4754</bItemNo33>
 		<bItemNo34>4791</bItemNo34>
@@ -134,7 +134,7 @@
 		<bItemNo18>4571</bItemNo18>
 		<bItemNo19>4579</bItemNo19>
 		<bItemNo20>4418</bItemNo20>
-		<bItemNo21>4635</bItemNo21>
+		<bItemNo21>4565</bItemNo21>
 		<bItemNo22>5101</bItemNo22>
 		<bItemNo23>5101</bItemNo23>
 		<bItemNo24>5101</bItemNo24>
@@ -189,7 +189,7 @@
 		<bItemNo18>4410</bItemNo18>
 		<bItemNo19>4420</bItemNo19>
 		<bItemNo20>4418</bItemNo20>
-		<bItemNo21>4635</bItemNo21>
+		<bItemNo21>4565</bItemNo21>
 		<bItemNo22>5359</bItemNo22>
 		<bItemNo23>5101</bItemNo23>
 		<bItemNo24>5101</bItemNo24>
@@ -242,7 +242,7 @@
 		<bItemNo16>4410</bItemNo16>
 		<bItemNo17>4410</bItemNo17>
 		<bItemNo18>4410</bItemNo18>
-		<bItemNo19>4633</bItemNo19>
+		<bItemNo19>4563</bItemNo19>
 		<bItemNo20>4401</bItemNo20>
 		<bItemNo21>5161</bItemNo21>
 		<bItemNo22>5165</bItemNo22>
@@ -417,9 +417,9 @@
 		<bItemNo26>5362</bItemNo26>
 		<bItemNo27>5362</bItemNo27>
 		<bItemNo28>5362</bItemNo28>
-		<bItemNo29>5364</bItemNo29>
-		<bItemNo30>5113</bItemNo30>
-		<bItemNo31>5429</bItemNo31>
+		<bItemNo29>5366</bItemNo29>
+		<bItemNo30>5115</bItemNo30>
+		<bItemNo31>5431</bItemNo31>
 		<bItemNo32>4775</bItemNo32>
 		<bItemNo33>0</bItemNo33>
 		<bItemNo34>5577</bItemNo34>
@@ -435,7 +435,7 @@
 		<bItemNo44>5001</bItemNo44>
 		<bItemNo45>5002</bItemNo45>
 		<bItemNo46>5006</bItemNo46>
-		<bItemNo47>5646</bItemNo47>
+		<bItemNo47>5648</bItemNo47>
 		<bItemNo48>5611</bItemNo48>
 		<bItemNo49>5611</bItemNo49>
 		<bItemNo50>5639</bItemNo50>
@@ -471,10 +471,10 @@
 		<bItemNo25>5362</bItemNo25>
 		<bItemNo26>5362</bItemNo26>
 		<bItemNo27>5362</bItemNo27>
-		<bItemNo28>5364</bItemNo28>
-		<bItemNo29>5364</bItemNo29>
-		<bItemNo30>5113</bItemNo30>
-		<bItemNo31>5119</bItemNo31>
+		<bItemNo28>5366</bItemNo28>
+		<bItemNo29>5366</bItemNo29>
+		<bItemNo30>5115</bItemNo30>
+		<bItemNo31>5127</bItemNo31>
 		<bItemNo32>5427</bItemNo32>
 		<bItemNo33>0</bItemNo33>
 		<bItemNo34>5577</bItemNo34>
@@ -522,14 +522,14 @@
 		<bItemNo21>5147</bItemNo21>
 		<bItemNo22>5148</bItemNo22>
 		<bItemNo23>5148</bItemNo23>
-		<bItemNo24>5117</bItemNo24>
-		<bItemNo25>5366</bItemNo25>
-		<bItemNo26>5115</bItemNo26>
-		<bItemNo27>5115</bItemNo27>
-		<bItemNo28>5115</bItemNo28>
-		<bItemNo29>5115</bItemNo29>
-		<bItemNo30>5119</bItemNo30>
-		<bItemNo31>5119</bItemNo31>
+		<bItemNo24>5125</bItemNo24>
+		<bItemNo25>5376</bItemNo25>
+		<bItemNo26>5119</bItemNo26>
+		<bItemNo27>5119</bItemNo27>
+		<bItemNo28>5119</bItemNo28>
+		<bItemNo29>5119</bItemNo29>
+		<bItemNo30>5127</bItemNo30>
+		<bItemNo31>5127</bItemNo31>
 		<bItemNo32>5421</bItemNo32>
 		<bItemNo33>5576</bItemNo33>
 		<bItemNo34>5577</bItemNo34>
@@ -548,7 +548,7 @@
 		<bItemNo47>5027</bItemNo47>
 		<bItemNo48>4963</bItemNo48>
 		<bItemNo49>5601</bItemNo49>
-		<bItemNo50>5699</bItemNo50>
+		<bItemNo50>5720</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>10</uiIndex>
@@ -577,14 +577,14 @@
 		<bItemNo21>5150</bItemNo21>
 		<bItemNo22>5150</bItemNo22>
 		<bItemNo23>5150</bItemNo23>
-		<bItemNo24>5117</bItemNo24>
-		<bItemNo25>5368</bItemNo25>
-		<bItemNo26>5115</bItemNo26>
-		<bItemNo27>5115</bItemNo27>
-		<bItemNo28>5115</bItemNo28>
-		<bItemNo29>5119</bItemNo29>
-		<bItemNo30>5119</bItemNo30>
-		<bItemNo31>5119</bItemNo31>
+		<bItemNo24>5125</bItemNo24>
+		<bItemNo25>5378</bItemNo25>
+		<bItemNo26>5119</bItemNo26>
+		<bItemNo27>5119</bItemNo27>
+		<bItemNo28>5119</bItemNo28>
+		<bItemNo29>5127</bItemNo29>
+		<bItemNo30>5127</bItemNo30>
+		<bItemNo31>5127</bItemNo31>
 		<bItemNo32>4991</bItemNo32>
 		<bItemNo33>5576</bItemNo33>
 		<bItemNo34>5526</bItemNo34>
@@ -603,6 +603,6 @@
 		<bItemNo47>5021</bItemNo47>
 		<bItemNo48>4973</bItemNo48>
 		<bItemNo49>4962</bItemNo49>
-		<bItemNo50>5696</bItemNo50>
+		<bItemNo50>5716</bItemNo50>
 	</ENEMYGUNCHOICES>
 </ENEMYGUNCHOICESLIST>
