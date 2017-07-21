@@ -835,4 +835,39 @@
 		<sItemIndex>2273</sItemIndex>
 		<ubOptimalNumber>2</ubOptimalNumber>
 	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>167</uiIndex>
+		<sItemIndex>5754</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>168</uiIndex>
+		<sItemIndex>2546</sItemIndex>
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>169</uiIndex>
+		<sItemIndex>2547</sItemIndex>
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>170</uiIndex>
+		<sItemIndex>2548</sItemIndex>
+		<ubOptimalNumber>6</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>171</uiIndex>
+		<sItemIndex>5771</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>172</uiIndex>
+		<sItemIndex>2364</sItemIndex>
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>173</uiIndex>
+		<sItemIndex>2365</sItemIndex>
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
 </INVENTORYLIST>
