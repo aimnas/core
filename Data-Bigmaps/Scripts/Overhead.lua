@@ -321,6 +321,7 @@ local SEEN_THIS_TURN	= 2
 local SEEN_LAST_TURN	= 3
 local SEEN_2_TURNS_AGO	=4
 local SEEN_3_TURNS_AGO = 5
+
 -- local function
 local function HandleJohnArrival( ID )
 
@@ -394,10 +395,10 @@ end
 
 function HandleAtNewGridNo( ProfileId )
 
-
 	if ( CheckFact ( Facts.FACT_ESTONI_REFUELLING_POSSIBLE, 0) == true and CheckQuest(Quests.QUEST_ESCORT_SHANK) == pQuest.QUESTINPROGRESS ) then
 			EndQuest( Quests.QUEST_ESCORT_SHANK, gWorldSectorX, gWorldSectorY ) 	
 	end	
+
 	TeamSoldier = FindSoldierTeam (ProfileId)
 	
 	if ( TeamSoldier == Team.OUR_TEAM ) then -- Team
@@ -1622,7 +1623,15 @@ PhotoFlag =
 -- sIntelPrice: price of item in intel
 -- sOptimalNumber: how many items the trader should have at maximum
 function AddArmsDealerAdditionalIntelData()
-
+	
+	-- price is affected by player progress - on higher progress items get cheaper (as they are less useful at that point)
+	progress = CurrentPlayerProgressPercentage()
+	ratio = (200.0 - progress) / 100.0
+	
+	-- black market:
+	-- guns
+	AddArmsDealerAdditionalIntelDataItem(68, 0, 100000 * ratio, 2)	-- Five-Seven
+	
 end
 
 function SetPhotoState( aIndex, aState )
