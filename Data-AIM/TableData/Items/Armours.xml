@@ -584,219 +584,219 @@
 	<ARMOUR>
 		<uiIndex>83</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>29</ubProtection>
+		<ubProtection>17</ubProtection>
 		<ubCoverage>50</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
+		<ubDegradePercent>12</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>84</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>35</ubProtection>
+		<ubProtection>23</ubProtection>
 		<ubCoverage>50</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
+		<ubDegradePercent>12</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>85</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>44</ubProtection>
+		<ubProtection>32</ubProtection>
 		<ubCoverage>50</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>86</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>39</ubProtection>
-		<ubCoverage>80</ubCoverage>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>87</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>45</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>88</uiIndex>
-		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>54</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>89</uiIndex>
-		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>29</ubProtection>
-		<ubCoverage>50</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>90</uiIndex>
-		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>35</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>91</uiIndex>
+		<uiIndex>88</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>44</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>92</uiIndex>
+		<uiIndex>89</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>39</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>93</uiIndex>
+		<uiIndex>90</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>94</uiIndex>
+		<uiIndex>91</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>54</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
+		<uiIndex>92</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>29</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>93</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>94</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>44</ubProtection>
+		<ubCoverage>50</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
 		<uiIndex>95</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>39</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>96</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>97</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>54</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>98</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>30</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>96</uiIndex>
+		<uiIndex>99</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>36</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>97</uiIndex>
+		<uiIndex>100</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>98</uiIndex>
+		<uiIndex>101</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>102</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>103</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>4</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>104</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>50</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>99</uiIndex>
+		<uiIndex>105</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>56</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>100</uiIndex>
+		<uiIndex>106</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>65</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>101</uiIndex>
+		<uiIndex>107</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>102</uiIndex>
+		<uiIndex>108</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>51</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>103</uiIndex>
+		<uiIndex>109</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>60</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>104</uiIndex>
+		<uiIndex>110</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>32</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>105</uiIndex>
+		<uiIndex>111</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>106</uiIndex>
+		<uiIndex>112</uiIndex>
 		<ubArmourClass>0</ubArmourClass>
 		<ubProtection>47</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>107</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>108</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>109</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>110</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>10</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>111</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>3</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>112</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>113</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>20</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>114</uiIndex>
@@ -808,259 +808,259 @@
 	<ARMOUR>
 		<uiIndex>115</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>3</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>116</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>3</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubProtection>10</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>117</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>3</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>118</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>3</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>119</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>7</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
+		<ubProtection>20</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>120</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>6</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>121</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>3</ubProtection>
 		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>122</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>123</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>124</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>125</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>7</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>126</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>6</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>127</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>3</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>128</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>5</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>123</uiIndex>
+		<uiIndex>129</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>12</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>124</uiIndex>
+		<uiIndex>130</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>125</uiIndex>
+		<uiIndex>131</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>31</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>18</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>126</uiIndex>
+		<uiIndex>132</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>40</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>127</uiIndex>
+		<uiIndex>133</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>6</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>128</uiIndex>
+		<uiIndex>134</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>6</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>129</uiIndex>
+		<uiIndex>135</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>3</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>130</uiIndex>
+		<uiIndex>136</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>30</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>131</uiIndex>
+		<uiIndex>137</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>36</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>12</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>132</uiIndex>
+		<uiIndex>138</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>133</uiIndex>
+		<uiIndex>139</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>18</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>134</uiIndex>
+		<uiIndex>140</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>24</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>135</uiIndex>
+		<uiIndex>141</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>33</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>136</uiIndex>
+		<uiIndex>142</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>65</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>137</uiIndex>
+		<uiIndex>143</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>70</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>138</uiIndex>
+		<uiIndex>144</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>70</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>139</uiIndex>
+		<uiIndex>145</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>70</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>140</uiIndex>
+		<uiIndex>146</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>85</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>2</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>141</uiIndex>
+		<uiIndex>147</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>90</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>2</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>142</uiIndex>
+		<uiIndex>148</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>90</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>2</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>143</uiIndex>
+		<uiIndex>149</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>90</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>144</uiIndex>
+		<uiIndex>150</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>145</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>31</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>146</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>147</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>26</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>16</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>148</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>149</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>16</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>150</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>26</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>151</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
+		<ubProtection>31</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
@@ -1069,14 +1069,14 @@
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>40</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>16</ubDegradePercent>
+		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>153</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>26</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubDegradePercent>16</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>154</uiIndex>
@@ -1095,63 +1095,63 @@
 	<ARMOUR>
 		<uiIndex>156</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>35</ubProtection>
+		<ubProtection>26</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>157</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>41</ubProtection>
+		<ubProtection>32</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>158</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>50</ubProtection>
+		<ubProtection>40</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>4</ubDegradePercent>
+		<ubDegradePercent>16</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>159</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
+		<ubProtection>26</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>160</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
+		<ubProtection>32</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>161</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>55</ubProtection>
+		<ubProtection>40</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>4</ubDegradePercent>
+		<ubDegradePercent>16</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>162</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
+		<ubProtection>35</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>163</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
+		<ubProtection>41</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>164</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>55</ubProtection>
+		<ubProtection>50</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
@@ -1179,65 +1179,65 @@
 	<ARMOUR>
 		<uiIndex>168</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>24</ubProtection>
+		<ubProtection>36</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>169</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
+		<ubProtection>42</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
+		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>170</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>39</ubProtection>
+		<ubProtection>55</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>171</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>25</ubProtection>
+		<ubProtection>36</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>172</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>31</ubProtection>
+		<ubProtection>42</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
+		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>173</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>55</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>16</ubDegradePercent>
+		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>174</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>25</ubProtection>
+		<ubProtection>24</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>175</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>31</ubProtection>
+		<ubProtection>30</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>176</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>39</ubProtection>
 		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>16</ubDegradePercent>
+		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>177</uiIndex>
@@ -1263,149 +1263,149 @@
 	<ARMOUR>
 		<uiIndex>180</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>181</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>182</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>16</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>183</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>25</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>184</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>31</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>185</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>16</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>186</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>181</uiIndex>
+		<uiIndex>187</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>35</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>182</uiIndex>
+		<uiIndex>188</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>44</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>183</uiIndex>
+		<uiIndex>189</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>26</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>12</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>184</uiIndex>
+		<uiIndex>190</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>32</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>185</uiIndex>
+		<uiIndex>191</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>41</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>186</uiIndex>
+		<uiIndex>192</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>27</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>187</uiIndex>
+		<uiIndex>193</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>33</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>188</uiIndex>
+		<uiIndex>194</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>42</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>189</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>190</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>191</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>47</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>192</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>193</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>194</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>47</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>195</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>196</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>197</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>45</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>47</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>198</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>30</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>199</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>200</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>45</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>47</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>201</uiIndex>
@@ -1431,128 +1431,128 @@
 	<ARMOUR>
 		<uiIndex>204</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>34</ubProtection>
+		<ubProtection>30</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>205</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
+		<ubProtection>36</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>206</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>49</ubProtection>
+		<ubProtection>45</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>207</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>30</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>208</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>209</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>47</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
+		<ubProtection>45</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>210</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>37</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>211</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>43</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>212</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>52</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
+		<ubProtection>49</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>213</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>37</ubProtection>
+		<ubProtection>32</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>214</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>43</ubProtection>
+		<ubProtection>38</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>215</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>52</ubProtection>
+		<ubProtection>47</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>216</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>35</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>37</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>217</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>41</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>43</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>218</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>52</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>219</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>35</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>37</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>220</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>41</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>43</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>221</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>52</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>222</uiIndex>
@@ -1578,107 +1578,107 @@
 	<ARMOUR>
 		<uiIndex>225</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>226</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>227</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>228</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>229</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>230</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>231</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>39</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>226</uiIndex>
+		<uiIndex>232</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>227</uiIndex>
+		<uiIndex>233</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>54</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>228</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>229</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>48</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>230</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>57</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>231</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>232</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>48</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>233</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>57</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>234</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>235</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>46</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubProtection>48</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>236</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>55</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubProtection>57</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>237</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>238</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>46</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubProtection>48</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>239</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>55</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubProtection>57</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>240</uiIndex>
@@ -1704,128 +1704,128 @@
 	<ARMOUR>
 		<uiIndex>243</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>244</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>46</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>245</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>246</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>247</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>46</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>10</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>248</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>55</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>7</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>249</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>31</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>244</uiIndex>
+		<uiIndex>250</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>37</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>245</uiIndex>
+		<uiIndex>251</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>46</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>246</uiIndex>
+		<uiIndex>252</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>247</uiIndex>
+		<uiIndex>253</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>35</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>248</uiIndex>
+		<uiIndex>254</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>44</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>249</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>34</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>250</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>251</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>49</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>252</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>34</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>253</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>254</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>49</ubProtection>
-		<ubCoverage>80</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>255</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>256</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>257</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>47</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>49</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>258</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubProtection>34</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>259</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubProtection>40</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>260</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>47</ubProtection>
-		<ubCoverage>75</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubProtection>49</ubProtection>
+		<ubCoverage>80</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>261</uiIndex>
@@ -1851,107 +1851,107 @@
 	<ARMOUR>
 		<uiIndex>264</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>265</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>266</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>47</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>267</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>268</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>269</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>47</ubProtection>
+		<ubCoverage>75</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>270</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>33</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>265</uiIndex>
+		<uiIndex>271</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>39</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>266</uiIndex>
+		<uiIndex>272</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>48</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>267</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>268</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>269</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>51</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>270</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>271</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>272</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>51</ubProtection>
-		<ubCoverage>90</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>273</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>34</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>274</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>275</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>49</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubProtection>51</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>276</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>34</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>277</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>40</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>10</ubDegradePercent>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>278</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>49</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>7</ubDegradePercent>
+		<ubProtection>51</ubProtection>
+		<ubCoverage>90</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>279</uiIndex>
@@ -1977,63 +1977,63 @@
 	<ARMOUR>
 		<uiIndex>282</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>35</ubProtection>
+		<ubProtection>34</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>283</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>41</ubProtection>
+		<ubProtection>40</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>284</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>50</ubProtection>
+		<ubProtection>49</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>285</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
+		<ubProtection>34</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>15</ubDegradePercent>
+		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>286</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
+		<ubProtection>40</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
+		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>287</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>51</ubProtection>
+		<ubProtection>49</ubProtection>
 		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
+		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>288</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>36</ubProtection>
+		<ubProtection>35</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>289</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>42</ubProtection>
+		<ubProtection>41</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>290</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>51</ubProtection>
+		<ubProtection>50</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
@@ -2061,565 +2061,607 @@
 	<ARMOUR>
 		<uiIndex>294</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>295</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>296</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>51</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>297</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>36</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>15</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>298</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>42</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>299</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>51</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>300</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>55</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>295</uiIndex>
+		<uiIndex>301</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>61</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>296</uiIndex>
+		<uiIndex>302</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>70</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>1</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>297</uiIndex>
+		<uiIndex>303</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>32</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>298</uiIndex>
+		<uiIndex>304</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>299</uiIndex>
+		<uiIndex>305</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>47</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>300</uiIndex>
+		<uiIndex>306</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>301</uiIndex>
+		<uiIndex>307</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>302</uiIndex>
+		<uiIndex>308</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>303</uiIndex>
+		<uiIndex>309</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>10</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>4</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>304</uiIndex>
+		<uiIndex>310</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>305</uiIndex>
+		<uiIndex>311</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>20</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>306</uiIndex>
+		<uiIndex>312</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>12</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>307</uiIndex>
+		<uiIndex>313</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>5</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>308</uiIndex>
+		<uiIndex>314</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>3</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>309</uiIndex>
+		<uiIndex>315</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>7</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>310</uiIndex>
+		<uiIndex>316</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>23</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>311</uiIndex>
+		<uiIndex>317</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>29</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>312</uiIndex>
+		<uiIndex>318</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>65</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>313</uiIndex>
+		<uiIndex>319</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>19</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>12</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>314</uiIndex>
+		<uiIndex>320</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>315</uiIndex>
+		<uiIndex>321</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>34</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>316</uiIndex>
+		<uiIndex>322</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>21</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>317</uiIndex>
+		<uiIndex>323</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>27</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>318</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>36</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>319</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>26</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>320</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>321</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>41</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>322</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>26</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>323</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>32</ubProtection>
-		<ubCoverage>70</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>324</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>41</ubProtection>
+		<ubProtection>36</ubProtection>
 		<ubCoverage>70</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>325</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>326</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>327</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>328</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>26</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>329</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>32</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>330</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>70</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>331</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>326</uiIndex>
+		<uiIndex>332</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>44</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>327</uiIndex>
+		<uiIndex>333</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>53</ubProtection>
 		<ubCoverage>90</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>328</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>329</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>44</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>330</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>53</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>331</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>38</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>332</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>44</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>333</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>53</ubProtection>
-		<ubCoverage>95</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>334</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>335</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>44</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>336</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>53</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>337</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>38</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>338</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>44</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>339</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>53</ubProtection>
+		<ubCoverage>95</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>340</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>30</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>335</uiIndex>
+		<uiIndex>341</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>36</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>336</uiIndex>
+		<uiIndex>342</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>45</ubProtection>
 		<ubCoverage>80</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>337</uiIndex>
+		<uiIndex>343</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>28</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>338</uiIndex>
+		<uiIndex>344</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>34</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>9</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>339</uiIndex>
+		<uiIndex>345</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>43</ubProtection>
 		<ubCoverage>85</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>340</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>33</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>341</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>39</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>342</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>48</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>343</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>33</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>13</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>344</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>39</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>9</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>345</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>48</ubProtection>
-		<ubCoverage>85</ubCoverage>
-		<ubDegradePercent>6</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>346</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>347</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>39</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>348</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>48</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>349</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>33</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>13</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>350</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>39</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>9</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>351</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>48</ubProtection>
+		<ubCoverage>85</ubCoverage>
+		<ubDegradePercent>6</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>352</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>32</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>13</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>347</uiIndex>
+		<uiIndex>353</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>348</uiIndex>
+		<uiIndex>354</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>47</ubProtection>
 		<ubCoverage>95</ubCoverage>
 		<ubDegradePercent>7</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>349</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>35</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>350</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>41</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>351</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>352</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>35</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>11</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>353</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>41</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>8</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>354</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>50</ubProtection>
-		<ubCoverage>98</ubCoverage>
-		<ubDegradePercent>5</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>355</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>356</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>357</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>358</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>35</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>11</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>359</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>41</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>8</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>360</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>50</ubProtection>
+		<ubCoverage>98</ubCoverage>
+		<ubDegradePercent>5</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>361</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>50</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>5</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>356</uiIndex>
+		<uiIndex>362</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>56</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>3</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>357</uiIndex>
+		<uiIndex>363</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>65</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>1</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>358</uiIndex>
+		<uiIndex>364</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>32</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>359</uiIndex>
+		<uiIndex>365</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>38</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>11</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>360</uiIndex>
+		<uiIndex>366</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>47</ubProtection>
 		<ubCoverage>75</ubCoverage>
 		<ubDegradePercent>8</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>361</uiIndex>
+		<uiIndex>367</uiIndex>
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>54</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>15</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>362</uiIndex>
+		<uiIndex>368</uiIndex>
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>39</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>363</uiIndex>
+		<uiIndex>369</uiIndex>
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>15</ubProtection>
 		<ubCoverage>50</ubCoverage>
 		<ubDegradePercent>50</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>364</uiIndex>
+		<uiIndex>370</uiIndex>
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>25</ubProtection>
 		<ubCoverage>25</ubCoverage>
 		<ubDegradePercent>10</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>365</uiIndex>
+		<uiIndex>371</uiIndex>
 		<ubArmourClass>3</ubArmourClass>
 		<ubProtection>10</ubProtection>
 		<ubCoverage>30</ubCoverage>
 		<ubDegradePercent>6</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>366</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>15</ubProtection>
-		<ubCoverage>25</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>367</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>15</ubProtection>
-		<ubCoverage>25</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>368</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>15</ubProtection>
-		<ubCoverage>25</ubCoverage>
-		<ubDegradePercent>20</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>369</uiIndex>
-		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>5</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>370</uiIndex>
-		<ubArmourClass>1</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
-		<uiIndex>371</uiIndex>
-		<ubArmourClass>2</ubArmourClass>
-		<ubProtection>8</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
-	</ARMOUR>
-	<ARMOUR>
 		<uiIndex>372</uiIndex>
-		<ubArmourClass>0</ubArmourClass>
-		<ubProtection>5</ubProtection>
-		<ubCoverage>99</ubCoverage>
-		<ubDegradePercent>25</ubDegradePercent>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
 		<uiIndex>373</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>374</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>15</ubProtection>
+		<ubCoverage>25</ubCoverage>
+		<ubDegradePercent>20</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>375</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>376</uiIndex>
 		<ubArmourClass>1</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>99</ubCoverage>
 		<ubDegradePercent>25</ubDegradePercent>
 	</ARMOUR>
 	<ARMOUR>
-		<uiIndex>374</uiIndex>
+		<uiIndex>377</uiIndex>
+		<ubArmourClass>2</ubArmourClass>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>378</uiIndex>
+		<ubArmourClass>0</ubArmourClass>
+		<ubProtection>5</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>379</uiIndex>
+		<ubArmourClass>1</ubArmourClass>
+		<ubProtection>8</ubProtection>
+		<ubCoverage>99</ubCoverage>
+		<ubDegradePercent>25</ubDegradePercent>
+	</ARMOUR>
+	<ARMOUR>
+		<uiIndex>380</uiIndex>
 		<ubArmourClass>2</ubArmourClass>
 		<ubProtection>8</ubProtection>
 		<ubCoverage>99</ubCoverage>

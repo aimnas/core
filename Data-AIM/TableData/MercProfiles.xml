@@ -242,8 +242,8 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>350</sSalary>
-		<uiWeeklySalary>2200</uiWeeklySalary>
+		<sSalary>400</sSalary>
+		<uiWeeklySalary>2500</uiWeeklySalary>
 		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>500</sMedicalDepositAmount>
@@ -343,9 +343,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>500</sSalary>
-		<uiWeeklySalary>3400</uiWeeklySalary>
-		<uiBiWeeklySalary>6500</uiBiWeeklySalary>
+		<sSalary>850</sSalary>
+		<uiWeeklySalary>5000</uiWeeklySalary>
+		<uiBiWeeklySalary>9500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>900</sMedicalDepositAmount>
 		<usOptionalGearCost>2295</usOptionalGearCost>
@@ -444,9 +444,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>2000</sSalary>
-		<uiWeeklySalary>13500</uiWeeklySalary>
-		<uiBiWeeklySalary>25000</uiBiWeeklySalary>
+		<sSalary>2200</sSalary>
+		<uiWeeklySalary>14000</uiWeeklySalary>
+		<uiBiWeeklySalary>27000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>7350</usOptionalGearCost>
@@ -547,8 +547,8 @@ Max Profiles 0 - 254
 		<bRacist>1</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>1400</sSalary>
-		<uiWeeklySalary>8500</uiWeeklySalary>
-		<uiBiWeeklySalary>16500</uiBiWeeklySalary>
+		<uiWeeklySalary>9000</uiWeeklySalary>
+		<uiBiWeeklySalary>17500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>3670</usOptionalGearCost>
@@ -647,9 +647,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1100</sSalary>
-		<uiWeeklySalary>7500</uiWeeklySalary>
-		<uiBiWeeklySalary>14200</uiBiWeeklySalary>
+		<sSalary>1250</sSalary>
+		<uiWeeklySalary>8500</uiWeeklySalary>
+		<uiBiWeeklySalary>16000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1500</sMedicalDepositAmount>
 		<usOptionalGearCost>1990</usOptionalGearCost>
@@ -747,9 +747,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>1900</sSalary>
+		<sSalary>1800</sSalary>
 		<uiWeeklySalary>12000</uiWeeklySalary>
-		<uiBiWeeklySalary>22800</uiBiWeeklySalary>
+		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3500</sMedicalDepositAmount>
 		<usOptionalGearCost>5845</usOptionalGearCost>
@@ -847,9 +847,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>500</sSalary>
-		<uiWeeklySalary>3200</uiWeeklySalary>
-		<uiBiWeeklySalary>6000</uiBiWeeklySalary>
+		<sSalary>850</sSalary>
+		<uiWeeklySalary>5500</uiWeeklySalary>
+		<uiBiWeeklySalary>10000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>900</sMedicalDepositAmount>
 		<usOptionalGearCost>4570</usOptionalGearCost>
@@ -948,9 +948,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1650</sSalary>
-		<uiWeeklySalary>11250</uiWeeklySalary>
-		<uiBiWeeklySalary>22000</uiBiWeeklySalary>
+		<sSalary>1900</sSalary>
+		<uiWeeklySalary>12250</uiWeeklySalary>
+		<uiBiWeeklySalary>24000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>5025</usOptionalGearCost>
@@ -1048,9 +1048,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>300</sSalary>
-		<uiWeeklySalary>2000</uiWeeklySalary>
-		<uiBiWeeklySalary>3800</uiBiWeeklySalary>
+		<sSalary>400</sSalary>
+		<uiWeeklySalary>2500</uiWeeklySalary>
+		<uiBiWeeklySalary>4800</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1914</usOptionalGearCost>
@@ -1149,9 +1149,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>700</sSalary>
-		<uiWeeklySalary>4500</uiWeeklySalary>
-		<uiBiWeeklySalary>8600</uiBiWeeklySalary>
+		<sSalary>900</sSalary>
+		<uiWeeklySalary>6000</uiWeeklySalary>
+		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2625</usOptionalGearCost>
@@ -1250,9 +1250,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2100</sSalary>
-		<uiWeeklySalary>14000</uiWeeklySalary>
-		<uiBiWeeklySalary>27500</uiBiWeeklySalary>
+		<sSalary>3200</sSalary>
+		<uiWeeklySalary>20000</uiWeeklySalary>
+		<uiBiWeeklySalary>37500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>9943</usOptionalGearCost>
@@ -1350,9 +1350,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>600</sSalary>
-		<uiWeeklySalary>4000</uiWeeklySalary>
-		<uiBiWeeklySalary>7700</uiBiWeeklySalary>
+		<sSalary>900</sSalary>
+		<uiWeeklySalary>5800</uiWeeklySalary>
+		<uiBiWeeklySalary>10000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1400</sMedicalDepositAmount>
 		<usOptionalGearCost>3775</usOptionalGearCost>
@@ -1451,9 +1451,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2350</sSalary>
-		<uiWeeklySalary>16000</uiWeeklySalary>
-		<uiBiWeeklySalary>30000</uiBiWeeklySalary>
+		<sSalary>4500</sSalary>
+		<uiWeeklySalary>30000</uiWeeklySalary>
+		<uiBiWeeklySalary>56000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3500</sMedicalDepositAmount>
 		<usOptionalGearCost>11815</usOptionalGearCost>
@@ -1552,9 +1552,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>1300</sSalary>
-		<uiWeeklySalary>8500</uiWeeklySalary>
-		<uiBiWeeklySalary>16800</uiBiWeeklySalary>
+		<sSalary>1200</sSalary>
+		<uiWeeklySalary>8000</uiWeeklySalary>
+		<uiBiWeeklySalary>15000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>4115</usOptionalGearCost>
@@ -1652,9 +1652,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>350</sSalary>
-		<uiWeeklySalary>2200</uiWeeklySalary>
-		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
+		<sSalary>700</sSalary>
+		<uiWeeklySalary>4500</uiWeeklySalary>
+		<uiBiWeeklySalary>8500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1250</sMedicalDepositAmount>
 		<usOptionalGearCost>1481</usOptionalGearCost>
@@ -1752,9 +1752,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1350</sSalary>
-		<uiWeeklySalary>9000</uiWeeklySalary>
-		<uiBiWeeklySalary>17500</uiBiWeeklySalary>
+		<sSalary>1850</sSalary>
+		<uiWeeklySalary>12500</uiWeeklySalary>
+		<uiBiWeeklySalary>23500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>3270</usOptionalGearCost>
@@ -1854,9 +1854,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>3000</sSalary>
-		<uiWeeklySalary>20000</uiWeeklySalary>
-		<uiBiWeeklySalary>39000</uiBiWeeklySalary>
+		<sSalary>8000</sSalary>
+		<uiWeeklySalary>50000</uiWeeklySalary>
+		<uiBiWeeklySalary>90000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>5000</sMedicalDepositAmount>
 		<usOptionalGearCost>13575</usOptionalGearCost>
@@ -1950,9 +1950,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>750</sSalary>
-		<uiWeeklySalary>4800</uiWeeklySalary>
-		<uiBiWeeklySalary>9500</uiBiWeeklySalary>
+		<sSalary>1050</sSalary>
+		<uiWeeklySalary>7000</uiWeeklySalary>
+		<uiBiWeeklySalary>13000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1800</sMedicalDepositAmount>
 		<usOptionalGearCost>1979</usOptionalGearCost>
@@ -2050,9 +2050,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1000</sSalary>
-		<uiWeeklySalary>6600</uiWeeklySalary>
-		<uiBiWeeklySalary>12000</uiBiWeeklySalary>
+		<sSalary>1300</sSalary>
+		<uiWeeklySalary>9000</uiWeeklySalary>
+		<uiBiWeeklySalary>17000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1400</sMedicalDepositAmount>
 		<usOptionalGearCost>3910</usOptionalGearCost>
@@ -2152,7 +2152,7 @@ Max Profiles 0 - 254
 		<bSexist>1</bSexist>
 		<sSalary>750</sSalary>
 		<uiWeeklySalary>5000</uiWeeklySalary>
-		<uiBiWeeklySalary>9800</uiBiWeeklySalary>
+		<uiBiWeeklySalary>9500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>616</usOptionalGearCost>
@@ -2246,9 +2246,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>1400</sSalary>
-		<uiWeeklySalary>9500</uiWeeklySalary>
-		<uiBiWeeklySalary>17500</uiBiWeeklySalary>
+		<sSalary>1150</sSalary>
+		<uiWeeklySalary>7000</uiWeeklySalary>
+		<uiBiWeeklySalary>12500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>2735</usOptionalGearCost>
@@ -2342,9 +2342,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>400</sSalary>
-		<uiWeeklySalary>2500</uiWeeklySalary>
-		<uiBiWeeklySalary>4800</uiBiWeeklySalary>
+		<sSalary>550</sSalary>
+		<uiWeeklySalary>3500</uiWeeklySalary>
+		<uiBiWeeklySalary>6500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1916</usOptionalGearCost>
@@ -2643,9 +2643,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1450</sSalary>
-		<uiWeeklySalary>10000</uiWeeklySalary>
-		<uiBiWeeklySalary>19500</uiBiWeeklySalary>
+		<sSalary>1900</sSalary>
+		<uiWeeklySalary>12000</uiWeeklySalary>
+		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>8160</usOptionalGearCost>
@@ -2705,7 +2705,7 @@ Max Profiles 0 - 254
 		<bLeadership>31</bLeadership>
 		<bMedical>22</bMedical>
 		<bMechanical>8</bMechanical>
-		<bExpLevel>2</bExpLevel>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
@@ -2743,9 +2743,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1450</sSalary>
-		<uiWeeklySalary>10000</uiWeeklySalary>
-		<uiBiWeeklySalary>19500</uiBiWeeklySalary>
+		<sSalary>1800</sSalary>
+		<uiWeeklySalary>12000</uiWeeklySalary>
+		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2700</sMedicalDepositAmount>
 		<usOptionalGearCost>8675</usOptionalGearCost>
@@ -2844,9 +2844,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>900</sSalary>
-		<uiWeeklySalary>6000</uiWeeklySalary>
-		<uiBiWeeklySalary>10800</uiBiWeeklySalary>
+		<sSalary>1200</sSalary>
+		<uiWeeklySalary>8200</uiWeeklySalary>
+		<uiBiWeeklySalary>15600</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>3525</usOptionalGearCost>
@@ -2944,9 +2944,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>1600</sSalary>
-		<uiWeeklySalary>11000</uiWeeklySalary>
-		<uiBiWeeklySalary>21500</uiBiWeeklySalary>
+		<sSalary>3750</sSalary>
+		<uiWeeklySalary>24000</uiWeeklySalary>
+		<uiBiWeeklySalary>45000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>4389</usOptionalGearCost>
@@ -3044,9 +3044,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1250</sSalary>
-		<uiWeeklySalary>8250</uiWeeklySalary>
-		<uiBiWeeklySalary>16000</uiBiWeeklySalary>
+		<sSalary>1550</sSalary>
+		<uiWeeklySalary>10250</uiWeeklySalary>
+		<uiBiWeeklySalary>19500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>1400</usOptionalGearCost>
@@ -3146,9 +3146,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2700</sSalary>
-		<uiWeeklySalary>18000</uiWeeklySalary>
-		<uiBiWeeklySalary>35000</uiBiWeeklySalary>
+		<sSalary>3750</sSalary>
+		<uiWeeklySalary>24000</uiWeeklySalary>
+		<uiBiWeeklySalary>46000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3000</sMedicalDepositAmount>
 		<usOptionalGearCost>9751</usOptionalGearCost>
@@ -3246,9 +3246,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>550</sSalary>
-		<uiWeeklySalary>3500</uiWeeklySalary>
-		<uiBiWeeklySalary>6800</uiBiWeeklySalary>
+		<sSalary>1200</sSalary>
+		<uiWeeklySalary>8000</uiWeeklySalary>
+		<uiBiWeeklySalary>15500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>750</sMedicalDepositAmount>
 		<usOptionalGearCost>5350</usOptionalGearCost>
@@ -3348,9 +3348,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>2500</sSalary>
-		<uiWeeklySalary>17000</uiWeeklySalary>
-		<uiBiWeeklySalary>32000</uiBiWeeklySalary>
+		<sSalary>3250</sSalary>
+		<uiWeeklySalary>22500</uiWeeklySalary>
+		<uiBiWeeklySalary>42000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3500</sMedicalDepositAmount>
 		<usOptionalGearCost>8790</usOptionalGearCost>
@@ -3444,9 +3444,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>400</sSalary>
-		<uiWeeklySalary>2700</uiWeeklySalary>
-		<uiBiWeeklySalary>5000</uiBiWeeklySalary>
+		<sSalary>750</sSalary>
+		<uiWeeklySalary>5000</uiWeeklySalary>
+		<uiBiWeeklySalary>8600</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2270</usOptionalGearCost>
@@ -3545,9 +3545,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>550</sSalary>
-		<uiWeeklySalary>3700</uiWeeklySalary>
-		<uiBiWeeklySalary>7200</uiBiWeeklySalary>
+		<sSalary>900</sSalary>
+		<uiWeeklySalary>6000</uiWeeklySalary>
+		<uiBiWeeklySalary>11500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1585</usOptionalGearCost>
@@ -3645,9 +3645,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>650</sSalary>
-		<uiWeeklySalary>4250</uiWeeklySalary>
-		<uiBiWeeklySalary>8000</uiBiWeeklySalary>
+		<sSalary>1400</sSalary>
+		<uiWeeklySalary>7000</uiWeeklySalary>
+		<uiBiWeeklySalary>12500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1618</usOptionalGearCost>
@@ -3746,9 +3746,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>800</sSalary>
-		<uiWeeklySalary>5500</uiWeeklySalary>
-		<uiBiWeeklySalary>10000</uiBiWeeklySalary>
+		<sSalary>1200</sSalary>
+		<uiWeeklySalary>8000</uiWeeklySalary>
+		<uiBiWeeklySalary>15000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>2428</usOptionalGearCost>
@@ -3799,16 +3799,16 @@ Max Profiles 0 - 254
 		<bDeathRate>33</bDeathRate>
 		<bLifeMax>88</bLifeMax>
 		<bLife>88</bLife>
-		<bStrength>64</bStrength>
+		<bStrength>68</bStrength>
 		<bAgility>87</bAgility>
-		<bDexterity>84</bDexterity>
-		<bWisdom>81</bWisdom>
-		<bMarksmanship>93</bMarksmanship>
+		<bDexterity>88</bDexterity>
+		<bWisdom>84</bWisdom>
+		<bMarksmanship>95</bMarksmanship>
 		<bExplosive>42</bExplosive>
 		<bLeadership>45</bLeadership>
 		<bMedical>39</bMedical>
 		<bMechanical>36</bMechanical>
-		<bExpLevel>4</bExpLevel>
+		<bExpLevel>5</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>14</bOldSkillTrait2>
@@ -3816,6 +3816,7 @@ Max Profiles 0 - 254
 		<bNewSkillTrait1>3</bNewSkillTrait1>
 		<bNewSkillTrait2>3</bNewSkillTrait2>
 		<bNewSkillTrait3>13</bNewSkillTrait3>
+		<bNewSkillTrait4>23</bNewSkillTrait4>
 		<!-- STOMP -->
 		<bBuddy1>15</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -3846,9 +3847,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1700</sSalary>
-		<uiWeeklySalary>11500</uiWeeklySalary>
-		<uiBiWeeklySalary>22500</uiBiWeeklySalary>
+		<sSalary>3150</sSalary>
+		<uiWeeklySalary>22000</uiWeeklySalary>
+		<uiBiWeeklySalary>42000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>7291</usOptionalGearCost>
@@ -3897,13 +3898,13 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>44</bReputationTolerance>
 		<bDeathRate>24</bDeathRate>
-		<bLifeMax>90</bLifeMax>
-		<bLife>90</bLife>
+		<bLifeMax>94</bLifeMax>
+		<bLife>94</bLife>
 		<bStrength>85</bStrength>
 		<bAgility>83</bAgility>
 		<bDexterity>82</bDexterity>
 		<bWisdom>76</bWisdom>
-		<bMarksmanship>82</bMarksmanship>
+		<bMarksmanship>78</bMarksmanship>
 		<bExplosive>40</bExplosive>
 		<bLeadership>22</bLeadership>
 		<bMedical>45</bMedical>
@@ -3946,8 +3947,8 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1050</sSalary>
-		<uiWeeklySalary>7000</uiWeeklySalary>
+		<sSalary>1000</sSalary>
+		<uiWeeklySalary>6800</uiWeeklySalary>
 		<uiBiWeeklySalary>13500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1000</sMedicalDepositAmount>
@@ -4046,9 +4047,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>450</sSalary>
-		<uiWeeklySalary>3000</uiWeeklySalary>
-		<uiBiWeeklySalary>5800</uiBiWeeklySalary>
+		<sSalary>475</sSalary>
+		<uiWeeklySalary>3200</uiWeeklySalary>
+		<uiBiWeeklySalary>6000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1200</sMedicalDepositAmount>
 		<usOptionalGearCost>1237</usOptionalGearCost>
@@ -4146,9 +4147,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>450</sSalary>
-		<uiWeeklySalary>2800</uiWeeklySalary>
-		<uiBiWeeklySalary>5400</uiBiWeeklySalary>
+		<sSalary>900</sSalary>
+		<uiWeeklySalary>5000</uiWeeklySalary>
+		<uiBiWeeklySalary>8500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>750</sMedicalDepositAmount>
 		<usOptionalGearCost>1396</usOptionalGearCost>
@@ -4246,7 +4247,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>200</sSalary>
+		<sSalary>300</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4346,7 +4347,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>250</sSalary>
+		<sSalary>350</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4446,7 +4447,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>175</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4546,7 +4547,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>350</sSalary>
+		<sSalary>650</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4646,7 +4647,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>200</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4742,7 +4743,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>225</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4804,7 +4805,7 @@ Max Profiles 0 - 254
 		<bLeadership>8</bLeadership>
 		<bMedical>46</bMedical>
 		<bMechanical>34</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
@@ -4842,7 +4843,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>375</sSalary>
+		<sSalary>800</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -4904,7 +4905,7 @@ Max Profiles 0 - 254
 		<bLeadership>4</bLeadership>
 		<bMedical>49</bMedical>
 		<bMechanical>7</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExpLevel>4</bExpLevel>
 		<bEvolution>2</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -4942,7 +4943,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>125</sSalary>
+		<sSalary>300</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -5038,7 +5039,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1500</sSalary>
+		<sSalary>1800</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -5134,7 +5135,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>900</sSalary>
+		<sSalary>800</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -5230,7 +5231,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>600</sSalary>
+		<sSalary>500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -6300,7 +6301,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>1000</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -6991,7 +6992,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1950</sSalary>
+		<sSalary>2400</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -16260,7 +16261,7 @@ Max Profiles 0 - 254
 		<bLeadership>28</bLeadership>
 		<bMedical>23</bMedical>
 		<bMechanical>22</bMechanical>
-		<bExpLevel>6</bExpLevel>
+		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>14</bOldSkillTrait2>
@@ -16398,9 +16399,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>2800</sSalary>
-		<uiWeeklySalary>14000</uiWeeklySalary>
-		<uiBiWeeklySalary>25000</uiBiWeeklySalary>
+		<sSalary>4800</sSalary>
+		<uiWeeklySalary>30000</uiWeeklySalary>
+		<uiBiWeeklySalary>50000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1708</usOptionalGearCost>
@@ -16595,7 +16596,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>1600</sSalary>
+		<sSalary>4500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -16791,9 +16792,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1550</sSalary>
-		<uiWeeklySalary>10750</uiWeeklySalary>
-		<uiBiWeeklySalary>21000</uiBiWeeklySalary>
+		<sSalary>1900</sSalary>
+		<uiWeeklySalary>14000</uiWeeklySalary>
+		<uiBiWeeklySalary>25000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2800</sMedicalDepositAmount>
 		<usOptionalGearCost>8220</usOptionalGearCost>
@@ -16892,9 +16893,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>1150</sSalary>
-		<uiWeeklySalary>7800</uiWeeklySalary>
-		<uiBiWeeklySalary>15000</uiBiWeeklySalary>
+		<sSalary>900</sSalary>
+		<uiWeeklySalary>6000</uiWeeklySalary>
+		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1500</sMedicalDepositAmount>
 		<usOptionalGearCost>2861</usOptionalGearCost>
@@ -16993,9 +16994,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1200</sSalary>
-		<uiWeeklySalary>8000</uiWeeklySalary>
-		<uiBiWeeklySalary>15000</uiBiWeeklySalary>
+		<sSalary>1000</sSalary>
+		<uiWeeklySalary>6500</uiWeeklySalary>
+		<uiBiWeeklySalary>12500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1500</sMedicalDepositAmount>
 		<usOptionalGearCost>2638</usOptionalGearCost>
@@ -17095,9 +17096,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2900</sSalary>
-		<uiWeeklySalary>19500</uiWeeklySalary>
-		<uiBiWeeklySalary>37500</uiBiWeeklySalary>
+		<sSalary>4000</sSalary>
+		<uiWeeklySalary>27000</uiWeeklySalary>
+		<uiBiWeeklySalary>52000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3000</sMedicalDepositAmount>
 		<usOptionalGearCost>10990</usOptionalGearCost>
@@ -17195,9 +17196,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>600</sSalary>
-		<uiWeeklySalary>3800</uiWeeklySalary>
-		<uiBiWeeklySalary>7500</uiBiWeeklySalary>
+		<sSalary>700</sSalary>
+		<uiWeeklySalary>4500</uiWeeklySalary>
+		<uiBiWeeklySalary>8500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1000</sMedicalDepositAmount>
 		<usOptionalGearCost>1515</usOptionalGearCost>
@@ -17296,9 +17297,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1500</sSalary>
-		<uiWeeklySalary>10250</uiWeeklySalary>
-		<uiBiWeeklySalary>20000</uiBiWeeklySalary>
+		<sSalary>1650</sSalary>
+		<uiWeeklySalary>10000</uiWeeklySalary>
+		<uiBiWeeklySalary>17000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>3323</usOptionalGearCost>
@@ -17396,9 +17397,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>350</sSalary>
-		<uiWeeklySalary>2400</uiWeeklySalary>
-		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
+		<sSalary>300</sSalary>
+		<uiWeeklySalary>2000</uiWeeklySalary>
+		<uiBiWeeklySalary>3500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>500</sMedicalDepositAmount>
 		<usOptionalGearCost>875</usOptionalGearCost>
@@ -17497,9 +17498,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2250</sSalary>
-		<uiWeeklySalary>15000</uiWeeklySalary>
-		<uiBiWeeklySalary>28000</uiBiWeeklySalary>
+		<sSalary>2700</sSalary>
+		<uiWeeklySalary>18000</uiWeeklySalary>
+		<uiBiWeeklySalary>35000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>8345</usOptionalGearCost>
@@ -17595,7 +17596,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2800</sSalary>
+		<sSalary>2500</sSalary>
 		<uiWeeklySalary>17000</uiWeeklySalary>
 		<uiBiWeeklySalary>30000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
@@ -17787,7 +17788,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>450</sSalary>
+		<sSalary>500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -17883,7 +17884,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>300</sSalary>
+		<sSalary>250</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -17979,7 +17980,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>600</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18028,11 +18029,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>10</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>44</bLifeMax>
-		<bLife>44</bLife>
-		<bStrength>28</bStrength>
-		<bAgility>18</bAgility>
-		<bDexterity>16</bDexterity>
+		<bLifeMax>64</bLifeMax>
+		<bLife>64</bLife>
+		<bStrength>48</bStrength>
+		<bAgility>28</bAgility>
+		<bDexterity>56</bDexterity>
 		<bWisdom>88</bWisdom>
 		<bMarksmanship>85</bMarksmanship>
 		<bExplosive>6</bExplosive>
@@ -18075,7 +18076,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>500</sSalary>
+		<sSalary>1200</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18131,7 +18132,7 @@ Max Profiles 0 - 254
 		<bDexterity>62</bDexterity>
 		<bWisdom>83</bWisdom>
 		<bMarksmanship>20</bMarksmanship>
-		<bExplosive>48</bExplosive>
+		<bExplosive>78</bExplosive>
 		<bLeadership>18</bLeadership>
 		<bMedical>24</bMedical>
 		<bMechanical>95</bMechanical>
@@ -18141,7 +18142,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
 		<bNewSkillTrait2>8</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
+		<bNewSkillTrait3>17</bNewSkillTrait3>
 		<bBuddy1>187</bBuddy1>
 		<bBuddy2>255</bBuddy2>
 		<bBuddy3>255</bBuddy3>
@@ -18171,7 +18172,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>400</sSalary>
+		<sSalary>525</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18267,7 +18268,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>400</sSalary>
+		<sSalary>750</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18364,7 +18365,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1500</sSalary>
+		<sSalary>1200</sSalary>
 		<uiWeeklySalary>8000</uiWeeklySalary>
 		<uiBiWeeklySalary>13000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
@@ -18460,9 +18461,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>400</sSalary>
-		<uiWeeklySalary>2400</uiWeeklySalary>
-		<uiBiWeeklySalary>4600</uiBiWeeklySalary>
+		<sSalary>350</sSalary>
+		<uiWeeklySalary>2100</uiWeeklySalary>
+		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1000</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -18556,7 +18557,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>150</sSalary>
+		<sSalary>175</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18748,7 +18749,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>250</sSalary>
+		<sSalary>200</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -18844,7 +18845,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>950</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -19465,8 +19466,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>78</bLifeMax>
-		<bLife>78</bLife>
+		<bLifeMax>88</bLifeMax>
+		<bLife>88</bLife>
 		<bStrength>70</bStrength>
 		<bAgility>55</bAgility>
 		<bDexterity>80</bDexterity>
@@ -19476,7 +19477,7 @@ Max Profiles 0 - 254
 		<bLeadership>31</bLeadership>
 		<bMedical>46</bMedical>
 		<bMechanical>2</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -19513,7 +19514,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>250</sSalary>
+		<sSalary>450</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -21667,7 +21668,7 @@ Max Profiles 0 - 254
 		<bLeadership>7</bLeadership>
 		<bMedical>0</bMedical>
 		<bMechanical>2</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
@@ -21800,7 +21801,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1200</sSalary>
+		<sSalary>2000</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -21860,7 +21861,7 @@ Max Profiles 0 - 254
 		<bLeadership>14</bLeadership>
 		<bMedical>11</bMedical>
 		<bMechanical>22</bMechanical>
-		<bExpLevel>1</bExpLevel>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
@@ -21897,7 +21898,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>400</sSalary>
+		<sSalary>950</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -22185,7 +22186,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>2</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>950</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -22377,9 +22378,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1750</sSalary>
-		<uiWeeklySalary>12500</uiWeeklySalary>
-		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
+		<sSalary>1500</sSalary>
+		<uiWeeklySalary>11000</uiWeeklySalary>
+		<uiBiWeeklySalary>20000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1500</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -22473,7 +22474,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>900</sSalary>
+		<sSalary>600</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -22570,8 +22571,8 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>1</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>1800</sSalary>
-		<uiWeeklySalary>11500</uiWeeklySalary>
+		<sSalary>2400</sSalary>
+		<uiWeeklySalary>12500</uiWeeklySalary>
 		<uiBiWeeklySalary>22500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1650</sMedicalDepositAmount>
@@ -22667,9 +22668,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>800</sSalary>
-		<uiWeeklySalary>5000</uiWeeklySalary>
-		<uiBiWeeklySalary>8400</uiBiWeeklySalary>
+		<sSalary>600</sSalary>
+		<uiWeeklySalary>4000</uiWeeklySalary>
+		<uiBiWeeklySalary>7800</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1252</usOptionalGearCost>
@@ -22763,9 +22764,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1400</sSalary>
-		<uiWeeklySalary>8500</uiWeeklySalary>
-		<uiBiWeeklySalary>17800</uiBiWeeklySalary>
+		<sSalary>1225</sSalary>
+		<uiWeeklySalary>8000</uiWeeklySalary>
+		<uiBiWeeklySalary>15800</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2500</sMedicalDepositAmount>
 		<usOptionalGearCost>2032</usOptionalGearCost>
@@ -22860,9 +22861,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2400</sSalary>
-		<uiWeeklySalary>16000</uiWeeklySalary>
-		<uiBiWeeklySalary>28000</uiBiWeeklySalary>
+		<sSalary>2700</sSalary>
+		<uiWeeklySalary>18000</uiWeeklySalary>
+		<uiBiWeeklySalary>30000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3000</sMedicalDepositAmount>
 		<usOptionalGearCost>2202</usOptionalGearCost>
@@ -22957,9 +22958,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>700</sSalary>
-		<uiWeeklySalary>3600</uiWeeklySalary>
-		<uiBiWeeklySalary>6800</uiBiWeeklySalary>
+		<sSalary>475</sSalary>
+		<uiWeeklySalary>3300</uiWeeklySalary>
+		<uiBiWeeklySalary>6500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1045</usOptionalGearCost>
@@ -23053,9 +23054,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>2</bSexist>
-		<sSalary>700</sSalary>
-		<uiWeeklySalary>3500</uiWeeklySalary>
-		<uiBiWeeklySalary>6600</uiBiWeeklySalary>
+		<sSalary>500</sSalary>
+		<uiWeeklySalary>3400</uiWeeklySalary>
+		<uiBiWeeklySalary>6500</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1200</sMedicalDepositAmount>
 		<usOptionalGearCost>1529</usOptionalGearCost>
@@ -23150,9 +23151,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1750</sSalary>
-		<uiWeeklySalary>12000</uiWeeklySalary>
-		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
+		<sSalary>2250</sSalary>
+		<uiWeeklySalary>14000</uiWeeklySalary>
+		<uiBiWeeklySalary>25000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2300</sMedicalDepositAmount>
 		<usOptionalGearCost>1225</usOptionalGearCost>
@@ -23210,7 +23211,7 @@ Max Profiles 0 - 254
 		<bLeadership>25</bLeadership>
 		<bMedical>13</bMedical>
 		<bMechanical>47</bMechanical>
-		<bExpLevel>4</bExpLevel>
+		<bExpLevel>6</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
@@ -23247,9 +23248,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2600</sSalary>
-		<uiWeeklySalary>16000</uiWeeklySalary>
-		<uiBiWeeklySalary>30000</uiBiWeeklySalary>
+		<sSalary>4400</sSalary>
+		<uiWeeklySalary>25000</uiWeeklySalary>
+		<uiBiWeeklySalary>45000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2400</sMedicalDepositAmount>
 		<usOptionalGearCost>2252</usOptionalGearCost>
@@ -23343,9 +23344,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>300</sSalary>
-		<uiWeeklySalary>2000</uiWeeklySalary>
-		<uiBiWeeklySalary>3600</uiBiWeeklySalary>
+		<sSalary>350</sSalary>
+		<uiWeeklySalary>2200</uiWeeklySalary>
+		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>542</usOptionalGearCost>
@@ -23441,7 +23442,7 @@ Max Profiles 0 - 254
 		<bSexist>0</bSexist>
 		<sSalary>350</sSalary>
 		<uiWeeklySalary>3000</uiWeeklySalary>
-		<uiBiWeeklySalary>5000</uiBiWeeklySalary>
+		<uiBiWeeklySalary>4500</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1114</usOptionalGearCost>
@@ -23535,7 +23536,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1100</sSalary>
+		<sSalary>900</sSalary>
 		<uiWeeklySalary>6000</uiWeeklySalary>
 		<uiBiWeeklySalary>10000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
@@ -23631,9 +23632,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1000</sSalary>
-		<uiWeeklySalary>6500</uiWeeklySalary>
-		<uiBiWeeklySalary>12000</uiBiWeeklySalary>
+		<sSalary>1200</sSalary>
+		<uiWeeklySalary>7500</uiWeeklySalary>
+		<uiBiWeeklySalary>13000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1000</sMedicalDepositAmount>
 		<usOptionalGearCost>1529</usOptionalGearCost>
@@ -23691,7 +23692,7 @@ Max Profiles 0 - 254
 		<bLeadership>23</bLeadership>
 		<bMedical>97</bMedical>
 		<bMechanical>34</bMechanical>
-		<bExpLevel>2</bExpLevel>
+		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
@@ -23727,9 +23728,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1900</sSalary>
-		<uiWeeklySalary>11500</uiWeeklySalary>
-		<uiBiWeeklySalary>20000</uiBiWeeklySalary>
+		<sSalary>1600</sSalary>
+		<uiWeeklySalary>10000</uiWeeklySalary>
+		<uiBiWeeklySalary>16000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1800</sMedicalDepositAmount>
 		<usOptionalGearCost>1324</usOptionalGearCost>
@@ -23824,9 +23825,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>1400</sSalary>
-		<uiWeeklySalary>8800</uiWeeklySalary>
-		<uiBiWeeklySalary>15500</uiBiWeeklySalary>
+		<sSalary>800</sSalary>
+		<uiWeeklySalary>5500</uiWeeklySalary>
+		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1942</usOptionalGearCost>
@@ -23921,7 +23922,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>750</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24017,9 +24018,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>600</sSalary>
-		<uiWeeklySalary>4000</uiWeeklySalary>
-		<uiBiWeeklySalary>7500</uiBiWeeklySalary>
+		<sSalary>500</sSalary>
+		<uiWeeklySalary>3000</uiWeeklySalary>
+		<uiBiWeeklySalary>5000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>800</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -24113,9 +24114,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>500</sSalary>
-		<uiWeeklySalary>3000</uiWeeklySalary>
-		<uiBiWeeklySalary>5000</uiBiWeeklySalary>
+		<sSalary>300</sSalary>
+		<uiWeeklySalary>2100</uiWeeklySalary>
+		<uiBiWeeklySalary>4000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>500</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
@@ -24209,7 +24210,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>500</sSalary>
+		<sSalary>400</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24218,10 +24219,10 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>50</usApproachFactorFriendly>
+		<usApproachFactorDirect>20</usApproachFactorDirect>
+		<usApproachFactorThreaten>20</usApproachFactorThreaten>
+		<usApproachFactorRecruit>10</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -24274,7 +24275,7 @@ Max Profiles 0 - 254
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
-		<bNewSkillTrait2>1</bNewSkillTrait2>
+		<bNewSkillTrait2>7</bNewSkillTrait2>
 		<bNewSkillTrait3>9</bNewSkillTrait3>
 		<bNewSkillTrait4>9</bNewSkillTrait4>
 		<bBuddy1>245</bBuddy1>
@@ -24306,8 +24307,8 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>2200</sSalary>
-		<uiWeeklySalary>14000</uiWeeklySalary>
+		<sSalary>2000</sSalary>
+		<uiWeeklySalary>13000</uiWeeklySalary>
 		<uiBiWeeklySalary>24000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>1500</sMedicalDepositAmount>
@@ -24315,10 +24316,10 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>20</usApproachFactorFriendly>
+		<usApproachFactorDirect>70</usApproachFactorDirect>
+		<usApproachFactorThreaten>50</usApproachFactorThreaten>
+		<usApproachFactorRecruit>20</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -24403,7 +24404,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>500</sSalary>
+		<sSalary>750</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24412,10 +24413,10 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>20</usApproachFactorFriendly>
+		<usApproachFactorDirect>10</usApproachFactorDirect>
+		<usApproachFactorThreaten>10</usApproachFactorThreaten>
+		<usApproachFactorRecruit>10</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -24500,18 +24501,18 @@ Max Profiles 0 - 254
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
 		<sSalary>1000</sSalary>
-		<uiWeeklySalary>6000</uiWeeklySalary>
-		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
+		<uiWeeklySalary>6500</uiWeeklySalary>
+		<uiBiWeeklySalary>12000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>3000</sMedicalDepositAmount>
 		<usOptionalGearCost>0</usOptionalGearCost>
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
+		<usApproachFactorFriendly>60</usApproachFactorFriendly>
+		<usApproachFactorDirect>20</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorRecruit>20</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -24604,10 +24605,10 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>20</usApproachFactorFriendly>
+		<usApproachFactorDirect>40</usApproachFactorDirect>
+		<usApproachFactorThreaten>50</usApproachFactorThreaten>
+		<usApproachFactorRecruit>10</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
@@ -24644,23 +24645,23 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>80</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
-		<bLifeMax>68</bLifeMax>
-		<bLife>68</bLife>
+		<bLifeMax>76</bLifeMax>
+		<bLife>76</bLife>
 		<bStrength>73</bStrength>
 		<bAgility>80</bAgility>
 		<bDexterity>95</bDexterity>
-		<bWisdom>45</bWisdom>
+		<bWisdom>62</bWisdom>
 		<bMarksmanship>60</bMarksmanship>
-		<bExplosive>72</bExplosive>
+		<bExplosive>50</bExplosive>
 		<bLeadership>2</bLeadership>
-		<bMedical>31</bMedical>
-		<bMechanical>3</bMechanical>
+		<bMedical>30</bMedical>
+		<bMechanical>30</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>17</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
+		<bNewSkillTrait1>13</bNewSkillTrait1>
+		<bNewSkillTrait2>17</bNewSkillTrait2>
 		<bNewSkillTrait3>0</bNewSkillTrait3>
 		<bBuddy1>-1</bBuddy1>
 		<bBuddy2>-1</bBuddy2>
@@ -24691,7 +24692,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>3</bSexist>
-		<sSalary>350</sSalary>
+		<sSalary>300</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24700,8 +24701,8 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
+		<usApproachFactorFriendly>70</usApproachFactorFriendly>
+		<usApproachFactorDirect>30</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
 		<usApproachFactorRecruit>0</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
@@ -24740,11 +24741,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>0</ubNeedForSleep>
 		<bReputationTolerance>90</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>67</bLifeMax>
-		<bLife>67</bLife>
-		<bStrength>65</bStrength>
+		<bLifeMax>75</bLifeMax>
+		<bLife>75</bLife>
+		<bStrength>72</bStrength>
 		<bAgility>8</bAgility>
-		<bDexterity>68</bDexterity>
+		<bDexterity>72</bDexterity>
 		<bWisdom>85</bWisdom>
 		<bMarksmanship>82</bMarksmanship>
 		<bExplosive>5</bExplosive>
@@ -24787,7 +24788,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>200</sSalary>
+		<sSalary>350</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -24796,10 +24797,10 @@ Max Profiles 0 - 254
 		<bArmourAttractiveness>-1</bArmourAttractiveness>
 		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>20</usApproachFactorFriendly>
+		<usApproachFactorDirect>70</usApproachFactorDirect>
+		<usApproachFactorThreaten>20</usApproachFactorThreaten>
+		<usApproachFactorRecruit>30</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
