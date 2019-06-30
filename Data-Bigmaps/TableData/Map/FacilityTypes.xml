@@ -458,9 +458,7 @@
 		<szFacilityShortName>Barracks</szFacilityShortName>
 		<ubTotalStaffLimit>32</ubTotalStaffLimit>
 		<ubMilitiaTrainersAllowed>3</ubMilitiaTrainersAllowed>
-		<ubMobileMilitiaTrainersAllowed>2</ubMobileMilitiaTrainersAllowed>
 		<usMilitiaTraining>110</usMilitiaTraining>
-		<usMobileMilitiaTraining>120</usMobileMilitiaTraining>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
@@ -582,7 +580,6 @@
 		<szFacilityShortName>A.C.A</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
-		<ubMobileMilitiaTrainersAllowed>1</ubMobileMilitiaTrainersAllowed>
 		<ASSIGNMENT>
 			<ubAssignmentType>STAFF</ubAssignmentType>
 			<szTooltipText>The locals here may be willing to scout out the surrounding area for you. You can collect the information gleaned from them to get a better idea about enemy activity in this region. They'll feel safer, and you might even learn a few things about strategic coordination.</szTooltipText>
@@ -1553,7 +1550,6 @@
 		<szFacilityShortName>Destroyed A.C.A</szFacilityShortName>
 		<ubTotalStaffLimit>4</ubTotalStaffLimit>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
-		<ubMobileMilitiaTrainersAllowed>1</ubMobileMilitiaTrainersAllowed>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are still a few beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
@@ -1568,7 +1564,6 @@
 		<szFacilityName>Rebel Hideout</szFacilityName>
 		<szFacilityShortName>Rebel Hideout</szFacilityShortName>
 		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
-		<ubMobileMilitiaTrainersAllowed>1</ubMobileMilitiaTrainersAllowed>
 		<ASSIGNMENT>
 			<ubAssignmentType>REST</ubAssignmentType>
 			<szTooltipText>There are plenty of beds here. It's a bit basic, but certainly better than resting outside!</szTooltipText>
@@ -1651,6 +1646,73 @@
 			<usPrisonBaseLimit>8</usPrisonBaseLimit>
 			<CONDITIONS>
 			</CONDITIONS>
+		</ASSIGNMENT>
+	</FACILITYTYPE>
+		<FACILITYTYPE>
+		<ubIndex>36</ubIndex>
+		<szFacilityName>Navy Base</szFacilityName>
+		<szFacilityShortName>Navy Base</szFacilityShortName>
+		<ubTotalStaffLimit>12</ubTotalStaffLimit>
+		<ubMilitiaTrainersAllowed>2</ubMilitiaTrainersAllowed>
+		<usMilitiaTraining>20</usMilitiaTraining>
+		<pmcentrypoint>1</pmcentrypoint>
+		<ASSIGNMENT>
+			<ubAssignmentType>STAFF</ubAssignmentType>
+			<szTooltipText>By staffing the Harbor's head office, you can maximize the efficiency of mineral exports leaving the country. Your mine income will soar as a result! It's a good way to win the locals' trust, but the heavy machinery on the docks has its dangers.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<sCostPerHour>200</sCostPerHour>
+			<usMineIncomeModifier>130</usMineIncomeModifier>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>25</ubMinimumLeadership>
+			</CONDITIONS>
+			<LOYALTY_LOCAL>
+				<ubChance>50</ubChance>
+				<bBaseEffect>1</bBaseEffect>
+				<ubRange>4</ubRange>
+			</LOYALTY_LOCAL>
+			<HEALTH>
+				<ubChance>5</ubChance>
+				<bBaseEffect>-2</bBaseEffect>
+				<ubRange>2</ubRange>
+			</HEALTH>
+			<INJURY>
+				<ubChance>20</ubChance>
+				<bBaseEffect>-15</bBaseEffect>
+				<ubRange>20</ubRange>
+			</INJURY>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_STRENGTH</ubAssignmentType>
+			<szTooltipText>Build up your muscles by loading cargo crates onto the ships. It's an honest work that'll make a few bucks, but watch out not to over-do it.</szTooltipText>
+			<ubStaffLimit>6</ubStaffLimit>
+			<sCostPerHour>-5</sCostPerHour>	
+			<usPerformance>130</usPerformance>
+			<usMineIncomeModifier>101</usMineIncomeModifier>
+			<CONDITIONS>
+				<ubMinimumStrength>80</ubMinimumStrength>
+				<ubMinimumHealth>80</ubMinimumHealth>
+				<ubMinimumMechanical>10</ubMinimumMechanical>
+			</CONDITIONS>
+			<HEALTH>
+				<ubChance>15</ubChance>
+				<bBaseEffect>-1</bBaseEffect>
+				<ubRange>1</ubRange>
+			</HEALTH>
+			<INJURY>
+				<ubChance>25</ubChance>
+				<bBaseEffect>-10</bBaseEffect>
+				<ubRange>25</ubRange>
+			</INJURY>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>AMBIENT</ubAssignmentType>
+			<usSleep>90</usSleep>
+			<MORALE>
+				<ubChance>300</ubChance>
+				<bBaseEffect>0</bBaseEffect>
+				<ubRange>10</ubRange>
+			</MORALE>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 </FACILITYTYPES>

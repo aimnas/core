@@ -627,33 +627,33 @@
 		<Sector y="E" x="15">
 			<TravelRating>8</TravelRating>
 			<North>ROAD</North>
-			<East>EDGEOFWORLD</East>
+			<East>DENSE</East>
 			<South>ROAD</South>
 			<West>PLAINS</West>
 			<Here>DENSE_ROAD</Here>
 		</Sector>
 		<Sector y="E" x="16">
 			<TravelRating>0</TravelRating>
-			<North>EDGEOFWORLD</North>
+			<North>SPARSE</North>
 			<East>EDGEOFWORLD</East>
-			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
+			<South>SPARSE</South>
+			<West>DENSE</West>
+			<Here>DENSE_ROAD</Here>
 		</Sector>
 		<Sector y="F" x="1">
-			<TravelRating>0</TravelRating>
+			<TravelRating>5</TravelRating>
 			<North>GROUNDBARRIER</North>
-			<East>GROUNDBARRIER</East>
-			<South>GROUNDBARRIER</South>
+			<East>TOWN</East>
+			<South>TOWN</South>
 			<West>EDGEOFWORLD</West>
-			<Here>GROUNDBARRIER</Here>
+			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="F" x="2">
 			<TravelRating>4</TravelRating>
 			<North>GROUNDBARRIER</North>
 			<East>ROAD</East>
 			<South>TOWN</South>
-			<West>GROUNDBARRIER</West>
+			<West>TOWN</West>
 			<Here>TOWN</Here>
 		</Sector>
 		<Sector y="F" x="3">
@@ -755,22 +755,22 @@
 		<Sector y="F" x="15">
 			<TravelRating>3</TravelRating>
 			<North>ROAD</North>
-			<East>EDGEOFWORLD</East>
+			<East>ROAD</East>
 			<South>PLAINS</South>
 			<West>ROAD</West>
 			<Here>DENSE_ROAD</Here>
 		</Sector>
 		<Sector y="F" x="16">
-			<TravelRating>0</TravelRating>
-			<North>EDGEOFWORLD</North>
+			<TravelRating>50</TravelRating>
+			<North>SPARSE</North>
 			<East>EDGEOFWORLD</East>
-			<South>EDGEOFWORLD</South>
-			<West>EDGEOFWORLD</West>
-			<Here>EDGEOFWORLD</Here>
+			<South>DENSE</South>
+			<West>ROAD</West>
+			<Here>DENSE_ROAD</Here>
 		</Sector>
 		<Sector y="G" x="1">
-			<TravelRating>60</TravelRating>
-			<North>GROUNDBARRIER</North>
+			<TravelRating>10</TravelRating>
+			<North>TOWN</North>
 			<East>TOWN</East>
 			<South>TOWN</South>
 			<West>EDGEOFWORLD</West>
@@ -890,7 +890,7 @@
 		</Sector>
 		<Sector y="G" x="16">
 			<TravelRating>4</TravelRating>
-			<North>EDGEOFWORLD</North>
+			<North>DENSE</North>
 			<East>EDGEOFWORLD</East>
 			<South>PLAINS</South>
 			<West>PLAINS</West>

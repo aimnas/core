@@ -350,8 +350,14 @@
 	</FACILITY>
 
 	<FACILITY>
-		<SectorGrid>F2</SectorGrid>
+		<SectorGrid>F1</SectorGrid>
 		<FacilityType>4</FacilityType>
+		<ubHidden>0</ubHidden>
+	</FACILITY>
+	
+	<FACILITY>
+		<SectorGrid>F2</SectorGrid>
+		<FacilityType>36</FacilityType>
 		<ubHidden>0</ubHidden>
 	</FACILITY>
 

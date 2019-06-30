@@ -454,15 +454,15 @@
 		<ubChoices>10</ubChoices>
 		<ubNumItems>1</ubNumItems>
 		<bItemNo1>0</bItemNo1>
-		<bItemNo2>1048</bItemNo2>
-		<bItemNo3>1048</bItemNo3>
-		<bItemNo4>1048</bItemNo4>
-		<bItemNo5>1041</bItemNo5>
-		<bItemNo6>1041</bItemNo6>
-		<bItemNo7>1041</bItemNo7>
-		<bItemNo8>1041</bItemNo8>
-		<bItemNo9>1041</bItemNo9>
-		<bItemNo10>1041</bItemNo10>
+		<bItemNo2>1043</bItemNo2>
+		<bItemNo3>1043</bItemNo3>
+		<bItemNo4>1043</bItemNo4>
+		<bItemNo5>1036</bItemNo5>
+		<bItemNo6>1036</bItemNo6>
+		<bItemNo7>1036</bItemNo7>
+		<bItemNo8>1036</bItemNo8>
+		<bItemNo9>1036</bItemNo9>
+		<bItemNo10>1036</bItemNo10>
 		<bItemNo11>0</bItemNo11>
 		<bItemNo12>0</bItemNo12>
 		<bItemNo13>0</bItemNo13>
@@ -901,7 +901,7 @@
 		<name>Gunslinger</name>
 		<ubChoices>1</ubChoices>
 		<ubNumItems>1</ubNumItems>
-		<bItemNo1>1141</bItemNo1>
+		<bItemNo1>1161</bItemNo1>
 		<bItemNo2>0</bItemNo2>
 		<bItemNo3>0</bItemNo3>
 		<bItemNo4>0</bItemNo4>

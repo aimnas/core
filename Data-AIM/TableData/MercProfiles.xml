@@ -201,7 +201,7 @@ Max Profiles 0 - 254
 		<bWisdom>91</bWisdom>
 		<bMarksmanship>65</bMarksmanship>
 		<bExplosive>78</bExplosive>
-		<bLeadership>29</bLeadership>
+		<bLeadership>19</bLeadership>
 		<bMedical>18</bMedical>
 		<bMechanical>69</bMechanical>
 		<bExpLevel>1</bExpLevel>
@@ -394,11 +394,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>27</bReputationTolerance>
 		<bDeathRate>44</bDeathRate>
-		<bLifeMax>81</bLifeMax>
-		<bLife>81</bLife>
+		<bLifeMax>85</bLifeMax>
+		<bLife>85</bLife>
 		<bStrength>77</bStrength>
 		<bAgility>82</bAgility>
-		<bDexterity>86</bDexterity>
+		<bDexterity>88</bDexterity>
 		<bWisdom>78</bWisdom>
 		<bMarksmanship>99</bMarksmanship>
 		<bExplosive>50</bExplosive>
@@ -504,8 +504,8 @@ Max Profiles 0 - 254
 		<bMarksmanship>75</bMarksmanship>
 		<bExplosive>38</bExplosive>
 		<bLeadership>16</bLeadership>
-		<bMedical>22</bMedical>
-		<bMechanical>26</bMechanical>
+		<bMedical>18</bMedical>
+		<bMechanical>32</bMechanical>
 		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>2</bOldSkillTrait>
@@ -597,11 +597,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>33</bReputationTolerance>
 		<bDeathRate>18</bDeathRate>
-		<bLifeMax>79</bLifeMax>
-		<bLife>79</bLife>
-		<bStrength>72</bStrength>
+		<bLifeMax>83</bLifeMax>
+		<bLife>83</bLife>
+		<bStrength>67</bStrength>
 		<bAgility>85</bAgility>
-		<bDexterity>72</bDexterity>
+		<bDexterity>82</bDexterity>
 		<bWisdom>86</bWisdom>
 		<bMarksmanship>84</bMarksmanship>
 		<bExplosive>28</bExplosive>
@@ -698,15 +698,15 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>35</bReputationTolerance>
 		<bDeathRate>8</bDeathRate>
-		<bLifeMax>95</bLifeMax>
-		<bLife>95</bLife>
+		<bLifeMax>85</bLifeMax>
+		<bLife>85</bLife>
 		<bStrength>75</bStrength>
-		<bAgility>78</bAgility>
+		<bAgility>82</bAgility>
 		<bDexterity>98</bDexterity>
 		<bWisdom>97</bWisdom>
 		<bMarksmanship>78</bMarksmanship>
 		<bExplosive>88</bExplosive>
-		<bLeadership>27</bLeadership>
+		<bLeadership>24</bLeadership>
 		<bMedical>16</bMedical>
 		<bMechanical>99</bMechanical>
 		<bExpLevel>2</bExpLevel>
@@ -903,7 +903,7 @@ Max Profiles 0 - 254
 		<bStrength>84</bStrength>
 		<bAgility>89</bAgility>
 		<bDexterity>90</bDexterity>
-		<bWisdom>80</bWisdom>
+		<bWisdom>84</bWisdom>
 		<bMarksmanship>92</bMarksmanship>
 		<bExplosive>55</bExplosive>
 		<bLeadership>32</bLeadership>
@@ -999,11 +999,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>5</ubNeedForSleep>
 		<bReputationTolerance>70</bReputationTolerance>
 		<bDeathRate>60</bDeathRate>
-		<bLifeMax>99</bLifeMax>
-		<bLife>99</bLife>
+		<bLifeMax>97</bLifeMax>
+		<bLife>97</bLife>
 		<bStrength>97</bStrength>
-		<bAgility>56</bAgility>
-		<bDexterity>54</bDexterity>
+		<bAgility>66</bAgility>
+		<bDexterity>58</bDexterity>
 		<bWisdom>60</bWisdom>
 		<bMarksmanship>85</bMarksmanship>
 		<bExplosive>23</bExplosive>
@@ -1103,12 +1103,12 @@ Max Profiles 0 - 254
 		<bLife>92</bLife>
 		<bStrength>82</bStrength>
 		<bAgility>89</bAgility>
-		<bDexterity>78</bDexterity>
+		<bDexterity>83</bDexterity>
 		<bWisdom>83</bWisdom>
 		<bMarksmanship>83</bMarksmanship>
 		<bExplosive>26</bExplosive>
 		<bLeadership>24</bLeadership>
-		<bMedical>17</bMedical>
+		<bMedical>23</bMedical>
 		<bMechanical>27</bMechanical>
 		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
@@ -1301,13 +1301,13 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>65</bReputationTolerance>
 		<bDeathRate>45</bDeathRate>
-		<bLifeMax>68</bLifeMax>
-		<bLife>68</bLife>
-		<bStrength>71</bStrength>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
+		<bStrength>74</bStrength>
 		<bAgility>66</bAgility>
 		<bDexterity>81</bDexterity>
 		<bWisdom>79</bWisdom>
-		<bMarksmanship>78</bMarksmanship>
+		<bMarksmanship>74</bMarksmanship>
 		<bExplosive>96</bExplosive>
 		<bLeadership>21</bLeadership>
 		<bMedical>18</bMedical>
@@ -1401,8 +1401,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>67</bReputationTolerance>
 		<bDeathRate>98</bDeathRate>
-		<bLifeMax>81</bLifeMax>
-		<bLife>81</bLife>
+		<bLifeMax>94</bLifeMax>
+		<bLife>94</bLife>
 		<bStrength>79</bStrength>
 		<bAgility>92</bAgility>
 		<bDexterity>92</bDexterity>
@@ -1509,7 +1509,7 @@ Max Profiles 0 - 254
 		<bDexterity>82</bDexterity>
 		<bWisdom>78</bWisdom>
 		<bMarksmanship>86</bMarksmanship>
-		<bExplosive>97</bExplosive>
+		<bExplosive>92</bExplosive>
 		<bLeadership>12</bLeadership>
 		<bMedical>18</bMedical>
 		<bMechanical>39</bMechanical>
@@ -1612,7 +1612,7 @@ Max Profiles 0 - 254
 		<bMarksmanship>66</bMarksmanship>
 		<bExplosive>5</bExplosive>
 		<bLeadership>21</bLeadership>
-		<bMedical>60</bMedical>
+		<bMedical>54</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>2</bExpLevel>
 		<bEvolution>0</bEvolution>
@@ -1705,12 +1705,12 @@ Max Profiles 0 - 254
 		<bDeathRate>75</bDeathRate>
 		<bLifeMax>84</bLifeMax>
 		<bLife>84</bLife>
-		<bStrength>76</bStrength>
+		<bStrength>72</bStrength>
 		<bAgility>75</bAgility>
 		<bDexterity>91</bDexterity>
-		<bWisdom>78</bWisdom>
+		<bWisdom>83</bWisdom>
 		<bMarksmanship>92</bMarksmanship>
-		<bExplosive>15</bExplosive>
+		<bExplosive>25</bExplosive>
 		<bLeadership>36</bLeadership>
 		<bMedical>34</bMedical>
 		<bMechanical>26</bMechanical>
@@ -1803,9 +1803,9 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>50</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>79</bLifeMax>
-		<bLife>79</bLife>
-		<bStrength>82</bStrength>
+		<bLifeMax>86</bLifeMax>
+		<bLife>86</bLife>
+		<bStrength>85</bStrength>
 		<bAgility>65</bAgility>
 		<bDexterity>84</bDexterity>
 		<bWisdom>94</bWisdom>
@@ -2104,7 +2104,7 @@ Max Profiles 0 - 254
 		<bLifeMax>81</bLifeMax>
 		<bLife>81</bLife>
 		<bStrength>68</bStrength>
-		<bAgility>56</bAgility>
+		<bAgility>64</bAgility>
 		<bDexterity>76</bDexterity>
 		<bWisdom>92</bWisdom>
 		<bMarksmanship>60</bMarksmanship>
@@ -2199,11 +2199,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>51</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
-		<bLifeMax>82</bLifeMax>
-		<bLife>82</bLife>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
 		<bStrength>74</bStrength>
-		<bAgility>60</bAgility>
-		<bDexterity>52</bDexterity>
+		<bAgility>65</bAgility>
+		<bDexterity>58</bDexterity>
 		<bWisdom>87</bWisdom>
 		<bMarksmanship>81</bMarksmanship>
 		<bExplosive>46</bExplosive>
@@ -2398,10 +2398,10 @@ Max Profiles 0 - 254
 		<bStrength>69</bStrength>
 		<bAgility>78</bAgility>
 		<bDexterity>74</bDexterity>
-		<bWisdom>78</bWisdom>
-		<bMarksmanship>82</bMarksmanship>
+		<bWisdom>72</bWisdom>
+		<bMarksmanship>86</bMarksmanship>
 		<bExplosive>22</bExplosive>
-		<bLeadership>46</bLeadership>
+		<bLeadership>58</bLeadership>
 		<bMedical>23</bMedical>
 		<bMechanical>24</bMechanical>
 		<bExpLevel>3</bExpLevel>
@@ -2493,9 +2493,9 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>71</bLifeMax>
-		<bLife>71</bLife>
-		<bStrength>68</bStrength>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
+		<bStrength>73</bStrength>
 		<bAgility>84</bAgility>
 		<bDexterity>78</bDexterity>
 		<bWisdom>88</bWisdom>
@@ -2602,7 +2602,7 @@ Max Profiles 0 - 254
 		<bWisdom>76</bWisdom>
 		<bMarksmanship>84</bMarksmanship>
 		<bExplosive>24</bExplosive>
-		<bLeadership>68</bLeadership>
+		<bLeadership>56</bLeadership>
 		<bMedical>21</bMedical>
 		<bMechanical>28</bMechanical>
 		<bExpLevel>4</bExpLevel>
@@ -2643,9 +2643,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1900</sSalary>
-		<uiWeeklySalary>12000</uiWeeklySalary>
-		<uiBiWeeklySalary>23000</uiBiWeeklySalary>
+		<sSalary>1700</sSalary>
+		<uiWeeklySalary>11000</uiWeeklySalary>
+		<uiBiWeeklySalary>20000</uiBiWeeklySalary>
 		<bMedicalDeposit>1</bMedicalDeposit>
 		<sMedicalDepositAmount>2000</sMedicalDepositAmount>
 		<usOptionalGearCost>8160</usOptionalGearCost>
@@ -2794,16 +2794,16 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>10</ubNeedForSleep>
 		<bReputationTolerance>71</bReputationTolerance>
 		<bDeathRate>66</bDeathRate>
-		<bLifeMax>79</bLifeMax>
-		<bLife>79</bLife>
+		<bLifeMax>72</bLifeMax>
+		<bLife>72</bLife>
 		<bStrength>60</bStrength>
-		<bAgility>66</bAgility>
+		<bAgility>72</bAgility>
 		<bDexterity>95</bDexterity>
-		<bWisdom>60</bWisdom>
+		<bWisdom>70</bWisdom>
 		<bMarksmanship>82</bMarksmanship>
 		<bExplosive>34</bExplosive>
 		<bLeadership>15</bLeadership>
-		<bMedical>12</bMedical>
+		<bMedical>22</bMedical>
 		<bMechanical>94</bMechanical>
 		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
@@ -2895,12 +2895,12 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>39</bReputationTolerance>
 		<bDeathRate>21</bDeathRate>
-		<bLifeMax>89</bLifeMax>
-		<bLife>89</bLife>
+		<bLifeMax>92</bLifeMax>
+		<bLife>92</bLife>
 		<bStrength>79</bStrength>
-		<bAgility>80</bAgility>
+		<bAgility>83</bAgility>
 		<bDexterity>88</bDexterity>
-		<bWisdom>83</bWisdom>
+		<bWisdom>73</bWisdom>
 		<bMarksmanship>83</bMarksmanship>
 		<bExplosive>47</bExplosive>
 		<bLeadership>61</bLeadership>
@@ -3100,7 +3100,7 @@ Max Profiles 0 - 254
 		<bStrength>92</bStrength>
 		<bAgility>99</bAgility>
 		<bDexterity>98</bDexterity>
-		<bWisdom>80</bWisdom>
+		<bWisdom>86</bWisdom>
 		<bMarksmanship>94</bMarksmanship>
 		<bExplosive>48</bExplosive>
 		<bLeadership>38</bLeadership>
@@ -3205,7 +3205,7 @@ Max Profiles 0 - 254
 		<bWisdom>85</bWisdom>
 		<bMarksmanship>73</bMarksmanship>
 		<bExplosive>30</bExplosive>
-		<bLeadership>44</bLeadership>
+		<bLeadership>38</bLeadership>
 		<bMedical>26</bMedical>
 		<bMechanical>24</bMechanical>
 		<bExpLevel>3</bExpLevel>
@@ -3299,9 +3299,9 @@ Max Profiles 0 - 254
 		<bDeathRate>69</bDeathRate>
 		<bLifeMax>90</bLifeMax>
 		<bLife>90</bLife>
-		<bStrength>85</bStrength>
+		<bStrength>87</bStrength>
 		<bAgility>90</bAgility>
-		<bDexterity>96</bDexterity>
+		<bDexterity>90</bDexterity>
 		<bWisdom>93</bWisdom>
 		<bMarksmanship>92</bMarksmanship>
 		<bExplosive>66</bExplosive>
@@ -3399,8 +3399,8 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>86</bLifeMax>
 		<bLife>86</bLife>
-		<bStrength>82</bStrength>
-		<bAgility>81</bAgility>
+		<bStrength>84</bStrength>
+		<bAgility>83</bAgility>
 		<bDexterity>93</bDexterity>
 		<bWisdom>62</bWisdom>
 		<bMarksmanship>83</bMarksmanship>
@@ -3497,9 +3497,9 @@ Max Profiles 0 - 254
 		<bDeathRate>20</bDeathRate>
 		<bLifeMax>88</bLifeMax>
 		<bLife>88</bLife>
-		<bStrength>78</bStrength>
+		<bStrength>82</bStrength>
 		<bAgility>92</bAgility>
-		<bDexterity>81</bDexterity>
+		<bDexterity>86</bDexterity>
 		<bWisdom>92</bWisdom>
 		<bMarksmanship>76</bMarksmanship>
 		<bExplosive>20</bExplosive>
@@ -3600,8 +3600,8 @@ Max Profiles 0 - 254
 		<bLife>86</bLife>
 		<bStrength>90</bStrength>
 		<bAgility>60</bAgility>
-		<bDexterity>88</bDexterity>
-		<bWisdom>79</bWisdom>
+		<bDexterity>82</bDexterity>
+		<bWisdom>75</bWisdom>
 		<bMarksmanship>80</bMarksmanship>
 		<bExplosive>78</bExplosive>
 		<bLeadership>24</bLeadership>
@@ -3699,10 +3699,10 @@ Max Profiles 0 - 254
 		<bLifeMax>96</bLifeMax>
 		<bLife>96</bLife>
 		<bStrength>89</bStrength>
-		<bAgility>83</bAgility>
-		<bDexterity>84</bDexterity>
+		<bAgility>87</bAgility>
+		<bDexterity>88</bDexterity>
 		<bWisdom>97</bWisdom>
-		<bMarksmanship>74</bMarksmanship>
+		<bMarksmanship>70</bMarksmanship>
 		<bExplosive>12</bExplosive>
 		<bLeadership>48</bLeadership>
 		<bMedical>59</bMedical>
@@ -3799,7 +3799,7 @@ Max Profiles 0 - 254
 		<bDeathRate>33</bDeathRate>
 		<bLifeMax>88</bLifeMax>
 		<bLife>88</bLife>
-		<bStrength>68</bStrength>
+		<bStrength>72</bStrength>
 		<bAgility>87</bAgility>
 		<bDexterity>88</bDexterity>
 		<bWisdom>84</bWisdom>
@@ -3904,7 +3904,7 @@ Max Profiles 0 - 254
 		<bAgility>83</bAgility>
 		<bDexterity>82</bDexterity>
 		<bWisdom>76</bWisdom>
-		<bMarksmanship>78</bMarksmanship>
+		<bMarksmanship>82</bMarksmanship>
 		<bExplosive>40</bExplosive>
 		<bLeadership>22</bLeadership>
 		<bMedical>45</bMedical>
@@ -4001,7 +4001,7 @@ Max Profiles 0 - 254
 		<bLifeMax>72</bLifeMax>
 		<bLife>72</bLife>
 		<bStrength>76</bStrength>
-		<bAgility>62</bAgility>
+		<bAgility>72</bAgility>
 		<bDexterity>78</bDexterity>
 		<bWisdom>94</bWisdom>
 		<bMarksmanship>64</bMarksmanship>
@@ -4100,10 +4100,10 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>78</bLifeMax>
 		<bLife>78</bLife>
-		<bStrength>76</bStrength>
+		<bStrength>82</bStrength>
 		<bAgility>74</bAgility>
-		<bDexterity>84</bDexterity>
-		<bWisdom>82</bWisdom>
+		<bDexterity>78</bDexterity>
+		<bWisdom>76</bWisdom>
 		<bMarksmanship>83</bMarksmanship>
 		<bExplosive>40</bExplosive>
 		<bLeadership>24</bLeadership>
@@ -4200,7 +4200,7 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>78</bLifeMax>
 		<bLife>78</bLife>
-		<bStrength>51</bStrength>
+		<bStrength>60</bStrength>
 		<bAgility>78</bAgility>
 		<bDexterity>76</bDexterity>
 		<bWisdom>58</bWisdom>
@@ -4300,11 +4300,11 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>76</bLifeMax>
 		<bLife>76</bLife>
-		<bStrength>71</bStrength>
+		<bStrength>74</bStrength>
 		<bAgility>69</bAgility>
 		<bDexterity>78</bDexterity>
 		<bWisdom>58</bWisdom>
-		<bMarksmanship>68</bMarksmanship>
+		<bMarksmanship>72</bMarksmanship>
 		<bExplosive>31</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>2</bMedical>
@@ -4403,8 +4403,8 @@ Max Profiles 0 - 254
 		<bStrength>68</bStrength>
 		<bAgility>76</bAgility>
 		<bDexterity>89</bDexterity>
-		<bWisdom>49</bWisdom>
-		<bMarksmanship>44</bMarksmanship>
+		<bWisdom>42</bWisdom>
+		<bMarksmanship>54</bMarksmanship>
 		<bExplosive>8</bExplosive>
 		<bLeadership>3</bLeadership>
 		<bMedical>1</bMedical>
@@ -4502,8 +4502,8 @@ Max Profiles 0 - 254
 		<bLife>84</bLife>
 		<bStrength>86</bStrength>
 		<bAgility>88</bAgility>
-		<bDexterity>91</bDexterity>
-		<bWisdom>53</bWisdom>
+		<bDexterity>92</bDexterity>
+		<bWisdom>50</bWisdom>
 		<bMarksmanship>70</bMarksmanship>
 		<bExplosive>11</bExplosive>
 		<bLeadership>4</bLeadership>
@@ -4600,7 +4600,7 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>58</bLifeMax>
 		<bLife>58</bLife>
-		<bStrength>45</bStrength>
+		<bStrength>48</bStrength>
 		<bAgility>52</bAgility>
 		<bDexterity>69</bDexterity>
 		<bWisdom>82</bWisdom>
@@ -4696,8 +4696,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>67</bLifeMax>
-		<bLife>67</bLife>
+		<bLifeMax>62</bLifeMax>
+		<bLife>62</bLife>
 		<bStrength>68</bStrength>
 		<bAgility>45</bAgility>
 		<bDexterity>67</bDexterity>
@@ -4706,7 +4706,7 @@ Max Profiles 0 - 254
 		<bExplosive>46</bExplosive>
 		<bLeadership>11</bLeadership>
 		<bMedical>9</bMedical>
-		<bMechanical>42</bMechanical>
+		<bMechanical>68</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>3</bOldSkillTrait>
@@ -5039,7 +5039,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>1800</sSalary>
+		<sSalary>1500</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -5091,8 +5091,8 @@ Max Profiles 0 - 254
 		<bLifeMax>84</bLifeMax>
 		<bLife>84</bLife>
 		<bStrength>78</bStrength>
-		<bAgility>72</bAgility>
-		<bDexterity>61</bDexterity>
+		<bAgility>82</bAgility>
+		<bDexterity>74</bDexterity>
 		<bWisdom>70</bWisdom>
 		<bMarksmanship>88</bMarksmanship>
 		<bExplosive>13</bExplosive>
@@ -5135,7 +5135,7 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
 		<bRacist>2</bRacist>
 		<bSexist>0</bSexist>
-		<sSalary>800</sSalary>
+		<sSalary>600</sSalary>
 		<uiWeeklySalary>0</uiWeeklySalary>
 		<uiBiWeeklySalary>0</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
@@ -5187,9 +5187,9 @@ Max Profiles 0 - 254
 		<bLifeMax>86</bLifeMax>
 		<bLife>86</bLife>
 		<bStrength>98</bStrength>
-		<bAgility>58</bAgility>
+		<bAgility>60</bAgility>
 		<bDexterity>68</bDexterity>
-		<bWisdom>29</bWisdom>
+		<bWisdom>30</bWisdom>
 		<bMarksmanship>77</bMarksmanship>
 		<bExplosive>21</bExplosive>
 		<bLeadership>5</bLeadership>
@@ -6252,12 +6252,12 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>73</bLifeMax>
-		<bLife>73</bLife>
-		<bStrength>71</bStrength>
-		<bAgility>61</bAgility>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
+		<bStrength>75</bStrength>
+		<bAgility>64</bAgility>
 		<bDexterity>88</bDexterity>
-		<bWisdom>72</bWisdom>
+		<bWisdom>78</bWisdom>
 		<bMarksmanship>67</bMarksmanship>
 		<bExplosive>96</bExplosive>
 		<bLeadership>11</bLeadership>
@@ -6448,9 +6448,9 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>5</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>0</bDeathRate>
-		<bLifeMax>68</bLifeMax>
-		<bLife>68</bLife>
-		<bStrength>65</bStrength>
+		<bLifeMax>78</bLifeMax>
+		<bLife>78</bLife>
+		<bStrength>76</bStrength>
 		<bAgility>74</bAgility>
 		<bDexterity>71</bDexterity>
 		<bWisdom>35</bWisdom>
@@ -12956,8 +12956,8 @@ Max Profiles 0 - 254
 		<usApproachFactorDirect>100</usApproachFactorDirect>
 		<usApproachFactorThreaten>100</usApproachFactorThreaten>
 		<usApproachFactorRecruit>100</usApproachFactorRecruit>
-		<sSectorX>1</sSectorX>
-		<sSectorY>8</sSectorY>
+		<sSectorX>2</sSectorX>
+		<sSectorY>7</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>4</bTown>
@@ -17045,8 +17045,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>88</bReputationTolerance>
 		<bDeathRate>11</bDeathRate>
-		<bLifeMax>79</bLifeMax>
-		<bLife>79</bLife>
+		<bLifeMax>84</bLifeMax>
+		<bLife>84</bLife>
 		<bStrength>78</bStrength>
 		<bAgility>86</bAgility>
 		<bDexterity>82</bDexterity>
@@ -17151,7 +17151,7 @@ Max Profiles 0 - 254
 		<bLife>86</bLife>
 		<bStrength>88</bStrength>
 		<bAgility>82</bAgility>
-		<bDexterity>77</bDexterity>
+		<bDexterity>72</bDexterity>
 		<bWisdom>72</bWisdom>
 		<bMarksmanship>78</bMarksmanship>
 		<bExplosive>23</bExplosive>
@@ -17250,14 +17250,14 @@ Max Profiles 0 - 254
 		<bLifeMax>78</bLifeMax>
 		<bLife>78</bLife>
 		<bStrength>70</bStrength>
-		<bAgility>67</bAgility>
+		<bAgility>85</bAgility>
 		<bDexterity>85</bDexterity>
 		<bWisdom>87</bWisdom>
 		<bMarksmanship>76</bMarksmanship>
 		<bExplosive>28</bExplosive>
-		<bLeadership>37</bLeadership>
+		<bLeadership>17</bLeadership>
 		<bMedical>66</bMedical>
-		<bMechanical>35</bMechanical>
+		<bMechanical>25</bMechanical>
 		<bExpLevel>4</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>8</bOldSkillTrait>
@@ -17348,12 +17348,12 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>44</bReputationTolerance>
 		<bDeathRate>24</bDeathRate>
-		<bLifeMax>69</bLifeMax>
-		<bLife>69</bLife>
+		<bLifeMax>75</bLifeMax>
+		<bLife>75</bLife>
 		<bStrength>67</bStrength>
 		<bAgility>86</bAgility>
 		<bDexterity>88</bDexterity>
-		<bWisdom>79</bWisdom>
+		<bWisdom>72</bWisdom>
 		<bMarksmanship>70</bMarksmanship>
 		<bExplosive>8</bExplosive>
 		<bLeadership>18</bLeadership>
@@ -17448,15 +17448,15 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>90</bReputationTolerance>
 		<bDeathRate>10</bDeathRate>
-		<bLifeMax>80</bLifeMax>
-		<bLife>80</bLife>
-		<bStrength>72</bStrength>
+		<bLifeMax>85</bLifeMax>
+		<bLife>85</bLife>
+		<bStrength>76</bStrength>
 		<bAgility>76</bAgility>
-		<bDexterity>87</bDexterity>
+		<bDexterity>86</bDexterity>
 		<bWisdom>90</bWisdom>
 		<bMarksmanship>95</bMarksmanship>
-		<bExplosive>36</bExplosive>
-		<bLeadership>69</bLeadership>
+		<bExplosive>46</bExplosive>
+		<bLeadership>60</bLeadership>
 		<bMedical>26</bMedical>
 		<bMechanical>32</bMechanical>
 		<bExpLevel>5</bExpLevel>
@@ -17647,9 +17647,9 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>78</bLifeMax>
 		<bLife>78</bLife>
-		<bStrength>55</bStrength>
+		<bStrength>65</bStrength>
 		<bAgility>60</bAgility>
-		<bDexterity>51</bDexterity>
+		<bDexterity>70</bDexterity>
 		<bWisdom>31</bWisdom>
 		<bMarksmanship>47</bMarksmanship>
 		<bExplosive>76</bExplosive>
@@ -17743,9 +17743,9 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>72</bLifeMax>
 		<bLife>72</bLife>
-		<bStrength>50</bStrength>
+		<bStrength>60</bStrength>
 		<bAgility>79</bAgility>
-		<bDexterity>46</bDexterity>
+		<bDexterity>56</bDexterity>
 		<bWisdom>60</bWisdom>
 		<bMarksmanship>59</bMarksmanship>
 		<bExplosive>40</bExplosive>
@@ -17840,7 +17840,7 @@ Max Profiles 0 - 254
 		<bLifeMax>95</bLifeMax>
 		<bLife>95</bLife>
 		<bStrength>97</bStrength>
-		<bAgility>55</bAgility>
+		<bAgility>65</bAgility>
 		<bDexterity>74</bDexterity>
 		<bWisdom>29</bWisdom>
 		<bMarksmanship>68</bMarksmanship>
@@ -17933,8 +17933,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>69</bLifeMax>
-		<bLife>69</bLife>
+		<bLifeMax>74</bLifeMax>
+		<bLife>74</bLife>
 		<bStrength>52</bStrength>
 		<bAgility>39</bAgility>
 		<bDexterity>48</bDexterity>
@@ -18223,12 +18223,12 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>81</bLifeMax>
 		<bLife>81</bLife>
-		<bStrength>78</bStrength>
-		<bAgility>73</bAgility>
-		<bDexterity>58</bDexterity>
-		<bWisdom>77</bWisdom>
-		<bMarksmanship>49</bMarksmanship>
-		<bExplosive>3</bExplosive>
+		<bStrength>70</bStrength>
+		<bAgility>67</bAgility>
+		<bDexterity>64</bDexterity>
+		<bWisdom>84</bWisdom>
+		<bMarksmanship>64</bMarksmanship>
+		<bExplosive>24</bExplosive>
 		<bLeadership>29</bLeadership>
 		<bMedical>70</bMedical>
 		<bMechanical>65</bMechanical>
@@ -18323,11 +18323,11 @@ Max Profiles 0 - 254
 		<bAgility>71</bAgility>
 		<bDexterity>88</bDexterity>
 		<bWisdom>97</bWisdom>
-		<bMarksmanship>56</bMarksmanship>
+		<bMarksmanship>64</bMarksmanship>
 		<bExplosive>24</bExplosive>
 		<bLeadership>26</bLeadership>
 		<bMedical>96</bMedical>
-		<bMechanical>13</bMechanical>
+		<bMechanical>38</bMechanical>
 		<bExpLevel>3</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>0</bOldSkillTrait>
@@ -18612,7 +18612,7 @@ Max Profiles 0 - 254
 		<bAgility>93</bAgility>
 		<bDexterity>44</bDexterity>
 		<bWisdom>29</bWisdom>
-		<bMarksmanship>56</bMarksmanship>
+		<bMarksmanship>62</bMarksmanship>
 		<bExplosive>2</bExplosive>
 		<bLeadership>1</bLeadership>
 		<bMedical>4</bMedical>
@@ -18704,10 +18704,10 @@ Max Profiles 0 - 254
 		<bDeathRate>101</bDeathRate>
 		<bLifeMax>92</bLifeMax>
 		<bLife>92</bLife>
-		<bStrength>87</bStrength>
+		<bStrength>82</bStrength>
 		<bAgility>80</bAgility>
-		<bDexterity>68</bDexterity>
-		<bWisdom>59</bWisdom>
+		<bDexterity>78</bDexterity>
+		<bWisdom>70</bWisdom>
 		<bMarksmanship>38</bMarksmanship>
 		<bExplosive>1</bExplosive>
 		<bLeadership>11</bLeadership>
@@ -18801,7 +18801,7 @@ Max Profiles 0 - 254
 		<bLifeMax>69</bLifeMax>
 		<bLife>69</bLife>
 		<bStrength>62</bStrength>
-		<bAgility>51</bAgility>
+		<bAgility>63</bAgility>
 		<bDexterity>77</bDexterity>
 		<bWisdom>82</bWisdom>
 		<bMarksmanship>49</bMarksmanship>
@@ -21057,98 +21057,99 @@ Max Profiles 0 - 254
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>215</uiIndex>
-		<Type>0</Type>
-		<zName/>
-		<zNickname/>
-		<ubFaceIndex>215</ubFaceIndex>
+		<Type>1</Type>
+		<zName>Monica "Buns" Sondergaard</zName>
+		<zNickname>Buns</zNickname>
+		<ubFaceIndex>17</ubFaceIndex>
 		<usVoiceIndex>215</usVoiceIndex>
-		<usEyesX>0</usEyesX>
-		<usEyesY>0</usEyesY>
-		<usMouthX>0</usMouthX>
-		<usMouthY>0</usMouthY>
+		<usEyesX>12</usEyesX>
+		<usEyesY>10</usEyesY>
+		<usMouthX>10</usMouthX>
+		<usMouthY>28</usMouthY>
 		<uiEyeDelay>0</uiEyeDelay>
 		<uiMouthDelay>0</uiMouthDelay>
-		<uiBlinkFrequency>0</uiBlinkFrequency>
-		<uiExpressionFrequency>0</uiExpressionFrequency>
-		<PANTS/>
-		<VEST/>
-		<SKIN/>
-		<HAIR/>
-		<bSex>0</bSex>
-		<ubBodyType>0</ubBodyType>
+		<uiBlinkFrequency>3000</uiBlinkFrequency>
+		<uiExpressionFrequency>2000</uiExpressionFrequency>
+		<PANTS>TANPANTS</PANTS>
+		<VEST>WHITEVEST</VEST>
+		<SKIN>PINKSKIN</SKIN>
+		<HAIR>BROWNHEAD</HAIR>
+		<bSex>1</bSex>
+		<ubBodyType>3</ubBodyType>
 		<uiBodyTypeSubFlags>0</uiBodyTypeSubFlags>
-		<bAttitude>0</bAttitude>
-		<bCharacterTrait>0</bCharacterTrait>
-		<bDisability>0</bDisability>
-		<ubNeedForSleep>0</ubNeedForSleep>
-		<bReputationTolerance>0</bReputationTolerance>
-		<bDeathRate>0</bDeathRate>
-		<bLifeMax>0</bLifeMax>
-		<bLife>0</bLife>
-		<bStrength>0</bStrength>
-		<bAgility>0</bAgility>
-		<bDexterity>0</bDexterity>
-		<bWisdom>0</bWisdom>
-		<bMarksmanship>0</bMarksmanship>
-		<bExplosive>0</bExplosive>
-		<bLeadership>0</bLeadership>
-		<bMedical>0</bMedical>
-		<bMechanical>0</bMechanical>
-		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
-		<bOldSkillTrait>0</bOldSkillTrait>
-		<bOldSkillTrait2>0</bOldSkillTrait2>
-		<bNewSkillTrait1>0</bNewSkillTrait1>
-		<bNewSkillTrait2>0</bNewSkillTrait2>
-		<bNewSkillTrait3>0</bNewSkillTrait3>
-		<bBuddy1>0</bBuddy1>
-		<bBuddy2>0</bBuddy2>
-		<bBuddy3>0</bBuddy3>
-		<bBuddy4>0</bBuddy4>
-		<bBuddy5>0</bBuddy5>
-		<bLearnToLike>0</bLearnToLike>
-		<bLearnToLikeTime>0</bLearnToLikeTime>
-		<bHated1>0</bHated1>
-		<bHatedTime1>0</bHatedTime1>
-		<bHated2>0</bHated2>
-		<bHatedTime2>0</bHatedTime2>
-		<bHated3>0</bHated3>
+		<bAttitude>6</bAttitude>
+		<bCharacterTrait>11</bCharacterTrait>
+		<bDisability>12</bDisability>
+		<ubNeedForSleep>8</ubNeedForSleep>
+		<bReputationTolerance>65</bReputationTolerance>
+		<bDeathRate>40</bDeathRate>		
+		<bLifeMax>79</bLifeMax>
+		<bLife>79</bLife>
+		<bStrength>59</bStrength>
+		<bAgility>78</bAgility>
+		<bDexterity>87</bDexterity>
+		<bWisdom>93</bWisdom>
+		<bMarksmanship>78</bMarksmanship>
+		<bExplosive>52</bExplosive>
+		<bLeadership>7</bLeadership>
+		<bMedical>12</bMedical>
+		<bMechanical>13</bMechanical>
+		<bExpLevel>2</bExpLevel>		
+		<bEvolution>0</bEvolution>		
+		<bOldSkillTrait>8</bOldSkillTrait>
+		<bOldSkillTrait2>13</bOldSkillTrait2>
+		<bNewSkillTrait1>4</bNewSkillTrait1>
+		<bNewSkillTrait2>11</bNewSkillTrait2>
+		<bNewSkillTrait3>15</bNewSkillTrait3>
+		<bBuddy1>255</bBuddy1>
+		<bBuddy2>255</bBuddy2>
+		<bBuddy3>255</bBuddy3>
+		<bBuddy4>255</bBuddy4>
+		<bBuddy5>255</bBuddy5>
+		<bLearnToLike>255</bLearnToLike>
+		<bLearnToLikeTime>255</bLearnToLikeTime>
+		<bHated1>255</bHated1>
+		<bHatedTime1>18</bHatedTime1>
+		<bHated2>255</bHated2>
+		<bHatedTime2>34</bHatedTime2>
+		<bHated3>255</bHated3>
 		<bHatedTime3>0</bHatedTime3>
-		<bHated4>0</bHated4>
+		<bHated4>255</bHated4>
 		<bHatedTime4>0</bHatedTime4>
-		<bHated5>0</bHated5>
+		<bHated5>255</bHated5>
 		<bHatedTime5>0</bHatedTime5>
-		<bLearnToHate>0</bLearnToHate>
-		<bLearnToHateTime>0</bLearnToHateTime>
+		<bLearnToHate>255</bLearnToHate>
+		<bLearnToHateTime>44</bLearnToHateTime>
 		<bRace>0</bRace>
-		<bNationality>0</bNationality>
-		<bAppearance>0</bAppearance>
-		<bAppearanceCareLevel>0</bAppearanceCareLevel>
-		<bRefinement>0</bRefinement>
-		<bRefinementCareLevel>0</bRefinementCareLevel>
-		<bHatedNationality>-1</bHatedNationality>
-		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
-		<bRacist>0</bRacist>
-		<bSexist>0</bSexist>
-		<sSalary>0</sSalary>
-		<uiWeeklySalary>0</uiWeeklySalary>
-		<uiBiWeeklySalary>0</uiBiWeeklySalary>
-		<bMedicalDeposit>0</bMedicalDeposit>
-		<sMedicalDepositAmount>0</sMedicalDepositAmount>
-		<usOptionalGearCost>0</usOptionalGearCost>
-		<bArmourAttractiveness>-1</bArmourAttractiveness>
-		<bMainGunAttractiveness>-1</bMainGunAttractiveness>
+		<bNationality>6</bNationality>
+		<bAppearance>3</bAppearance>
+		<bAppearanceCareLevel>2</bAppearanceCareLevel>
+		<bRefinement>2</bRefinement>
+		<bRefinementCareLevel>2</bRefinementCareLevel>
+		<bHatedNationality>18</bHatedNationality>
+		<bHatedNationalityCareLevel>1</bHatedNationalityCareLevel>
+		<bRacist>2</bRacist>
+		<bSexist>2</bSexist>
+		<sSalary>725</sSalary>
+		<uiWeeklySalary>4700</uiWeeklySalary>
+		<uiBiWeeklySalary>8500</uiBiWeeklySalary>
+		<bMedicalDeposit>1</bMedicalDeposit>
+		<sMedicalDepositAmount>1800</sMedicalDepositAmount>
+		<usOptionalGearCost>1979</usOptionalGearCost>
+		<bArmourAttractiveness>30</bArmourAttractiveness>
+		<bMainGunAttractiveness>45</bMainGunAttractiveness>
 		<fGoodGuy>0</fGoodGuy>
-		<usApproachFactorFriendly>0</usApproachFactorFriendly>
-		<usApproachFactorDirect>0</usApproachFactorDirect>
-		<usApproachFactorThreaten>0</usApproachFactorThreaten>
-		<usApproachFactorRecruit>0</usApproachFactorRecruit>
+		<usApproachFactorFriendly>25</usApproachFactorFriendly>
+		<usApproachFactorDirect>65</usApproachFactorDirect>
+		<usApproachFactorThreaten>200</usApproachFactorThreaten>
+		<usApproachFactorRecruit>50</usApproachFactorRecruit>
 		<sSectorX>0</sSectorX>
 		<sSectorY>0</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
+		<usBackground>215</usBackground>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>216</uiIndex>
@@ -21657,9 +21658,9 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>69</bLifeMax>
-		<bLife>69</bLife>
-		<bStrength>75</bStrength>
+		<bLifeMax>75</bLifeMax>
+		<bLife>75</bLife>
+		<bStrength>82</bStrength>
 		<bAgility>68</bAgility>
 		<bDexterity>69</bDexterity>
 		<bWisdom>28</bWisdom>
@@ -21753,8 +21754,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>56</bReputationTolerance>
 		<bDeathRate>52</bDeathRate>
-		<bLifeMax>65</bLifeMax>
-		<bLife>65</bLife>
+		<bLifeMax>72</bLifeMax>
+		<bLife>72</bLife>
 		<bStrength>74</bStrength>
 		<bAgility>68</bAgility>
 		<bDexterity>64</bDexterity>
@@ -21953,11 +21954,11 @@ Max Profiles 0 - 254
 		<bAgility>72</bAgility>
 		<bDexterity>86</bDexterity>
 		<bWisdom>51</bWisdom>
-		<bMarksmanship>47</bMarksmanship>
+		<bMarksmanship>54</bMarksmanship>
 		<bExplosive>28</bExplosive>
 		<bLeadership>4</bLeadership>
 		<bMedical>8</bMedical>
-		<bMechanical>75</bMechanical>
+		<bMechanical>70</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>3</bOldSkillTrait>
@@ -22043,11 +22044,11 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>26</bReputationTolerance>
 		<bDeathRate>22</bDeathRate>
-		<bLifeMax>74</bLifeMax>
-		<bLife>74</bLife>
+		<bLifeMax>77</bLifeMax>
+		<bLife>77</bLife>
 		<bStrength>63</bStrength>
 		<bAgility>78</bAgility>
-		<bDexterity>65</bDexterity>
+		<bDexterity>74</bDexterity>
 		<bWisdom>80</bWisdom>
 		<bMarksmanship>55</bMarksmanship>
 		<bExplosive>0</bExplosive>
@@ -22333,7 +22334,7 @@ Max Profiles 0 - 254
 		<bDeathRate>70</bDeathRate>
 		<bLifeMax>74</bLifeMax>
 		<bLife>74</bLife>
-		<bStrength>76</bStrength>
+		<bStrength>80</bStrength>
 		<bAgility>72</bAgility>
 		<bDexterity>68</bDexterity>
 		<bWisdom>83</bWisdom>
@@ -22523,12 +22524,12 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>8</ubNeedForSleep>
 		<bReputationTolerance>42</bReputationTolerance>
 		<bDeathRate>48</bDeathRate>
-		<bLifeMax>80</bLifeMax>
-		<bLife>80</bLife>
+		<bLifeMax>84</bLifeMax>
+		<bLife>84</bLife>
 		<bStrength>88</bStrength>
 		<bAgility>82</bAgility>
 		<bDexterity>84</bDexterity>
-		<bWisdom>71</bWisdom>
+		<bWisdom>74</bWisdom>
 		<bMarksmanship>82</bMarksmanship>
 		<bExplosive>53</bExplosive>
 		<bLeadership>28</bLeadership>
@@ -22620,8 +22621,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>6</ubNeedForSleep>
 		<bReputationTolerance>69</bReputationTolerance>
 		<bDeathRate>62</bDeathRate>
-		<bLifeMax>69</bLifeMax>
-		<bLife>69</bLife>
+		<bLifeMax>72</bLifeMax>
+		<bLife>72</bLife>
 		<bStrength>78</bStrength>
 		<bAgility>88</bAgility>
 		<bDexterity>86</bDexterity>
@@ -22914,7 +22915,7 @@ Max Profiles 0 - 254
 		<bLife>84</bLife>
 		<bStrength>76</bStrength>
 		<bAgility>78</bAgility>
-		<bDexterity>73</bDexterity>
+		<bDexterity>92</bDexterity>
 		<bWisdom>62</bWisdom>
 		<bMarksmanship>68</bMarksmanship>
 		<bExplosive>16</bExplosive>
@@ -23010,7 +23011,7 @@ Max Profiles 0 - 254
 		<bLifeMax>68</bLifeMax>
 		<bLife>68</bLife>
 		<bStrength>72</bStrength>
-		<bAgility>58</bAgility>
+		<bAgility>68</bAgility>
 		<bDexterity>70</bDexterity>
 		<bWisdom>54</bWisdom>
 		<bMarksmanship>96</bMarksmanship>
@@ -23107,7 +23108,7 @@ Max Profiles 0 - 254
 		<bLife>76</bLife>
 		<bStrength>74</bStrength>
 		<bAgility>68</bAgility>
-		<bDexterity>76</bDexterity>
+		<bDexterity>82</bDexterity>
 		<bWisdom>97</bWisdom>
 		<bMarksmanship>76</bMarksmanship>
 		<bExplosive>28</bExplosive>
@@ -23395,8 +23396,8 @@ Max Profiles 0 - 254
 		<bDeathRate>28</bDeathRate>
 		<bLifeMax>92</bLifeMax>
 		<bLife>92</bLife>
-		<bStrength>74</bStrength>
-		<bAgility>82</bAgility>
+		<bStrength>84</bStrength>
+		<bAgility>78</bAgility>
 		<bDexterity>91</bDexterity>
 		<bWisdom>13</bWisdom>
 		<bMarksmanship>58</bMarksmanship>
@@ -23585,8 +23586,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>21</bReputationTolerance>
 		<bDeathRate>21</bDeathRate>
-		<bLifeMax>70</bLifeMax>
-		<bLife>70</bLife>
+		<bLifeMax>72</bLifeMax>
+		<bLife>72</bLife>
 		<bStrength>75</bStrength>
 		<bAgility>69</bAgility>
 		<bDexterity>84</bDexterity>
@@ -23686,8 +23687,8 @@ Max Profiles 0 - 254
 		<bStrength>79</bStrength>
 		<bAgility>78</bAgility>
 		<bDexterity>86</bDexterity>
-		<bWisdom>88</bWisdom>
-		<bMarksmanship>48</bMarksmanship>
+		<bWisdom>92</bWisdom>
+		<bMarksmanship>42</bMarksmanship>
 		<bExplosive>6</bExplosive>
 		<bLeadership>23</bLeadership>
 		<bMedical>97</bMedical>
@@ -23779,11 +23780,11 @@ Max Profiles 0 - 254
 		<bDeathRate>90</bDeathRate>
 		<bLifeMax>88</bLifeMax>
 		<bLife>88</bLife>
-		<bStrength>89</bStrength>
+		<bStrength>92</bStrength>
 		<bAgility>62</bAgility>
-		<bDexterity>71</bDexterity>
-		<bWisdom>68</bWisdom>
-		<bMarksmanship>64</bMarksmanship>
+		<bDexterity>74</bDexterity>
+		<bWisdom>73</bWisdom>
+		<bMarksmanship>73</bMarksmanship>
 		<bExplosive>24</bExplosive>
 		<bLeadership>7</bLeadership>
 		<bMedical>4</bMedical>
@@ -23825,9 +23826,9 @@ Max Profiles 0 - 254
 		<bHatedNationalityCareLevel>0</bHatedNationalityCareLevel>
 		<bRacist>0</bRacist>
 		<bSexist>1</bSexist>
-		<sSalary>800</sSalary>
-		<uiWeeklySalary>5500</uiWeeklySalary>
-		<uiBiWeeklySalary>11000</uiBiWeeklySalary>
+		<sSalary>1000</sSalary>
+		<uiWeeklySalary>6500</uiWeeklySalary>
+		<uiBiWeeklySalary>12000</uiBiWeeklySalary>
 		<bMedicalDeposit>0</bMedicalDeposit>
 		<sMedicalDepositAmount>0</sMedicalDepositAmount>
 		<usOptionalGearCost>1942</usOptionalGearCost>
@@ -23874,8 +23875,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>7</ubNeedForSleep>
 		<bReputationTolerance>101</bReputationTolerance>
 		<bDeathRate>101</bDeathRate>
-		<bLifeMax>68</bLifeMax>
-		<bLife>68</bLife>
+		<bLifeMax>76</bLifeMax>
+		<bLife>76</bLife>
 		<bStrength>68</bStrength>
 		<bAgility>74</bAgility>
 		<bDexterity>78</bDexterity>
@@ -24071,13 +24072,13 @@ Max Profiles 0 - 254
 		<bLife>84</bLife>
 		<bStrength>83</bStrength>
 		<bAgility>84</bAgility>
-		<bDexterity>88</bDexterity>
+		<bDexterity>80</bDexterity>
 		<bWisdom>68</bWisdom>
 		<bMarksmanship>65</bMarksmanship>
-		<bExplosive>7</bExplosive>
+		<bExplosive>17</bExplosive>
 		<bLeadership>8</bLeadership>
 		<bMedical>16</bMedical>
-		<bMechanical>38</bMechanical>
+		<bMechanical>28</bMechanical>
 		<bExpLevel>1</bExpLevel>
 		<bEvolution>0</bEvolution>
 		<bOldSkillTrait>13</bOldSkillTrait>
@@ -24166,8 +24167,8 @@ Max Profiles 0 - 254
 		<bLifeMax>74</bLifeMax>
 		<bLife>74</bLife>
 		<bStrength>67</bStrength>
-		<bAgility>56</bAgility>
-		<bDexterity>54</bDexterity>
+		<bAgility>66</bAgility>
+		<bDexterity>64</bDexterity>
 		<bWisdom>64</bWisdom>
 		<bMarksmanship>64</bMarksmanship>
 		<bExplosive>21</bExplosive>
@@ -24264,9 +24265,9 @@ Max Profiles 0 - 254
 		<bStrength>78</bStrength>
 		<bAgility>35</bAgility>
 		<bDexterity>75</bDexterity>
-		<bWisdom>88</bWisdom>
+		<bWisdom>86</bWisdom>
 		<bMarksmanship>79</bMarksmanship>
-		<bExplosive>4</bExplosive>
+		<bExplosive>24</bExplosive>
 		<bLeadership>43</bLeadership>
 		<bMedical>85</bMedical>
 		<bMechanical>21</bMechanical>
@@ -24360,7 +24361,7 @@ Max Profiles 0 - 254
 		<bLife>72</bLife>
 		<bStrength>70</bStrength>
 		<bAgility>75</bAgility>
-		<bDexterity>62</bDexterity>
+		<bDexterity>66</bDexterity>
 		<bWisdom>79</bWisdom>
 		<bMarksmanship>66</bMarksmanship>
 		<bExplosive>28</bExplosive>
@@ -24453,8 +24454,8 @@ Max Profiles 0 - 254
 		<ubNeedForSleep>9</ubNeedForSleep>
 		<bReputationTolerance>70</bReputationTolerance>
 		<bDeathRate>70</bDeathRate>
-		<bLifeMax>49</bLifeMax>
-		<bLife>49</bLife>
+		<bLifeMax>54</bLifeMax>
+		<bLife>54</bLife>
 		<bStrength>46</bStrength>
 		<bAgility>39</bAgility>
 		<bDexterity>34</bDexterity>
@@ -24651,7 +24652,7 @@ Max Profiles 0 - 254
 		<bAgility>80</bAgility>
 		<bDexterity>95</bDexterity>
 		<bWisdom>62</bWisdom>
-		<bMarksmanship>60</bMarksmanship>
+		<bMarksmanship>68</bMarksmanship>
 		<bExplosive>50</bExplosive>
 		<bLeadership>2</bLeadership>
 		<bMedical>30</bMedical>

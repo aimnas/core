@@ -67,12 +67,6 @@
 		<Pants>GREENPANTS</Pants>
 	</CLOTHES>
 	<CLOTHES>
-		<uiIndex>13</uiIndex>
-		<szName>BLACKPANTS</szName>
-		<Vest />
-		<Pants>BLACKPANTS</Pants>
-	</CLOTHES>
-	<CLOTHES>
 		<uiIndex>14</uiIndex>
 		<szName>BEIGEPANTS</szName>
 		<Vest />

@@ -67,8 +67,8 @@
 		<bItemNo6>5102</bItemNo6>
 		<bItemNo7>5102</bItemNo7>
 		<bItemNo8>5102</bItemNo8>
-		<bItemNo9>5238</bItemNo9>
-		<bItemNo10>5238</bItemNo10>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5245</bItemNo10>
 		<bItemNo11>4001</bItemNo11>
 		<bItemNo12>4048</bItemNo12>
 		<bItemNo13>4117</bItemNo13>
@@ -92,9 +92,9 @@
 		<bItemNo31>4460</bItemNo31>
 		<bItemNo32>4355</bItemNo32>
 		<bItemNo33>4416</bItemNo33>
-		<bItemNo34>4345</bItemNo34>
+		<bItemNo34>5394</bItemNo34>
 		<bItemNo35>4345</bItemNo35>
-		<bItemNo36>4353</bItemNo36>
+		<bItemNo36>5395</bItemNo36>
 		<bItemNo37>4353</bItemNo37>
 		<bItemNo38>4353</bItemNo38>
 		<bItemNo39>4579</bItemNo39>
@@ -108,7 +108,7 @@
 		<bItemNo47>4460</bItemNo47>
 		<bItemNo48>4460</bItemNo48>
 		<bItemNo49>5581</bItemNo49>
-		<bItemNo50>5491</bItemNo50>
+		<bItemNo50>5489</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>2</uiIndex>
@@ -121,9 +121,9 @@
 		<bItemNo5>5102</bItemNo5>
 		<bItemNo6>5108</bItemNo6>
 		<bItemNo7>5108</bItemNo7>
-		<bItemNo8>5238</bItemNo8>
-		<bItemNo9>5238</bItemNo9>
-		<bItemNo10>5238</bItemNo10>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5245</bItemNo10>
 		<bItemNo11>4021</bItemNo11>
 		<bItemNo12>4022</bItemNo12>
 		<bItemNo13>4138</bItemNo13>
@@ -131,7 +131,7 @@
 		<bItemNo15>4142</bItemNo15>
 		<bItemNo16>4201</bItemNo16>
 		<bItemNo17>4155</bItemNo17>
-		<bItemNo18>4201</bItemNo18>
+		<bItemNo18>5398</bItemNo18>
 		<bItemNo19>4245</bItemNo19>
 		<bItemNo20>4353</bItemNo20>
 		<bItemNo21>4415</bItemNo21>
@@ -162,8 +162,8 @@
 		<bItemNo46>4462</bItemNo46>
 		<bItemNo47>4462</bItemNo47>
 		<bItemNo48>5581</bItemNo48>
-		<bItemNo49>5491</bItemNo49>
-		<bItemNo50>5492</bItemNo50>
+		<bItemNo49>5489</bItemNo49>
+		<bItemNo50>5490</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>3</uiIndex>
@@ -174,11 +174,11 @@
 		<bItemNo3>5102</bItemNo3>
 		<bItemNo4>5108</bItemNo4>
 		<bItemNo5>5108</bItemNo5>
-		<bItemNo6>5108</bItemNo6>
-		<bItemNo7>5238</bItemNo7>
-		<bItemNo8>5238</bItemNo8>
-		<bItemNo9>5238</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo6>5394</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5245</bItemNo8>
+		<bItemNo9>5245</bItemNo9>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4022</bItemNo11>
 		<bItemNo12>4041</bItemNo12>
 		<bItemNo13>4123</bItemNo13>
@@ -202,8 +202,8 @@
 		<bItemNo31>4563</bItemNo31>
 		<bItemNo32>5359</bItemNo32>
 		<bItemNo33>5358</bItemNo33>
-		<bItemNo34>5401</bItemNo34>
-		<bItemNo35>5402</bItemNo35>
+		<bItemNo34>5402</bItemNo34>
+		<bItemNo35>5403</bItemNo35>
 		<bItemNo36>5146</bItemNo36>
 		<bItemNo37>5224</bItemNo37>
 		<bItemNo38>4418</bItemNo38>
@@ -218,7 +218,7 @@
 		<bItemNo47>5581</bItemNo47>
 		<bItemNo48>5586</bItemNo48>
 		<bItemNo49>5595</bItemNo49>
-		<bItemNo50>5492</bItemNo50>
+		<bItemNo50>5490</bItemNo50>
 	</ENEMYGUNCHOICES>
 	<ENEMYGUNCHOICES>
 		<uiIndex>4</uiIndex>
@@ -229,11 +229,11 @@
 		<bItemNo3>5108</bItemNo3>
 		<bItemNo4>5108</bItemNo4>
 		<bItemNo5>5108</bItemNo5>
-		<bItemNo6>5238</bItemNo6>
-		<bItemNo7>5238</bItemNo7>
-		<bItemNo8>5396</bItemNo8>
+		<bItemNo6>5394</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5382</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4044</bItemNo11>
 		<bItemNo12>4076</bItemNo12>
 		<bItemNo13>4170</bItemNo13>
@@ -257,8 +257,8 @@
 		<bItemNo31>4561</bItemNo31>
 		<bItemNo32>5359</bItemNo32>
 		<bItemNo33>5358</bItemNo33>
-		<bItemNo34>5401</bItemNo34>
-		<bItemNo35>5402</bItemNo35>
+		<bItemNo34>5402</bItemNo34>
+		<bItemNo35>5403</bItemNo35>
 		<bItemNo36>5146</bItemNo36>
 		<bItemNo37>5227</bItemNo37>
 		<bItemNo38>5165</bItemNo38>
@@ -284,11 +284,11 @@
 		<bItemNo3>5281</bItemNo3>
 		<bItemNo4>5108</bItemNo4>
 		<bItemNo5>5108</bItemNo5>
-		<bItemNo6>5238</bItemNo6>
-		<bItemNo7>5238</bItemNo7>
-		<bItemNo8>5396</bItemNo8>
+		<bItemNo6>5395</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5382</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4071</bItemNo11>
 		<bItemNo12>4023</bItemNo12>
 		<bItemNo13>4124</bItemNo13>
@@ -311,7 +311,7 @@
 		<bItemNo30>4835</bItemNo30>
 		<bItemNo31>4922</bItemNo31>
 		<bItemNo32>5362</bItemNo32>
-		<bItemNo33>5370</bItemNo33>
+		<bItemNo33>5374</bItemNo33>
 		<bItemNo34>5107</bItemNo34>
 		<bItemNo35>5145</bItemNo35>
 		<bItemNo36>5146</bItemNo36>
@@ -339,11 +339,11 @@
 		<bItemNo3>5281</bItemNo3>
 		<bItemNo4>5281</bItemNo4>
 		<bItemNo5>5108</bItemNo5>
-		<bItemNo6>5238</bItemNo6>
-		<bItemNo7>5238</bItemNo7>
-		<bItemNo8>5396</bItemNo8>
+		<bItemNo6>5395</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5382</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4025</bItemNo11>
 		<bItemNo12>4171</bItemNo12>
 		<bItemNo13>4113</bItemNo13>
@@ -373,7 +373,7 @@
 		<bItemNo37>5302</bItemNo37>
 		<bItemNo38>5171</bItemNo38>
 		<bItemNo39>5191</bItemNo39>
-		<bItemNo40>5473</bItemNo40>
+		<bItemNo40>5472</bItemNo40>
 		<bItemNo41>5631</bItemNo41>
 		<bItemNo42>5635</bItemNo42>
 		<bItemNo43>5635</bItemNo43>
@@ -394,11 +394,11 @@
 		<bItemNo3>5281</bItemNo3>
 		<bItemNo4>5281</bItemNo4>
 		<bItemNo5>5281</bItemNo5>
-		<bItemNo6>5238</bItemNo6>
-		<bItemNo7>5238</bItemNo7>
-		<bItemNo8>5396</bItemNo8>
+		<bItemNo6>5399</bItemNo6>
+		<bItemNo7>5245</bItemNo7>
+		<bItemNo8>5382</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4171</bItemNo11>
 		<bItemNo12>4171</bItemNo12>
 		<bItemNo13>4195</bItemNo13>
@@ -414,11 +414,11 @@
 		<bItemNo23>4436</bItemNo23>
 		<bItemNo24>5189</bItemNo24>
 		<bItemNo25>5423</bItemNo25>
-		<bItemNo26>5404</bItemNo26>
+		<bItemNo26>5407</bItemNo26>
 		<bItemNo27>4876</bItemNo27>
 		<bItemNo28>4772</bItemNo28>
 		<bItemNo29>4778</bItemNo29>
-		<bItemNo30>5009</bItemNo30>
+		<bItemNo30>5010</bItemNo30>
 		<bItemNo31>4931</bItemNo31>
 		<bItemNo32>5366</bItemNo32>
 		<bItemNo33>5115</bItemNo33>
@@ -428,7 +428,7 @@
 		<bItemNo37>5305</bItemNo37>
 		<bItemNo38>5173</bItemNo38>
 		<bItemNo39>5191</bItemNo39>
-		<bItemNo40>5474</bItemNo40>
+		<bItemNo40>5473</bItemNo40>
 		<bItemNo41>5643</bItemNo41>
 		<bItemNo42>5635</bItemNo42>
 		<bItemNo43>5611</bItemNo43>
@@ -453,7 +453,7 @@
 		<bItemNo7>5284</bItemNo7>
 		<bItemNo8>5125</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4221</bItemNo11>
 		<bItemNo12>4176</bItemNo12>
 		<bItemNo13>4195</bItemNo13>
@@ -483,7 +483,7 @@
 		<bItemNo37>5311</bItemNo37>
 		<bItemNo38>5331</bItemNo38>
 		<bItemNo39>5200</bItemNo39>
-		<bItemNo40>5472</bItemNo40>
+		<bItemNo40>5471</bItemNo40>
 		<bItemNo41>5643</bItemNo41>
 		<bItemNo42>5635</bItemNo42>
 		<bItemNo43>5611</bItemNo43>
@@ -508,7 +508,7 @@
 		<bItemNo7>5284</bItemNo7>
 		<bItemNo8>5125</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4221</bItemNo11>
 		<bItemNo12>4231</bItemNo12>
 		<bItemNo13>4158</bItemNo13>
@@ -522,7 +522,7 @@
 		<bItemNo21>4521</bItemNo21>
 		<bItemNo22>4521</bItemNo22>
 		<bItemNo23>4541</bItemNo23>
-		<bItemNo24>5472</bItemNo24>
+		<bItemNo24>5471</bItemNo24>
 		<bItemNo25>5431</bItemNo25>
 		<bItemNo26>4643</bItemNo26>
 		<bItemNo27>4855</bItemNo27>
@@ -530,7 +530,7 @@
 		<bItemNo29>5001</bItemNo29>
 		<bItemNo30>5091</bItemNo30>
 		<bItemNo31>4911</bItemNo31>
-		<bItemNo32>4992</bItemNo32>
+		<bItemNo32>4993</bItemNo32>
 		<bItemNo33>5219</bItemNo33>
 		<bItemNo34>5119</bItemNo34>
 		<bItemNo35>5449</bItemNo35>
@@ -538,7 +538,7 @@
 		<bItemNo37>5312</bItemNo37>
 		<bItemNo38>5339</bItemNo38>
 		<bItemNo39>5201</bItemNo39>
-		<bItemNo40>5471</bItemNo40>
+		<bItemNo40>5470</bItemNo40>
 		<bItemNo41>5643</bItemNo41>
 		<bItemNo42>5613</bItemNo42>
 		<bItemNo43>5611</bItemNo43>
@@ -563,7 +563,7 @@
 		<bItemNo7>5284</bItemNo7>
 		<bItemNo8>5125</bItemNo8>
 		<bItemNo9>5310</bItemNo9>
-		<bItemNo10>5396</bItemNo10>
+		<bItemNo10>5382</bItemNo10>
 		<bItemNo11>4236</bItemNo11>
 		<bItemNo12>4216</bItemNo12>
 		<bItemNo13>4158</bItemNo13>
@@ -588,8 +588,8 @@
 		<bItemNo32>4991</bItemNo32>
 		<bItemNo33>5127</bItemNo33>
 		<bItemNo34>5119</bItemNo34>
-		<bItemNo35>5447</bItemNo35>
-		<bItemNo36>5444</bItemNo36>
+		<bItemNo35>5448</bItemNo35>
+		<bItemNo36>5446</bItemNo36>
 		<bItemNo37>5313</bItemNo37>
 		<bItemNo38>5340</bItemNo38>
 		<bItemNo39>5202</bItemNo39>

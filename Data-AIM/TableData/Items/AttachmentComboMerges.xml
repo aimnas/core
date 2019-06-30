@@ -23,7 +23,7 @@
 		<usAttachment18>0</usAttachment18>
 		<usAttachment19>0</usAttachment19>
 		<usAttachment20>0</usAttachment20>
-		<usResult>1151</usResult>
+		<usResult>1288</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
 		<uiIndex>1</uiIndex>
@@ -126,7 +126,7 @@
 		<usResult>315</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>9</uiIndex>
+		<uiIndex>5</uiIndex>
 		<usItem>381</usItem>
 		<usAttachment1>306</usAttachment1>
 		<usAttachment2>308</usAttachment2>
@@ -151,7 +151,7 @@
 		<usResult>2056</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>12</uiIndex>
+		<uiIndex>6</uiIndex>
 		<usItem>1562</usItem>
 		<usAttachment1>323</usAttachment1>
 		<usAttachment2>0</usAttachment2>
@@ -176,7 +176,7 @@
 		<usResult>1691</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>13</uiIndex>
+		<uiIndex>7</uiIndex>
 		<usItem>1561</usItem>
 		<usAttachment1>323</usAttachment1>
 		<usAttachment2>0</usAttachment2>
@@ -201,7 +201,7 @@
 		<usResult>1691</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>14</uiIndex>
+		<uiIndex>8</uiIndex>
 		<usItem>1564</usItem>
 		<usAttachment1>323</usAttachment1>
 		<usAttachment2>0</usAttachment2>
@@ -226,7 +226,7 @@
 		<usResult>1693</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>15</uiIndex>
+		<uiIndex>9</uiIndex>
 		<usItem>1563</usItem>
 		<usAttachment1>323</usAttachment1>
 		<usAttachment2>0</usAttachment2>
@@ -251,7 +251,7 @@
 		<usResult>1693</usResult>
 	</ATTACHMENTCOMBOMERGE>
 	<ATTACHMENTCOMBOMERGE>
-		<uiIndex>16</uiIndex>
+		<uiIndex>10</uiIndex>
 		<usItem>308</usItem>
 		<usAttachment1>304</usAttachment1>
 		<usAttachment2>309</usAttachment2>

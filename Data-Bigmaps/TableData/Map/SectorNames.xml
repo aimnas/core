@@ -840,20 +840,20 @@ Curfew values
 		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>F1</SectorGrid>
-		<szUnexploredName>Impassable</szUnexploredName>
-		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
-		<szExploredName>Impassable</szExploredName>
-		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<szUnexploredName>Grumm</szUnexploredName>
+		<szDetailedUnexploredName>Grumm</szDetailedUnexploredName>
+		<szExploredName>Grumm</szExploredName>
+		<szDetailedExploredName>Grumm</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
 	<SECTOR>
 		<SectorGrid>F2</SectorGrid>
-		<szUnexploredName>Coastline</szUnexploredName>
-		<szDetailedUnexploredName>Coastline</szDetailedUnexploredName>
-		<szExploredName>Coastline</szExploredName>
-		<szDetailedExploredName>Coastline</szDetailedExploredName>
+		<szUnexploredName>Grumm</szUnexploredName>
+		<szDetailedUnexploredName>Grumm</szDetailedUnexploredName>
+		<szExploredName>Grumm</szExploredName>
+		<szDetailedExploredName>Grumm</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>

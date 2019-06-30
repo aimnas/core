@@ -85,32 +85,32 @@ Doing so makes everything a lot easier to read.
 		<!-- First fires straight  -->
 		<p><x> 0.0000</x><y> 0.0000</y></p>
 		<!-- Normal Shotgun. Spread of about 2 degrees in all directions, from original game code -->
-		<p><x>-0.0175</x><y> 0.0000</y></p>
-		<p><x>+0.0175</x><y> 0.0000</y></p>
-		<p><x> 0.0000</x><y>-0.0175</y></p>
-		<p><x> 0.0000</x><y>+0.0175</y></p>
-		<p><x>-0.0250</x><y>-0.0250</y></p>
-		<p><x>-0.0250</x><y>+0.0250</y></p>
-		<p><x>+0.0250</x><y>-0.0250</y></p>
-		<p><x>+0.0250</x><y>+0.0250</y></p>
+		<p><x>-0.0100</x><y> 0.0000</y></p>
+		<p><x>+0.0100</x><y> 0.0000</y></p>
+		<p><x> 0.0000</x><y>-0.0075</y></p>
+		<p><x> 0.0000</x><y>+0.0075</y></p>
+		<p><x>-0.0150</x><y>-0.0150</y></p>
+		<p><x>-0.0150</x><y>+0.0150</y></p>
+		<p><x>+0.0150</x><y>-0.0150</y></p>
+		<p><x>+0.0150</x><y>+0.0150</y></p>
 		<!-- Fairly wide spread range, slightly wider than the Flamer was in the original game, about +-7 degrees both ways  -->
-		<xspread>0.2000</xspread> <yspread>0.2000</yspread>
+		<xspread>0.1000</xspread> <yspread>0.1000</yspread>
 	</SPREADPATTERN>
 	<!-- *** Section for AmmoType spread patterns *** -->
 	<SPREADPATTERN>
 		<NAME>BuckshotSpread</NAME>
 		<DESC>Spread range slightly wider than the original game.</DESC>
-		<xspread>0.0750</xspread> <yspread>0.0750</yspread>
+		<xspread>0.0250</xspread> <yspread>0.0250</yspread>
 	</SPREADPATTERN>
 		<SPREADPATTERN>
 		<NAME>HornetSpread</NAME>
 		<DESC>Spread range slightly wider than the original game.</DESC>
-		<xspread>0.0500</xspread> <yspread>0.0500</yspread>
+		<xspread>0.0200</xspread> <yspread>0.0200</yspread>
 	</SPREADPATTERN>
 	<SPREADPATTERN>
 		<NAME>FlechetteSpread</NAME>
 		<DESC>Flechettes spread much wider than shot.</DESC>
-		<xspread>0.0250</xspread> <yspread>0.0250</yspread>
+		<xspread>0.0125</xspread> <yspread>0.0125</yspread>
 	</SPREADPATTERN>
 	<SPREADPATTERN>
 		<NAME>DuplexSpread</NAME>

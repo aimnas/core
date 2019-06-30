@@ -2,7 +2,7 @@
 <ATTACHMENTINFOLIST>
 	<ATTACHMENTINFO>
 		<uiIndex>0</uiIndex>
-		<usItem>1134</usItem>
+		<usItem>1150</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
@@ -16,7 +16,7 @@
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>2</uiIndex>
-		<usItem>1041</usItem>
+		<usItem>1036</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
@@ -37,14 +37,14 @@
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>5</uiIndex>
-		<usItem>1120</usItem>
+		<usItem>1141</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>0</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>6</uiIndex>
-		<usItem>1151</usItem>
+		<usItem>1288</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>
@@ -149,7 +149,7 @@
 	</ATTACHMENTINFO>
 	<ATTACHMENTINFO>
 		<uiIndex>21</uiIndex>
-		<usItem>1152</usItem>
+		<usItem>1289</usItem>
 		<uiItemClass>2</uiItemClass>
 		<bAttachmentSkillCheck>13</bAttachmentSkillCheck>
 		<bAttachmentSkillCheckMod>0</bAttachmentSkillCheckMod>

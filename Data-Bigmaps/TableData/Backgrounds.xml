@@ -3280,17 +3280,16 @@
 	<!-- Wally -->
 	<BACKGROUND>
 		<uiIndex>184</uiIndex>
-		<szName>Smith/Poor Shot</szName>
-		<szShortName>Smith/Poor Shot</szShortName>
+		<szName>Construction/Poor Shot</szName>
+		<szShortName>Construction/Poor Shot</szShortName>
 		<szDescription>Due to extreme shortsightedness Wally is a poor shot with next to no chance of improvement.</szDescription>
 		<dexterity>8</dexterity>
 		<mechanical>10</mechanical>
-		<betterprices_guns>10</betterprices_guns>
-		<betterprices>8</betterprices>
 		<ap_inventory>-10</ap_inventory> 
 		<marksmanship>-10</marksmanship>
 		<increased_maxcth>-5</increased_maxcth>
 		<spotter>-10</spotter>
+		<croucheddefense>20</croucheddefense>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>

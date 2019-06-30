@@ -4869,7 +4869,7 @@
 		<pName>Holster Pistol Small</pName>
 		<pSilhouette>13</pSilhouette>
 		<pType>1</pType>
-		<pVolume>5</pVolume>
+		<pVolume>4</pVolume>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
 		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
@@ -4998,6 +4998,7 @@
 		<ItemCapacityPerSize681>4</ItemCapacityPerSize681>
 		<ItemCapacityPerSize682>4</ItemCapacityPerSize682>
 		<ItemCapacityPerSize683>2</ItemCapacityPerSize683>
+		<ItemCapacityPerSize706>2</ItemCapacityPerSize706>
 		<ItemCapacityPerSize715>2</ItemCapacityPerSize715>
 		<ItemCapacityPerSize717>1</ItemCapacityPerSize717>
 		<ItemCapacityPerSize797>2</ItemCapacityPerSize797>
@@ -5019,6 +5020,7 @@
 		<ItemCapacityPerSize694>2</ItemCapacityPerSize694>
 		<ItemCapacityPerSize702>2</ItemCapacityPerSize702>
 		<ItemCapacityPerSize703>1</ItemCapacityPerSize703>
+		<ItemCapacityPerSize706>2</ItemCapacityPerSize706>
 		<ItemCapacityPerSize714>6</ItemCapacityPerSize714>
 		<ItemCapacityPerSize720>3</ItemCapacityPerSize720>
 		<ItemCapacityPerSize721>2</ItemCapacityPerSize721>
@@ -5258,6 +5260,7 @@
 		<pName>Magazine Speedloader</pName>
 		<pSilhouette>23</pSilhouette>
 		<pType>1</pType>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize620>8</ItemCapacityPerSize620>
 		<ItemCapacityPerSize621>8</ItemCapacityPerSize621>
 		<ItemCapacityPerSize622>1</ItemCapacityPerSize622>
@@ -5827,6 +5830,7 @@
 		<pName>Magazine SMG x2</pName>
 		<pSilhouette>39</pSilhouette>
 		<pType>1</pType>
+		<pVolume>3</pVolume>
 		<ItemCapacityPerSize595>3</ItemCapacityPerSize595>
 		<ItemCapacityPerSize596>1</ItemCapacityPerSize596>
 		<ItemCapacityPerSize604>2</ItemCapacityPerSize604>
@@ -5941,6 +5945,7 @@
 		<pName>Magazine SMG x3</pName>
 		<pSilhouette>40</pSilhouette>
 		<pType>1</pType>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize595>4</ItemCapacityPerSize595>
 		<ItemCapacityPerSize596>1</ItemCapacityPerSize596>
 		<ItemCapacityPerSize604>4</ItemCapacityPerSize604>
@@ -6091,6 +6096,7 @@
 		<ItemCapacityPerSize675>1</ItemCapacityPerSize675>
 		<ItemCapacityPerSize678>1</ItemCapacityPerSize678>
 		<ItemCapacityPerSize681>1</ItemCapacityPerSize681>
+		<ItemCapacityPerSize706>1</ItemCapacityPerSize706>
 		<ItemCapacityPerSize792>2</ItemCapacityPerSize792>
 		<ItemCapacityPerSize897>2</ItemCapacityPerSize897>
 		<ItemCapacityPerSize940>2</ItemCapacityPerSize940>
@@ -6132,6 +6138,7 @@
 		<ItemCapacityPerSize675>1</ItemCapacityPerSize675>
 		<ItemCapacityPerSize678>2</ItemCapacityPerSize678>
 		<ItemCapacityPerSize681>2</ItemCapacityPerSize681>
+		<ItemCapacityPerSize706>1</ItemCapacityPerSize706>
 		<ItemCapacityPerSize792>3</ItemCapacityPerSize792>
 		<ItemCapacityPerSize897>3</ItemCapacityPerSize897>
 		<ItemCapacityPerSize940>3</ItemCapacityPerSize940>
@@ -6146,6 +6153,7 @@
 		<ItemCapacityPerSize681>6</ItemCapacityPerSize681>
 		<ItemCapacityPerSize682>6</ItemCapacityPerSize682>
 		<ItemCapacityPerSize683>3</ItemCapacityPerSize683>
+		<ItemCapacityPerSize706>3</ItemCapacityPerSize706>
 		<ItemCapacityPerSize715>3</ItemCapacityPerSize715>
 		<ItemCapacityPerSize717>1</ItemCapacityPerSize717>
 		<ItemCapacityPerSize797>3</ItemCapacityPerSize797>
@@ -6337,6 +6345,7 @@
 		<pName>Holster Revolver</pName>
 		<pSilhouette>33</pSilhouette>
 		<pType>2</pType>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
@@ -7051,6 +7060,7 @@
 		<pName>Throwing Knife</pName>
 		<pSilhouette>34</pSilhouette>
 		<pType>1</pType>
+		<pVolume>4</pVolume>
 		<ItemCapacityPerSize690>4</ItemCapacityPerSize690>
 		<ItemCapacityPerSize691>2</ItemCapacityPerSize691>
 		<ItemCapacityPerSize706>4</ItemCapacityPerSize706>
@@ -7084,6 +7094,7 @@
 		<ItemCapacityPerSize697>2</ItemCapacityPerSize697>
 		<ItemCapacityPerSize702>2</ItemCapacityPerSize702>
 		<ItemCapacityPerSize703>1</ItemCapacityPerSize703>
+		<ItemCapacityPerSize706>2</ItemCapacityPerSize706>
 		<ItemCapacityPerSize710>2</ItemCapacityPerSize710>
 		<ItemCapacityPerSize714>6</ItemCapacityPerSize714>
 		<ItemCapacityPerSize715>2</ItemCapacityPerSize715>
@@ -7242,6 +7253,7 @@
 		<pName>Magazine Sniper</pName>
 		<pSilhouette>26</pSilhouette>
 		<pType>1</pType>
+		<pVolume>6</pVolume>
 		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
 		<ItemCapacityPerSize12>1</ItemCapacityPerSize12>
@@ -7603,6 +7615,7 @@
 		<ItemCapacityPerSize683>2</ItemCapacityPerSize683>
 		<ItemCapacityPerSize684>2</ItemCapacityPerSize684>
 		<ItemCapacityPerSize686>2</ItemCapacityPerSize686>
+		<ItemCapacityPerSize706>4</ItemCapacityPerSize706>
 		<ItemCapacityPerSize716>2</ItemCapacityPerSize716>
 		<ItemCapacityPerSize717>1</ItemCapacityPerSize717>
 		<ItemCapacityPerSize797>2</ItemCapacityPerSize797>
@@ -8245,6 +8258,7 @@
 		<ItemCapacityPerSize681>12</ItemCapacityPerSize681>
 		<ItemCapacityPerSize682>12</ItemCapacityPerSize682>
 		<ItemCapacityPerSize683>6</ItemCapacityPerSize683>
+		<ItemCapacityPerSize706>6</ItemCapacityPerSize706>
 		<ItemCapacityPerSize715>6</ItemCapacityPerSize715>
 		<ItemCapacityPerSize717>3</ItemCapacityPerSize717>
 		<ItemCapacityPerSize718>1</ItemCapacityPerSize718>
@@ -8525,6 +8539,7 @@
 		<ItemCapacityPerSize681>2</ItemCapacityPerSize681>
 		<ItemCapacityPerSize682>2</ItemCapacityPerSize682>
 		<ItemCapacityPerSize683>1</ItemCapacityPerSize683>
+		<ItemCapacityPerSize706>1</ItemCapacityPerSize706>
 		<ItemCapacityPerSize715>1</ItemCapacityPerSize715>
 		<ItemCapacityPerSize797>1</ItemCapacityPerSize797>
 	</POCKET>
@@ -8698,6 +8713,7 @@
 		<ItemCapacityPerSize694>1</ItemCapacityPerSize694>
 		<ItemCapacityPerSize702>1</ItemCapacityPerSize702>
 		<ItemCapacityPerSize703>1</ItemCapacityPerSize703>
+		<ItemCapacityPerSize706>1</ItemCapacityPerSize706>
 		<ItemCapacityPerSize714>3</ItemCapacityPerSize714>
 		<ItemCapacityPerSize720>2</ItemCapacityPerSize720>
 		<ItemCapacityPerSize721>1</ItemCapacityPerSize721>
@@ -8730,6 +8746,7 @@
 		<ItemCapacityPerSize697>1</ItemCapacityPerSize697>
 		<ItemCapacityPerSize702>1</ItemCapacityPerSize702>
 		<ItemCapacityPerSize703>1</ItemCapacityPerSize703>
+		<ItemCapacityPerSize706>1</ItemCapacityPerSize706>
 		<ItemCapacityPerSize710>1</ItemCapacityPerSize710>
 		<ItemCapacityPerSize714>3</ItemCapacityPerSize714>
 		<ItemCapacityPerSize715>1</ItemCapacityPerSize715>
@@ -8753,6 +8770,7 @@
 		<ItemCapacityPerSize682>6</ItemCapacityPerSize682>
 		<ItemCapacityPerSize683>4</ItemCapacityPerSize683>
 		<ItemCapacityPerSize692>4</ItemCapacityPerSize692>
+		<ItemCapacityPerSize706>4</ItemCapacityPerSize706>
 		<ItemCapacityPerSize715>4</ItemCapacityPerSize715>
 		<ItemCapacityPerSize717>2</ItemCapacityPerSize717>
 		<ItemCapacityPerSize718>1</ItemCapacityPerSize718>
