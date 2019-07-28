@@ -97,9 +97,9 @@
 	<AMMOTYPE>
 		<uiIndex>1</uiIndex>
 		<name>HP small</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -857,8 +857,8 @@
 	<AMMOTYPE>
 		<uiIndex>20</uiIndex>
 		<name>Cold HP</name>
-		<red>69</red>
-		<green>69</green>
+		<red>85</red>
+		<green>157</green>
 		<blue>224</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
@@ -1217,9 +1217,9 @@
 	<AMMOTYPE>
 		<uiIndex>29</uiIndex>
 		<name>HP large</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>16</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1377,9 +1377,9 @@
 	<AMMOTYPE>
 		<uiIndex>33</uiIndex>
 		<name>HP medium</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>18</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>5</armourImpactReductionMultiplier>
@@ -1617,9 +1617,9 @@
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
 		<name>HP x-large</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>15</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -2017,9 +2017,9 @@
 	<AMMOTYPE>
 		<uiIndex>49</uiIndex>
 		<name>HP Beowulf</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>14</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2217,9 +2217,9 @@
 	<AMMOTYPE>
 		<uiIndex>54</uiIndex>
 		<name>HPJ small</name>
-		<red>0</red>
-		<green>0</green>
-		<blue>204</blue>
+		<red>178</red>
+		<green>133</green>
+		<blue>76</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>

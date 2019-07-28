@@ -14822,21 +14822,21 @@
 	<MAGAZINE>
 		<uiIndex>2117</uiIndex>
 		<ubCalibre>66</ubCalibre>
-		<ubMagSize>4</ubMagSize>
+		<ubMagSize>5</ubMagSize>
 		<ubAmmoType>18</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>2118</uiIndex>
 		<ubCalibre>66</ubCalibre>
-		<ubMagSize>4</ubMagSize>
+		<ubMagSize>5</ubMagSize>
 		<ubAmmoType>29</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
 	<MAGAZINE>
 		<uiIndex>2119</uiIndex>
 		<ubCalibre>66</ubCalibre>
-		<ubMagSize>4</ubMagSize>
+		<ubMagSize>5</ubMagSize>
 		<ubAmmoType>31</ubAmmoType>
 		<ubMagType>0</ubMagType>
 	</MAGAZINE>
