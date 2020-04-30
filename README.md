@@ -5,6 +5,7 @@ AIMNAS is an item/map modification for JA2 1.13, more info on the 1.13 mod can b
 #### Requirements
 AIMNAS currently requires atleast version **8163** of JA2 1.13 with gamedir atleast at level **2315**  
 Any earlier release of 1.13 will not work correctly with AIMNAS
+UPDATE: AIMNAS files were updated to 8790 / GameDir 2529
 
 #### JA2 1.13 download
 There are two separate releases of JA2 1.13, the legacy 7609 release and the constantly updated SVN release.

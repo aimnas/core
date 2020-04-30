@@ -25,7 +25,6 @@
 		GYELLOWSHIRT
 		WHITEVEST
 		PURPLESHIRT
-		BLUEVEST
 		BROWNVEST
 	
 	Possible pants:
@@ -52,11 +51,11 @@
 
 	<ENEMY_ELITE>
 		<Vest>BLACKSHIRT</Vest>
-		<Pants>BLACKPANTS</Pants>
+		<Pants>TANPANTS</Pants>
 	</ENEMY_ELITE>
 
 	<MILITIA_ROOKIE>
-		<Vest>GREENVEST</Vest>
+		<Vest>greyVEST</Vest>
 		<Pants>BEIGEPANTS</Pants>
 	</MILITIA_ROOKIE>
 
