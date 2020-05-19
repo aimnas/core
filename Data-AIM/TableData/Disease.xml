@@ -11,7 +11,7 @@
 		<InfectionChance_SWAMP>0.5</InfectionChance_SWAMP>
 		<InfectionChance_TROPICS>0.25</InfectionChance_TROPICS>
 		<InfectionChance_SEX>2</InfectionChance_SEX>
-		<InfectionChance_CONTACT_HUMAN>5</InfectionChance_CONTACT_HUMAN>
+		<InfectionChance_CONTACT_HUMAN>4</InfectionChance_CONTACT_HUMAN>
 		<InfectionChance_CONTACT_CORPSE>10</InfectionChance_CONTACT_CORPSE>
 		<InfectionChance_WOUND_ANIMAL>20</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
@@ -28,6 +28,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -40,12 +41,13 @@
 		<sNeedToSleep>1</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>1</uiIndex>
 		<szName>Typhoid</szName>
 		<szFatName>|T|y|p|h|o|i|d</szFatName>
-		<szDescription>Typhoid fever is a common worldwide bacterial disease transmitted by the ingestion of food or water&#10;contaminated with the feces of an infected person. Symptoms include internal bleeding, dehydration and delirium.</szDescription>
+		<szDescription>Typhoid fever is a common worldwide bacterial disease transmitted by the ingestion of food or water&#10;contaminated with the feces of an infected person. Symptoms include internal bleeding, dehydration, and delirium.</szDescription>
 		<sInfectionPtsInitial>100</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>200</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>1000</sInfectionPtsFull>
@@ -70,6 +72,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -82,6 +85,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>400</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>2</uiIndex>
@@ -112,6 +116,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>-10</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -124,6 +129,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>200</sDrinkModifier>
 		<sFoodModifier>200</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>3</uiIndex>
@@ -140,7 +146,7 @@
 		<InfectionChance_CONTACT_HUMAN>0</InfectionChance_CONTACT_HUMAN>
 		<InfectionChance_CONTACT_CORPSE>5</InfectionChance_CONTACT_CORPSE>
 		<InfectionChance_WOUND_ANIMAL>20</InfectionChance_WOUND_ANIMAL>
-		<InfectionChance_WOUND_OPEN>30</InfectionChance_WOUND_OPEN>
+		<InfectionChance_WOUND_OPEN>40</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
@@ -154,18 +160,20 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
-		<sEffStatDEX>-20</sEffStatDEX>
+		<sEffStatDEX>-30</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
 		<sEffStatWIS>0</sEffStatWIS>
 		<sEffStatEXP>0</sEffStatEXP>
 		<sEffAP>-5</sEffAP>
 		<usMaxBreath>0</usMaxBreath>
 		<sEffCarryStrength>-6</sEffCarryStrength>
-		<sLifeRegenHundreds>-200</sLifeRegenHundreds>
+		<sLifeRegenHundreds>-150</sLifeRegenHundreds>
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>4</uiIndex>
@@ -196,6 +204,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>-7</sEffStatSTR>
@@ -208,6 +217,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>5</uiIndex>
@@ -238,6 +248,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -250,12 +261,14 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>400</sDrinkModifier>
 		<sFoodModifier>200</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
+		<!-- due to the deadliness of Ebola (it cannot be cured) this disabled by default (all chances set to 0) -->
 		<uiIndex>6</uiIndex>
 		<szName>Ebola</szName>
 		<szFatName>|E|b|o|l|a</szFatName>
-		<szDescription>A deadly virus with no known treatment, Ebola has a an unusually high lethality rate of over 50%%. Symptoms include nausea, vomiting,&#10;diarrhea and internal bleeding.</szDescription>
+		<szDescription>A deadly virus with no known treatment, Ebola has an unusually high lethality rate of over 50%. Symptoms include nausea, vomiting,&#10;diarrhea, and internal bleeding.</szDescription>
 		<sInfectionPtsInitial>150</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>300</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>360</sInfectionPtsFull>
@@ -263,9 +276,9 @@
 		<InfectionChance_SWAMP>0</InfectionChance_SWAMP>
 		<InfectionChance_TROPICS>0</InfectionChance_TROPICS>
 		<InfectionChance_SEX>0</InfectionChance_SEX>
-		<InfectionChance_CONTACT_HUMAN>6</InfectionChance_CONTACT_HUMAN>
-		<InfectionChance_CONTACT_CORPSE>0.7</InfectionChance_CONTACT_CORPSE>
-		<InfectionChance_WOUND_ANIMAL>12</InfectionChance_WOUND_ANIMAL>
+		<InfectionChance_CONTACT_HUMAN>0</InfectionChance_CONTACT_HUMAN>
+		<InfectionChance_CONTACT_CORPSE>0</InfectionChance_CONTACT_CORPSE>
+		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
@@ -280,6 +293,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -292,6 +306,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>900</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>7</uiIndex>
@@ -322,6 +337,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>-10</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -334,6 +350,7 @@
 		<sNeedToSleep>1</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>8</uiIndex>
@@ -364,6 +381,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -376,6 +394,7 @@
 		<sNeedToSleep>2</sNeedToSleep>
 		<sDrinkModifier>100</sDrinkModifier>
 		<sFoodModifier>100</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>	
 	<DISEASE>
 		<uiIndex>9</uiIndex>
@@ -406,6 +425,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>-5</sEffStatAGI>
 		<sEffStatDEX>-5</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -418,6 +438,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>10</uiIndex>
@@ -448,6 +469,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -460,6 +482,7 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>0.95</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>11</uiIndex>
@@ -482,7 +505,7 @@
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
 		<InfectionChance_WOUND_WIS>50</InfectionChance_WOUND_WIS>
-		<InfectionChance_WOUND_TRAUMATIC>10</InfectionChance_WOUND_TRAUMATIC>
+		<InfectionChance_WOUND_TRAUMATIC>40</InfectionChance_WOUND_TRAUMATIC>
 		<InfectionChance_BADFOOD>0</InfectionChance_BADFOOD>
 		<InfectionChance_BADWATER>0</InfectionChance_BADWATER>
 		<fCanBeCured>0</fCanBeCured>
@@ -490,6 +513,7 @@
 		<fCanReInfect>0</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>1</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -502,6 +526,7 @@
 		<sNeedToSleep>1</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>0.9</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>12</uiIndex>
@@ -510,7 +535,7 @@
 		<szDescription>The human musculoskeletal system is complicated. Your leg received a critical wound, and while it heals, your mobility is affected.</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
-		<sInfectionPtsFull>200</sInfectionPtsFull>
+		<sInfectionPtsFull>500</sInfectionPtsFull>
 		<sInfectionPtsGainPerHour>-2</sInfectionPtsGainPerHour>		
 		<InfectionChance_SWAMP>0</InfectionChance_SWAMP>
 		<InfectionChance_TROPICS>0</InfectionChance_TROPICS>
@@ -532,18 +557,20 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
-		<sEffStatAGI>-20</sEffStatAGI>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<sEffStatAGI>-50</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
 		<sEffStatWIS>0</sEffStatWIS>
 		<sEffStatEXP>0</sEffStatEXP>
 		<sEffAP>0</sEffAP>
 		<usMaxBreath>0</usMaxBreath>
-		<sEffCarryStrength>-5</sEffCarryStrength>
-		<sLifeRegenHundreds>-10</sLifeRegenHundreds>
+		<sEffCarryStrength>-10</sEffCarryStrength>
+		<sLifeRegenHundreds>-30</sLifeRegenHundreds>
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>13</uiIndex>
@@ -574,6 +601,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>-20</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -586,12 +614,13 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>14</uiIndex>
 		<szName>Wounded biceps</szName>
 		<szFatName>|W|o|u|n|d|e|d |b|i|c|e|p|s</szFatName>
-		<szDescription>A painful shot to your torso has you gasping for air. You'll have to cut back in the next days. </szDescription>
+		<szDescription>A painful shot to your torso has you gasping for air. You'll have to cut back for the next days. </szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>200</sInfectionPtsFull>
@@ -616,6 +645,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>-20</sEffStatSTR>
@@ -628,8 +658,10 @@
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>1.0</moralemodifier>
 	</DISEASE>
 	<DISEASE>
+		<!-- we receive this via drug consumption -->
 		<uiIndex>15</uiIndex>
 		<szName>Drug Addiction</szName>
 		<szFatName>|D|r|u|g |A|d|d|i|c|t|i|o|n</szFatName>
@@ -658,6 +690,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>-20</sEffStatAGI>
 		<sEffStatDEX>-40</sEffStatDEX>
 		<sEffStatSTR>-20</sEffStatSTR>
@@ -701,6 +734,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>-20</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -745,6 +779,7 @@
 		<fCanReInfect>1</fCanReInfect>
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>

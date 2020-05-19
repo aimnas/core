@@ -219,11 +219,20 @@ Profil =
 	CALVIN = 157,
 	CARL = 158,
 	LAURA = 175,
+	GRACE = 176,
 	RUDOLF = 177,
 	SKITZ = 179,
 	BUNS_CHAOTIC = 215,
+	LEON = 222,
+	GARY = 223,
+	SPARKY = 224,
+	HURL = 227,
 	MOUSE = 245,
+	HECTOR = 246,
+	REV = 247,
 	STELLA = 248,
+	MOSES = 250,
+	TURTLE = 253,
 }
 
 What = 
@@ -857,7 +866,7 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "Weapon test results are stored on this server.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "In later stages of the project, the weapon was tested on live inmates.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The tests were filmed... the cruel demonstrations are gruesome.")
-				SetScreenMsg(FontColour.FONT_MCOLOR_LTGREEN, "If these videos were to be published, this might cause serious headache for the companies invovled.")
+				SetScreenMsg(FontColour.FONT_MCOLOR_LTGREEN, "If these videos were to be published, this might cause serious headache for the companies involved.")
 				
 				SetModderLUAFact(sLuaactionid, ActionState.STATE_GAVEREWARD_OK)
 			elseif ( GetModderLUAFact(sLuaactionid) == ActionState.STATE_GAVEREWARD_OK ) then
@@ -938,7 +947,7 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "Then there's the centrall hallway.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_LTGREEN, "It seems there is some sort of gas trap installed in the hallway.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "On the left and right of it are two huge manufacturing halls.")
-				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The main hallway is then flanked by the security offices. They seem to be heaily staffed.")
+				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The main hallway is then flanked by the security offices. They seem to be heavily staffed.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "Behind another security door are the main labs, but you have no camera access.")
 				
 				SetModderLUAFact(sLuaactionid, ActionState.STATE_GAVEREWARD_OK)
@@ -1028,7 +1037,7 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 				end
 								
 				-- we can hack the SAM, decreasing its radius, or undo a previous hack
-				-- for simplicity, we will always hack a SAM if enemies are nearby - we are either infiltrating or figting the enemy in those cases
+				-- for simplicity, we will always hack a SAM if enemies are nearby - we are either infiltrating or fighting the enemy in those cases
 				-- otherwise, we obviously control the SAM, so try to unhack it			
 				if ( NumNonPlayerTeamInSector(sSectorX, sSectorY, Teams.ENEMY_TEAM) > 0 ) then
 					if ( ourhack >= samhackstatus ) then
@@ -1346,8 +1355,8 @@ function HandleInteractiveActionResult(sSectorX, sSectorY, bSectorZ, sGridNo, bL
 		-- 
 		elseif ( sLuaactionid == ModSpecificActions.COMPUTER_MEDUNAPALACE_CONSOLE_1 ) then
 			if ( GetModderLUAFact(sLuaactionid) == ActionState.STATE_OK ) then
-				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "There is a plan on the bunkers security measures here.")
-				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The bunker two entries - one from the palace, one from an underground escape tunnel.")
+				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "There is a plan on the bunkers' security measures here.")
+				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The bunker has two entries - one from the palace, one from an underground escape tunnel.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "A huge part of the bunker is off-limits to all but the queen's personal staff.")
 				SetScreenMsg(FontColour.FONT_MCOLOR_LTGREEN, "There seems to be an active minefield in the hallway.")				
 				SetScreenMsg(FontColour.FONT_MCOLOR_DKWHITE, "The controls should be around here somewhere.")
@@ -2812,10 +2821,10 @@ Skill =
 DialogueActionEvent = 
 {
 	ADE_DISCOVER_ROOM = 0,					-- merc is the 1st one to explore this room, aData1 indicates the room in this event
-	ADE_DIALOGUE_REACTION = 1,				-- someone else used a line, and we might answer to that, aData1 indicates the profile number in this event, aData2 indicates the specific voice line we react to
-	ADE_OMERTA_ENTRY = 2,					-- similar to an IMP, we can comment upon the initial Omerta landing
+	ADE_DIALOGUE_REACTION = 1,				-- someone else used a line, and we might answer to that, aData1 indicates the profile number in this event, aData2 indicates the specific voice line we react to, aData3 indicates whether this person has been recruited (1) or not(0)
+	ADE_MERC_ARRIVES = 2,					-- a mercenary arrives in Arulco. aData1 is the profile of the arriving merc, aData2 is 1 if the player hasn't made contact with the rebels yet
 	ADE_SECTOR_COMMENTARY = 3,				-- similar to the rebel's quotes, this is called upon visiting a sector for the first time (if no rebel does their quote first)
-	ADE_MERCHANT_CHAT = 4,					-- we greet a merchant (used with non-profile merchants, in order to be a bit more lively)
+	ADE_MERCHANT_CHAT = 4,					-- we greet a merchant (used with non-profile merchants, in order to be a bit more lively), aData1 is the id of the merchant
 	ADE_DIALOGUE_NPC_FRIENDLY = 5,			-- in a conversation, we can say something when clicking on a button
 	ADE_DIALOGUE_NPC_DIRECT = 6,
 	ADE_DIALOGUE_NPC_THREATEN = 7,
@@ -2823,17 +2832,26 @@ DialogueActionEvent =
 	ADE_DIALOGUE_NPC_REPEAT = 9,
 	ADE_DIALOGUE_RPC_RECRUIT_SUCCESS = 10,	-- we've successfully recruited an RPC, and might comment on that
 	ADE_SEX = 11,							-- does exactly what you think it does
-	ADE_WEATHERCHANGE = 12,					-- the weather has changed in the current sector, and we can warn the player about that, aData1 is of Weather
+	ADE_WEATHERCHANGE = 12,					-- the weather has changed in the current sector, and we can warn the player about that, aData1 is type of Weather
 	ADE_SKILL_RESULT = 13,					-- we used a skill, and comment on the result, aData1 is of Skill, aData2 indicates whether it was a success (1) or failure (0)
 	ADE_GRENADEWARNING = 14,				-- a delayed enemy grenade was dropped nearby, and we can shout a warning, aData1 is the itemnumber of the grenade
-	ADE_CONSUMEITEM = 15,					-- we applied an item to us, aData1 is the item index
+	ADE_CONSUMEITEM = 15,					-- we consumed an item, aData1 is the item index
 	ADE_NPC_DEATH = 16,						-- someone died, aData1 is the profile of the dead NPC, aData2 the profile of the killer, aData3 the bodytype of the dead
+	ADE_WITNESS_GOOD = 17,					-- similar to comment upon buddy doing good. aData1 is the profile of person, aData2 is 0 if we saw a kill, 1 if they passed a skill check (and we're less than 15 tiles away)
+	ADE_BANDAGE_PERFORM_BEGIN = 18,			-- we bandage someone, aData1 is the profile of person
+	ADE_BANDAGE_PERFORM_END = 19,			-- we finished bandaging someone, aData1 is the profile of person
+	ADE_BANDAGE_RECEIVE_BEGIN = 20,			-- someone bandages us, aData1 is the profile of person
+	ADE_BANDAGE_RECEIVE_END = 21,			-- someone finished bandaging us, aData1 is the profile of person
+	ADE_ZOMBIESRISE = 22,					-- a new wave of zombies is spawned from corpses
+	ADE_SEXUALHARASSMENT = 23,				-- the player wants to take the 'strip' command further than we are comfortable with
+	ADE_LOCKBOMB = 24,						-- merc uses a shaped charge to blow the locks of a door, aData1 indicates whether it was a success (1) or failure (0)
+	ADE_SNIPERWARNING = 25,					-- merc warns of sniper presence in this sector
 }
 
 -- functions used here:
 -- ubProfile: profile number of merc (don't change that unless you know what to do)
 -- iFaceIndex: index (don't change that unless you know what to do)
--- path: path and name of soundfile we want to play (in .wav or .ogg format)
+-- path: path and name of soundfile we want to play (in .wav, .ogg or .mp3 format)
 -- text: "Text that should appear"
 -- SetAdditionalDialogue(ubProfile, iFaceIndex, path, text)
 -- Do not use this function in any lua calls outside of HandleAdditionalDialogue(..)!
@@ -2856,6 +2874,7 @@ function HandleAdditionalDialogue(sSectorX, sSectorY, bSectorZ, ubProfile, iFace
 		-- this happens when we are in the same sector, awake and concious
 		-- aData1 indicates the profile number in this event
 		-- aData2 indicates the specific voice line we react to
+		-- aData3 indicates whether this person has been recruited (1) or not(0)
 		if ( usEventNr == DialogueActionEvent.ADE_DIALOGUE_REACTION ) then
 				
 			if ( aData1 == Profil.FRED ) then		
@@ -2922,5 +2941,38 @@ function HandleAdditionalDialogue(sSectorX, sSectorY, bSectorZ, ubProfile, iFace
 		
 	end
 
+end
 	
+-- Look up voicelines in Dialogue Control.h, only listing notable ones often used here
+Voiceline = 
+{
+	QUOTE_SEE_ENEMY = 0,
+	QUOTE_KILLED_AN_ENEMY = 27,
+	
+	-- these three lines are played at random when we talk to one of our mercs. Despite the name they don't have any special meaning
+	QUOTE_NEGATIVE_COMPANY = 41,
+	QUOTE_SOCIAL_TRAIT = 44,
+	QUOTE_PASSING_DISLIKE = 45,
+	
+	QUOTE_ENEMY_PRESENCE = 59,
+	QUOTE_WARNING_OUTSTANDING_ENEMY_AFTER_RT = 60,
+	QUOTE_SECTOR_SAFE = 65,
+}
+
+-- This function is used to replace dialogue quotes with new ones. This way we can have more variety - a merc doesn't always use the same lines when something happens.
+-- If a line isn't replaced, it plays normally, so it is a good idea to not always replace lines.
+--
+-- functions used here:
+-- path: path and name of soundfile we want to play (in .wav, .ogg or .mp3 format)
+-- text: "Text that should appear"
+-- SetReplaceDialogue(path, text)
+-- Do not use this function in any lua calls outside of HandleReplaceQuote(..)!
+--
+-- handle
+-- ubProfile is the merc for whom this is called
+-- usQuoteNum is the quote that the game wants to play
+function HandleReplaceQuote( ubProfile, usQuoteNum )
+
+	
+
 end

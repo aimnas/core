@@ -1,7 +1,8 @@
-﻿<STRUCTURESLIST>
+<STRUCTURESLIST>
 	<STRUCTURE><!--sandbags small-->
 		<usCreationItem>1539</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<northfacingtile>3</northfacingtile>
 		<northfacingtile>4</northfacingtile>
@@ -17,6 +18,7 @@
 	<STRUCTURE><!--sandbags medium -->
 		<usCreationItem>1540</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Md Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<northfacingtile>1</northfacingtile>
 		<southfacingtile>0</southfacingtile>
@@ -29,6 +31,7 @@
 	<STRUCTURE><!--sandbags-->
 		<usCreationItem>1541</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Sandbags</szTileSetDisplayName>
 		<szTileSetName>sandbag.sti</szTileSetName>
 		<northfacingtile>2</northfacingtile>
 		<southfacingtile>2</southfacingtile>
@@ -38,6 +41,7 @@
 	<STRUCTURE><!--concertina wire-->
 		<usCreationItem>1542</usCreationItem>
 		<usItemStatusLoss>10</usItemStatusLoss>
+		<szTileSetDisplayName>Barbed Wire</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<northfacingtile>2</northfacingtile>
 		<northfacingtile>4</northfacingtile>
@@ -51,6 +55,7 @@
 	<STRUCTURE><!--spade creates a pile of earth-->
 		<usCreationItem>1411</usCreationItem>
 		<usItemStatusLoss>0</usItemStatusLoss>
+		<szTileSetDisplayName>Dirt Mound</szTileSetDisplayName>
 		<szTileSetName>crate.sti</szTileSetName>
 		<northfacingtile>7</northfacingtile>
 		<northfacingtile>8</northfacingtile>
@@ -76,6 +81,7 @@
 	<STRUCTURE><!--shovel creates a pile of earth-->
 		<usCreationItem>1412</usCreationItem>
 		<usItemStatusLoss>0</usItemStatusLoss>
+		<szTileSetDisplayName>Dirt Mound</szTileSetDisplayName>
 		<szTileSetName>crate.sti</szTileSetName>
 		<northfacingtile>7</northfacingtile>
 		<northfacingtile>8</northfacingtile>
@@ -101,6 +107,7 @@
 	<STRUCTURE><!--wooden planks, small 1x1 -->
 		<usCreationItem>1543</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<northfacingtile>6</northfacingtile>
 		<northfacingtile>7</northfacingtile>
@@ -122,6 +129,7 @@
 	<STRUCTURE><!--wooden planks, medium 2x1 -->
 		<usCreationItem>1544</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Md Wooden Planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<northfacingtile>1</northfacingtile>
 		<southfacingtile>1</southfacingtile>
@@ -131,6 +139,7 @@
 	<STRUCTURE><!--wooden planks, large 2x2 -->
 		<usCreationItem>1545</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Planks</szTileSetDisplayName>
 		<szTileSetName>deb_02.sti</szTileSetName>
 		<northfacingtile>0</northfacingtile>
 		<northfacingtile>3</northfacingtile>
@@ -152,6 +161,7 @@
 	<STRUCTURE><!--wooden wall, small -->
 		<usCreationItem>1546</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Wall</szTileSetDisplayName>
 		<szTileSetName>walldec1.sti</szTileSetName>
 		<northfacingtile>2</northfacingtile>
 		<northfacingtile>3</northfacingtile>
@@ -169,6 +179,7 @@
 	<STRUCTURE><!--wooden wall, large -->
 		<usCreationItem>1547</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Wall</szTileSetDisplayName>
 		<szTileSetName>walldec1.sti</szTileSetName>
 		<northfacingtile>0</northfacingtile>
 		<northfacingtile>1</northfacingtile>
@@ -182,6 +193,7 @@
 		<STRUCTURE><!--wooden wall, small -->
 		<usCreationItem>1546</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Wooden Wall</szTileSetDisplayName>
 		<szTileSetName>build_06b.sti</szTileSetName>
 		<northfacingtile>9</northfacingtile>
 		<northfacingtile>10</northfacingtile>
@@ -199,6 +211,7 @@
 	<STRUCTURE><!--wooden wall, large -->
 		<usCreationItem>1547</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Wooden Wall</szTileSetDisplayName>
 		<szTileSetName>build_06b.sti</szTileSetName>
 		<northfacingtile>3</northfacingtile>
 		<northfacingtile>4</northfacingtile>
@@ -216,6 +229,7 @@
 	<STRUCTURE><!-- tire #1 -->
 		<usCreationItem>1548</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sm Tire</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<northfacingtile>0</northfacingtile>
 		<southfacingtile>0</southfacingtile>
@@ -225,6 +239,7 @@
 	<STRUCTURE><!-- tire #2 -->
 		<usCreationItem>1549</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Md Tire</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<northfacingtile>1</northfacingtile>
 		<southfacingtile>1</southfacingtile>
@@ -234,6 +249,7 @@
 	<STRUCTURE><!-- tire #3 -->
 		<usCreationItem>1550</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Lg Tire</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<northfacingtile>2</northfacingtile>
 		<southfacingtile>2</southfacingtile>
@@ -243,6 +259,7 @@
 	<STRUCTURE><!--roadblock -->
 		<usCreationItem>1551</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Roadblock</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<northfacingtile>11</northfacingtile>
 		<southfacingtile>11</southfacingtile>
@@ -252,6 +269,7 @@
 	<STRUCTURE><!--sawhorse -->
 		<usCreationItem>1552</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Sawhorse</szTileSetDisplayName>
 		<szTileSetName>dump1.sti</szTileSetName>
 		<northfacingtile>10</northfacingtile>
 		<southfacingtile>10</southfacingtile>
@@ -261,6 +279,7 @@
 	<STRUCTURE><!-- oil drum #1 -->
 		<usCreationItem>1553</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Oil Drum A</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<northfacingtile>10</northfacingtile>
 		<southfacingtile>10</southfacingtile>
@@ -270,6 +289,7 @@
 	<STRUCTURE><!-- oil drum #2 -->
 		<usCreationItem>1554</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Oil Drum B</szTileSetDisplayName>
 		<szTileSetName>spot_1.sti</szTileSetName>
 		<northfacingtile>11</northfacingtile>
 		<southfacingtile>11</southfacingtile>
@@ -279,6 +299,7 @@
 		<STRUCTURE><!-- oil drum #3 -->
 		<usCreationItem>1555</usCreationItem>
 		<usItemStatusLoss>100</usItemStatusLoss>
+		<szTileSetDisplayName>Oil Drum C</szTileSetDisplayName>
 		<szTileSetName>drum_01.sti</szTileSetName>
 		<northfacingtile>6</northfacingtile>
 		<southfacingtile>6</southfacingtile>
