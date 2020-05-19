@@ -48,4 +48,20 @@
 		<id>11</id>
 		<name>Mechanical (Hard)</name>
 	</MergeType>
+	<MergeType>
+		<id>12</id>
+		<name>Tripwire Roll</name>
+	</MergeType>
+   <MergeType>
+       <id>13</id>
+       <name>Use (Drain Status)</name>
+   </MergeType>
+	<MergeType>
+		<id>14</id>
+		<name>Cannibalize</name>
+	</MergeType>
+	<MergeType>
+		<id>15</id>
+		<name>Lose 10 percent</name>
+	</MergeType>
 </JA2Data>

@@ -1,3 +1,57 @@
+<!-- 
+
+PortraitId : 1 - 254
+
+uiIndex : 0 - 254
+
+bSex : 
+		0 - Male 
+		1 - Female
+
+usEyesX		-  position of eyes X
+usEyesY		-  position of eyes Y
+usMouthX	-  position of mouth X
+usMouthY	-  position of mouth Y 
+
+DefaultSkin : 
+		 0 - PINKSKIN
+		 1 - TANSKIN
+		 2 - DARKSKIN
+		 3 - BLACKSKIN
+
+DefaultHair :
+		 0 - BROWNHEAD
+		 1 - BLACKHEAD
+		 2 - WHITEHEAD
+		 3 - BLONDEHEAD
+		 4 - REDHEAD
+
+DefaultShirt :
+		 0  - YELLOWVEST
+		 1  - BLACKSHIRT
+		 2  - REDVEST
+		 3  - GREENVEST
+		 4  - JEANVEST
+		 5  - BLUEVEST
+		 6  - greyVEST
+		 7  - GYELLOWSHIRT
+		 8  - WHITEVEST
+		 9  - PURPLESHIRT
+		 10 - BLUEVEST
+		 11 -BROWNVEST
+
+DefaultPants : 
+		 0 - GREENPANTS
+		 1 - BLACKPANTS
+		 2 - BEIGEPANTS
+		 3 - TANPANTS
+		 4 - JEANPANTS
+		 5 - BLUEPANTS
+		 
+DefaultBigBody : 0/1
+
+-->
+
 <IMPPORTRAITSLIST>
 	<IMP>
 		<!-- 200.sti -->

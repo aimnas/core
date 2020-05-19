@@ -34,27 +34,27 @@
 	</ItemFlag>
 	<ItemFlag>
 		<id>128</id>
-		<name>Belt fed</name>
+		<name>Belt Fed</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>256</id>
-		<name>Ammobelt</name>
+		<name>Ammo Belt</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>512</id>
-		<name>Ammobelt vest</name>
+		<name>Ammo Belt Vest</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>1024</id>
-		<name>Camo removal</name>
+		<name>Camo Remover</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>2048</id>
-		<name>Cleaning Kit</name>
+		<name>Gun Cleaner</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>4096</id>
-		<name>Attention Item</name>
+		<name>Interesting Item (AI)</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>8192</id>
@@ -62,7 +62,11 @@
 	</ItemFlag>
 	<ItemFlag>
 		<id>16384</id>
-		<name>Covert</name>
+		<name>Covert Item</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>24576</id>
+		<name>Garotte + Covert Item</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>32768</id>
@@ -78,7 +82,11 @@
 	</ItemFlag>
 	<ItemFlag>
 		<id>262144</id>
-		<name>Jump Grenade</name>
+		<name>Jumping Grenade</name>
+	</ItemFlag>
+	<ItemFlag>
+		<id>419430</id>
+		<name>Scuba Mask</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>524288</id>
@@ -94,7 +102,7 @@
 	</ItemFlag>
 	<ItemFlag>
 		<id>4194304</id>
-		<name>Scuba Mask</name>
+		<name>Scuba Mask AIMNAS</name>
 	</ItemFlag>
 	<ItemFlag>
 		<id>8388608</id>
