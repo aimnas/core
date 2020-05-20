@@ -15,7 +15,9 @@ Regular package builds for the SVN are released, more information on these can b
 #### Updates
 * AIMNAS files are updated to JA2 1.13 rev **8790** / GameDir **2529**
 * Obsolete/garbage/redundant files are removed
+* De-germanization -- english subtitles returned back
 * Fix: added missed sound file "Ceramic Armour Insert.wav"
 * Fix: added foo files for new Dimitry/Ira speech ("D_059_100.ogg", "D_060_100.ogg")
 * Fix: corrected some XML files to cure a bunch of warnings in game logs (Profile directory)
 * Fix: added lacked San Mona settings in Mod_Setting.ini
+* Fix: corrected Heli coordinates for Skyrider quest completion
