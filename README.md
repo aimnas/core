@@ -15,11 +15,12 @@ Regular package builds for the SVN are released, more information on these can b
 #### Updates
 * Config files and lua scripts updated to JA2 1.13 rev **8790** / GameDir **2529**
 * Many settings now match v1.13 defaults
-* Obsolete/garbage/redundant files were removed
+* Obsolete/garbage/redundant files including german subtitles were removed
 * Fix: added missing sound file "Ceramic Armour Insert.wav"
 * Fix: added foo files for new Dimitry/Ira speech ("D_059_100.ogg", "D_060_100.ogg")
 * Fix: corrected some XML files to cure a bunch of warnings in game logs (Profile directory)
 * Fix: added lacked San Mona settings in Mod_Setting.ini
+* Fix: corrected Heli coordinates for Skyrider quest completion
 * Fix: added icon for "skilled officer" to prevent crash - "normal officer" now shows two bars instead of three - not to be confused with actual enemy ranks
 * Change: Enemy ranks to be slightly more intuitive
 * Change: Added support for factories
