@@ -454,7 +454,7 @@
 			<!-- create 7.62x39mm Box AP -->
 			<usItemToCreate>8218</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>9972</sGridNo_Creation>
+			<sGridNo_Creation>76204</sGridNo_Creation>
 			<sHourlyCost>70</sHourlyCost>
 			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
@@ -462,7 +462,7 @@
 			<!-- create 7.62x39mm Box HP -->
 			<usItemToCreate>8220</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>9973</sGridNo_Creation>
+			<sGridNo_Creation>76205</sGridNo_Creation>
 			<sHourlyCost>50</sHourlyCost>
 			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
@@ -470,7 +470,7 @@
 			<!-- create 7.62x39mm Box Tracer -->
 			<usItemToCreate>8224</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>9974</sGridNo_Creation>
+			<sGridNo_Creation>79084</sGridNo_Creation>
 			<sHourlyCost>100</sHourlyCost>
 			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
@@ -478,7 +478,7 @@
 			<!-- create 7.62x39mm Box Match -->
 			<usItemToCreate>8222</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>9975</sGridNo_Creation>
+			<sGridNo_Creation>79444</sGridNo_Creation>
 			<sHourlyCost>150</sHourlyCost>
 			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
@@ -487,7 +487,7 @@
 			<szProductionName>7.62x39 Box HP C</szProductionName> <!-- custom text, because the item text is very long ;-) -->
 			<usItemToCreate>8221</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>9977</sGridNo_Creation>
+			<sGridNo_Creation>80165</sGridNo_Creation>
 			<sHourlyCost>60</sHourlyCost>
 			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
@@ -1168,35 +1168,35 @@
 			<szAdditionalRequirementTips> - Requires storage access</szAdditionalRequirementTips>
 			<usItemToCreate>55</usItemToCreate>
 			<sMinutesRequired>600</sMinutesRequired>
-			<sGridNo_Creation>17023</sGridNo_Creation>
+			<sGridNo_Creation>65290</sGridNo_Creation>
 			<sHourlyCost>700</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- Auto Rocket Rifle -->
 			<usItemToCreate>65</usItemToCreate>
 			<sMinutesRequired>720</sMinutesRequired>
-			<sGridNo_Creation>17023</sGridNo_Creation>
+			<sGridNo_Creation>65291</sGridNo_Creation>
 			<sHourlyCost>700</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- Minirockets, AP -->
 			<usItemToCreate>7975</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>17026</sGridNo_Creation>
+			<sGridNo_Creation>65290</sGridNo_Creation>
 			<sHourlyCost>350</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- Minirockets, HE -->
 			<usItemToCreate>7978</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>17027</sGridNo_Creation>
+			<sGridNo_Creation>65290</sGridNo_Creation>
 			<sHourlyCost>350</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- Minirockets, HEAP -->
 			<usItemToCreate>7981</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>17028</sGridNo_Creation>
+			<sGridNo_Creation>65291</sGridNo_Creation>
 			<sHourlyCost>350</sHourlyCost>
 		</PRODUCTIONLINE>
 	</FACILITYTYPE>
@@ -1836,7 +1836,7 @@
 			<szAdditionalRequirementTips> - Requires: Doreen quest</szAdditionalRequirementTips>
 			<usItemToCreate>311</usItemToCreate>
 			<sMinutesRequired>10</sMinutesRequired>
-			<sGridNo_Creation>11306</sGridNo_Creation>
+			<sGridNo_Creation>49185</sGridNo_Creation>
 			<requires_staff>0</requires_staff>
 			<sHourlyCost>2</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
@@ -1845,7 +1845,7 @@
 			<!-- create rag -->
 			<usItemToCreate>336</usItemToCreate>
 			<sMinutesRequired>25</sMinutesRequired>
-			<sGridNo_Creation>11307</sGridNo_Creation>
+			<sGridNo_Creation>49545</sGridNo_Creation>
 			<sHourlyCost>6</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1854,7 +1854,7 @@
 			<!-- create Surgical mask from string + rag -->
 			<usItemToCreate>376</usItemToCreate>
 			<sMinutesRequired>35</sMinutesRequired>
-			<sGridNo_Creation>11309</sGridNo_Creation>
+			<sGridNo_Creation>44145</sGridNo_Creation>
 			<sHourlyCost>4</sHourlyCost>			
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1864,7 +1864,7 @@
 			<!-- create Arulco T-Shirt from string + rag (2x) -->
 			<usItemToCreate>2711</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>12758</sGridNo_Creation>
+			<sGridNo_Creation>43785</sGridNo_Creation>
 			<sHourlyCost>7</sHourlyCost>			
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1875,7 +1875,7 @@
 			<!-- create Deidranna T-Shirt from string + rag (2x) -->
 			<usItemToCreate>2712</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>12759</sGridNo_Creation>
+			<sGridNo_Creation>50986</sGridNo_Creation>
 			<sHourlyCost>7</sHourlyCost>			
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1886,7 +1886,7 @@
 			<!-- create green T-Shirt from string + rag (2x) -->
 			<usItemToCreate>1609</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
-			<sGridNo_Creation>12917</sGridNo_Creation>
+			<sGridNo_Creation>50985</sGridNo_Creation>
 			<sHourlyCost>7</sHourlyCost>			
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1905,7 +1905,7 @@
 			<szAdditionalRequirementTips> - Uniform requires upgrade</szAdditionalRequirementTips>
 			<usItemToCreate>2701</usItemToCreate>
 			<sMinutesRequired>300</sMinutesRequired>
-			<sGridNo_Creation>11316</sGridNo_Creation>
+			<sGridNo_Creation>42347</sGridNo_Creation>
 			<sHourlyCost>25</sHourlyCost>			
 			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1919,7 +1919,7 @@
 			<!-- create Field uniform from green T-Shirt, string (2x) + rag -->
 			<usItemToCreate>2701</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
-			<sGridNo_Creation>11316</sGridNo_Creation>
+			<sGridNo_Creation>42346</sGridNo_Creation>
 			<sHourlyCost>37</sHourlyCost>			
 			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1939,28 +1939,28 @@
 			<szAdditionalRequirementTips> - Requires: Hicks dead</szAdditionalRequirementTips>
 			<usItemToCreate>1801</usItemToCreate>
 			<sMinutesRequired>300</sMinutesRequired>
-			<sGridNo_Creation>15432</sGridNo_Creation>
+			<sGridNo_Creation>64584</sGridNo_Creation>
 			<sHourlyCost>2</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- bread -->
 			<usItemToCreate>1821</usItemToCreate>
 			<sMinutesRequired>100</sMinutesRequired>
-			<sGridNo_Creation>15592</sGridNo_Creation>
+			<sGridNo_Creation>64584</sGridNo_Creation>
 			<sHourlyCost>2</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- apple -->
 			<usItemToCreate>1822</usItemToCreate>
 			<sMinutesRequired>10</sMinutesRequired>
-			<sGridNo_Creation>15272</sGridNo_Creation>
+			<sGridNo_Creation>64584</sGridNo_Creation>
 			<sHourlyCost>3</sHourlyCost>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- milk -->
 			<usItemToCreate>1916</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>15112</sGridNo_Creation>
+			<sGridNo_Creation>64584</sGridNo_Creation>
 			<sHourlyCost>2</sHourlyCost>
 		</PRODUCTIONLINE>
 	</FACILITYTYPE>
@@ -1989,7 +1989,7 @@
 			<!-- 60mm Mortar Shell from TNT -->
 			<usItemToCreate>2553</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>19101</sGridNo_Creation>
+			<sGridNo_Creation>44062</sGridNo_Creation>
 			<requires_staff>1</requires_staff>
 			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
@@ -1998,7 +1998,7 @@
 			<!-- 60mm Mortar Shell from Mk2 Grenades -->
 			<usItemToCreate>2553</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>18941</sGridNo_Creation>
+			<sGridNo_Creation>44063</sGridNo_Creation>
 			<requires_staff>1</requires_staff>
 			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
@@ -2011,7 +2011,7 @@
 			<!-- 60mm Illumination Shell from Chemical Break Light -->
 			<usItemToCreate>2551</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>18781</sGridNo_Creation>
+			<sGridNo_Creation>44064</sGridNo_Creation>
 			<requires_staff>1</requires_staff>
 			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
@@ -2024,7 +2024,7 @@
 			<!-- 60mm Smoke Shell from Smoke Grenade -->
 			<usItemToCreate>2556</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>18461</sGridNo_Creation>
+			<sGridNo_Creation>44065</sGridNo_Creation>
 			<requires_staff>1</requires_staff>
 			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
@@ -2037,7 +2037,7 @@
 			<!-- 60mm Mustard Gas Shell from Mustard Gas Grenade -->
 			<usItemToCreate>2554</usItemToCreate>
 			<sMinutesRequired>60</sMinutesRequired>
-			<sGridNo_Creation>18141</sGridNo_Creation>
+			<sGridNo_Creation>44066</sGridNo_Creation>
 			<requires_staff>1</requires_staff>
 			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
