@@ -28,19 +28,19 @@ Enabled - show/hide rank
 	<uiIndex>4</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>4</ExpLevel>
-    <szRank>Specialist</szRank>
+    <szRank>Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>5</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>5</ExpLevel>
-    <szRank>Sergeant</szRank>
+    <szRank>Staff Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>6</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>6</ExpLevel>
-    <szRank>Staff Sergeant</szRank>
+    <szRank>Master Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>7</uiIndex>

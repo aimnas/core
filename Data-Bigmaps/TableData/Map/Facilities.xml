@@ -202,6 +202,12 @@
 
 	<FACILITY>
 		<SectorGrid>C13</SectorGrid>
+		<FacilityType>37</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>C13</SectorGrid>
 		<FacilityType>25</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>	
@@ -379,6 +385,13 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
+	<!-- Hicks farm -->
+	<FACILITY>
+		<SectorGrid>F10</SectorGrid>
+		<FacilityType>38</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
 	<FACILITY>
 		<SectorGrid>G1</SectorGrid>
 		<FacilityType>20</FacilityType>
@@ -394,6 +407,12 @@
 	<FACILITY>
 		<SectorGrid>G2</SectorGrid>
 		<FacilityType>6</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+
+	<FACILITY>
+		<SectorGrid>G2</SectorGrid>
+		<FacilityType>39</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
