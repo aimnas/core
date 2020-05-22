@@ -1,14 +1,17 @@
-# AIMNAS
+# BRAINMOD
 
-AIMNAS is an item/map modification for JA2 1.13, more info on the 1.13 mod can be found at http://ja2v113.pbworks.com
+Basically, it is AIMNAS mod tuned up to have more realistic game experience.
+I had no idea on how to call this modding work, so I named it BRAINMOD which stands for "Basic Realism Adjustments Is Not a MOD".
+Please look for all reference information about AIMNAS in README.md of "core" branch.
 
-#### Requirements
-AIMNAS currently requires atleast version **8163** of JA2 1.13 with gamedir atleast at level **2315**  
-Any earlier release of 1.13 will not work correctly with AIMNAS
-UPDATE: AIMNAS files were updated to 8790 / GameDir 2529
-
-#### JA2 1.13 download
-There are two separate releases of JA2 1.13, the legacy 7609 release and the constantly updated SVN release.
-AIMNAS only works with the SVN release, more information about this release can be found on the Bear's Pit forums at http://thepit.ja-galaxy-forum.com/
-
-Regular package builds for the SVN are released, more information on these can be found at http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=20380&goto=311288&#msg_311288
+#### Contents
+This MOD includes all updates and bug fixes from "core" branch.
+Key features are:
+* One tile is supposed to be around 4 meters, related parameters (effective range, loudness etc) of all weapons are adjusted to this axiom.
+* NCTH parameters are adjusted to actual game program, there is no more "airsoft" auto-firing, only good shooters can do a precise shot from long dinstance and so on.
+* Effects of bulletdrop are perceptible now.
+* You cannot repair non-repairable items like helmets and bulletproof vests.
+* Settings of difficulty levels are adjusted so that random numbers will not make you frustrating anymore. The more difficult game mode is chosen, the more tight, tough and smart Queen's Army becomes.
+* Game starts during a night (4 AM), when most of Omerta guards are probably asleep, and this gives additional coverage of initial Landing Zone.
+* Food system, diseases, Arulco Special Division and other Strategic Features are enabled and adjusted.
+* You will never see zombies or Crepitus (Creatures) in this game.
