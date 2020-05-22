@@ -450,6 +450,47 @@
 				<ubRange>10</ubRange>
 			</MORALE>
 		</ASSIGNMENT>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box AP -->
+			<usItemToCreate>8218</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>76204</sGridNo_Creation>
+			<sHourlyCost>70</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box HP -->
+			<usItemToCreate>8220</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>76205</sGridNo_Creation>
+			<sHourlyCost>50</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box Tracer -->
+			<usItemToCreate>8224</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>79084</sGridNo_Creation>
+			<sHourlyCost>100</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box Match -->
+			<usItemToCreate>8222</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>79444</sGridNo_Creation>
+			<sHourlyCost>150</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create 7.62x39mm Box HP Cold -->
+			<szProductionName>7.62x39 Box HP C</szProductionName> <!-- custom text, because the item text is very long ;-) -->
+			<usItemToCreate>8221</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>80165</sGridNo_Creation>
+			<sHourlyCost>60</sHourlyCost>
+			<usOptional_LoyaltyRequired>35</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
@@ -494,6 +535,26 @@
 				<bBaseEffect>1</bBaseEffect>
 				<ubRange>2</ubRange>
 			</LEADERSHIP>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA_GLOBAL</ubAssignmentType>
+			<szTooltipText>Take control of local information channels and control the flow of news in the entire region.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>50</ubMinimumLeadership>
+				<usPerformance>80</usPerformance>
+			</CONDITIONS>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>STRATEGIC_MILITIA_MOVEMENT</ubAssignmentType>
+			<szTooltipText>This military installation has a war room that allows you to move your militia in the strategic screen.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>70</ubMinimumWisdom>
+				<ubMinimumLeadership>70</ubMinimumLeadership>
+				<ubMinimumLevel>5</ubMinimumLevel>
+			</CONDITIONS>
 		</ASSIGNMENT>
 		<ASSIGNMENT>
 			<ubAssignmentType>TRAINER_LEADERSHIP</ubAssignmentType>
@@ -607,6 +668,17 @@
 				<bBaseEffect>1</bBaseEffect>
 				<ubRange>0</ubRange>
 			</LEADERSHIP>
+		</ASSIGNMENT>
+		<ASSIGNMENT>
+			<ubAssignmentType>SPREAD_PROPAGANDA</ubAssignmentType>
+			<szTooltipText>Turn this small local office into a well-oiled propaganda machine, suppressing any bad news that reaches town and showing our actions in the best possible light.</szTooltipText>
+			<ubStaffLimit>1</ubStaffLimit>
+			<CONDITIONS>
+				<ubMinimumWisdom>60</ubMinimumWisdom>
+				<ubMinimumLeadership>20</ubMinimumLeadership>
+				<ubMinimumLoyaltyHere>20</ubMinimumLoyaltyHere>
+				<usPerformance>150</usPerformance>
+			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
 
@@ -1091,6 +1163,42 @@
 				<ubRange>40</ubRange>
 			</INJURY>
 		</ASSIGNMENT>
+		<PRODUCTIONLINE>
+			<!-- Rocket Rifle -->
+			<szAdditionalRequirementTips> - Requires storage access</szAdditionalRequirementTips>
+			<usItemToCreate>55</usItemToCreate>
+			<sMinutesRequired>600</sMinutesRequired>
+			<sGridNo_Creation>65290</sGridNo_Creation>
+			<sHourlyCost>700</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Auto Rocket Rifle -->
+			<usItemToCreate>65</usItemToCreate>
+			<sMinutesRequired>720</sMinutesRequired>
+			<sGridNo_Creation>65291</sGridNo_Creation>
+			<sHourlyCost>700</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, AP -->
+			<usItemToCreate>7975</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>65290</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, HE -->
+			<usItemToCreate>7978</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>65290</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- Minirockets, HEAP -->
+			<usItemToCreate>7981</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>65291</sGridNo_Creation>
+			<sHourlyCost>350</sHourlyCost>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 
 	<FACILITYTYPE>
@@ -1632,7 +1740,8 @@
 			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
-		<FACILITYTYPE>
+
+	<FACILITYTYPE>
 		<ubIndex>35</ubIndex>
 		<szFacilityName>Border Checkpoint</szFacilityName>
 		<szFacilityShortName>Boder Checkpoint</szFacilityShortName>
@@ -1648,7 +1757,8 @@
 			</CONDITIONS>
 		</ASSIGNMENT>
 	</FACILITYTYPE>
-		<FACILITYTYPE>
+
+	<FACILITYTYPE>
 		<ubIndex>36</ubIndex>
 		<szFacilityName>Navy Base</szFacilityName>
 		<szFacilityShortName>Navy Base</szFacilityShortName>
@@ -1714,5 +1824,227 @@
 				<ubRange>10</ubRange>
 			</MORALE>
 		</ASSIGNMENT>
+	</FACILITYTYPE>
+
+	<FACILITYTYPE>
+		<ubIndex>37</ubIndex>
+		<szFacilityName>T-Shirt Factory</szFacilityName>
+		<szFacilityShortName>Factory</szFacilityShortName>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<PRODUCTIONLINE>
+			<!-- create string -->
+			<szAdditionalRequirementTips> - Requires: Doreen quest</szAdditionalRequirementTips>
+			<usItemToCreate>311</usItemToCreate>
+			<sMinutesRequired>10</sMinutesRequired>
+			<sGridNo_Creation>49185</sGridNo_Creation>
+			<requires_staff>0</requires_staff>
+			<sHourlyCost>2</sHourlyCost>
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create rag -->
+			<usItemToCreate>336</usItemToCreate>
+			<sMinutesRequired>25</sMinutesRequired>
+			<sGridNo_Creation>49545</sGridNo_Creation>
+			<sHourlyCost>6</sHourlyCost>
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Surgical mask from string + rag -->
+			<usItemToCreate>376</usItemToCreate>
+			<sMinutesRequired>35</sMinutesRequired>
+			<sGridNo_Creation>44145</sGridNo_Creation>
+			<sHourlyCost>4</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Arulco T-Shirt from string + rag (2x) -->
+			<usItemToCreate>2711</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>43785</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Deidranna T-Shirt from string + rag (2x) -->
+			<usItemToCreate>2712</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>50986</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create green T-Shirt from string + rag (2x) -->
+			<usItemToCreate>1609</usItemToCreate>
+			<sMinutesRequired>120</sMinutesRequired>
+			<sGridNo_Creation>50985</sGridNo_Creation>
+			<sHourlyCost>7</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- we have to build an upgrade before we can create uniforms -->
+			<szProductionName>Upgrade</szProductionName>
+			<sMinutesRequired>181</sMinutesRequired>
+			<sHourlyCost>100</sHourlyCost>			
+			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Field uniform from string (3x) + rag (3x) -->
+			<szAdditionalRequirementTips> - Uniform requires upgrade</szAdditionalRequirementTips>
+			<usItemToCreate>2701</usItemToCreate>
+			<sMinutesRequired>300</sMinutesRequired>
+			<sGridNo_Creation>42347</sGridNo_Creation>
+			<sHourlyCost>25</sHourlyCost>			
+			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- create Field uniform from green T-Shirt, string (2x) + rag -->
+			<usItemToCreate>2701</usItemToCreate>
+			<sMinutesRequired>180</sMinutesRequired>
+			<sGridNo_Creation>42346</sGridNo_Creation>
+			<sHourlyCost>37</sHourlyCost>			
+			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>1609</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>38</ubIndex>
+		<szFacilityName>Hicks Farm</szFacilityName>
+		<szFacilityShortName>Farm</szFacilityShortName>
+		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<PRODUCTIONLINE>
+			<!-- cow meat -->
+			<szAdditionalRequirementTips> - Requires: Hicks dead</szAdditionalRequirementTips>
+			<usItemToCreate>1801</usItemToCreate>
+			<sMinutesRequired>300</sMinutesRequired>
+			<sGridNo_Creation>64584</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- bread -->
+			<usItemToCreate>1821</usItemToCreate>
+			<sMinutesRequired>100</sMinutesRequired>
+			<sGridNo_Creation>64584</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- apple -->
+			<usItemToCreate>1822</usItemToCreate>
+			<sMinutesRequired>10</sMinutesRequired>
+			<sGridNo_Creation>64584</sGridNo_Creation>
+			<sHourlyCost>3</sHourlyCost>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- milk -->
+			<usItemToCreate>1916</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>64584</sGridNo_Creation>
+			<sHourlyCost>2</sHourlyCost>
+		</PRODUCTIONLINE>
+	</FACILITYTYPE>
+	
+	<FACILITYTYPE>
+		<ubIndex>39</ubIndex>
+		<szFacilityName>Bomb Workshop</szFacilityName>
+		<szFacilityShortName>Workshop</szFacilityShortName>
+		<ubTotalStaffLimit>2</ubTotalStaffLimit>
+		<ASSIGNMENT>
+			<ubAssignmentType>PRACTICE_EXPLOSIVES</ubAssignmentType>
+			<szTooltipText>This well-equipped workshop has the tools you need to create some makeshift bombs. Very dangerous, but it just might be worth it.</szTooltipText>
+			<ubStaffLimit>2</ubStaffLimit>
+			<usPerformance>150</usPerformance>
+			<CONDITIONS>
+				<ubMinimumExplosives>70</ubMinimumExplosives>
+				<ubMinimumMechanical>50</ubMinimumMechanical>
+			</CONDITIONS>
+			<INJURY>
+				<ubChance>50</ubChance>
+				<bBaseEffect>-5</bBaseEffect>
+				<ubRange>4</ubRange>
+			</INJURY>
+		</ASSIGNMENT>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mortar Shell from TNT -->
+			<usItemToCreate>2553</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>44062</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>137</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mortar Shell from Mk2 Grenades -->
+			<usItemToCreate>2553</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>44063</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2221</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Illumination Shell from Chemical Break Light -->
+			<usItemToCreate>2551</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>44064</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2201</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Smoke Shell from Smoke Grenade -->
+			<usItemToCreate>2556</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>44065</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2281</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
+		<PRODUCTIONLINE>
+			<!-- 60mm Mustard Gas Shell from Mustard Gas Grenade -->
+			<usItemToCreate>2554</usItemToCreate>
+			<sMinutesRequired>60</sMinutesRequired>
+			<sGridNo_Creation>44066</sGridNo_Creation>
+			<requires_staff>1</requires_staff>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>2271</usOptional_ItemUsedUp>
+		</PRODUCTIONLINE>
 	</FACILITYTYPE>
 </FACILITYTYPES>

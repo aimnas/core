@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 
 uiIndex:			The profile index from BinaryData\prof.dat or from TableData\MercProfiles.xml
 Name:				The name of the vehicle, which is displayed for example in tactical, when hovering the mouse over the vehicle.
@@ -31,7 +31,6 @@ OffsetY:			Offset of seat position inside vehicle (relative to middle grid) in X
 Compartment			Seats in different compartments cannot be swapped in combat.
 
 -->
-
 <VEHICLES>
 	<VEHICLE>
 		<uiIndex>0</uiIndex>
@@ -39,9 +38,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -62,9 +62,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -76,9 +77,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -90,9 +92,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -104,9 +107,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -118,9 +122,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -132,9 +137,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -146,9 +152,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -160,9 +167,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -174,9 +182,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -188,9 +197,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -202,9 +212,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -216,9 +227,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -230,9 +242,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -244,9 +257,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -258,9 +272,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -272,9 +287,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -286,9 +302,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -300,9 +317,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -314,9 +332,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -328,9 +347,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -342,9 +362,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -356,9 +377,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -370,9 +392,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -384,9 +407,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -398,9 +422,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -412,9 +437,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -426,9 +452,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -440,9 +467,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -454,9 +482,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -468,9 +497,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -482,9 +512,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -496,9 +527,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -510,9 +542,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -524,9 +557,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -538,9 +572,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -552,9 +587,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -566,9 +602,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -580,9 +617,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -594,9 +632,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -608,9 +647,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -622,9 +662,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -636,9 +677,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -650,9 +692,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -664,9 +707,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -678,9 +722,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -692,9 +737,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -706,9 +752,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -720,9 +767,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -734,9 +782,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -748,9 +797,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -762,9 +812,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -776,9 +827,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -790,9 +842,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -804,9 +857,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -818,9 +872,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -832,9 +887,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -846,9 +902,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -860,9 +917,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -874,9 +932,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -888,9 +947,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -902,9 +962,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -916,9 +977,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -930,9 +992,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -944,9 +1007,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -958,9 +1022,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -972,9 +1037,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -986,9 +1052,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1000,9 +1067,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1014,9 +1082,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1028,9 +1097,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1046,8 +1116,8 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>0</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		<VehicleArmourType>167</VehicleArmourType>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>164</VehicleArmourType>
 		<VehicleEnabled>0</VehicleEnabled>
 		<Neutral>0</Neutral>
 		<Pilot>-1</Pilot>
@@ -1058,9 +1128,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1072,9 +1143,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1086,9 +1158,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1100,9 +1173,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1114,9 +1188,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1128,9 +1203,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1142,9 +1218,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1156,9 +1233,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1170,9 +1248,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1184,9 +1263,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1198,9 +1278,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1212,9 +1293,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1226,9 +1308,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1240,9 +1323,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1254,9 +1338,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1268,9 +1353,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1282,9 +1368,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1296,9 +1383,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1310,9 +1398,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1324,9 +1413,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1338,9 +1428,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1352,9 +1443,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1366,9 +1458,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1380,9 +1473,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1394,9 +1488,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1408,9 +1503,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1422,9 +1518,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1436,9 +1533,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1450,9 +1548,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1464,10 +1563,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1479,10 +1578,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1494,10 +1593,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1509,10 +1608,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1524,10 +1623,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1539,10 +1638,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1554,10 +1653,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1569,10 +1668,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1584,10 +1683,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1599,10 +1698,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1614,10 +1713,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1629,10 +1728,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1644,10 +1743,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1659,10 +1758,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1674,10 +1773,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1689,10 +1788,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1704,10 +1803,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1719,10 +1818,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1734,10 +1833,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1749,10 +1848,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1764,10 +1863,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1779,10 +1878,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1794,10 +1893,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1809,10 +1908,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1824,10 +1923,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1839,10 +1938,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1854,10 +1953,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1869,10 +1968,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1884,10 +1983,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1899,10 +1998,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1914,10 +2013,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1929,10 +2028,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1944,10 +2043,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1959,10 +2058,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1974,10 +2073,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -1989,10 +2088,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2004,10 +2103,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2019,10 +2118,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2034,10 +2133,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2049,10 +2148,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2064,10 +2163,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2079,10 +2178,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2094,10 +2193,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2109,10 +2208,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2124,10 +2223,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2139,10 +2238,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2154,10 +2253,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2169,10 +2268,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2184,10 +2283,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2199,10 +2298,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2214,10 +2313,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2229,10 +2328,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2244,10 +2343,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2259,10 +2358,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2274,10 +2373,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2289,10 +2388,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2304,10 +2403,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2319,10 +2418,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2334,9 +2433,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2350,7 +2450,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<ShortName>Hummer</ShortName>
 		<MvtTypes>1</MvtTypes>
 		<StiFaceIcon>INTERFACE\Hummer.sti</StiFaceIcon>
-		<SeatingCapacities>10</SeatingCapacities>
+		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>86</EnterVehicleSndID>
 		<MoveVehicleSndID>83</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
@@ -2388,14 +2488,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>4</SeatIndex>
-			<SeatName>Interior #1</SeatName>
+			<SeatName>Middle Back Seat</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>5</SeatIndex>
-			<SeatName>Interior #2</SeatName>		
+			<SeatName>Center Seat</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -2623,6 +2723,7 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName>Helicopter</LongName>
 		<ShortName>Heli</ShortName>	
 		<MvtTypes>4</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
@@ -2648,16 +2749,16 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<Neutral>0</Neutral>
 		<Pilot>-1</Pilot>
 	</VEHICLE>
-		<!-- End Jeep\Tank -->
 	<VEHICLE>
 		<uiIndex>165</uiIndex>
 		<Name>None</Name>
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>		
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2669,10 +2770,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2684,10 +2785,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2699,10 +2800,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2714,10 +2815,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2729,10 +2830,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2744,10 +2845,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2759,10 +2860,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2774,10 +2875,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2789,10 +2890,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2804,9 +2905,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2818,9 +2920,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>	
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>	
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2832,9 +2935,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2846,10 +2950,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2861,10 +2965,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2876,10 +2980,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2891,10 +2995,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2906,10 +3010,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2921,10 +3025,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2936,10 +3040,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2951,10 +3055,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2966,10 +3070,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2981,10 +3085,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -2996,10 +3100,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3011,10 +3115,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3026,10 +3130,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3041,10 +3145,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3056,10 +3160,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3071,10 +3175,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3086,10 +3190,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3101,10 +3205,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3116,10 +3220,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3131,10 +3235,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3146,10 +3250,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -3157,47 +3261,19 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>199</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		<VehicleArmourType>164</VehicleArmourType>
-		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
-		<Pilot>-1</Pilot>
-	</VEHICLE>
-	<VEHICLE>
-		<uiIndex>200</uiIndex>
-		<Name>None</Name>
-		<LongName></LongName>
-		<ShortName></ShortName>
-		<MvtTypes>0</MvtTypes>
-		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		<VehicleArmourType>164</VehicleArmourType>
-		<Neutral>1</Neutral>
-		<VehicleEnabled>0</VehicleEnabled>
-		<Pilot>-1</Pilot>
-	</VEHICLE>
-	<VEHICLE>
-		<uiIndex>201</uiIndex>
-		<Name>Jeep 1</Name>	
-		<LongName>Jeep 1</LongName>
-		<ShortName>Jeep 1</ShortName>	
+		<Name>Jeep</Name>
+		<LongName>Jeep</LongName>
+		<ShortName>Jeep</ShortName>
 		<MvtTypes>1</MvtTypes>
-		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
-		<SeatingCapacities>10</SeatingCapacities>
+		<StiFaceIcon>INTERFACE\Jeep.sti</StiFaceIcon>
+		<SeatingCapacities>4</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
-		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
+		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
-		<SEAT>
+			<SEAT>
 			<SeatIndex>0</SeatIndex>
 			<SeatName>Driver</SeatName>
 			<Driver>1</Driver>
@@ -3264,6 +3340,107 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
 			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+	</VEHICLE>
+	<VEHICLE>
+		<uiIndex>200</uiIndex>
+		<Name>None</Name>
+		<LongName></LongName>
+		<ShortName></ShortName>
+		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
+		<SeatingCapacities>6</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>164</VehicleArmourType>
+		<Neutral>1</Neutral>
+		<VehicleEnabled>0</VehicleEnabled>
+		<Pilot>-1</Pilot>
+	</VEHICLE>
+	<VEHICLE>
+		<uiIndex>201</uiIndex>
+		<Name>Jeep /A10</Name>	
+		<LongName>Rebel's Jeep from A10</LongName>
+		<ShortName>Jeep</ShortName>	
+		<MvtTypes>1</MvtTypes>
+		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
+		<SeatingCapacities>5</SeatingCapacities>
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<VehicleArmourType>167</VehicleArmourType>
+		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
+		<Pilot>-1</Pilot>
+		<SEAT>
+			<SeatIndex>0</SeatIndex>
+			<SeatName>Driver</SeatName>
+			<Driver>1</Driver>
+			<Rotation>0</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>1</SeatIndex>
+			<SeatName>Riding Shotgun</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>1</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>2</SeatIndex>
+			<SeatName>Left Back Seat</SeatName>
+			<Rotation>7</Rotation>
+			<OffsetX>-1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>3</SeatIndex>
+			<SeatName>Right Back Seat</SeatName>		
+			<Rotation>1</Rotation>
+			<OffsetX>1</OffsetX>
+			<OffsetY>0</OffsetY>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>4</SeatIndex>
+			<SeatName>Middle Back Seat</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>5</SeatIndex>
+			<SeatName>Interior #2</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>6</SeatIndex>
+			<SeatName>Interior #3</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>7</SeatIndex>
+			<SeatName>Interior #4</SeatName>		
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>8</SeatIndex>
+			<SeatName>Interior #5</SeatName>
+			<Rotation>0</Rotation>
+			<BlockedView>1</BlockedView>
+			<BlockedShots>1</BlockedShots>
+		</SEAT>
+		<SEAT>
+			<SeatIndex>9</SeatIndex>
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3280,8 +3457,8 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3342,14 +3519,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3366,8 +3543,8 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<EnterVehicleSndID>85</EnterVehicleSndID>
 		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3428,14 +3605,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3450,10 +3627,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3514,14 +3691,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3536,10 +3713,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3600,14 +3777,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3622,10 +3799,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3686,14 +3863,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3708,10 +3885,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3772,14 +3949,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3794,10 +3971,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3858,14 +4035,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3880,10 +4057,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -3944,14 +4121,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -3966,10 +4143,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<StiFaceIcon>INTERFACE\JEEP.sti</StiFaceIcon>
 		<SeatingCapacities>10</SeatingCapacities>
 		<EnterVehicleSndID>85</EnterVehicleSndID>
-		<MoveVehicleSndID>82</MoveVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>167</VehicleArmourType>
-		<VehicleEnabled>1</VehicleEnabled>
 		<Neutral>1</Neutral>
+		<VehicleEnabled>1</VehicleEnabled>
 		<Pilot>-1</Pilot>
 		<SEAT>
 			<SeatIndex>0</SeatIndex>
@@ -4030,14 +4207,14 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		</SEAT>
 		<SEAT>
 			<SeatIndex>8</SeatIndex>
-			<SeatName>Interior #3</SeatName>
+			<SeatName>Interior #5</SeatName>
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
 		</SEAT>
 		<SEAT>
 			<SeatIndex>9</SeatIndex>
-			<SeatName>Interior #4</SeatName>		
+			<SeatName>Interior #6</SeatName>		
 			<Rotation>0</Rotation>
 			<BlockedView>1</BlockedView>
 			<BlockedShots>1</BlockedShots>
@@ -4049,10 +4226,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4064,10 +4241,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4079,10 +4256,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4094,10 +4271,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4109,10 +4286,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4124,10 +4301,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4139,10 +4316,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4154,10 +4331,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4169,10 +4346,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4184,10 +4361,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4199,10 +4376,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4214,10 +4391,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4229,10 +4406,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4244,10 +4421,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4259,10 +4436,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4274,10 +4451,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4289,10 +4466,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4304,10 +4481,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4319,10 +4496,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4334,10 +4511,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4349,10 +4526,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4364,10 +4541,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4379,10 +4556,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4394,10 +4571,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4409,10 +4586,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4424,10 +4601,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4439,10 +4616,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4454,10 +4631,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4469,10 +4646,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4484,10 +4661,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4499,10 +4676,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4514,10 +4691,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4529,10 +4706,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4544,10 +4721,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4559,10 +4736,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4574,10 +4751,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4589,10 +4766,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4604,10 +4781,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4619,10 +4796,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4634,10 +4811,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4649,10 +4826,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4664,10 +4841,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4679,10 +4856,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>
@@ -4694,10 +4871,10 @@ Compartment			Seats in different compartments cannot be swapped in combat.
 		<LongName></LongName>
 		<ShortName></ShortName>
 		<MvtTypes>0</MvtTypes>
+		<StiFaceIcon></StiFaceIcon>
 		<SeatingCapacities>6</SeatingCapacities>
-		<EnterVehicleSndID>86</EnterVehicleSndID>
-		<MoveVehicleSndID>83</MoveVehicleSndID>
-		
+		<EnterVehicleSndID>85</EnterVehicleSndID>
+		<MoveVehicleSndID>82</MoveVehicleSndID>		
 		<VehicleArmourType>164</VehicleArmourType>
 		<Neutral>1</Neutral>
 		<VehicleEnabled>0</VehicleEnabled>

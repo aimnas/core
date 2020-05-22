@@ -356,7 +356,7 @@
 	</NAME>
 	<NAME>
 		<uiIndex>71</uiIndex>
-		<description>Combat Jeep</description>
+		<description>Combat jeep</description>
 		<Hidden>1</Hidden>
 	</NAME>
 	<NAME>
@@ -846,8 +846,8 @@
 	</NAME>
 	<NAME>
 		<uiIndex>169</uiIndex>
-		<description></description>
-		<Hidden>1</Hidden>
+		<description>PGmale4</description>
+		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>170</uiIndex>
@@ -961,17 +961,17 @@
 	</NAME>
 	<NAME>
 		<uiIndex>192</uiIndex>
-		<description></description>
+		<description>PGmale5</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>193</uiIndex>
-		<description></description>
+		<description>PGmale6</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>194</uiIndex>
-		<description></description>
+		<description>PGmale7</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
@@ -996,7 +996,7 @@
 	</NAME>
 	<NAME>
 		<uiIndex>199</uiIndex>
-		<description></description>
+		<description>Jeep</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
@@ -1076,7 +1076,7 @@
 	</NAME>
 	<NAME>
 		<uiIndex>215</uiIndex>
-		<description></description>
+		<description>Buns</description>
 		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
@@ -1087,12 +1087,12 @@
 	<NAME>
 		<uiIndex>217</uiIndex>
 		<description></description>
-		<Hidden>1</Hidden>
+		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>218</uiIndex>
 		<description></description>
-		<Hidden>1</Hidden>
+		<Hidden>0</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>219</uiIndex>
@@ -1147,7 +1147,7 @@
 	<NAME>
 		<uiIndex>229</uiIndex>
 		<description>Manuel</description>
-		<Hidden>0</Hidden>
+		<Hidden>1</Hidden>
 	</NAME>
 	<NAME>
 		<uiIndex>230</uiIndex>

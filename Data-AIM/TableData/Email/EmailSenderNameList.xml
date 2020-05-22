@@ -16,7 +16,7 @@ Each A.I.M merc has an entry here in the file, mapped to a specific uiIndex.
 	<NAME>
 		<!-- Mails from Enrico -->
 		<uiIndex>0</uiIndex>
-		<Name>Robert</Name>
+		<Name>Enrico</Name>
 	</NAME>
 	<NAME>
 		<!-- Mails from Psyich Pro Inc (IMP) -->
@@ -230,12 +230,13 @@ Each A.I.M merc has an entry here in the file, mapped to a specific uiIndex.
 		<Name>A.I.M.</Name>
 	</NAME>
 	<NAME>
+    <!-- Mails from the PMC -->
 		<uiIndex>51</uiIndex>
-		<Name>None</Name>
+		<Name>Kerberus Inc</Name>
 	</NAME>
 	<NAME>
 		<uiIndex>52</uiIndex>
-		<Name>None</Name>
+		<Name>Angel DaSilva</Name>
 	</NAME>
 	<NAME>
 		<uiIndex>53</uiIndex>

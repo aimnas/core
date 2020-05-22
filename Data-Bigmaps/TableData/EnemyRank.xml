@@ -22,42 +22,48 @@ Enabled - show/hide rank
 	<uiIndex>3</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>3</ExpLevel>
-    <szRank>Private 1st Cl</szRank>
+    <szRank>Corporal</szRank>
   </RANK>
   <RANK>
 	<uiIndex>4</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>4</ExpLevel>
-    <szRank>Lance Corporal</szRank>
+    <szRank>Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>5</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>5</ExpLevel>
-    <szRank>Corporal</szRank>
+    <szRank>Staff Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>6</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>6</ExpLevel>
-    <szRank>Sergeant</szRank>
+    <szRank>Master Sergeant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>7</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>7</ExpLevel>
-    <szRank>Staff Sergeant</szRank>
+    <szRank>Lieutenant</szRank>
   </RANK>
   <RANK>
 	<uiIndex>8</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>8</ExpLevel>
-    <szRank>Master Sergeant</szRank>
+    <szRank>Captain</szRank>
   </RANK>
   <RANK>
 	<uiIndex>9</uiIndex>
 	<Enabled>1</Enabled>
 	<ExpLevel>9</ExpLevel>
-    <szRank>Sergeant Major</szRank>
+    <szRank>Major</szRank>
+  </RANK>
+  <RANK>
+	<uiIndex>10</uiIndex>
+	<Enabled>1</Enabled>
+	<ExpLevel>10</ExpLevel>
+    <szRank>Colonel</szRank>
   </RANK>
 </ENEMY_RANK>
