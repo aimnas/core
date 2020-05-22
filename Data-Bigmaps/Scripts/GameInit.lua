@@ -1,5 +1,5 @@
 --[[
-http://www.legion.zone.zg.pl/doku.php/modowanie/ja/art_ja_m_22_lua
+http://legion.itzg.pl/mzgb/pmwiki/pmwiki.php?n=JaggedAlliance2UBV1.Jav113lua
 
 **********************
 ** Global variables **
@@ -85,6 +85,9 @@ http://www.legion.zone.zg.pl/doku.php/modowanie/ja/art_ja_m_22_lua
 		iCurrentIMPPosition - Default = -1, or the profile ID of the IMP 
 		iCurrentShipmentDestinationID - Default = -1, or the Bobby Ray shipment destination ID
 
+	- HireMerc (MercID)
+		hires the merc with the specified MercID
+
 
 **************        
 ** Examples **
@@ -143,6 +146,9 @@ http://www.legion.zone.zg.pl/doku.php/modowanie/ja/art_ja_m_22_lua
 	
 	-- Add alternative sector C1-3
 	AddAltUGSectorNew(3,1,3)
+	
+	-- Hire Ivan
+	HireMerc(7)
 ]]
 
 -- max number of lines can be shown in a message
@@ -280,7 +286,7 @@ local BOBBY_R_MEDUNA_SHIPMENT_LENGTH = 	4
 
 local iStartingCash = 0
 
-Fincances = 
+Finances = 
 {
 	ACCRUED_INTEREST = 0,
 	ANONYMOUS_DEPOSIT = 1,
@@ -403,22 +409,22 @@ function InitNPCs()
 		i = math.random(1, 4)
 		if i == 1 then
 			--H7
-			AddAltSectorNew( 7, SectorY.MAP_ROW_H )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_1_X, iniADD_MADLAB_SECTOR_1_Y )
 		elseif i == 2 then
 			--H16
-			AddAltSectorNew( 16, SectorY.MAP_ROW_H )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_2_X, iniADD_MADLAB_SECTOR_2_Y )
 		elseif i == 3 then	
 			--I11
-			AddAltSectorNew( 11, SectorY.MAP_ROW_I )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_3_X, iniADD_MADLAB_SECTOR_3_Y )
 		elseif i == 4 then
 			--E4
-			AddAltSectorNew( 4, SectorY.MAP_ROW_E )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_4_X, iniADD_MADLAB_SECTOR_4_Y )
 		end
 	end
 	
 	if is_networked == 1 then
 		--H7
-		AddAltSectorNew( 7, SectorY.MAP_ROW_H )
+		AddAltSectorNew( iniADD_MADLAB_SECTOR_1_X, iniADD_MADLAB_SECTOR_1_Y )
 	end
 
 	-- Add Micky in random location
@@ -429,7 +435,7 @@ function InitNPCs()
 			AddNPCtoSector( Profil.Micky, 9, SectorY.MAP_ROW_G, 0 ) 
 		elseif i == 2 then
 			-- D14
-			AddNPCtoSector( Profil.Micky, 14, SectorY.MAP_ROW_D, 0 ) 
+			AddNPCtoSector( Profil.Micky, 13, SectorY.MAP_ROW_D, 0 ) 
 		elseif i == 3 then	
 			-- C5
 			AddNPCtoSector( Profil.Micky, 5, SectorY.MAP_ROW_C, 0 )
@@ -471,7 +477,8 @@ function InitNPCs()
 	end
 
 	-- Not SciFi, so use alternate map in Tixa's B1 level that doesn't have the stairs going down to the caves.
-	if 	(newGAME_STYLE == 0 and iniENABLE_CREPITUS == 0) then
+	if 	(newGAME_STYLE == 1 and iniENABLE_CREPITUS == 1) then	
+	else
 		--J9-1
 		AddAltUGSectorNew( 9, SectorY.MAP_ROW_J, 1 )
 	end
@@ -506,7 +513,6 @@ function InitNewGame()
 	
 	--	Get starting cash from JA2Options.ini
 	--[[
-		
 	if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 		iStartingCash = GetStartingCashNovice()
 	elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
@@ -516,7 +522,6 @@ function InitNewGame()
 	elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 		iStartingCash = GetStartingCashInsane()
 	end
-	
-	AddTransactionToPlayersBook( Fincances.ANONYMOUS_DEPOSIT, 0, GetWorldTotalMin(), iStartingCash )
+	AddTransactionToPlayersBook( Finances.ANONYMOUS_DEPOSIT, 0, GetWorldTotalMin(), iStartingCash )
 ]]
 end

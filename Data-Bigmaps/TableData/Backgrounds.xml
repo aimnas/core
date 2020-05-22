@@ -52,27 +52,27 @@
 		<resistance_disease>0</resistance_disease>
 
 		<!--various boni-->
-		<interrogation>0</interrogation>	<!-- +- prisoner interrogation strength, -50 to 300 -->
-		<prisonguard>0</prisonguard>		<!-- +- prison guard strength, -50 to 300 -->
-		<betterprices_guns>0</betterprices_guns>          <!-- +- % prices when trading guns and ammo, -10 to 10 -->
-		<betterprices>0</betterprices>                    <!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
-		<capitulation>0</capitulation>                    <!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
-		<speed_run>0</speed_run>                          <!-- +- running speed, -50 to 50 -->
-		<speed_bandaging>0</speed_bandaging>              <!-- +- bandaging speed, -50 to 50 -->
-		<drink_energyregen>0</drink_energyregen>  <!-- +- % breath restored by drinking, -80 to 300 -->
-		<carrystrength>0</carrystrength>                  <!-- +- % strength for weight calculations, -20 to 20 -->
-		<food>0</food>				<!-- +- % need for food, -50 to 100 -->
-		<water>0</water>			<!-- +- % need for water, -50 to 100 -->
+		<interrogation>0</interrogation>				<!-- +- prisoner interrogation strength, -50 to 300 -->
+		<prisonguard>0</prisonguard>					<!-- +- prison guard strength, -50 to 300 -->
+		<betterprices_guns>0</betterprices_guns>        <!-- +- % prices when trading guns and ammo, -10 to 10 -->
+		<betterprices>0</betterprices>      			<!-- +- % prices when trading armour, lbe, blades, kits etc., -20 to 20 -->
+		<capitulation>0</capitulation>      			<!-- +- % total team strength when asking enemy for surrender, -50 to 100 -->
+		<speed_run>0</speed_run>            			<!-- +- running speed, -50 to 50 -->
+		<speed_bandaging>0</speed_bandaging>            <!-- +- bandaging speed, -50 to 50 -->
+		<drink_energyregen>0</drink_energyregen>  	    <!-- +- % breath restored by drinking, -80 to 300 -->
+		<carrystrength>0</carrystrength>                <!-- +- % strength for weight calculations, -20 to 20 -->
+		<food>0</food>									<!-- +- % need for food, -50 to 100 -->
+		<water>0</water>								<!-- +- % need for water, -50 to 100 -->
 		<sleep>0</sleep>			<!-- +- need for sleep, -1 to 1 -->
-		<meleedamage>0</meleedamage>		<!-- +- damage with melee attacks, -10 to 10 -->
-		<cth_blades>0</cth_blades>		<!-- +- cth with blade weapons, -10 to 10 -->
-		<camo>0</camo>				<!-- +- effectiveness, -20 to 20 -->
-		<stealth>0</stealth>			<!-- +- effectiveness, -20 to 20 -->
-		<increased_maxcth>0</increased_maxcth>	<!-- +- max possible cth, -5 to 5 -->
-		<hearing_night>0</hearing_night>	<!-- +- hearing range, -5 to 2 -->
-		<hearing_day>0</hearing_day>		<!-- +- hearing range, -5 to 2 -->
-		<disarm_trap>0</disarm_trap>                      <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
-		<SAM_cth>0</SAM_cth>				<!-- +- % CTH with SAMs, -50 to 100 -->
+		<meleedamage>0</meleedamage>					<!-- +- damage with melee attacks, -10 to 10 -->
+		<cth_blades>0</cth_blades>						<!-- +- cth with blade weapons, -10 to 10 -->
+		<camo>0</camo>									<!-- +- effectiveness, -20 to 20 -->
+		<stealth>0</stealth>							<!-- +- effectiveness, -20 to 20 -->
+		<increased_maxcth>0</increased_maxcth>			<!-- +- max possible cth, -5 to 5 -->
+		<hearing_night>0</hearing_night>				<!-- +- hearing range, -5 to 2 -->
+		<hearing_day>0</hearing_day>					<!-- +- hearing range, -5 to 2 -->
+		<disarm_trap>0</disarm_trap>                    <!-- +- trap disarm ability (10 equals 1 LVL/5 DEX/10 MEC/1.6 EXP), -50 to 50 -->
+		<SAM_cth>0</SAM_cth>							<!-- +- % CTH with SAMs, -50 to 100 -->
 
 		<!-- +- % approach effectiveness, -50 to 20 -->
 		<approach_friendly>0</approach_friendly>
@@ -101,15 +101,15 @@
 		<dislikebackground>0</dislikebackground>          <!-- dislike everybody with a background that has the negative of this value -->
 
 		<!-- on/off properties: 1 for on, 0 for off -->		  
-		<druguse>0</druguse>			<!-- might use drugs from inventory (the 'Larry'-behaviour) -->
-		<xenophobic>0</xenophobic>		<!-- lower opinion of everybody without this background -->
-		<level_underground>0</level_underground>  <!-- +1 effective level if underground -->
+		<druguse>0</druguse>							<!-- might use drugs from inventory (the 'Larry'-behaviour) -->
+		<xenophobic>0</xenophobic>						<!-- lower opinion of everybody without this background -->
+		<level_underground>0</level_underground>  		<!-- +1 effective level if underground -->
 		<scrounging>0</scrounging>		<!-- might steal money from the locals (chance to anger locals) -->
-		<traplevel>0</traplevel>		<!-- +1 level on bombs planted -->
-		<corruptionspread>0</corruptionspread>	<!-- unused in the trunk -->
-		<no_male>0</no_male>			<!-- IMP creation: cannot be selected by males -->
-		<no_female>0</no_female>		<!-- IMP creation: cannot be selected by females -->
-		<loyalitylossondeath>0</loyalitylossondeath>	<!-- huge loyality loss in entire country on death -->
+		<traplevel>0</traplevel>						<!-- +1 level on bombs planted -->
+		<corruptionspread>0</corruptionspread>			<!-- unused in the trunk -->
+		<no_male>0</no_male>							<!-- IMP creation: cannot be selected by males -->
+		<no_female>0</no_female>						<!-- IMP creation: cannot be selected by females -->
+		<loyalitylossondeath>0</loyalitylossondeath>    <!-- huge loyality loss in entire country on death -->
 		<animal_friend>0</animal_friend>	<!-- refuses to attack animals-->
 		<civgroup_loyal>0</civgroup_loyal>	<!-- refuses to attack members of the same civilian group -->
 	</BACKGROUND>
@@ -235,7 +235,7 @@
 		<ap_artillery>-2</ap_artillery> 
 		<resistance_physical>5</resistance_physical>
 		<resistance_suppression>5</resistance_suppression>
-		<speed_run>5</speed_run>		
+		<speed_run>5</speed_run>
 		<capitulation>10</capitulation>
 		<smoker>1</smoker>
 		<no_male>1</no_male>
@@ -3168,6 +3168,8 @@
 		<traplevel>1</traplevel>
 		<hackerskill>80</hackerskill>
 		<administration_assignment>50</administration_assignment>
+		<hackerskill>80</hackerskill>
+		<administration_assignment>50</administration_assignment>
 		<no_male>1</no_male>
 		<no_female>1</no_female>
 	</BACKGROUND>
@@ -4779,7 +4781,7 @@
 		<szShortName>Surveillance Expert</szShortName>
 		<szDescription>A expert in both legal and illegal observation methods.&#10;Curiously, his resume never states where he learned all this.</szDescription>
 		<stealth>15</stealth>
-		<hearing_night>2</hearing_night>	
+		<hearing_night>2</hearing_night>
 		<hearing_day>2</hearing_day>
 		<spotter>20</spotter>
 		<hackerskill>30</hackerskill>
@@ -5219,7 +5221,7 @@
 		<capitulation>5</capitulation>
 		<approach_threaten>5</approach_threaten>
 		<approach_recruit>8</approach_recruit>
-		<scrounging>1</scrounging> 
+		<scrounging>1</scrounging>
   </BACKGROUND>
   <BACKGROUND>
 		<uiIndex>278</uiIndex>
@@ -5540,9 +5542,9 @@
 		<ap_assault>-3</ap_assault>
 		<disarm_trap>25</disarm_trap>
 		<traplevel>1</traplevel>
-		<ap_inventory>-10</ap_inventory> 
+		<ap_inventory>-10</ap_inventory>
   </BACKGROUND>
-<BACKGROUND>
+  <BACKGROUND>
 		<uiIndex>297</uiIndex>
 		<szName>Graduate</szName>
 		<szShortName>Graduate</szShortName>

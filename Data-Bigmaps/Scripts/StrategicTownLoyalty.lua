@@ -1,6 +1,6 @@
 --[[
 
-	http://www.legion.zone.zg.pl/doku.php/modowanie/ja/art_ja_m_22_lua
+	http://legion.itzg.pl/mzgb/pmwiki/pmwiki.php?n=JaggedAlliance2UBV1.Jav113lua
 
 **********************
 ** Global variables **
@@ -20,6 +20,8 @@
 	- SectorEnemyControlled ( IDSector )
 	  	check if enemy controls sector
 	  
+	- CALCULATE_STRATEGIC_INDEX( SectorX, SectorY )
+	
 	- SECTOR( SectorX, SectorY )
 	  
 	- CheckMercIsDead (ProfilID)
@@ -47,11 +49,7 @@
 ** Examples **
 **************
 	
-	if SectorEnemyControlled ( SECTOR(4,13) ) == false then
-		-- instructions
-	end
-	
-	if SectorEnemyControlled ( SECTOR(4,13) ) == false then
+	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(13,4) ) ) == false then
 		-- instructions
 	else
 		-- instructions
@@ -121,6 +119,26 @@ Town =
 	CHITZENA = 12,
 }
 
+SectorY = 
+{
+	MAP_ROW_A = 1,
+	MAP_ROW_B = 2,
+	MAP_ROW_C = 3,
+	MAP_ROW_D = 4,
+	MAP_ROW_E = 5,
+	MAP_ROW_F = 6,
+	MAP_ROW_G = 7,
+	MAP_ROW_H = 8,
+	MAP_ROW_I = 9,
+	MAP_ROW_J = 10,
+	MAP_ROW_K = 11,
+	MAP_ROW_L = 12,
+	MAP_ROW_M = 13,
+	MAP_ROW_N = 14,
+	MAP_ROW_O = 15,
+	MAP_ROW_P = 16,
+}
+
 -- gain pts per real loyalty pt
 local GAIN_PTS_PER_LOYALTY_PT = 500
 
@@ -163,11 +181,12 @@ EventGlobal =
 	GLOBAL_LOYALTY_GAIN_SAM = 10,
 	GLOBAL_LOYALTY_LOSE_SAM = 11,
 	GLOBAL_LOYALTY_QUEEN_BATTLE_WON = 12,
-	GLOBAL_LOYALTY_GRIZZLY_DEAD = 13,
+	GLOBAL_LOYALTY_UNUSED = 13,
+	GLOBAL_LOYALTY_PRISONERS_TORTURED = 14,
 }
 
 
-function CheckConditionsForTriggeringCreatureQuest( sSectorX, sSectorY, bSectorZ )
+local function CheckConditionsForTriggeringCreatureQuest( sSectorX, sSectorY, bSectorZ )
 
 	local ubValidMines = 0
 	
@@ -175,29 +194,31 @@ function CheckConditionsForTriggeringCreatureQuest( sSectorX, sSectorY, bSectorZ
 		return -- No scifi, no creatures...
 	end	
 	
-	if ( giLairID ) then
+	-- giLairID from Luaglobal.cpp
+	-- if ( giLairID ) -> that does not work in LUA, because that is always TRUE!!
+	if ( giLairID ~= 0 ) then
 		return	-- Creature quest already begun
 	end
 	
 	-- Count the number of "infectible mines" the player occupies
 	
 	-- SEC_D13
-	if SectorEnemyControlled ( SECTOR(4,13) ) == false then
+	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(13, SectorY.MAP_ROW_D) ) == false ) then
 		ubValidMines = ubValidMines + 1
 	end
 	
 	-- SEC_H8
-	if SectorEnemyControlled ( SECTOR(8,8) ) == false then
+	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(8, SectorY.MAP_ROW_H) ) == false ) then
 		ubValidMines = ubValidMines + 1
 	end	
 	
 	-- SEC_I14
-	if SectorEnemyControlled ( SECTOR(9,14) ) == false then 
+	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(14, SectorY.MAP_ROW_I) ) == false ) then 
 		ubValidMines = ubValidMines + 1
 	end	
 	
 	-- SEC_H3
-	if SectorEnemyControlled ( SECTOR(8,3) ) == false then
+	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(3, SectorY.MAP_ROW_H) ) == false ) then
 		ubValidMines = ubValidMines + 1
 	end	
 
@@ -281,12 +302,10 @@ function HandleGlobalLoyaltyEvent( ubEventType, sSectorX, sSectorY, bSectorZ )
 		iLoyaltyChange = -250	
 		AffectAllTownsLoyaltyByDistanceFrom( iLoyaltyChange, sSectorX, sSectorY, bSectorZ )
 
-	elseif ubEventType == EventGlobal.GLOBAL_LOYALTY_GRIZZLY_DEAD then
+  elseif ubEventType == EventGlobal.GLOBAL_LOYALTY_PRISONERS_TORTURED then
 		
-		if ( CheckMercIsDead(3) == false ) then 
-		iLoyaltyChange = 1000	
+		iLoyaltyChange = -60
 		AffectAllTownsLoyaltyByDistanceFrom( iLoyaltyChange, sSectorX, sSectorY, bSectorZ )
-		end
 
 	end
 	

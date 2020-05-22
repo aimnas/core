@@ -1,28 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- 
+	<SectorGrid>:
+	Map sector, from A1 to P16
 
-Water types 
-0 no water
-1 water
-2 salt water
-3 poisonous water
+	<szUnexploredName>:
+	Sector name shown in info window when right-clicking on a sector in the strategic map, before the sector has been explored
 
-Natural Dirt (example values)
-100 regular value
-120 Farmland
-150 Plains
-180 Forests
-200 Hills/Tropical
-500 swamps
-1000 desert, generating 10 times as much dirt
+	<szDetailedUnexploredName>:
+	Sector name shown at overhead map in lower right corner of strategic map screen, before the sector has been explored
 
-Curfew values
-0 civilians are always okay in this sector
-1 civilians are suspicious at night
-2 civilians are always suspicious
+	<szExploredName> & <szDetailedExploredName>:
+	as before, but after sector has been explored. <szExploredName> is also used for description of save game files
 
+	<sWaterType>:
+	Describes the water resources available in a sector.
+	0 - no water here at all
+	1 - drinkable water (rivers, water supply from houses)
+	2 - salt water, can't drink that
+	3 - there is water here, but it is poisoned (swamps and polluted sectors) and may pose a health risk
+
+	<usCurfewValue>
+	Describes if civilians are allowed in a sector at certain times
+	0 - no curfew for civilians, a merc disguised as a civilian will not be automatically uncovered in this sector
+	1 - curfew for civilians in place at night, a merc disguised as a civilian will be automatically uncovered in this sector at night
+	2 - no civilians allowed here, ever, a merc disguised as a civilian will always be automatically uncovered in this sector.
+	
+	<usNaturalDirt>
+	Percentage value, how much dirt does a gun accumulate in this sector. This is a UINT16 value. 
+	Base value at 100% is for a clean city. Environments where a gun gathers dirt faster get higher values. For example, deserts have a value of 1000,
+	which means that in a desert a gun will gather 10 times as much dirt as in a clean city.
+	
+	<sRadioScanModifier>
+	increases the radio scanning range from a sector
+	base range is defined in SkillSettings.ini. Default for base range is 5.
+	
+	<usCivilianPopulation>:
+	represents the amount of civilians dwelling in a sector, even if not physically present in a tactical map
+	
+	<wealth>
+	Rating of how rich the population in this sector is.
+	
+	<rainchance>
+	chance that, if it rains, it will also happen in this sector
+	
+	<sandstormchance>
+	chance that, if a sandstorm happens, it will also happen in this sector
+	
+	<snowchance>
+	chance that, if it snows, it will also happen in this sector
+	
+	<snakechance>
+	Value between 0 and 100. If > 0, snakes can attack people in water. The higher the value, the more frequent this happens.
+	
+	<numsnakes>
+	Value between 0 and 100. This is the maximum number of snakes that can be active during a snake attack.
+	
+	<maxworkers>
+	Maximum number of workers that can be employed in this sector.
+	
+	<bloodcatraidpossible>0</bloodcatraidpossible>
+	<zombieraidpossible>0</zombieraidpossible>
+	<banditraidpossible>0</banditraidpossible>
+	Bloodcats/zombies/bandits can attack this sector.
 -->
-
 <SECTOR_NAMES>
 	<SECTOR>
 		<SectorGrid>A1</SectorGrid>
@@ -34,7 +74,16 @@ Curfew values
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>50</usCivilianPopulation>
-		</SECTOR>
+		<wealth>2</wealth>
+		<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>0</snowchance>
+		<snakechance>0</snakechance>
+		<numsnakes>0</numsnakes>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>0</zombieraidpossible>
+		<banditraidpossible>0</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A2</SectorGrid>
 		<szUnexploredName>Chitzena</szUnexploredName>
@@ -45,7 +94,13 @@ Curfew values
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
 		<usCivilianPopulation>150</usCivilianPopulation> 
-		</SECTOR>
+		<wealth>4</wealth>
+		<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A3</SectorGrid>
 		<szUnexploredName>Tropical Hills</szUnexploredName>
@@ -55,7 +110,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>250</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A4</SectorGrid>
 		<szUnexploredName>Tropical Hills</szUnexploredName>
@@ -65,7 +123,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>250</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A5</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -75,7 +136,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A6</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -85,7 +149,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>1</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A7</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -95,7 +163,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A8</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -105,7 +177,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>0</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A9</SectorGrid>
 		<szUnexploredName>Omerta</szUnexploredName>
@@ -115,7 +191,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>20</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>20</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A10</SectorGrid>
 		<szUnexploredName>Omerta</szUnexploredName>
@@ -127,7 +207,10 @@ Curfew values
 		<usCurfewValue>2</usCurfewValue>
 		<usCivilianPopulation>50</usCivilianPopulation>
 		<usPrisonRoomNumber>10</usPrisonRoomNumber>
-		<usPrisonRoomNumber>11</usPrisonRoomNumber>		
+		<usPrisonRoomNumber>11</usPrisonRoomNumber>
+		<wealth>1</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
 	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A11</SectorGrid>
@@ -138,7 +221,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>8</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>8</usCivilianPopulation>
+		<wealth>0</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A12</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -148,7 +235,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>0</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A13</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -158,7 +249,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A14</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -168,7 +262,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A15</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -178,7 +275,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>A16</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -188,7 +288,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B1</SectorGrid>
 		<szUnexploredName>Chitzena</szUnexploredName>
@@ -198,7 +301,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>100</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>5</wealth>
+		<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B2</SectorGrid>
 		<szUnexploredName>Chitzena Mine</szUnexploredName>
@@ -211,6 +318,13 @@ Curfew values
 		<usCivilianPopulation>200</usCivilianPopulation> 
 		<usPrisonRoomNumber>219</usPrisonRoomNumber>
 		<usPrisonRoomNumber>220</usPrisonRoomNumber>
+		<wealth>6</wealth>
+		<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<maxworkers>50</maxworkers>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
 	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B3</SectorGrid>
@@ -221,7 +335,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B4</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -231,7 +348,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>40</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>40</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B5</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -241,7 +362,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B6</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -251,7 +376,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<wealth>0</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B7</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -261,7 +390,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B8</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -271,7 +403,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>10</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B9</SectorGrid>
 		<szUnexploredName>Omerta</szUnexploredName>
@@ -281,7 +417,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>20</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>20</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B10</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -291,7 +431,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B11</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -301,7 +444,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B12</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -311,7 +457,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>6</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>6</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B13</SectorGrid>
 		<szUnexploredName>Drassen Airport</szUnexploredName>
@@ -321,7 +471,15 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
+		<sRadioScanModifier>2</sRadioScanModifier>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>7</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B14</SectorGrid>
 		<szUnexploredName>Drassen</szUnexploredName>
@@ -331,7 +489,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>150</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>5</wealth>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B15</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -341,7 +506,12 @@ Curfew values
 		<sWaterType>3</sWaterType>
 		<usNaturalDirt>500</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>B16</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -351,7 +521,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C1</SectorGrid>
 		<szUnexploredName>Tropical Coast</szUnexploredName>
@@ -361,7 +534,10 @@ Curfew values
 		<sWaterType>2</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C2</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -371,7 +547,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C3</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -381,7 +560,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>40</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>40</usCivilianPopulation>
+		<wealth>1</wealth>
+		<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C4</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -391,7 +574,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C5</SectorGrid>
 		<szUnexploredName>San Mona</szUnexploredName>
@@ -401,7 +587,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>250</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>250</usCivilianPopulation>
+		<wealth>8</wealth>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C6</SectorGrid>
 		<szUnexploredName>San Mona</szUnexploredName>
@@ -411,7 +601,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>250</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>250</usCivilianPopulation>
+		<wealth>4</wealth>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C7</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -421,7 +615,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>35</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C8</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -431,7 +628,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C9</SectorGrid>
 		<szUnexploredName>Omerta</szUnexploredName>
@@ -441,7 +641,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>150</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>2</wealth>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C10</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -451,7 +655,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C11</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -461,7 +668,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C12</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -471,7 +681,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+		<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C13</SectorGrid>
 		<szUnexploredName>Drassen</szUnexploredName>
@@ -481,7 +694,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>300</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>300</usCivilianPopulation>
+		<wealth>4</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C14</SectorGrid>
 		<szUnexploredName>Drassen</szUnexploredName>
@@ -491,7 +711,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>200</usCivilianPopulation> </SECTOR>	
+		<usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>3</wealth>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C15</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -501,7 +728,12 @@ Curfew values
 		<sWaterType>3</sWaterType>
 		<usNaturalDirt>500</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>	
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>C16</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -511,7 +743,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>250</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D1</SectorGrid>
 		<szUnexploredName>Tropical Coast</szUnexploredName>
@@ -521,7 +758,10 @@ Curfew values
 		<sWaterType>2</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D2</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -531,7 +771,13 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D3</SectorGrid>
 		<szUnexploredName>Tropical Hills, road</szUnexploredName>
@@ -541,7 +787,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>200</usNaturalDirt>
 		<usCurfewValue>1</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D4</SectorGrid>
 		<szUnexploredName>San Mona Mine</szUnexploredName>
@@ -551,7 +800,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>40</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>40</usCivilianPopulation>
+		<wealth>3</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D5</SectorGrid>
 		<szUnexploredName>San Mona</szUnexploredName>
@@ -561,7 +814,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>250</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>250</usCivilianPopulation>
+		<wealth>12</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D6</SectorGrid>
 		<szUnexploredName>Farmland, road</szUnexploredName>
@@ -571,7 +828,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>15</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>15</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D7</SectorGrid>
 		<szUnexploredName>Farmland, road</szUnexploredName>
@@ -581,7 +842,11 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>20</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>20</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D8</SectorGrid>
 		<szUnexploredName>Lake</szUnexploredName>
@@ -591,7 +856,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>140</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D9</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -601,7 +869,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>15</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>15</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D10</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -611,7 +883,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D11</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -621,7 +896,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>120</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D12</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -631,7 +909,12 @@ Curfew values
 		<sWaterType>3</sWaterType>
 		<usNaturalDirt>500</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D13</SectorGrid>
 		<szUnexploredName>Drassen Mine</szUnexploredName>
@@ -646,7 +929,13 @@ Curfew values
 		<usPrisonRoomNumber>234</usPrisonRoomNumber>
 		<usPrisonRoomNumber>235</usPrisonRoomNumber>
 		<usPrisonRoomNumber>236</usPrisonRoomNumber>
-		</SECTOR>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<maxworkers>100</maxworkers>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D14</SectorGrid>
 		<szUnexploredName>Drassen</szUnexploredName>
@@ -656,7 +945,10 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>150</usNaturalDirt>
 		<usCurfewValue>1</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>D15</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -666,7 +958,13 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>  
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>  
 	<SECTOR>
 		<SectorGrid>D16</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -676,7 +974,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>180</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -686,7 +987,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E2</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -696,7 +1000,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>5</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>5</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E3</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -706,7 +1013,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E4</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -716,7 +1026,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>12</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>12</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E5</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -726,7 +1040,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>20</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E6</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -736,7 +1054,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR> 	  	 	
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E7</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>
@@ -746,8 +1067,12 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>75</usCivilianPopulation> 
-		<usPrisonRoomNumber>43</usPrisonRoomNumber></SECTOR>
+		<usCivilianPopulation>75</usCivilianPopulation>
+		<wealth>2</wealth>
+		<usPrisonRoomNumber>43</usPrisonRoomNumber>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E8</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -757,7 +1082,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>12</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>12</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E9</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>
@@ -767,7 +1096,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>15</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>15</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E10</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -777,7 +1110,13 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>8</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>8</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E11</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -787,7 +1126,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E12</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -797,7 +1139,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E13</SectorGrid>
 		<szUnexploredName>Water</szUnexploredName>
@@ -807,7 +1152,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E14</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -817,7 +1165,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR> 
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E15</SectorGrid>
 		<szUnexploredName>Forest, road</szUnexploredName>
@@ -827,7 +1180,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>E16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -837,7 +1193,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F1</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -847,7 +1206,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>4</wealth>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F2</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -857,7 +1220,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>4</wealth>
+	 	<rainchance>75</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F3</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -867,7 +1234,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F4</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -877,7 +1247,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>20</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F5</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -887,7 +1261,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F6</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -897,7 +1275,12 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F7</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
@@ -907,7 +1290,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>4</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>4</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F8</SectorGrid>
 		<szUnexploredName>Cambria, Hospital</szUnexploredName>
@@ -917,7 +1303,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>500</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>500</usCivilianPopulation>
+		<wealth>7</wealth>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F9</SectorGrid>
 		<szUnexploredName>Cambria</szUnexploredName>
@@ -927,7 +1320,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>250</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>250</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F10</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -937,7 +1337,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>70</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>55</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F11</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -947,7 +1351,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F12</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -957,7 +1364,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>10</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F13</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -967,7 +1377,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F14</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -977,7 +1390,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F15</SectorGrid>
 		<szUnexploredName>Forest, road</szUnexploredName>
@@ -987,7 +1403,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>F16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -997,7 +1416,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G1</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -1007,7 +1429,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>300</usCivilianPopulation>
+		<wealth>7</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G2</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -1017,7 +1443,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>8</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G3</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1027,7 +1457,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G4</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
@@ -1037,7 +1470,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G5</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
@@ -1047,7 +1483,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G6</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
@@ -1057,7 +1497,12 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>50</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>60</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G7</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>
@@ -1067,7 +1512,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>20</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>20</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G8</SectorGrid>
 		<szUnexploredName>Cambria</szUnexploredName>
@@ -1077,7 +1526,14 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>150</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>10</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G9</SectorGrid>
 		<szUnexploredName>Cambria</szUnexploredName>
@@ -1094,6 +1550,12 @@ Curfew values
 		<usPrisonRoomNumber>162</usPrisonRoomNumber>
 		<usPrisonRoomNumber>163</usPrisonRoomNumber>
 		<usPrisonRoomNumber>164</usPrisonRoomNumber>
+		<wealth>8</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
 	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G10</SectorGrid>
@@ -1104,7 +1566,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>20</rainchance>
+		<sandstormchance>40</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G11</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1114,7 +1579,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>20</rainchance>
+		<sandstormchance>40</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G12</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -1124,7 +1592,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>10</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>10</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G13</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1134,7 +1605,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>00</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G14</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -1144,7 +1618,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>00</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G15</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1154,7 +1631,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>00</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>G16</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1164,7 +1644,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>0</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H1</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -1174,7 +1659,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>11</wealth>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H2</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -1184,7 +1673,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>10</wealth>
+	 	<rainchance>55</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H3</SectorGrid>
 		<szUnexploredName>Grumm Mine</szUnexploredName>
@@ -1194,7 +1687,15 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>10</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<maxworkers>200</maxworkers>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H4</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1204,7 +1705,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H5</SectorGrid>
 		<szUnexploredName>Hills</szUnexploredName>
@@ -1214,7 +1718,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>80</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H6</SectorGrid>
 		<szUnexploredName>Mountain, road</szUnexploredName>
@@ -1224,7 +1732,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snowchance>20</snowchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H7</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1234,7 +1746,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>  
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H8</SectorGrid>
 		<szUnexploredName>Cambria Mine</szUnexploredName>
@@ -1244,7 +1759,15 @@ Curfew values
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>100</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>2</sandstormchance>
+		<maxworkers>160</maxworkers>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H9</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1254,7 +1777,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>5</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H10</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1264,7 +1790,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>5</rainchance>
+		<sandstormchance>60</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H11</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1274,7 +1803,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>5</rainchance>
+		<sandstormchance>60</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H12</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -1284,7 +1816,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>20</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H13</SectorGrid>
 		<szUnexploredName>Alma</szUnexploredName>
@@ -1293,8 +1828,16 @@ Curfew values
 		<szDetailedExploredName>Alma</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>2</usCurfewValue>
+    	<sRadioScanModifier>1</sRadioScanModifier>
+	    <usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>12</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H14</SectorGrid>
 		<szUnexploredName>Alma</szUnexploredName>
@@ -1303,8 +1846,15 @@ Curfew values
 		<szDetailedExploredName>Alma</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>2</usCurfewValue>
+	    <usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>11</wealth>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H15</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1314,7 +1864,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>H16</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1324,7 +1879,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I1</SectorGrid>
 		<szUnexploredName>Grumm</szUnexploredName>
@@ -1334,7 +1892,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>7</wealth>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I2</SectorGrid>
 		<szUnexploredName>Coastal</szUnexploredName>
@@ -1344,7 +1906,11 @@ Curfew values
 		<sWaterType>2</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>7</wealth>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I3</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1354,7 +1920,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I4</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1364,7 +1933,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I5</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1374,7 +1946,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I6</SectorGrid>
 		<szUnexploredName>Estoni</szUnexploredName>
@@ -1384,7 +1959,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>20</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>20</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I7</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1394,7 +1973,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I8</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1403,8 +1985,15 @@ Curfew values
 		<szDetailedExploredName>Desert, SAM Site</szDetailedExploredName>
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+	    <usCurfewValue>2</usCurfewValue>
+		<usCivilianPopulation>0</usCivilianPopulation>
+    	<sRadioScanModifier>2</sRadioScanModifier>
+	 	<rainchance>5</rainchance>
+		<sandstormchance>80</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I9</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1414,7 +2003,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I10</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1424,7 +2016,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I11</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1434,7 +2029,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>15</rainchance>
+		<sandstormchance>30</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I12</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1444,7 +2042,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>5</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I13</SectorGrid>
 		<szUnexploredName>Alma</szUnexploredName>
@@ -1453,8 +2054,15 @@ Curfew values
 		<szDetailedExploredName>Alma</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>2</usCurfewValue>
+		<usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>7</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>0</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I14</SectorGrid>
 		<szUnexploredName>Alma Mine</szUnexploredName>
@@ -1463,8 +2071,15 @@ Curfew values
 		<szDetailedExploredName>Alma Mine</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+	    <usCivilianPopulation>200</usCivilianPopulation>
+		<wealth>9</wealth>
+	 	<rainchance>45</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<maxworkers>150</maxworkers>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I15</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1474,7 +2089,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>I16</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1484,7 +2102,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -1494,7 +2115,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J2</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1504,7 +2128,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J3</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1514,7 +2141,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J4</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1524,7 +2154,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>75</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J5</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1534,7 +2169,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>75</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J6</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1544,7 +2184,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J7</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1554,7 +2197,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>25</rainchance>
+		<sandstormchance>2</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J8</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1564,7 +2210,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>80</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J9</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1573,8 +2222,10 @@ Curfew values
 		<szDetailedExploredName>Desert</szDetailedExploredName>
 		<sWaterType>1</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation>8</usCivilianPopulation> </SECTOR>
+		<usCurfewValue>2</usCurfewValue>
+	    <sRadioScanModifier>1</sRadioScanModifier>
+		<usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>1</wealth>
 		<usPrisonRoomNumber>83</usPrisonRoomNumber>
 		<usPrisonRoomNumber>84</usPrisonRoomNumber>
 		<usPrisonRoomNumber>85</usPrisonRoomNumber>
@@ -1614,6 +2265,9 @@ Curfew values
 		<usPrisonRoomNumber>80</usPrisonRoomNumber>
 		<usPrisonRoomNumber>81</usPrisonRoomNumber>
 		<usPrisonRoomNumber>82</usPrisonRoomNumber>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J10</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1623,7 +2277,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J11</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1633,7 +2290,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J12</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1643,7 +2303,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>20</rainchance>
+		<sandstormchance>5</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J13</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>
@@ -1653,7 +2316,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>1</usCurfewValue>
-		<usCivilianPopulation>25</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>25</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J14</SectorGrid>
 		<szUnexploredName>Farm, road</szUnexploredName>
@@ -1663,7 +2330,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J15</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1673,7 +2344,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>J16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -1683,7 +2357,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -1693,7 +2370,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K2</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1703,7 +2383,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K3</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1713,7 +2396,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K4</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1722,8 +2410,13 @@ Curfew values
 		<szDetailedExploredName>Orta Military Base</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>2</usCurfewValue>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K5</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1733,7 +2426,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K6</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -1743,7 +2441,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>15</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K7</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1753,7 +2454,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>5</rainchance>
+		<sandstormchance>70</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K8</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1763,7 +2467,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K9</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1773,7 +2480,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K10</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1783,7 +2493,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K11</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1793,7 +2506,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K12</SectorGrid>
 		<szUnexploredName>Desert, road</szUnexploredName>
@@ -1803,7 +2519,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>10</rainchance>
+		<sandstormchance>60</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K13</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1813,7 +2532,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K14</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1823,7 +2545,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>35</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K15</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1833,7 +2558,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>40</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>K16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -1843,7 +2571,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR> 
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L1</SectorGrid>
 		<szUnexploredName>Coastline</szUnexploredName>
@@ -1853,7 +2584,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L2</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -1863,7 +2597,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L3</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1873,7 +2610,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L4</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1883,7 +2625,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L5</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1893,7 +2640,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L6</SectorGrid>
 		<szUnexploredName>Plains, road</szUnexploredName>
@@ -1903,7 +2653,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L7</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1913,7 +2666,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>25</rainchance>
+		<sandstormchance>10</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L8</SectorGrid>
 		<szUnexploredName>Desert</szUnexploredName>
@@ -1923,7 +2679,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>500</usNaturalDirt>
 		<usCurfewValue>2</usCurfewValue>
-		<usCivilianPopulation>10</usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>90</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L9</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -1933,7 +2692,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>15</rainchance>
+		<sandstormchance>70</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L10</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -1943,7 +2705,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>30</rainchance>
+		<sandstormchance>5</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L11</SectorGrid>
 		<szUnexploredName>Balime</szUnexploredName>
@@ -1953,7 +2718,14 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>30</wealth>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L12</SectorGrid>
 		<szUnexploredName>Balime</szUnexploredName>
@@ -1963,7 +2735,14 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>150</usCivilianPopulation>
+		<wealth>30</wealth>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>1</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L13</SectorGrid>
 		<szUnexploredName>Coastline</szUnexploredName>
@@ -1973,7 +2752,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L14</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -1983,7 +2765,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L15</SectorGrid>
 		<szUnexploredName>Forest</szUnexploredName>
@@ -1993,7 +2780,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>L16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2003,7 +2793,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2013,7 +2806,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M2</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -2023,7 +2819,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR> 
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M3</SectorGrid>
 		<szUnexploredName>Swamp, road</szUnexploredName>
@@ -2033,7 +2832,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>90</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M4</SectorGrid>
 		<szUnexploredName>Farmland</szUnexploredName>
@@ -2043,7 +2847,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>10</usCivilianPopulation>
+		<wealth>1</wealth>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M5</SectorGrid>
 		<szUnexploredName>Forest, road</szUnexploredName>
@@ -2053,7 +2861,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M6</SectorGrid>
 		<szUnexploredName>Forest, road</szUnexploredName>
@@ -2063,7 +2874,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M7</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -2073,7 +2887,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M8</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -2083,7 +2900,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M9</SectorGrid>
 		<szUnexploredName>Plains</szUnexploredName>
@@ -2093,7 +2913,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M10</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -2103,7 +2926,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M11</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2113,7 +2939,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M12</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2123,7 +2952,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M13</SectorGrid>
 		<szUnexploredName>Woods</szUnexploredName>
@@ -2133,7 +2965,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M14</SectorGrid>
 		<szUnexploredName>Swamp</szUnexploredName>
@@ -2143,7 +2978,12 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<snakechance>50</snakechance>
+		<numsnakes>7</numsnakes>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M15</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2153,7 +2993,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>M16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2163,7 +3006,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2173,7 +3019,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N2</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2183,7 +3032,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N3</SectorGrid>
 		<szUnexploredName>Meduna Airport</szUnexploredName>
@@ -2193,7 +3045,15 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+	    <sRadioScanModifier>2</sRadioScanModifier>
+	    <usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>20</wealth>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N4</SectorGrid>
 		<szUnexploredName>Meduna</szUnexploredName>
@@ -2202,8 +3062,16 @@ Curfew values
 		<szDetailedExploredName>Meduna, SAM Site</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>1</usCurfewValue>
+    	<sRadioScanModifier>2</sRadioScanModifier>
+	    <usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>12</wealth>
+	 	<rainchance>60</rainchance>
+		<sandstormchance>0</sandstormchance>
+		<bloodcatraidpossible>0</bloodcatraidpossible>
+		<zombieraidpossible>1</zombieraidpossible>
+		<banditraidpossible>1</banditraidpossible>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N5</SectorGrid>
 		<szUnexploredName>Meduna</szUnexploredName>
@@ -2212,8 +3080,12 @@ Curfew values
 		<szDetailedExploredName>Meduna</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCurfewValue>1</usCurfewValue>
+	    <usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>15</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N6</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -2223,7 +3095,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N7</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -2233,7 +3108,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N8</SectorGrid>
 		<szUnexploredName>Coastal, road</szUnexploredName>
@@ -2243,7 +3121,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N9</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -2253,7 +3134,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N10</SectorGrid>
 		<szUnexploredName>Tropical, road</szUnexploredName>
@@ -2263,7 +3147,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>70</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N11</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2273,7 +3160,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N12</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2283,7 +3173,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N13</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2293,7 +3186,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N14</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2303,7 +3199,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR> 
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N15</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2313,7 +3212,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>N16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2323,7 +3225,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2333,7 +3238,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O2</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2343,7 +3251,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O3</SectorGrid>
 		<szUnexploredName>Meduna</szUnexploredName>
@@ -2352,8 +3263,12 @@ Curfew values
 		<szDetailedExploredName>Meduna</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+	    <usCurfewValue>2</usCurfewValue>
+	    <usCivilianPopulation>100</usCivilianPopulation>
+		<wealth>2</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O4</SectorGrid>
 		<szUnexploredName>Meduna</szUnexploredName>
@@ -2363,7 +3278,11 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+	    <usCivilianPopulation>300</usCivilianPopulation>
+		<wealth>25</wealth>
+	 	<rainchance>50</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O5</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2373,7 +3292,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O6</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2383,7 +3305,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O7</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2393,7 +3318,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O8</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -2403,7 +3331,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O9</SectorGrid>
 		<szUnexploredName>Tropical</szUnexploredName>
@@ -2413,7 +3344,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O10</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2423,7 +3357,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O11</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2433,7 +3370,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O12</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2443,7 +3383,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O13</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2453,7 +3396,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O14</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2463,7 +3409,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O15</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2473,7 +3422,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>O16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2483,7 +3435,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P1</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2493,7 +3448,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P2</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2503,7 +3461,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P3</SectorGrid>
 		<szUnexploredName>Meduna</szUnexploredName>
@@ -2512,8 +3473,12 @@ Curfew values
 		<szDetailedExploredName>Meduna</szDetailedExploredName>
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
-		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+    	<usCurfewValue>2</usCurfewValue>
+	    <usCivilianPopulation>50</usCivilianPopulation>
+		<wealth>50</wealth>
+	 	<rainchance>55</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P4</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2523,7 +3488,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>80</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P5</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2533,7 +3501,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P6</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2543,7 +3514,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P7</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2553,7 +3527,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P8</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2563,7 +3540,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P9</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2573,7 +3553,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P10</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2583,7 +3566,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P11</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2593,7 +3579,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P12</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2603,7 +3592,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P13</SectorGrid>
 		<szUnexploredName>Impassable</szUnexploredName>
@@ -2613,7 +3605,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P14</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2623,7 +3618,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P15</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2633,7 +3631,10 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 	<SECTOR>
 		<SectorGrid>P16</SectorGrid>
 		<szUnexploredName>Unknown</szUnexploredName>
@@ -2643,5 +3644,8 @@ Curfew values
 		<sWaterType>0</sWaterType>
 		<usNaturalDirt>100</usNaturalDirt>
 		<usCurfewValue>0</usCurfewValue>
-		<usCivilianPopulation></usCivilianPopulation> </SECTOR>
+		<usCivilianPopulation>0</usCivilianPopulation>
+	 	<rainchance>0</rainchance>
+		<sandstormchance>0</sandstormchance>
+	</SECTOR>
 </SECTOR_NAMES>
