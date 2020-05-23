@@ -1,27 +1,17 @@
-# AIMNAS
+# BRAINMOD
 
-AIMNAS is an item/map modification for JA2 1.13, more info on the 1.13 mod can be found at http://ja2v113.pbworks.com
+Basically, it is AIMNAS mod tuned up to have more realistic game experience.
+I had no idea on how to call this modding work, so I named it BRAINMOD which stands for "Basic Realism Adjustments Is Not a MOD".
+Please look for all reference information about AIMNAS in README.md of "core" branch.
 
-#### Requirements
-AIMNAS currently requires atleast version **8790** of JA2 1.13 with gamedir atleast at level **2529**  
-Any earlier release of 1.13 may not work correctly with AIMNAS
-
-#### JA2 1.13 download
-There are two separate releases of JA2 1.13, the legacy 7609 release and the constantly updated SVN release.
-AIMNAS only works with the SVN release, more information about this release can be found on the Bear's Pit forums at http://thepit.ja-galaxy-forum.com/
-
-Regular package builds for the SVN are released, more information on these can be found at http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=20380&goto=311288&#msg_311288
-
-#### Updates
-* Config files and lua scripts updated to JA2 1.13 rev **8790** / GameDir **2529**
-* Many settings now match v1.13 defaults
-* Obsolete/garbage/redundant files including german subtitles were removed
-* Fix: added missing sound file "Ceramic Armour Insert.wav"
-* Fix: added foo files for new Dimitry/Ira speech ("D_059_100.ogg", "D_060_100.ogg")
-* Fix: corrected some XML files to cure a bunch of warnings in game logs (Profile directory)
-* Fix: added lacked San Mona settings in Mod_Setting.ini
-* Fix: corrected Heli coordinates for Skyrider quest completion
-* Fix: added icon for "skilled officer" to prevent crash - "normal officer" now shows two bars instead of three - not to be confused with actual enemy ranks
-* Change: Enemy ranks to be slightly more intuitive
-* Change: Added support for factories
-* Change: Updates to SectorNames.xml may enable bandit/bloodcat/zombie raids, weather effects, snakes, and new thief mechanic
+#### Contents
+This MOD includes all updates and bug fixes from "core" branch.
+Key features are:
+* One tile is supposed to be around 4 meters, related parameters (effective range, loudness etc) of all weapons are adjusted to this axiom.
+* NCTH parameters are adjusted to actual game program, there is no more "airsoft" auto-firing, only good shooters can do a precise shot from long dinstance and so on.
+* Effects of bulletdrop are perceptible now.
+* You cannot repair non-repairable items like helmets and bulletproof vests.
+* Settings of difficulty levels are adjusted so that random numbers will not make you frustrating anymore. The more difficult game mode is chosen, the more tight, tough and smart Queen's Army becomes.
+* Game starts during a night (4 AM), when most of Omerta guards are probably asleep, and this gives additional coverage of initial Landing Zone.
+* Food system, diseases, Arulco Special Division and other Strategic Features are enabled and adjusted.
+* You will never see zombies or Crepitus (Creatures) in this game.
