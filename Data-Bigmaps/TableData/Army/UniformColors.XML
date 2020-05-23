@@ -51,11 +51,11 @@
 
 	<ENEMY_ELITE>
 		<Vest>BLACKSHIRT</Vest>
-		<Pants>TANPANTS</Pants>
+		<Pants>BLACKPANTS</Pants>
 	</ENEMY_ELITE>
 
 	<MILITIA_ROOKIE>
-		<Vest>greyVEST</Vest>
+		<Vest>GREENVEST</Vest>
 		<Pants>BEIGEPANTS</Pants>
 	</MILITIA_ROOKIE>
 

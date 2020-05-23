@@ -21,10 +21,8 @@
 		CounterAttackGroupSize : Counter attacks on cities consist of 4 groups of this size.
 		PercentElitesBonus : Percent of troops converted to extra elites in enemy groups
 		UnlimitedPoolOfTroops : 0 - false, 1 - true. Determines whether or not the queen has unlimited troops. If she does, most of the settings below are completely ignored.
-		QueensInitialPoolOfTroops : Amount of troops available to the queen at game start; part of troops is issued for garrisons and patrols, the rest is in Reserve.
-		QueenPoolMaxSizePerDifficultyLevel : Amount of troops in Reserve may increase during the game as Queen train more soldiers continuously, this value is the max size of Reserve the Queen can have.
-		QueenPoolIncrementPerDifficultyLevel : Basic amount of troops that will be added to the Queen's Army Reserve per interval.
-		QueenPoolIncrementDaysIntervalPerDifficultyLevel : Interval in days between Reserve increasing events.
+		QueensInitialPoolOfTroops : Amount of troops available to the queen at game start
+		QueenPoolIncrementPerDifficultyLevel : Amount of troops that will be added to queens army when the troops pool is empty
 		EnemyStartingAlertLevel : Sets the starting alert chances.
 		EnemyAlertDecay : When an enemy spots and chases a player group, the alertness value decrements by this value. Ranges from 1-100 (but recommend 20-60).
 		NumAwareBattles : Certain conditions can cause the queen to go into a "full alert" mode. 
@@ -143,9 +141,7 @@
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
 		<QueensInitialPoolOfTroops>0</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>0</QueenPoolMaxSizePerDifficultyLevel>
 		<QueenPoolIncrementPerDifficultyLevel>0</QueenPoolIncrementPerDifficultyLevel>
-		<QueenPoolIncrementDaysIntervalPerDifficultyLevel>0</QueenPoolIncrementDaysIntervalPerDifficultyLevel>
 		<EnemyStartingAlertLevel>0</EnemyStartingAlertLevel>
 		<EnemyAlertDecay>0</EnemyAlertDecay>
 		<NumAwareBattles>0</NumAwareBattles>
@@ -211,29 +207,103 @@
 	<DIFFICULTY>
 		<uiIndex>1</uiIndex>
 		<Name>Novice</Name>
-		<ConfirmText>Easy game mode. Includes 100000 of starting cash, weakened initial garrisons, 350 soldiers in Queen's Army reserve and low strategic awareness in total. Also, only one AIM/MERC mercenary may die being on assignment somewhere.</ConfirmText>
-		<StartingCash>100000</StartingCash>
+		<ConfirmText>You have chosen NOVICE mode. This setting is appropriate for those new to Jagged Alliance, those new to strategy games in general, or those wishing shorter battles in the game. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Novice mode?</ConfirmText>
+		<StartingCash>150000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
-		<InitialGarrisonPercentages>60</InitialGarrisonPercentages>
+		<NumKillsPerProgressPoint>7</NumKillsPerProgressPoint>
+		<InitialGarrisonPercentages>70</InitialGarrisonPercentages>
 		<MinEnemyGroupSize>6</MinEnemyGroupSize>
 		<CounterAttackGroupSize>12</CounterAttackGroupSize>
 		<PercentElitesBonus>0</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>350</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>500</QueenPoolMaxSizePerDifficultyLevel>
-		<QueenPoolIncrementPerDifficultyLevel>5</QueenPoolIncrementPerDifficultyLevel>
-		<QueenPoolIncrementDaysIntervalPerDifficultyLevel>5</QueenPoolIncrementDaysIntervalPerDifficultyLevel>
+		<QueensInitialPoolOfTroops>150</QueensInitialPoolOfTroops>
+		<QueenPoolIncrementPerDifficultyLevel>60</QueenPoolIncrementPerDifficultyLevel>
 		<EnemyStartingAlertLevel>5</EnemyStartingAlertLevel>
-		<EnemyAlertDecay>25</EnemyAlertDecay>
-		<NumAwareBattles>2</NumAwareBattles>
-		<BaseDelayInMinutesBetweenEvaluations>300</BaseDelayInMinutesBetweenEvaluations>
-		<EvaluationDelayVariance>60</EvaluationDelayVariance>
-		<GracePeriodInHoursAfterSectorLiberation>24</GracePeriodInHoursAfterSectorLiberation>
-		<GracePeriodInDaysAfterPatrolDestroyed>10</GracePeriodInDaysAfterPatrolDestroyed>
+		<EnemyAlertDecay>75</EnemyAlertDecay>
+		<NumAwareBattles>1</NumAwareBattles>
+		<BaseDelayInMinutesBetweenEvaluations>480</BaseDelayInMinutesBetweenEvaluations>
+		<EvaluationDelayVariance>240</EvaluationDelayVariance>
+		<GracePeriodInHoursAfterSectorLiberation>144</GracePeriodInHoursAfterSectorLiberation>
+		<GracePeriodInDaysAfterPatrolDestroyed>16</GracePeriodInDaysAfterPatrolDestroyed>
 		<AggressiveQueenAi>0</AggressiveQueenAi>
-		<MaxMercDeaths>1</MaxMercDeaths>
-		<LootStatusModifier>5</LootStatusModifier>
+		<MaxMercDeaths>2</MaxMercDeaths>
+		<LootStatusModifier>0</LootStatusModifier>
+		<!-- Creatures Settings -->
+		<CreatureSpreadTime>510</CreatureSpreadTime>
+		<QueenReproductionBase>6</QueenReproductionBase>
+		<QueenReproductionBonus>1</QueenReproductionBonus>
+		<QueenInitBonusSpread>1</QueenInitBonusSpread>
+		<CreaturePopulationModifier>0</CreaturePopulationModifier>
+		<CreatureTownAggressiveness>-10</CreatureTownAggressiveness>
+		<!-- Underground sectors -->
+		<SectorJ9B1NumTroops>8</SectorJ9B1NumTroops>
+		<SectorJ9B2NumCreatures>1</SectorJ9B2NumCreatures>
+		<SectorK4B1NumTroops>1</SectorK4B1NumTroops>
+		<SectorK4B1NumElites>1</SectorK4B1NumElites>
+		<SectorO3B1NumTroops>1</SectorO3B1NumTroops>
+		<SectorO3B1NumElites>1</SectorO3B1NumElites>
+		<SectorP3B1NumElites>8</SectorP3B1NumElites>	
+		<!-- Strategic Other -->
+		<StrategicAiActionWakeQueen>0</StrategicAiActionWakeQueen>
+		<UpdateLastDayOfPlayerActivity>1</UpdateLastDayOfPlayerActivity>
+		<ChanceOfEnemyAmbushes>-15</ChanceOfEnemyAmbushes>	
+		<AllowReinforcements>1</AllowReinforcements>
+		<AllowReinforcementsOmerta>0</AllowReinforcementsOmerta>
+		<PopulationLevel2>0</PopulationLevel2>
+		<PopulationLevel3>0</PopulationLevel3>
+		<!-- Weapon Cache Troops -->
+		<WeaponCacheTroops1>1</WeaponCacheTroops1>
+		<WeaponCacheTroops2>1</WeaponCacheTroops2>
+		<WeaponCacheTroops3>1</WeaponCacheTroops3>
+		<WeaponCacheTroops4>1</WeaponCacheTroops4>
+		<WeaponCacheTroops5>1</WeaponCacheTroops5>
+		<!-- Strategic Other -->
+		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
+		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
+		<AlwaysUpGradeAdminsToTroopsProgress>40</AlwaysUpGradeAdminsToTroopsProgress>
+		<LevelModifierLowLimit>0</LevelModifierLowLimit>
+		<LevelModifierHighLimit>0</LevelModifierHighLimit>
+		<AllowUnrestrictedXPLevels>0</AllowUnrestrictedXPLevels>
+		<QueenAttackLosingControlOfSector>0</QueenAttackLosingControlOfSector>
+		<BloodcatAmbushSectors>1</BloodcatAmbushSectors>
+		<AirRaidLookForDive>0</AirRaidLookForDive>
+		<NumberOfTurnsPowerGenFanWillBeStoppedFor>2</NumberOfTurnsPowerGenFanWillBeStoppedFor>
+		<RadioSightings>0</RadioSightings>
+		<RadioSightings2>0</RadioSightings2>
+		<EnemyMoraleWorried>0</EnemyMoraleWorried>
+		<MaxMortarsPerTeam>1</MaxMortarsPerTeam>
+		<!-- CTHConstants Settings -->
+		<CthConstantsAimDifficulty>-30.0</CthConstantsAimDifficulty>
+		<CthConstantsBaseDifficulty>-30.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficultyMilitia>20.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>20.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>20.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>20.0</CthConstantsBaseDifficultyPlayer>
+	</DIFFICULTY>
+	<DIFFICULTY>
+		<uiIndex>2</uiIndex>
+		<Name>Experienced</Name>
+		<ConfirmText>You have chosen EXPERIENCED mode. This setting is suitable for those already familiar with Jagged Alliance or similar games. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Experienced mode?</ConfirmText>
+		<StartingCash>125000</StartingCash>
+		<EnemyAPBonus>0</EnemyAPBonus>
+		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
+		<InitialGarrisonPercentages>100</InitialGarrisonPercentages>
+		<MinEnemyGroupSize>4</MinEnemyGroupSize>
+		<CounterAttackGroupSize>15</CounterAttackGroupSize>
+		<PercentElitesBonus>0</PercentElitesBonus>
+		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
+		<QueensInitialPoolOfTroops>200</QueensInitialPoolOfTroops>
+		<QueenPoolIncrementPerDifficultyLevel>60</QueenPoolIncrementPerDifficultyLevel>
+		<EnemyStartingAlertLevel>20</EnemyStartingAlertLevel>
+		<EnemyAlertDecay>50</EnemyAlertDecay>
+		<NumAwareBattles>2</NumAwareBattles>
+		<BaseDelayInMinutesBetweenEvaluations>360</BaseDelayInMinutesBetweenEvaluations>
+		<EvaluationDelayVariance>180</EvaluationDelayVariance>
+		<GracePeriodInHoursAfterSectorLiberation>96</GracePeriodInHoursAfterSectorLiberation>
+		<GracePeriodInDaysAfterPatrolDestroyed>12</GracePeriodInDaysAfterPatrolDestroyed>
+		<AggressiveQueenAi>0</AggressiveQueenAi>
+		<MaxMercDeaths>4</MaxMercDeaths>
+		<LootStatusModifier>20</LootStatusModifier>
 		<!-- Creatures Settings -->
 		<CreatureSpreadTime>450</CreatureSpreadTime>
 		<QueenReproductionBase>7</QueenReproductionBase>
@@ -248,14 +318,14 @@
 		<SectorK4B1NumElites>2</SectorK4B1NumElites>
 		<SectorO3B1NumTroops>2</SectorO3B1NumTroops>
 		<SectorO3B1NumElites>2</SectorO3B1NumElites>
-		<SectorP3B1NumElites>10</SectorP3B1NumElites>
+		<SectorP3B1NumElites>10</SectorP3B1NumElites>	
 		<!-- Strategic Other -->
 		<StrategicAiActionWakeQueen>0</StrategicAiActionWakeQueen>
 		<UpdateLastDayOfPlayerActivity>1</UpdateLastDayOfPlayerActivity>
-		<ChanceOfEnemyAmbushes>5</ChanceOfEnemyAmbushes>
+		<ChanceOfEnemyAmbushes>5</ChanceOfEnemyAmbushes>	
 		<AllowReinforcements>1</AllowReinforcements>
-		<AllowReinforcementsOmerta>0</AllowReinforcementsOmerta>
-		<PopulationLevel2>0</PopulationLevel2>
+		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>
+		<PopulationLevel2>1</PopulationLevel2>
 		<PopulationLevel3>0</PopulationLevel3>
 		<!-- Weapon Cache Troops -->
 		<WeaponCacheTroops1>2</WeaponCacheTroops1>
@@ -266,13 +336,13 @@
 		<!-- Strategic Other -->
 		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
 		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
-		<AlwaysUpGradeAdminsToTroopsProgress>95</AlwaysUpGradeAdminsToTroopsProgress>
+		<AlwaysUpGradeAdminsToTroopsProgress>30</AlwaysUpGradeAdminsToTroopsProgress>
 		<LevelModifierLowLimit>0</LevelModifierLowLimit>
 		<LevelModifierHighLimit>0</LevelModifierHighLimit>
 		<AllowUnrestrictedXPLevels>0</AllowUnrestrictedXPLevels>
 		<QueenAttackLosingControlOfSector>0</QueenAttackLosingControlOfSector>
 		<BloodcatAmbushSectors>1</BloodcatAmbushSectors>
-		<AirRaidLookForDive>0</AirRaidLookForDive> <!-- Feature is disabled in .exe -->
+		<AirRaidLookForDive>0</AirRaidLookForDive>
 		<NumberOfTurnsPowerGenFanWillBeStoppedFor>2</NumberOfTurnsPowerGenFanWillBeStoppedFor>
 		<RadioSightings>1</RadioSightings>
 		<RadioSightings2>1</RadioSightings2>
@@ -281,124 +351,42 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
-		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
-		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
-		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
-		<CthConstantsBaseDifficultyPlayer>0.0</CthConstantsBaseDifficultyPlayer>
+		<CthConstantsAimDifficultyMilitia>10.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>10.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>10.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>10.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
-
-	<DIFFICULTY>
-		<uiIndex>2</uiIndex>
-		<Name>Experienced</Name>
-		<ConfirmText>Normal game mode. Includes 50000 of starting cash, normal initial garrisons, 500 soldiers in Queen's Army reserve and normal strategic awareness in total. Up to 3 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
-		<StartingCash>50000</StartingCash>
-		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
-		<InitialGarrisonPercentages>90</InitialGarrisonPercentages>
-		<MinEnemyGroupSize>8</MinEnemyGroupSize>
-		<CounterAttackGroupSize>16</CounterAttackGroupSize>
-		<PercentElitesBonus>0</PercentElitesBonus>
-		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>500</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>750</QueenPoolMaxSizePerDifficultyLevel>
-		<QueenPoolIncrementPerDifficultyLevel>7</QueenPoolIncrementPerDifficultyLevel>
-		<QueenPoolIncrementDaysIntervalPerDifficultyLevel>3</QueenPoolIncrementDaysIntervalPerDifficultyLevel>
-		<EnemyStartingAlertLevel>5</EnemyStartingAlertLevel>
-		<EnemyAlertDecay>25</EnemyAlertDecay>
-		<NumAwareBattles>2</NumAwareBattles>
-		<BaseDelayInMinutesBetweenEvaluations>300</BaseDelayInMinutesBetweenEvaluations>
-		<EvaluationDelayVariance>60</EvaluationDelayVariance>
-		<GracePeriodInHoursAfterSectorLiberation>8</GracePeriodInHoursAfterSectorLiberation>
-		<GracePeriodInDaysAfterPatrolDestroyed>7</GracePeriodInDaysAfterPatrolDestroyed>
-		<AggressiveQueenAi>0</AggressiveQueenAi>
-		<MaxMercDeaths>3</MaxMercDeaths>
-		<LootStatusModifier>5</LootStatusModifier>
-		<!-- Creatures Settings -->
-		<CreatureSpreadTime>450</CreatureSpreadTime>
-		<QueenReproductionBase>7</QueenReproductionBase>
-		<QueenReproductionBonus>2</QueenReproductionBonus>
-		<QueenInitBonusSpread>2</QueenInitBonusSpread>
-		<CreaturePopulationModifier>0</CreaturePopulationModifier>
-		<CreatureTownAggressiveness>0</CreatureTownAggressiveness>
-		<!-- Underground sectors -->
-		<SectorJ9B1NumTroops>15</SectorJ9B1NumTroops>
-		<SectorJ9B2NumCreatures>3</SectorJ9B2NumCreatures>
-		<SectorK4B1NumTroops>3</SectorK4B1NumTroops>
-		<SectorK4B1NumElites>3</SectorK4B1NumElites>
-		<SectorO3B1NumTroops>3</SectorO3B1NumTroops>
-		<SectorO3B1NumElites>3</SectorO3B1NumElites>
-		<SectorP3B1NumElites>14</SectorP3B1NumElites>
-		<!-- Strategic Other -->
-		<StrategicAiActionWakeQueen>0</StrategicAiActionWakeQueen>
-		<UpdateLastDayOfPlayerActivity>1</UpdateLastDayOfPlayerActivity>
-		<ChanceOfEnemyAmbushes>5</ChanceOfEnemyAmbushes>
-		<AllowReinforcements>1</AllowReinforcements>
-		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>
-		<PopulationLevel2>1</PopulationLevel2>
-		<PopulationLevel3>1</PopulationLevel3>
-		<!-- Weapon Cache Troops -->
-		<WeaponCacheTroops1>2</WeaponCacheTroops1>
-		<WeaponCacheTroops2>2</WeaponCacheTroops2>
-		<WeaponCacheTroops3>2</WeaponCacheTroops3>
-		<WeaponCacheTroops4>2</WeaponCacheTroops4>
-		<WeaponCacheTroops5>2</WeaponCacheTroops5>
-		<!-- Strategic Other -->
-		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
-		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
-		<AlwaysUpGradeAdminsToTroopsProgress>50</AlwaysUpGradeAdminsToTroopsProgress>
-		<LevelModifierLowLimit>0</LevelModifierLowLimit>
-		<LevelModifierHighLimit>0</LevelModifierHighLimit>
-		<AllowUnrestrictedXPLevels>1</AllowUnrestrictedXPLevels>
-		<QueenAttackLosingControlOfSector>0</QueenAttackLosingControlOfSector>
-		<BloodcatAmbushSectors>1</BloodcatAmbushSectors>
-		<AirRaidLookForDive>0</AirRaidLookForDive> <!-- Feature is disabled in .exe -->
-		<NumberOfTurnsPowerGenFanWillBeStoppedFor>2</NumberOfTurnsPowerGenFanWillBeStoppedFor>
-		<RadioSightings>1</RadioSightings>
-		<RadioSightings2>1</RadioSightings2>
-		<EnemyMoraleWorried>0</EnemyMoraleWorried>
-		<MaxMortarsPerTeam>1</MaxMortarsPerTeam>
-		<!-- CTHConstants Settings -->
-		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
-		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
-		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
-		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
-		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
-		<CthConstantsBaseDifficultyPlayer>0.0</CthConstantsBaseDifficultyPlayer>
-	</DIFFICULTY>
-
 	<DIFFICULTY>
 		<uiIndex>3</uiIndex>
 		<Name>Expert</Name>
-		<ConfirmText>Difficult game mode. Includes 35000 of starting cash, reinforced initial garrisons, 1000 soldiers in Queen's Army reserve and superb strategic awareness in total. Up to 5 AIM/MERC mercenaries may die being on assignment somewhere.</ConfirmText>
-		<StartingCash>35000</StartingCash>
+		<ConfirmText>You have chosen EXPERT mode. We warned you. Don't blame us if you get shipped back in a body bag. Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in Expert mode?</ConfirmText>
+		<StartingCash>100000</StartingCash>
 		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
-		<InitialGarrisonPercentages>110</InitialGarrisonPercentages>
-		<MinEnemyGroupSize>8</MinEnemyGroupSize>
-		<CounterAttackGroupSize>24</CounterAttackGroupSize>
-		<PercentElitesBonus>10</PercentElitesBonus>
+		<NumKillsPerProgressPoint>15</NumKillsPerProgressPoint>
+		<InitialGarrisonPercentages>150</InitialGarrisonPercentages>
+		<MinEnemyGroupSize>6</MinEnemyGroupSize>
+		<CounterAttackGroupSize>20</CounterAttackGroupSize>
+		<PercentElitesBonus>5</PercentElitesBonus>
 		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>1000</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>1500</QueenPoolMaxSizePerDifficultyLevel>
-		<QueenPoolIncrementPerDifficultyLevel>10</QueenPoolIncrementPerDifficultyLevel>
-		<QueenPoolIncrementDaysIntervalPerDifficultyLevel>3</QueenPoolIncrementDaysIntervalPerDifficultyLevel>
-		<EnemyStartingAlertLevel>10</EnemyStartingAlertLevel>
-		<EnemyAlertDecay>20</EnemyAlertDecay>
+		<QueensInitialPoolOfTroops>400</QueensInitialPoolOfTroops>
+		<QueenPoolIncrementPerDifficultyLevel>60</QueenPoolIncrementPerDifficultyLevel>
+		<EnemyStartingAlertLevel>60</EnemyStartingAlertLevel>
+		<EnemyAlertDecay>25</EnemyAlertDecay>
 		<NumAwareBattles>3</NumAwareBattles>
-		<BaseDelayInMinutesBetweenEvaluations>300</BaseDelayInMinutesBetweenEvaluations>
-		<EvaluationDelayVariance>60</EvaluationDelayVariance>
-		<GracePeriodInHoursAfterSectorLiberation>4</GracePeriodInHoursAfterSectorLiberation>
-		<GracePeriodInDaysAfterPatrolDestroyed>3</GracePeriodInDaysAfterPatrolDestroyed>
+		<BaseDelayInMinutesBetweenEvaluations>180</BaseDelayInMinutesBetweenEvaluations>
+		<EvaluationDelayVariance>120</EvaluationDelayVariance>
+		<GracePeriodInHoursAfterSectorLiberation>48</GracePeriodInHoursAfterSectorLiberation>
+		<GracePeriodInDaysAfterPatrolDestroyed>8</GracePeriodInDaysAfterPatrolDestroyed>
 		<AggressiveQueenAi>0</AggressiveQueenAi>
-		<MaxMercDeaths>5</MaxMercDeaths>
-		<LootStatusModifier>5</LootStatusModifier>
+		<MaxMercDeaths>6</MaxMercDeaths>
+		<LootStatusModifier>40</LootStatusModifier>
 		<!-- Creatures Settings -->
-		<CreatureSpreadTime>450</CreatureSpreadTime>
-		<QueenReproductionBase>7</QueenReproductionBase>
-		<QueenReproductionBonus>2</QueenReproductionBonus>
-		<QueenInitBonusSpread>2</QueenInitBonusSpread>
+		<CreatureSpreadTime>390</CreatureSpreadTime>
+		<QueenReproductionBase>9</QueenReproductionBase>
+		<QueenReproductionBonus>3</QueenReproductionBonus>
+		<QueenInitBonusSpread>3</QueenInitBonusSpread>
 		<CreaturePopulationModifier>0</CreaturePopulationModifier>
-		<CreatureTownAggressiveness>0</CreatureTownAggressiveness>
+		<CreatureTownAggressiveness>10</CreatureTownAggressiveness>
 		<!-- Underground sectors -->
 		<SectorJ9B1NumTroops>15</SectorJ9B1NumTroops>
 		<SectorJ9B2NumCreatures>3</SectorJ9B2NumCreatures>
@@ -406,11 +394,11 @@
 		<SectorK4B1NumElites>3</SectorK4B1NumElites>
 		<SectorO3B1NumTroops>3</SectorO3B1NumTroops>
 		<SectorO3B1NumElites>3</SectorO3B1NumElites>
-		<SectorP3B1NumElites>14</SectorP3B1NumElites>
+		<SectorP3B1NumElites>14</SectorP3B1NumElites>	
 		<!-- Strategic Other -->
-		<StrategicAiActionWakeQueen>0</StrategicAiActionWakeQueen>
-		<UpdateLastDayOfPlayerActivity>1</UpdateLastDayOfPlayerActivity>
-		<ChanceOfEnemyAmbushes>7</ChanceOfEnemyAmbushes>
+		<StrategicAiActionWakeQueen>1</StrategicAiActionWakeQueen>
+		<UpdateLastDayOfPlayerActivity>2</UpdateLastDayOfPlayerActivity>
+		<ChanceOfEnemyAmbushes>12</ChanceOfEnemyAmbushes>
 		<AllowReinforcements>1</AllowReinforcements>
 		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>
 		<PopulationLevel2>1</PopulationLevel2>
@@ -420,25 +408,25 @@
 		<WeaponCacheTroops2>3</WeaponCacheTroops2>
 		<WeaponCacheTroops3>3</WeaponCacheTroops3>
 		<WeaponCacheTroops4>3</WeaponCacheTroops4>
-		<WeaponCacheTroops5>3</WeaponCacheTroops5>
+		<WeaponCacheTroops5>3</WeaponCacheTroops5>		
 		<!-- Strategic Other -->
 		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
 		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
-		<AlwaysUpGradeAdminsToTroopsProgress>25</AlwaysUpGradeAdminsToTroopsProgress>
+		<AlwaysUpGradeAdminsToTroopsProgress>20</AlwaysUpGradeAdminsToTroopsProgress>
 		<LevelModifierLowLimit>0</LevelModifierLowLimit>
 		<LevelModifierHighLimit>0</LevelModifierHighLimit>
-		<AllowUnrestrictedXPLevels>1</AllowUnrestrictedXPLevels>
+		<AllowUnrestrictedXPLevels>0</AllowUnrestrictedXPLevels>
 		<QueenAttackLosingControlOfSector>0</QueenAttackLosingControlOfSector>
-		<BloodcatAmbushSectors>1</BloodcatAmbushSectors>
-		<AirRaidLookForDive>0</AirRaidLookForDive> <!-- Feature is disabled in .exe -->
-		<NumberOfTurnsPowerGenFanWillBeStoppedFor>2</NumberOfTurnsPowerGenFanWillBeStoppedFor>
+		<BloodcatAmbushSectors>0</BloodcatAmbushSectors>
+		<AirRaidLookForDive>1</AirRaidLookForDive>
+		<NumberOfTurnsPowerGenFanWillBeStoppedFor>1</NumberOfTurnsPowerGenFanWillBeStoppedFor>
 		<RadioSightings>1</RadioSightings>
 		<RadioSightings2>1</RadioSightings2>
 		<EnemyMoraleWorried>0</EnemyMoraleWorried>
-		<MaxMortarsPerTeam>2</MaxMortarsPerTeam>
+		<MaxMortarsPerTeam>1</MaxMortarsPerTeam>
 		<!-- CTHConstants Settings -->
-		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
-		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficulty>20.0</CthConstantsAimDifficulty>
+		<CthConstantsBaseDifficulty>20.0</CthConstantsBaseDifficulty>
 		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
 		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
 		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
@@ -448,76 +436,74 @@
 	<DIFFICULTY>
 		<uiIndex>4</uiIndex>
 		<Name>Insane</Name>
-		<ConfirmText>Extremely difficult game mode. It has similar game settings to Expert mode, and it features extremely aggressive Queen's Army strategy. Prepare yourself for survival quests...</ConfirmText>
-		<StartingCash>35000</StartingCash>
-		<EnemyAPBonus>0</EnemyAPBonus>
-		<NumKillsPerProgressPoint>10</NumKillsPerProgressPoint>
-		<InitialGarrisonPercentages>110</InitialGarrisonPercentages>
-		<MinEnemyGroupSize>8</MinEnemyGroupSize>
+		<ConfirmText>You have chosen INSANE mode. WARNING: Don't blame us if you get shipped back in little pieces... Deidranna WILL kick your ass.  Hard.  Your choice will affect things throughout the entire course of the game, so choose wisely. Are you sure you want to play in INSANE mode?</ConfirmText>
+		<StartingCash>75000</StartingCash>
+		<EnemyAPBonus>5</EnemyAPBonus>
+		<NumKillsPerProgressPoint>60</NumKillsPerProgressPoint>
+		<InitialGarrisonPercentages>200</InitialGarrisonPercentages>
+		<MinEnemyGroupSize>12</MinEnemyGroupSize>
 		<CounterAttackGroupSize>24</CounterAttackGroupSize>
-		<PercentElitesBonus>10</PercentElitesBonus>
-		<UnlimitedPoolOfTroops>0</UnlimitedPoolOfTroops>
-		<QueensInitialPoolOfTroops>1000</QueensInitialPoolOfTroops>
-		<QueenPoolMaxSizePerDifficultyLevel>2000</QueenPoolMaxSizePerDifficultyLevel>
-		<QueenPoolIncrementPerDifficultyLevel>10</QueenPoolIncrementPerDifficultyLevel>
-		<QueenPoolIncrementDaysIntervalPerDifficultyLevel>2</QueenPoolIncrementDaysIntervalPerDifficultyLevel>
-		<EnemyStartingAlertLevel>10</EnemyStartingAlertLevel>
-		<EnemyAlertDecay>20</EnemyAlertDecay>
-		<NumAwareBattles>3</NumAwareBattles>
-		<BaseDelayInMinutesBetweenEvaluations>300</BaseDelayInMinutesBetweenEvaluations>
+		<PercentElitesBonus>10</PercentElitesBonus>	
+		<UnlimitedPoolOfTroops>1</UnlimitedPoolOfTroops>
+		<QueensInitialPoolOfTroops>8000</QueensInitialPoolOfTroops>
+		<QueenPoolIncrementPerDifficultyLevel>60</QueenPoolIncrementPerDifficultyLevel>
+		<EnemyStartingAlertLevel>80</EnemyStartingAlertLevel>
+		<EnemyAlertDecay>10</EnemyAlertDecay>
+		<NumAwareBattles>4</NumAwareBattles>
+		<BaseDelayInMinutesBetweenEvaluations>90</BaseDelayInMinutesBetweenEvaluations>
 		<EvaluationDelayVariance>60</EvaluationDelayVariance>
-		<GracePeriodInHoursAfterSectorLiberation>4</GracePeriodInHoursAfterSectorLiberation>
-		<GracePeriodInDaysAfterPatrolDestroyed>3</GracePeriodInDaysAfterPatrolDestroyed>
+		<GracePeriodInHoursAfterSectorLiberation>6</GracePeriodInHoursAfterSectorLiberation>
+		<GracePeriodInDaysAfterPatrolDestroyed>2</GracePeriodInDaysAfterPatrolDestroyed>
 		<AggressiveQueenAi>1</AggressiveQueenAi>
-		<MaxMercDeaths>5</MaxMercDeaths>
-		<LootStatusModifier>5</LootStatusModifier>
+		<MaxMercDeaths>8</MaxMercDeaths>
+		<LootStatusModifier>60</LootStatusModifier>
 		<!-- Creatures Settings -->
-		<CreatureSpreadTime>450</CreatureSpreadTime>
-		<QueenReproductionBase>7</QueenReproductionBase>
-		<QueenReproductionBonus>2</QueenReproductionBonus>
-		<QueenInitBonusSpread>2</QueenInitBonusSpread>
+		<CreatureSpreadTime>150</CreatureSpreadTime>
+		<QueenReproductionBase>15</QueenReproductionBase>
+		<QueenReproductionBonus>5</QueenReproductionBonus>
+		<QueenInitBonusSpread>5</QueenInitBonusSpread>
 		<CreaturePopulationModifier>0</CreaturePopulationModifier>
-		<CreatureTownAggressiveness>0</CreatureTownAggressiveness>
+		<CreatureTownAggressiveness>50</CreatureTownAggressiveness>
 		<!-- Underground sectors -->
-		<SectorJ9B1NumTroops>15</SectorJ9B1NumTroops>
-		<SectorJ9B2NumCreatures>3</SectorJ9B2NumCreatures>
-		<SectorK4B1NumTroops>3</SectorK4B1NumTroops>
-		<SectorK4B1NumElites>3</SectorK4B1NumElites>
-		<SectorO3B1NumTroops>3</SectorO3B1NumTroops>
-		<SectorO3B1NumElites>3</SectorO3B1NumElites>
-		<SectorP3B1NumElites>14</SectorP3B1NumElites>
+		<SectorJ9B1NumTroops>20</SectorJ9B1NumTroops>
+		<SectorJ9B2NumCreatures>4</SectorJ9B2NumCreatures>
+		<SectorK4B1NumTroops>4</SectorK4B1NumTroops>
+		<SectorK4B1NumElites>4</SectorK4B1NumElites>
+		<SectorO3B1NumTroops>4</SectorO3B1NumTroops>
+		<SectorO3B1NumElites>4</SectorO3B1NumElites>
+		<SectorP3B1NumElites>20</SectorP3B1NumElites>	
 		<!-- Strategic Other -->
 		<StrategicAiActionWakeQueen>1</StrategicAiActionWakeQueen>
-		<UpdateLastDayOfPlayerActivity>1</UpdateLastDayOfPlayerActivity>
-		<ChanceOfEnemyAmbushes>7</ChanceOfEnemyAmbushes>
-		<AllowReinforcements>1</AllowReinforcements>
-		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>
+		<UpdateLastDayOfPlayerActivity>2</UpdateLastDayOfPlayerActivity>
+		<ChanceOfEnemyAmbushes>25</ChanceOfEnemyAmbushes>
+		<AllowReinforcements>1</AllowReinforcements>	
+		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>	
 		<PopulationLevel2>1</PopulationLevel2>
 		<PopulationLevel3>1</PopulationLevel3>
 		<!-- Weapon Cache Troops -->
-		<WeaponCacheTroops1>3</WeaponCacheTroops1>
-		<WeaponCacheTroops2>3</WeaponCacheTroops2>
-		<WeaponCacheTroops3>3</WeaponCacheTroops3>
-		<WeaponCacheTroops4>3</WeaponCacheTroops4>
-		<WeaponCacheTroops5>3</WeaponCacheTroops5>
+		<WeaponCacheTroops1>4</WeaponCacheTroops1>
+		<WeaponCacheTroops2>4</WeaponCacheTroops2>
+		<WeaponCacheTroops3>4</WeaponCacheTroops3>
+		<WeaponCacheTroops4>4</WeaponCacheTroops4>
+		<WeaponCacheTroops5>4</WeaponCacheTroops5>	
 		<!-- Strategic Other -->
-		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
-		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
-		<AlwaysUpGradeAdminsToTroopsProgress>25</AlwaysUpGradeAdminsToTroopsProgress>
+		<UpgradeAdminsToTroops>1</UpgradeAdminsToTroops>
+		<UpgradeGarrisonsAdminsToTroops>1</UpgradeGarrisonsAdminsToTroops>	
+		<AlwaysUpGradeAdminsToTroopsProgress>10</AlwaysUpGradeAdminsToTroopsProgress>
 		<LevelModifierLowLimit>0</LevelModifierLowLimit>
 		<LevelModifierHighLimit>0</LevelModifierHighLimit>
 		<AllowUnrestrictedXPLevels>1</AllowUnrestrictedXPLevels>
-		<QueenAttackLosingControlOfSector>0</QueenAttackLosingControlOfSector>
-		<BloodcatAmbushSectors>1</BloodcatAmbushSectors>
-		<AirRaidLookForDive>0</AirRaidLookForDive> <!-- Feature is disabled in .exe -->
-		<NumberOfTurnsPowerGenFanWillBeStoppedFor>2</NumberOfTurnsPowerGenFanWillBeStoppedFor>
+		<QueenAttackLosingControlOfSector>1</QueenAttackLosingControlOfSector>	
+		<BloodcatAmbushSectors>0</BloodcatAmbushSectors>
+		<AirRaidLookForDive>1</AirRaidLookForDive>	
+		<NumberOfTurnsPowerGenFanWillBeStoppedFor>1</NumberOfTurnsPowerGenFanWillBeStoppedFor>	
 		<RadioSightings>1</RadioSightings>
 		<RadioSightings2>1</RadioSightings2>
-		<EnemyMoraleWorried>0</EnemyMoraleWorried>
+		<EnemyMoraleWorried>1</EnemyMoraleWorried>
 		<MaxMortarsPerTeam>2</MaxMortarsPerTeam>
 		<!-- CTHConstants Settings -->
-		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
-		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficulty>50.0</CthConstantsAimDifficulty>
+		<CthConstantsBaseDifficulty>50.0</CthConstantsBaseDifficulty>
 		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
 		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
 		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
