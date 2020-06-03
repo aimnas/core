@@ -1830,7 +1830,7 @@
 		<ubIndex>37</ubIndex>
 		<szFacilityName>T-Shirt Factory</szFacilityName>
 		<szFacilityShortName>Factory</szFacilityShortName>
-		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 		<PRODUCTIONLINE>
 			<!-- create string -->
 			<szAdditionalRequirementTips> - Requires: Doreen quest</szAdditionalRequirementTips>
@@ -1858,7 +1858,7 @@
 			<sHourlyCost>4</sHourlyCost>			
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
-			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- create Arulco T-Shirt from string + rag (2x) -->
@@ -1933,7 +1933,7 @@
 		<ubIndex>38</ubIndex>
 		<szFacilityName>Hicks Farm</szFacilityName>
 		<szFacilityShortName>Farm</szFacilityShortName>
-		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 		<PRODUCTIONLINE>
 			<!-- cow meat -->
 			<szAdditionalRequirementTips> - Requires: Hicks dead</szAdditionalRequirementTips>

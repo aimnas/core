@@ -425,7 +425,7 @@ function SetFactoryLeftoverProgress(sSectorX, sSectorY, bSectorZ, usFacilityType
 	
 	if ( bSectorZ == 0 ) then
 	
-		if ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_C and usFacilityType == 23 ) then
+		if ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_C and usFacilityType == 37 ) then
 	
 			SetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_DRASSEN_TSHIRTFACTORY_1 + usProductionNumber, 1 + sProgressLeft)
 			
@@ -436,19 +436,19 @@ function SetFactoryLeftoverProgress(sSectorX, sSectorY, bSectorZ, usFacilityType
 			
 			end
 	
-		elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F and usFacilityType == 24 ) then
+		elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F and usFacilityType == 38 ) then
 		
 			SetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_CAMBRIA_HICKSFARM_1 + usProductionNumber, 1 + sProgressLeft)
 			
-		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_H and usFacilityType == 5 ) then
+		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_H and usFacilityType == 6 ) then
 		
 			SetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_GRUMM_MUNITIONSFACTORY_1 + usProductionNumber, 1 + sProgressLeft)
 			
-		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_G and usFacilityType == 25 ) then
+		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_G and usFacilityType == 39 ) then
 		
 			SetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_GRUMM_BOMBWORKSHOP_1 + usProductionNumber, 1 + sProgressLeft)
 			
-		elseif ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K and usFacilityType == 15 ) then
+		elseif ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K and usFacilityType == 17 ) then
 		
 			SetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_GRUMM_ORTAFACTORY + usProductionNumber, 1 + sProgressLeft)
 		
@@ -466,7 +466,7 @@ function GetFactoryLeftoverProgress(sSectorX, sSectorY, bSectorZ, usFacilityType
 	
 	if ( bSectorZ == 0 ) then
 	
-		if ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_C and usFacilityType == 23 ) then
+		if ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_C and usFacilityType == 37 ) then
 	
 			-- The T-Shirt factory can only be used once Doreen is gone, one way or the other
 			if ( gubQuest( Quests.QUEST_FREE_CHILDREN ) == qStatus.QUESTDONE ) then
@@ -500,7 +500,7 @@ function GetFactoryLeftoverProgress(sSectorX, sSectorY, bSectorZ, usFacilityType
 				
 			end
 			
-		elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F and usFacilityType == 24 ) then
+		elseif ( sSectorX == 10 and sSectorY == SectorY.MAP_ROW_F and usFacilityType == 38 ) then
 		
 			-- the Hicks farm can only be used if the quest was solved by killing the Hicks family
 			if ( MercIsDead(Profil.DARREL) and MercIsDead(Profil.DARYL) ) then
@@ -513,15 +513,15 @@ function GetFactoryLeftoverProgress(sSectorX, sSectorY, bSectorZ, usFacilityType
 				
 			end
 			
-		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_H and usFacilityType == 5 ) then
+		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_H and usFacilityType == 6 ) then
 			
 			val = GetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_GRUMM_MUNITIONSFACTORY_1 + usProductionNumber) - 1
 		
-		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_G and usFacilityType == 25 ) then
+		elseif ( sSectorX == 2 and sSectorY == SectorY.MAP_ROW_G and usFacilityType == 39 ) then
 			
 			val = GetModderLUAFact(ModSpecificFacts.FACTORY_PROGRESS_GRUMM_BOMBWORKSHOP_1 + usProductionNumber) - 1
 			
-		elseif ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K and usFacilityType == 15 ) then
+		elseif ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K and usFacilityType == 17 ) then
 		
 			-- the Orta factory can only be used once Ernest gave us the rifles (and presumably control over the assembly lines)
 			if ( (CheckFact( Facts.FACT_CONVO_ERNEST, 0 ) == true) ) then
