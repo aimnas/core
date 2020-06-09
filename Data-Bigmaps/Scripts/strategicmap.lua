@@ -854,10 +854,10 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		elseif ( sSectorX == 13 and sSectorY == SectorY.MAP_ROW_D) then
 			if ( GetTownLoyaltyRating(2) > 50 ) then
 				-- wine store
-				CreateCivilian(17198, 0, 55, Bodytype.REGFEMALE, -1, -1, -1, -1, -1, -1, -1, -1)
+				CreateCivilian(26413, 0, 55, Bodytype.REGFEMALE, -1, -1, -1, -1, -1, -1, -1, -1)
 			end
 			-- general store
-			CreateCivilian(10943, 0, 41, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
+			CreateCivilian(44750, 0, 41, Bodytype.MANCIV, -1, -1, -1, -1, -1, -1, -1, -1)
 		-- Alma
 		elseif ( sSectorX == 14 and sSectorY == SectorY.MAP_ROW_I) then
 			-- wine store
