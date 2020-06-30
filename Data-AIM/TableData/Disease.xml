@@ -1,4 +1,12 @@
-﻿<DISEASESLIST>
+﻿<!--
+	The diseases described here only affect your mercs if DISEASE in JA2_Options.ini is TRUE.
+
+	Note that some tags are only considered if the additional setting DISEASE_SEVERE_LIMITATIONS is TRUE, these are:
+	- <fSpecialFlagContractDisability>
+	- <fSpecialFlagLimitedUseArms>
+	- <fSpecialFlagLimitedUseLegs>
+-->
+<DISEASESLIST>
 	<DISEASE>
 		<uiIndex>0</uiIndex>
 		<szName>Arulcan plague</szName>
@@ -16,6 +24,8 @@
 		<InfectionChance_WOUND_ANIMAL>20</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -29,6 +39,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -60,6 +73,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -73,6 +88,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -104,6 +122,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -117,6 +137,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>-10</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -148,6 +171,8 @@
 		<InfectionChance_WOUND_ANIMAL>20</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>40</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -161,6 +186,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>-30</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -192,6 +220,8 @@
 		<InfectionChance_WOUND_ANIMAL>6</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>3</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -205,6 +235,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>-7</sEffStatSTR>
@@ -236,6 +269,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -249,6 +284,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -281,6 +319,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -294,6 +334,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -325,6 +368,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -338,6 +383,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>-10</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -369,6 +417,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -382,6 +432,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -413,6 +466,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -426,6 +481,9 @@
 		<fHideSymbol>0</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>-5</sEffStatAGI>
 		<sEffStatDEX>-5</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -457,6 +515,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>30</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -470,6 +530,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -501,6 +564,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -514,6 +579,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>1</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>1</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -530,9 +598,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>12</uiIndex>
-		<szName>Wounded leg</szName>
-		<szFatName>|W|o|u|n|d|e|d |l|e|g</szFatName>
-		<szDescription>The human musculoskeletal system is complicated. Your leg received a critical wound, and while it heals, your mobility is affected.</szDescription>
+		<szName>Broken leg</szName>
+		<szFatName>|B|r|o|k|e|n |l|e|g</szFatName>
+		<szDescription>The human musculoskeletal system is complicated. Your leg received a critical wound to the leg, and while it heals,&#10;your mobility is affected.</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>500</sInfectionPtsFull>
@@ -545,6 +613,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>75</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -558,6 +628,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>1</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>-50</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -574,9 +647,9 @@
 	</DISEASE>
 	<DISEASE>
 		<uiIndex>13</uiIndex>
-		<szName>Damaged arm</szName>
-		<szFatName>|D|a|m|a|g|e|d |a|r|m</szFatName>
-		<szDescription>You were shot in the arm. Apart from being very painful, this severely limits your motor abilities.</szDescription>
+		<szName>Broken arm</szName>
+		<szFatName>|B|r|o|k|e|n |a|r|m</szFatName>
+		<szDescription>You were heavily wounded in the arm. Apart from being very painful, this severely limits your motor abilities.</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>200</sInfectionPtsFull>
@@ -589,6 +662,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>75</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -602,9 +677,12 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>1</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>-20</sEffStatDEX>
-		<sEffStatSTR>0</sEffStatSTR>
+		<sEffStatSTR>-20</sEffStatSTR>
 		<sEffStatWIS>0</sEffStatWIS>
 		<sEffStatEXP>0</sEffStatEXP>
 		<sEffAP>0</sEffAP>
@@ -633,6 +711,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>75</InfectionChance_WOUND_STR>
@@ -646,6 +726,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>-20</sEffStatSTR>
@@ -653,7 +736,7 @@
 		<sEffStatEXP>0</sEffStatEXP>
 		<sEffAP>0</sEffAP>
 		<usMaxBreath>10</usMaxBreath>
-		<sEffCarryStrength>0</sEffCarryStrength>
+		<sEffCarryStrength>-30</sEffCarryStrength>
 		<sLifeRegenHundreds>-10</sLifeRegenHundreds>
 		<sNeedToSleep>0</sNeedToSleep>
 		<sDrinkModifier>0</sDrinkModifier>
@@ -678,6 +761,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -691,6 +776,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>1</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>-20</sEffStatAGI>
 		<sEffStatDEX>-40</sEffStatDEX>
 		<sEffStatSTR>-20</sEffStatSTR>
@@ -722,6 +810,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -735,6 +825,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>-20</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -767,6 +860,8 @@
 		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
 		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
 		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
 		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
 		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
 		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
@@ -780,6 +875,9 @@
 		<fHideSymbol>1</fHideSymbol>
 		<fDisgusting>0</fDisgusting>
 		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
 		<sEffStatAGI>0</sEffStatAGI>
 		<sEffStatDEX>0</sEffStatDEX>
 		<sEffStatSTR>0</sEffStatSTR>
@@ -793,5 +891,105 @@
 		<sDrinkModifier>0</sDrinkModifier>
 		<sFoodModifier>0</sFoodModifier>
 		<moralemodifier>1.0</moralemodifier>
+	</DISEASE>
+	<DISEASE>
+		<!-- Skin burns from taking fire damage -->
+		<uiIndex>18</uiIndex>
+		<szName>Burns</szName>
+		<szFatName>|B|u|r|n|s</szFatName>
+		<szDescription>A large injury of the skin caused by fire, this is a quite painful condition and will severely affect your dexterity.</szDescription>
+		<sInfectionPtsInitial>100</sInfectionPtsInitial>
+		<sInfectionPtsOutbreak>80</sInfectionPtsOutbreak>
+		<sInfectionPtsFull>500</sInfectionPtsFull>
+		<sInfectionPtsGainPerHour>-4</sInfectionPtsGainPerHour>		
+		<InfectionChance_SWAMP>0</InfectionChance_SWAMP>
+		<InfectionChance_TROPICS>0</InfectionChance_TROPICS>
+		<InfectionChance_SEX>0</InfectionChance_SEX>
+		<InfectionChance_CONTACT_HUMAN>0</InfectionChance_CONTACT_HUMAN>
+		<InfectionChance_CONTACT_CORPSE>0</InfectionChance_CONTACT_CORPSE>
+		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
+		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
+		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>100</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>0</InfectionChance_WOUND_GAS>
+		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
+		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
+		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
+		<InfectionChance_WOUND_WIS>0</InfectionChance_WOUND_WIS>
+		<InfectionChance_WOUND_TRAUMATIC>0</InfectionChance_WOUND_TRAUMATIC>
+		<InfectionChance_BADFOOD>0</InfectionChance_BADFOOD>
+		<InfectionChance_BADWATER>0</InfectionChance_BADWATER>
+		<fCanBeCured>0</fCanBeCured>
+		<fReverseOnFull>0</fReverseOnFull>
+		<fCanReInfect>1</fCanReInfect>
+		<fHideSymbol>1</fHideSymbol>
+		<fDisgusting>1</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
+		<sEffStatAGI>0</sEffStatAGI>
+		<sEffStatDEX>-40</sEffStatDEX>
+		<sEffStatSTR>0</sEffStatSTR>
+		<sEffStatWIS>0</sEffStatWIS>
+		<sEffStatEXP>0</sEffStatEXP>
+		<sEffAP>-10</sEffAP>
+		<usMaxBreath>0</usMaxBreath>
+		<sEffCarryStrength>0</sEffCarryStrength>
+		<sLifeRegenHundreds>-150</sLifeRegenHundreds>
+		<sNeedToSleep>0</sNeedToSleep>
+		<sDrinkModifier>0</sDrinkModifier>
+		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>0.8</moralemodifier>
+	</DISEASE>
+	<DISEASE>
+		<!-- Our lung is damaged after taking damage from mustard/creature gas -->
+		<uiIndex>19</uiIndex>
+		<szName>Corroded lung</szName>
+		<szFatName>|C|o|r|r|o|d|e|d |l|u|n|g</szFatName>
+		<szDescription>Due to exposure to chemical warfare agents, your lungs are severely damaged. This will obviously affect your stamina.</szDescription>
+		<sInfectionPtsInitial>120</sInfectionPtsInitial>
+		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
+		<sInfectionPtsFull>480</sInfectionPtsFull>
+		<sInfectionPtsGainPerHour>-5</sInfectionPtsGainPerHour>		
+		<InfectionChance_SWAMP>0</InfectionChance_SWAMP>
+		<InfectionChance_TROPICS>0</InfectionChance_TROPICS>
+		<InfectionChance_SEX>0</InfectionChance_SEX>
+		<InfectionChance_CONTACT_HUMAN>0</InfectionChance_CONTACT_HUMAN>
+		<InfectionChance_CONTACT_CORPSE>0</InfectionChance_CONTACT_CORPSE>
+		<InfectionChance_WOUND_ANIMAL>0</InfectionChance_WOUND_ANIMAL>
+		<InfectionChance_WOUND_OPEN>0</InfectionChance_WOUND_OPEN>
+		<InfectionChance_WOUND_GUNSHOT>0</InfectionChance_WOUND_GUNSHOT>
+		<InfectionChance_WOUND_FIRE>0</InfectionChance_WOUND_FIRE>
+		<InfectionChance_WOUND_GAS>100</InfectionChance_WOUND_GAS>
+		<InfectionChance_WOUND_AGI>0</InfectionChance_WOUND_AGI>
+		<InfectionChance_WOUND_DEX>0</InfectionChance_WOUND_DEX>
+		<InfectionChance_WOUND_STR>0</InfectionChance_WOUND_STR>
+		<InfectionChance_WOUND_WIS>0</InfectionChance_WOUND_WIS>
+		<InfectionChance_WOUND_TRAUMATIC>0</InfectionChance_WOUND_TRAUMATIC>
+		<InfectionChance_BADFOOD>0</InfectionChance_BADFOOD>
+		<InfectionChance_BADWATER>0</InfectionChance_BADWATER>
+		<fCanBeCured>0</fCanBeCured>
+		<fReverseOnFull>0</fReverseOnFull>
+		<fCanReInfect>1</fCanReInfect>
+		<fHideSymbol>1</fHideSymbol>
+		<fDisgusting>0</fDisgusting>
+		<fSpecialFlagPTSDBuns>0</fSpecialFlagPTSDBuns>
+		<fSpecialFlagContractDisability>0</fSpecialFlagContractDisability>
+		<fSpecialFlagLimitedUseArms>0</fSpecialFlagLimitedUseArms>
+		<fSpecialFlagLimitedUseLegs>0</fSpecialFlagLimitedUseLegs>
+		<sEffStatAGI>0</sEffStatAGI>
+		<sEffStatDEX>0</sEffStatDEX>
+		<sEffStatSTR>0</sEffStatSTR>
+		<sEffStatWIS>0</sEffStatWIS>
+		<sEffStatEXP>0</sEffStatEXP>
+		<sEffAP>-30</sEffAP>
+		<usMaxBreath>60</usMaxBreath>
+		<sEffCarryStrength>0</sEffCarryStrength>
+		<sLifeRegenHundreds>-200</sLifeRegenHundreds>
+		<sNeedToSleep>0</sNeedToSleep>
+		<sDrinkModifier>0</sDrinkModifier>
+		<sFoodModifier>0</sFoodModifier>
+		<moralemodifier>0.9</moralemodifier>
 	</DISEASE>
 </DISEASESLIST>

@@ -84,7 +84,7 @@ http://legion.itzg.pl/mzgb/pmwiki/pmwiki.php?n=JaggedAlliance2UBV1.Jav113lua
 		ubSender - uiIndex from SenderNameList.xml
 		iCurrentIMPPosition - Default = -1, or the profile ID of the IMP 
 		iCurrentShipmentDestinationID - Default = -1, or the Bobby Ray shipment destination ID
-
+	
 	- HireMerc (MercID)
 		hires the merc with the specified MercID
 
@@ -318,7 +318,7 @@ Finances =
 	MERC_DEPOSITED_MONEY_TO_PLAYER_ACCOUNT = 27,
 	SOLD_ITEMS = 28,
 	FACILITY_OPERATIONS = 29, 	
-	MILITIA_UPKEEP = 30, 			
+	MILITIA_UPKEEP = 30, 		
 }
 
 Sender = 
@@ -475,7 +475,7 @@ function InitNPCs()
 			AddAltSectorNew( 4, SectorY.MAP_ROW_I )	
 		end
 	end
-
+	
 	-- Not SciFi, so use alternate map in Tixa's B1 level that doesn't have the stairs going down to the caves.
 	if 	(newGAME_STYLE == 1 and iniENABLE_CREPITUS == 1) then	
 	else
@@ -512,7 +512,7 @@ function InitNewGame()
 	SetStartingCashDifLevel(newDIFFICULTY_LEVEL)
 	
 	--	Get starting cash from JA2Options.ini
-	--[[
+	--[[	
 	if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 		iStartingCash = GetStartingCashNovice()
 	elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
@@ -523,5 +523,5 @@ function InitNewGame()
 		iStartingCash = GetStartingCashInsane()
 	end
 	AddTransactionToPlayersBook( Finances.ANONYMOUS_DEPOSIT, 0, GetWorldTotalMin(), iStartingCash )
-]]
+	]]
 end
