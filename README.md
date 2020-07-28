@@ -3,7 +3,7 @@
 AIMNAS is an item/map modification for JA2 1.13, more info on the 1.13 mod can be found at http://ja2v113.pbworks.com
 
 #### Requirements
-AIMNAS currently requires atleast version **8790** of JA2 1.13 with gamedir atleast at level **2529**  
+AIMNAS currently requires atleast version **8872** of JA2 1.13 with gamedir atleast at level **2558**  
 Any earlier release of 1.13 may not work correctly with AIMNAS
 
 #### JA2 1.13 download
@@ -13,7 +13,7 @@ AIMNAS only works with the SVN release, more information about this release can 
 Regular package builds for the SVN are released, more information on these can be found at http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=20380&goto=311288&#msg_311288
 
 #### Updates
-* Config files and lua scripts updated to JA2 1.13 rev **8790** / GameDir **2529**
+* Config files and lua scripts updated to JA2 1.13 rev **8872** / GameDir **2558**
 * Many settings now match v1.13 defaults
 * Obsolete/garbage/redundant files including german subtitles were removed
 * Fix: added missing sound file "Ceramic Armour Insert.wav"
