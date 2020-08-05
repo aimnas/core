@@ -600,7 +600,7 @@
 		<uiIndex>12</uiIndex>
 		<szName>Broken leg</szName>
 		<szFatName>|B|r|o|k|e|n |l|e|g</szFatName>
-		<szDescription>The human musculoskeletal system is complicated. Your leg received a critical wound to the leg, and while it heals,&#10;your mobility is affected.</szDescription>
+		<szDescription>The human musculoskeletal system is complicated. Your leg received a critical wound, and while it heals,&#10;your mobility is affected.</szDescription>
 		<sInfectionPtsInitial>200</sInfectionPtsInitial>
 		<sInfectionPtsOutbreak>100</sInfectionPtsOutbreak>
 		<sInfectionPtsFull>500</sInfectionPtsFull>
