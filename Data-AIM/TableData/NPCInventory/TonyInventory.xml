@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <INVENTORYLIST>
 	<INVENTORY>
 		<uiIndex>0</uiIndex>
@@ -16989,7 +16989,7 @@
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>4046</uiIndex>
-		<sItemIndex>151</sItemIndex>
+		<sItemIndex>132</sItemIndex>
 	</INVENTORY>
 	<INVENTORY>
 		<uiIndex>4047</uiIndex>
