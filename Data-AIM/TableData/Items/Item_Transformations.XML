@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TRANSFORMATIONS_LIST>
 	<TRANSFORM>
 		<usItem>54</usItem>
@@ -18,7 +18,7 @@
 		<szTooltipText />
 	</TRANSFORM>
 	<TRANSFORM>
-		<usItem>151</usItem>
+		<usItem>132</usItem>
 		<usResult1>150</usResult1>
 		<usResult2>150</usResult2>
 		<usResult3>150</usResult3>
