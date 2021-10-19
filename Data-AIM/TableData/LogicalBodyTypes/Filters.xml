@@ -506,4 +506,9 @@
 			<BODYTYPE>BIGMALE</BODYTYPE>
 		</OR>
 	</Filter>
+	 <Filter name="IsFemale">
+		 <OR>
+			 <BODYTYPE>REGFEMALE</BODYTYPE>
+		 </OR>
+	</Filter>
 </Filters>
