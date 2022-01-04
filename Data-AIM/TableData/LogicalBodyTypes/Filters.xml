@@ -77,9 +77,20 @@
 		</AND>
 	</Filter>
 	<Filter name="Longsleeves">
-		<AND>
-			<VESTPOS op="in">2701, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, 2710, 2714, 2715, 2716, 2721, 2722, 2723, 2724, 2734, 2735, 2736, 2738, 2739, 2740, 2742, 2772</VESTPOS>
-		</AND>
+		<OR>
+			<VESTPOS op="btwn">2701, 2710</VESTPOS>
+			<VESTPOS op="btwn">2714, 2716</VESTPOS>
+			<VESTPOS op="btwn">2721, 2724</VESTPOS>
+			<VESTPOS op="btwn">2734, 2736</VESTPOS>
+			<VESTPOS op="btwn">2738, 2740</VESTPOS>
+			<VESTPOS op="btwn">2742, 2744</VESTPOS>
+			<VESTPOS op="btwn">2748, 2756</VESTPOS>
+			<VESTPOS op="btwn">2760, 2768</VESTPOS>
+			<VESTPOS op="btwn">2772, 2780</VESTPOS>
+			<VESTPOS op="btwn">2787, 2804</VESTPOS>
+			<VESTPOS op="btwn">2808, 2825</VESTPOS>
+			<VESTPOS op="btwn">2829, 2843</VESTPOS>
+		</OR>
 	</Filter>
 	<Filter name="LongsleevesANDHasPistolOrMPistolInLeftHand">
 		<AND>
@@ -315,6 +326,11 @@
 			<HANDPOS op="in">5726, 5781, 5784</HANDPOS>
 		</AND>
 	</Filter>
+	<Filter name="HasRocketRifleInHand">
+		<AND>
+			<HANDPOS op="in">55, 65</HANDPOS>
+		</AND>
+	</Filter>
 	<Filter name="HasDesertEagleInHand">
 		<AND>
 			<HANDPOS op="in">4271, 4272, 4276, 4281, 4282, 4283, 4286, 4291, 4292, 4293, 4296</HANDPOS>
@@ -422,6 +438,23 @@
 			<FILTER>HasRifleTypeWeaponInHand</FILTER>
 		</AND>
 	</Filter>
+	<Filter name="IsWearingBallcap">
+		<AND>
+			<HELMETPOS op="in">2601, 2602, 2605</HELMETPOS>
+		</AND>
+	</Filter>
+	<Filter name="IsWearingBallcapAndHasPistol">
+		<AND>
+			<FILTER>IsWearingBallcap</FILTER>
+			<FILTER>HasPistolOrMPistolInRightHand</FILTER>
+		</AND>
+	</Filter>
+	<Filter name="IsWearingBallcapAndHasRifle">
+		<AND>
+			<FILTER>IsWearingBallcap</FILTER>
+			<FILTER>HasRifleTypeWeaponInHand</FILTER>
+		</AND>
+	</Filter>
 	<Filter name="FlakJacket">
 		<OR>
 			<VESTPOS op="btwn">2728, 2900</VESTPOS>
@@ -499,6 +532,7 @@
 	<Filter name="IsRegularMaleAverage">
 		<OR>
 			<BODYTYPE>REGMALE</BODYTYPE>
+			<BODYTYPE>STOCKYMALE</BODYTYPE>
 		</OR>
 	</Filter>
 	<Filter name="IsBigMale">
