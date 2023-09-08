@@ -1,12 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	This xml defines the properties of different ammo types. 
+	
+	<uiIndex>			ammotype number. Referred to with <ubAmmoType> in Magazines.xml
+	
+	<red>				RGB colour values (0-255) when displaying ammo count
+	<green>
+	<blue>
+	
+	<structureImpactReductionMultiplier> / <structureImpactReductionDivisor>
+						modifies how much bullet damage is reduced when hitting a structure.
+						
+	<armourImpactReductionMultiplier> / <armourImpactReductionDivisor>
+						modifies protection value of body armour we hit with the bullet
+						
+	<beforeArmourDamageMultiplier> / <beforeArmourDamageDivisor>
+						modifies damage before armour is hit. Is only used if <highExplosive> is > 0
+	
+	<afterArmourDamageMultiplier> / <afterArmourDamageDivisor>
+						modifies damage after armour is hit. Not used against armed vehicles.
+						
+	<zeroMinimumDamage>	0/1 setting. If set to 1, bullet damage can be 0.
+	<usPiercePersonChanceModifier>
+						if > 0, extra chance for bullet to continue flying if gun isn't a rocket launcher or cannon (and bullet is still powerful enough)
+	<standardIssue>		0/1 setting. If set to 1, magazines  of this ammo are considered when determining ammo for the AI inventory.
+	<numberOfBullets>	number of projectiles fired per shot. If > 1, this is considered buckshot
+	
+	<multipleBulletDamageMultiplier> / <multipleBulletDamageDivisor>
+						modifies damage immediately when fired if > 1 projectile is fired per bullet
+						
+	<highExplosive>		number of explosive item used when exploding
+	<explosionSize>		explosion size: 0=none, 1=small, 2=medium, 3=large
+	<dart>				0/1 setting. If set to 1, damage dealt > 0, target is not an armed vehicle and is hit very accurate, target might be put to sleep.
+	<knife>				0/1 setting. If set to 1, target is seen by shooter, bullet is not a fragment, and this is a stealth attack, chance to instakill the target
+	<monsterSpit>		bullet gets increased damage according to creature gas items, can blind targets, damage head gear and spawn creature gas
+	<acidic>			0/1 setting. If set to 1, armour is destroyed 4 times as fast
+	<ignoreArmour>		0/1 setting. If set to 1, torso and leg armour is ignored
+	<lockBustingPower>	extra damage done to locks
+	<tracerEffect>		0/1 setting. If set to 1, bullets can be tracers. Flash suppressors don't work, not selected on AI single shot guns.
+	<spreadPattern />	spread pattern used from SpreadPatterns.xml
+	<temperatureModificator>	additive modifier for temperature generation. 1.0 means +100%
+	<dirtModificator>			additive modifier for dirt generation. 1.0 means +100%
+	<ammoflag>			flagmask for various ammo properties:
+							AMMO_CRYO			1			this ammo shock-freezes target (scifi)
+							AMMO_BLIND			2			this ammo will blind if it hits the head
+							AMMO_ANTIMATERIEL	4			this ammo is anti-materiel, bullets can destroy structures
+	<dDamageModifierLife>					multiplier for damage to health
+	<dDamageModifierBreath>					multiplier for damage to breath
+	<dDamageModifierTank>					additional multiplier for damage to health if target is a tank
+	<dDamageModifierArmouredVehicle>		additional multiplier for damage to health if target is not a tank but armed vehicle or robot
+	<dDamageModifierCivilianVehicle>		additional multiplier for damage to health if target is unarmed vehicle
+	<dDamageModifierZombie>					additional multiplier for damage to health if target is zombie
+-->	
+
 <AMMOTYPELIST>
 	<AMMOTYPE>
 		<uiIndex>0</uiIndex>
 		<name>Ball small</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -23,7 +76,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -33,19 +85,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>1</uiIndex>
 		<name>HP small</name>
-		<fontColour>24</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -62,7 +116,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -72,19 +125,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>2</uiIndex>
 		<name>AP/FMJ small</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -101,7 +156,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -111,19 +165,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>3</uiIndex>
 		<name>SAP</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -140,7 +196,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -150,19 +205,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>4</uiIndex>
 		<name>Buckshot</name>
-		<fontColour>125</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -179,7 +236,6 @@
 		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -189,19 +245,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>5</uiIndex>
 		<name>Flechette</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>178</red>
+		<green>15</green>
+		<blue>15</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -218,7 +276,6 @@
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -228,19 +285,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>6</uiIndex>
 		<name>Grenade</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>206</green>
+		<blue>30</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -257,7 +316,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -267,19 +325,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>7</uiIndex>
 		<name>Napalm</name>
-		<fontColour>76</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>244</red>
+		<green>133</green>
+		<blue>42</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -296,7 +356,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>1</monsterSpit>
@@ -306,19 +365,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.5</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>8</uiIndex>
 		<name>Knife</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -335,7 +396,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>1</knife>
 		<monsterSpit>0</monsterSpit>
@@ -345,19 +405,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>9</uiIndex>
 		<name>HE</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>178</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -374,7 +436,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -384,19 +445,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.2</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.4</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>10</uiIndex>
 		<name>HEAT</name>
-		<fontColour>76</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>123</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -413,7 +476,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>1</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -423,19 +485,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.75</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.75</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>11</uiIndex>
 		<name>Dart</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>230</red>
+		<green>230</green>
+		<blue>230</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -452,7 +516,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>1</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -462,19 +525,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>12</uiIndex>
 		<name>Flame</name>
-		<fontColour>76</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>244</red>
+		<green>133</green>
+		<blue>42</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -491,7 +556,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>1</monsterSpit>
@@ -501,19 +565,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.1</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.5</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>13</uiIndex>
 		<name>AET</name>
-		<fontColour>160</fontColour>
-		<grayed>8</grayed>
-		<offNormal>25</offNormal>
-		<onNormal>27</onNormal>
+		<red>182</red>
+		<green>35</green>
+		<blue>196</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -530,7 +596,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -540,19 +605,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>14</uiIndex>
 		<name>Glaser</name>
-		<fontColour>185</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>59</red>
+		<green>178</green>
+		<blue>41</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -569,7 +636,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -579,19 +645,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.1</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>15</uiIndex>
 		<name>Tracer Ball</name>
-		<fontColour>144</fontColour>
-		<grayed>4</grayed>
-		<offNormal>17</offNormal>
-		<onNormal>19</onNormal>
+		<red>235</red>
+		<green>235</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -608,7 +676,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -618,19 +685,21 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>16</uiIndex>
 		<name>Tracer FMJ</name>
-		<fontColour>144</fontColour>
-		<grayed>4</grayed>
-		<offNormal>17</offNormal>
-		<onNormal>19</onNormal>
+		<red>255</red>
+		<green>215</green>
+		<blue>63</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -647,7 +716,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -657,19 +725,21 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.3</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>17</uiIndex>
 		<name>Match Ball</name>
-		<fontColour>133</fontColour>
-		<grayed>4</grayed>
-		<offNormal>13</offNormal>
-		<onNormal>15</onNormal>
+		<red>245</red>
+		<green>245</green>
+		<blue>245</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -686,7 +756,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -696,19 +765,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.05</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>18</uiIndex>
 		<name>Match FMJ</name>
-		<fontColour>133</fontColour>
-		<grayed>4</grayed>
-		<offNormal>13</offNormal>
-		<onNormal>15</onNormal>
+		<red>230</red>
+		<green>230</green>
+		<blue>230</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -725,7 +796,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -735,19 +805,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.2</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>19</uiIndex>
 		<name>Cold Ball</name>
-		<fontColour>135</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>164</red>
+		<green>164</green>
+		<blue>164</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -764,7 +836,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -774,19 +845,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>20</uiIndex>
 		<name>Cold HP</name>
-		<fontColour>71</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>85</red>
+		<green>157</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -803,8 +876,7 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
-		<dart>0</dart>
+			<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
 		<acidic>0</acidic>
@@ -813,19 +885,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>21</uiIndex>
 		<name>Cold AP/FMJ</name>
-		<fontColour>162</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>224</red>
+		<green>27</green>
+		<blue>27</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -842,7 +916,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -852,19 +925,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>22</uiIndex>
 		<name>SAP Non Standard</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -881,7 +956,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -891,19 +965,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.05</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>23</uiIndex>
 		<name>AP/FMJ small Handgun</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -920,7 +996,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -930,19 +1005,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>24</uiIndex>
 		<name>Cold Glaser FMJ</name>
-		<fontColour>184</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>124</red>
+		<green>237</green>
+		<blue>106</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -959,7 +1036,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -969,19 +1045,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.4</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>25</uiIndex>
 		<name>Brenneke</name>
-		<fontColour>133</fontColour>
-		<grayed>4</grayed>
-		<offNormal>13</offNormal>
-		<onNormal>15</onNormal>
+		<red>167</red>
+		<green>167</green>
+		<blue>167</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -998,7 +1076,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1008,19 +1085,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.2</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>26</uiIndex>
 		<name>Depleted Uranium</name>
-		<fontColour>184</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>16</red>
+		<green>204</green>
+		<blue>22</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1037,7 +1116,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1047,19 +1125,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.5</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.8</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>27</uiIndex>
 		<name>Crossbow Bolt</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -1076,7 +1156,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1086,19 +1165,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>28</uiIndex>
 		<name>HE Crossbow Bolt</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>178</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -1115,7 +1196,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1125,19 +1205,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.2</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.4</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>29</uiIndex>
 		<name>HP large</name>
-		<fontColour>24</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>16</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1154,7 +1236,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1164,19 +1245,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>30</uiIndex>
 		<name>SAP 12.7</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1193,7 +1276,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1203,19 +1285,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.6</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.8</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>31</uiIndex>
 		<name>AP/FMJ large</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>3</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -1232,7 +1316,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1242,19 +1325,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.65</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>32</uiIndex>
 		<name>AP/FMJ medium</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>7</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>7</armourImpactReductionMultiplier>
@@ -1271,7 +1356,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1281,19 +1365,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>33</uiIndex>
 		<name>HP medium</name>
-		<fontColour>24</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>18</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>5</armourImpactReductionMultiplier>
@@ -1309,8 +1395,7 @@
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
-		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
+		<explosionSize>0</explosionSize>		
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1319,20 +1404,22 @@
 		<lockBustingPower>4</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>		
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>34</uiIndex>
 		<name>Ball medium</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1349,7 +1436,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1359,19 +1445,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>35</uiIndex>
 		<name>Ball large</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1388,7 +1476,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1398,19 +1485,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.4</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>36</uiIndex>
 		<name>CAWS Slug</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -1427,7 +1516,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1437,19 +1525,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.6</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
 		<name>CAWS Buckshot</name>
-		<fontColour>125</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -1466,7 +1556,6 @@
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1476,19 +1565,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.1</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>38</uiIndex>
 		<name>AP/FMJ x-large</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>6</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1505,7 +1596,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1515,19 +1605,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.6</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>39</uiIndex>
 		<name>HP x-large</name>
-		<fontColour>24</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>15</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1544,7 +1636,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1554,19 +1645,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>40</uiIndex>
 		<name>Tracer FMJ x-large</name>
-		<fontColour>144</fontColour>
-		<grayed>4</grayed>
-		<offNormal>17</offNormal>
-		<onNormal>19</onNormal>
+		<red>255</red>
+		<green>215</green>
+		<blue>63</blue>
 		<structureImpactReductionMultiplier>7</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>7</armourImpactReductionMultiplier>
@@ -1583,7 +1676,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1593,19 +1685,21 @@
 		<tracerEffect>1</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.35</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>41</uiIndex>
 		<name>HE 12.7</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>178</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -1622,7 +1716,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1632,19 +1725,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.8</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>1.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>42</uiIndex>
 		<name>HEAT 12.7</name>
-		<fontColour>76</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>123</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -1661,7 +1756,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>1</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1671,19 +1765,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>1.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>1.2</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.2</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>43</uiIndex>
 		<name>SAP 9x39 Match</name>
-		<fontColour>133</fontColour>
-		<grayed>4</grayed>
-		<offNormal>13</offNormal>
-		<onNormal>15</onNormal>
+		<red>230</red>
+		<green>230</green>
+		<blue>230</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -1700,7 +1796,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1710,19 +1805,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.2</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>44</uiIndex>
 		<name>Polyshok</name>
-		<fontColour>160</fontColour>
-		<grayed>8</grayed>
-		<offNormal>25</offNormal>
-		<onNormal>27</onNormal>
+		<red>182</red>
+		<green>35</green>
+		<blue>196</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1739,7 +1836,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1749,19 +1845,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>45</uiIndex>
 		<name>BAT</name>
-		<fontColour>193</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>57</red>
+		<green>211</green>
+		<blue>201</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1778,7 +1876,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1788,19 +1885,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>46</uiIndex>
 		<name>XP - x-large</name>
-		<fontColour>160</fontColour>
-		<grayed>8</grayed>
-		<offNormal>25</offNormal>
-		<onNormal>27</onNormal>
+		<red>182</red>
+		<green>35</green>
+		<blue>196</blue>
 		<structureImpactReductionMultiplier>6</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1817,7 +1916,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1827,19 +1925,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.3</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>47</uiIndex>
 		<name>Hornet's Nest</name>
-		<fontColour>185</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>99</red>
+		<green>181</green>
+		<blue>86</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -1856,7 +1956,6 @@
 		<multipleBulletDamageDivisor>6</multipleBulletDamageDivisor>
 		<highExplosive>16</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1866,19 +1965,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>HornetSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.4</dDamageModifierLife>
 		<dDamageModifierBreath>1.6</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>48</uiIndex>
 		<name>AP/FMJ Beowulf</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>6</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -1895,7 +1996,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1905,19 +2005,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>49</uiIndex>
 		<name>HP Beowulf</name>
-		<fontColour>24</fontColour>
-		<grayed>12</grayed>
-		<offNormal>9</offNormal>
-		<onNormal>11</onNormal>
+		<red>69</red>
+		<green>69</green>
+		<blue>224</blue>
 		<structureImpactReductionMultiplier>14</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1934,7 +2036,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1944,19 +2045,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>50</uiIndex>
 		<name>Ratshot</name>
-		<fontColour>185</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>59</red>
+		<green>178</green>
+		<blue>41</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -1973,7 +2076,6 @@
 		<multipleBulletDamageDivisor>6</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -1983,19 +2085,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.8</dDamageModifierLife>
 		<dDamageModifierBreath>1.2</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>0.8</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>51</uiIndex>
 		<name>Match 12.7</name>
-		<fontColour>133</fontColour>
-		<grayed>4</grayed>
-		<offNormal>13</offNormal>
-		<onNormal>15</onNormal>
+		<red>230</red>
+		<green>230</green>
+		<blue>230</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -2012,7 +2116,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2022,19 +2125,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.9</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>52</uiIndex>
 		<name>AP/FMJ medium Handgun</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>7</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>7</armourImpactReductionMultiplier>
@@ -2051,7 +2156,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2061,19 +2165,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.3</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>53</uiIndex>
 		<name>AP/FMJ large Handgun</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>3</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -2090,7 +2196,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2100,19 +2205,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.4</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>54</uiIndex>
 		<name>HPJ small</name>
-		<fontColour>148</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>178</red>
+		<green>133</green>
+		<blue>76</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -2129,7 +2236,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2139,19 +2245,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>55</uiIndex>
 		<name>HPJ medium</name>
-		<fontColour>148</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>178</red>
+		<green>133</green>
+		<blue>76</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2168,7 +2276,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2178,19 +2285,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>56</uiIndex>
 		<name>HPJ large</name>
-		<fontColour>148</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>178</red>
+		<green>133</green>
+		<blue>76</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2207,7 +2316,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2217,19 +2325,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>57</uiIndex>
 		<name>Buckshot 40mm</name>
-		<fontColour>125</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2246,7 +2356,6 @@
 		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2256,19 +2365,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuchshotSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>58</uiIndex>
 		<name>SAP 12gauge</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2285,7 +2396,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2295,19 +2405,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>59</uiIndex>
 		<name>Duplex 12gauge</name>
-		<fontColour>184</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>16</red>
+		<green>204</green>
+		<blue>22</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2324,7 +2436,6 @@
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2333,20 +2444,22 @@
 		<lockBustingPower>10</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>	
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.25</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>60</uiIndex>
 		<name>Flechette 40mm</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>178</red>
+		<green>15</green>
+		<blue>15</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -2363,7 +2476,6 @@
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2372,20 +2484,22 @@
 		<lockBustingPower>5</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>	
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>61</uiIndex>
 		<name>HE 7.92x57mm</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>255</red>
+		<green>178</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>8</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>8</armourImpactReductionMultiplier>
@@ -2402,7 +2516,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>19</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2411,20 +2524,22 @@
 		<lockBustingPower>30</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>		
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.5</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>62</uiIndex>
 		<name>AP 9x39</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>204</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>7</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>7</armourImpactReductionMultiplier>
@@ -2441,7 +2556,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2451,19 +2565,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.2</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>63</uiIndex>
 		<name>SAP 9x39</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2480,7 +2596,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2489,20 +2604,22 @@
 		<lockBustingPower>20</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>		
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.3</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>64</uiIndex>
 		<name>14.5x114mm</name>
-		<fontColour>163</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>255</red>
+		<green>0</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2519,7 +2636,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>1</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2529,19 +2645,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.6</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>1.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>65</uiIndex>
 		<name>Flechette 5.56</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<red>178</red>
+		<green>15</green>
+		<blue>15</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2558,7 +2676,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2568,19 +2685,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>66</uiIndex>
 		<name>Duplex 5.56</name>
-		<fontColour>184</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>16</red>
+		<green>204</green>
+		<blue>22</blue>
 		<structureImpactReductionMultiplier>9</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>9</armourImpactReductionMultiplier>
@@ -2597,7 +2716,6 @@
 		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2606,20 +2724,22 @@
 		<lockBustingPower>5</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>DuplexSpread</spreadPattern>
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>		
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>67</uiIndex>
 		<name>Crossbow Toxin</name>
-		<fontColour>184</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>0</red>
+		<green>250</green>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -2636,7 +2756,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2646,19 +2765,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>40</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>1</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>68</uiIndex>
 		<name>XP small</name>
-		<fontColour>160</fontColour>
-		<grayed>8</grayed>
-		<offNormal>25</offNormal>
-		<onNormal>27</onNormal>
+		<red>182</red>
+		<green>35</green>
+		<blue>196</blue>
 		<structureImpactReductionMultiplier>8</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>8</armourImpactReductionMultiplier>
@@ -2675,7 +2796,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2684,20 +2804,22 @@
 		<lockBustingPower>12</lockBustingPower>
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
-		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
+		<temperatureModificator>1</temperatureModificator>		
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1.0</dDamageModifierLife>
 		<dDamageModifierBreath>1.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>69</uiIndex>
 		<name>Rubber 12gauge</name>
-		<fontColour>155</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>99</red>
+		<green>181</green>
+		<blue>86</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2714,7 +2836,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>17</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2724,19 +2845,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.6</dDamageModifierLife>
 		<dDamageModifierBreath>2.4</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>0.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>70</uiIndex>
 		<name>Piranha 12gauge</name>
-		<fontColour>193</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>57</red>
+		<green>211</green>
+		<blue>201</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>2</armourImpactReductionMultiplier>
@@ -2753,7 +2876,6 @@
 		<multipleBulletDamageDivisor>6</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2763,19 +2885,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>PiranhaSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.7</dDamageModifierLife>
 		<dDamageModifierBreath>1.5</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>71</uiIndex>
 		<name>12gauge Mini Slug</name>
-		<fontColour>136</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>137</red>
+		<green>137</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2792,7 +2916,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2802,19 +2925,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.8</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>72</uiIndex>
 		<name>12gauge Mini Shot</name>
-		<fontColour>125</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2831,7 +2956,6 @@
 		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2841,19 +2965,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>BuckshotSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.5</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>73</uiIndex>
 		<name>Triplex .410</name>
-		<fontColour>129</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>16</red>
+		<green>204</green>
+		<blue>22</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2870,7 +2996,6 @@
 		<multipleBulletDamageDivisor>3</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2880,19 +3005,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>74</uiIndex>
 		<name>Birdshot .410</name>
-		<fontColour>185</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>59</red>
+		<green>178</green>
+		<blue>41</blue>
 		<structureImpactReductionMultiplier>7</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>7</armourImpactReductionMultiplier>
@@ -2909,7 +3036,6 @@
 		<multipleBulletDamageDivisor>4</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2919,19 +3045,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.8</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>0.8</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>75</uiIndex>
 		<name>Buckshot .410</name>
-		<fontColour>125</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>6</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -2948,7 +3076,6 @@
 		<multipleBulletDamageDivisor>2</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2958,19 +3085,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern>FlechetteSpread</spreadPattern>
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>1</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>76</uiIndex>
 		<name>40mm Rubber</name>
-		<fontColour>155</fontColour>
-		<grayed>12</grayed>
-		<offNormal>21</offNormal>
-		<onNormal>23</onNormal>
+		<red>99</red>
+		<green>181</green>
+		<blue>86</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2987,7 +3116,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>0</explosionSize>
-		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -2997,19 +3125,21 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
 		<dDamageModifierLife>0.2</dDamageModifierLife>
 		<dDamageModifierBreath>4.0</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.0</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>0.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>0.5</dDamageModifierZombie>
 	</AMMOTYPE>
 	<AMMOTYPE>
 		<uiIndex>77</uiIndex>
 		<name>40mm LB</name>
-		<fontColour>75</fontColour>
-		<grayed>4</grayed>
-		<offNormal>1</offNormal>
-		<onNormal>3</onNormal>
+		<red>230</red>
+		<green>230</green>
+		<blue>230</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -3026,7 +3156,6 @@
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
 		<highExplosive>0</highExplosive>
 		<explosionSize>1</explosionSize>
-		<antiTank>1</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
@@ -3036,10 +3165,13 @@
 		<tracerEffect>0</tracerEffect>
 		<spreadPattern />
 		<temperatureModificator>1</temperatureModificator>
-		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>4</ammoflag>
 		<dDamageModifierLife>1</dDamageModifierLife>
 		<dDamageModifierBreath>1</dDamageModifierBreath>
+		<dDamageModifierTank>0.0</dDamageModifierTank>
+		<dDamageModifierArmouredVehicle>0.3</dDamageModifierArmouredVehicle>
+		<dDamageModifierCivilianVehicle>1.0</dDamageModifierCivilianVehicle>
+		<dDamageModifierZombie>1.0</dDamageModifierZombie>
 	</AMMOTYPE>
 </AMMOTYPELIST>
