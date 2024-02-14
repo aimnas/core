@@ -22,7 +22,7 @@
 	  
 	- CALCULATE_STRATEGIC_INDEX( SectorX, SectorY )
 	
-	- SECTOR( SectorX, SectorY )
+	- SECTOR ( SectorX, SectorY )
 	  
 	- CheckMercIsDead (ProfilID)
 	  	check merc is dead 
@@ -48,7 +48,7 @@
 **************
 ** Examples **
 **************
-	
+		
 	if ( SectorEnemyControlled ( CALCULATE_STRATEGIC_INDEX(13,4) ) ) == false then
 		-- instructions
 	else
@@ -306,7 +306,7 @@ function HandleGlobalLoyaltyEvent( ubEventType, sSectorX, sSectorY, bSectorZ )
 		
 		iLoyaltyChange = -60
 		AffectAllTownsLoyaltyByDistanceFrom( iLoyaltyChange, sSectorX, sSectorY, bSectorZ )
-
+		
 	end
 	
 end
