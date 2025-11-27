@@ -172,8 +172,8 @@ History = {
 }
 
 Profil = 
-{                   
- MIGUEL = 57,
+{
+	MIGUEL = 57,
 	CARLOS = 58,
 	IRA = 59,
 	DIMITRI = 60,
@@ -811,7 +811,7 @@ function HandleSectorTacticalEntry( sSectorX, sSectorY, bSectorZ, fHasEverBeenPl
 		-- sublevel 1
 		elseif ( bSectorZ == 1 ) then
 			-- Orta
-		if ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K ) then
+			if ( sSectorX == 4 and sSectorY == SectorY.MAP_ROW_K ) then
 				CreateCivilian(14494, CivGroup.ADMINISTRATIVE_STAFF_GROUP, -1, Bodytype.MINICIV, Vest.PURPLESHIRT, Pants.BLUEPANTS, -1, -1, -1, -1, -1, -1)
 				CreateCivilian(13062, CivGroup.SCIENTIST_GROUP, -1, Bodytype.MANCIV, Vest.WHITEVEST, Pants.BEIGEPANTS, -1, -1, -1, -1, -1, -1)
 				CreateCivilian(13167, CivGroup.SCIENTIST_GROUP, -1, Bodytype.FATCIV, Vest.WHITEVEST, Pants.BEIGEPANTS, Hair.WHITEHEAD, -1, -1, -1, -1, -1)
@@ -1039,7 +1039,7 @@ MapSymbols = {
 	QUESTIONMARK_RED = 15,
 	EXCLAMATIONMARK_RED = 16,
 	QUESTIONMARK_YELLOW = 17,
-	EXCLAMATIONMARK_YELLOW = 18,	
+	EXCLAMATIONMARK_YELLOW = 18,
 	FACTORY_YELLOW = 19,
 	FACTORY_GREEN = 20,
 	FACTORY_RED = 21,

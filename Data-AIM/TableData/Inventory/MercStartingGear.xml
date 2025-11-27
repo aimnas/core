@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MERCGEARLIST>
 	<MERCGEAR>
 		<mIndex>0</mIndex>
@@ -3728,7 +3728,7 @@
 			<mSmall5>451</mSmall5>
 			<mSmall5Status>100</mSmall5Status>
 			<mSmall5Quantity>1</mSmall5Quantity>
-			<mSmall6>151</mSmall6>
+			<mSmall6>132</mSmall6>
 			<mSmall6Status>100</mSmall6Status>
 			<mSmall6Quantity>2</mSmall6Quantity>
 			<mSmall7>223</mSmall7>

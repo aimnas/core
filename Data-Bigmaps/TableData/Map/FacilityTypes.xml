@@ -1744,7 +1744,7 @@
 	<FACILITYTYPE>
 		<ubIndex>35</ubIndex>
 		<szFacilityName>Border Checkpoint</szFacilityName>
-		<szFacilityShortName>Boder Checkpoint</szFacilityShortName>
+		<szFacilityShortName>Border Checkpoint</szFacilityShortName>
 		<ubTotalStaffLimit>2</ubTotalStaffLimit>
 		<pmcentrypoint>1</pmcentrypoint>
 		<ASSIGNMENT>
