@@ -1830,7 +1830,7 @@
 		<ubIndex>37</ubIndex>
 		<szFacilityName>T-Shirt Factory</szFacilityName>
 		<szFacilityShortName>Factory</szFacilityShortName>
-		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 		<PRODUCTIONLINE>
 			<!-- create string -->
 			<szAdditionalRequirementTips> - Requires: Doreen quest</szAdditionalRequirementTips>
@@ -1855,17 +1855,17 @@
 			<usItemToCreate>376</usItemToCreate>
 			<sMinutesRequired>35</sMinutesRequired>
 			<sGridNo_Creation>44145</sGridNo_Creation>
-			<sHourlyCost>4</sHourlyCost>			
+			<sHourlyCost>4</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
-			<usOptional_ItemUsedUp>1022</usOptional_ItemUsedUp>
+			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
 			<!-- create Arulco T-Shirt from string + rag (2x) -->
 			<usItemToCreate>2711</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
 			<sGridNo_Creation>43785</sGridNo_Creation>
-			<sHourlyCost>7</sHourlyCost>			
+			<sHourlyCost>3</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
@@ -1876,7 +1876,7 @@
 			<usItemToCreate>2712</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
 			<sGridNo_Creation>50986</sGridNo_Creation>
-			<sHourlyCost>7</sHourlyCost>			
+			<sHourlyCost>3</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
@@ -1887,7 +1887,7 @@
 			<usItemToCreate>1609</usItemToCreate>
 			<sMinutesRequired>120</sMinutesRequired>
 			<sGridNo_Creation>50985</sGridNo_Creation>
-			<sHourlyCost>7</sHourlyCost>			
+			<sHourlyCost>3</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>336</usOptional_ItemUsedUp>
@@ -1897,7 +1897,7 @@
 			<!-- we have to build an upgrade before we can create uniforms -->
 			<szProductionName>Upgrade</szProductionName>
 			<sMinutesRequired>181</sMinutesRequired>
-			<sHourlyCost>100</sHourlyCost>			
+			<sHourlyCost>100</sHourlyCost>
 			<usOptional_LoyaltyRequired>15</usOptional_LoyaltyRequired>
 		</PRODUCTIONLINE>
 		<PRODUCTIONLINE>
@@ -1906,7 +1906,7 @@
 			<usItemToCreate>2701</usItemToCreate>
 			<sMinutesRequired>300</sMinutesRequired>
 			<sGridNo_Creation>42347</sGridNo_Creation>
-			<sHourlyCost>25</sHourlyCost>			
+			<sHourlyCost>10</sHourlyCost>
 			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1920,7 +1920,7 @@
 			<usItemToCreate>2701</usItemToCreate>
 			<sMinutesRequired>180</sMinutesRequired>
 			<sGridNo_Creation>42346</sGridNo_Creation>
-			<sHourlyCost>37</sHourlyCost>			
+			<sHourlyCost>15</sHourlyCost>
 			<usOptional_LoyaltyRequired>30</usOptional_LoyaltyRequired>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
 			<usOptional_ItemUsedUp>311</usOptional_ItemUsedUp>
@@ -1933,7 +1933,7 @@
 		<ubIndex>38</ubIndex>
 		<szFacilityName>Hicks Farm</szFacilityName>
 		<szFacilityShortName>Farm</szFacilityShortName>
-		<ubTotalStaffLimit>4</ubTotalStaffLimit>
+		<ubTotalStaffLimit>0</ubTotalStaffLimit>
 		<PRODUCTIONLINE>
 			<!-- cow meat -->
 			<szAdditionalRequirementTips> - Requires: Hicks dead</szAdditionalRequirementTips>
