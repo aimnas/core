@@ -455,4 +455,15 @@
 		<AmmoCaliber>7.5 French</AmmoCaliber>
 		<BRCaliber>7.5 French</BRCaliber>
 	</AMMO>
+	<AMMO>
+		<uiIndex>91</uiIndex>
+		<AmmoCaliber>Monster</AmmoCaliber>
+		<BRCaliber>Monster</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>92</uiIndex>
+		<AmmoCaliber>Cannon Ball</AmmoCaliber>
+		<BRCaliber>Cannon Ball</BRCaliber>
+		<NWSSCaliber>Cannon Ball</NWSSCaliber>
+	</AMMO>
 </AMMOLIST>
