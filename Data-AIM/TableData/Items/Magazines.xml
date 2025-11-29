@@ -18200,4 +18200,18 @@
 		<ubAmmoType>53</ubAmmoType>
 		<ubMagType>3</ubMagType>
 	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>2600</uiIndex>
+		<ubCalibre>86</ubCalibre>
+		<ubMagSize>40</ubMagSize>
+		<ubAmmoType>40</ubAmmoType>
+		<ubMagType>2</ubMagType>
+	</MAGAZINE>
+	<MAGAZINE>
+		<uiIndex>2601</uiIndex>
+		<ubCalibre>92</ubCalibre>
+		<ubMagSize>1</ubMagSize>
+		<ubAmmoType>1</ubAmmoType>
+		<ubMagType>1</ubMagType>
+	</MAGAZINE>
 </MAGAZINELIST>
