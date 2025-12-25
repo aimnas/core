@@ -179,7 +179,7 @@
 		<name>SAP</name>
 		<red>255</red>
 		<green>0</green>
-		<blue>0</blue>
+		<blue>150</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -939,7 +939,7 @@
 		<name>SAP Non Standard</name>
 		<red>255</red>
 		<green>0</green>
-		<blue>0</blue>
+		<blue>150</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -1897,9 +1897,9 @@
 	<AMMOTYPE>
 		<uiIndex>46</uiIndex>
 		<name>XP - x-large</name>
-		<red>182</red>
-		<green>35</green>
-		<blue>196</blue>
+		<red>34</red>
+		<green>34</green>
+		<blue>112</blue>
 		<structureImpactReductionMultiplier>6</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>6</armourImpactReductionMultiplier>
@@ -2177,7 +2177,7 @@
 	<AMMOTYPE>
 		<uiIndex>53</uiIndex>
 		<name>AP/FMJ large Handgun</name>
-		<red>204</red>
+		<red>255</red>
 		<green>0</green>
 		<blue>0</blue>
 		<structureImpactReductionMultiplier>2</structureImpactReductionMultiplier>
@@ -2217,9 +2217,9 @@
 	<AMMOTYPE>
 		<uiIndex>54</uiIndex>
 		<name>HPJ small</name>
-		<red>178</red>
-		<green>133</green>
-		<blue>76</blue>
+		<red>134</red>
+		<green>99</green>
+		<blue>57</blue>
 		<structureImpactReductionMultiplier>4</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>5</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>4</armourImpactReductionMultiplier>
@@ -2257,9 +2257,9 @@
 	<AMMOTYPE>
 		<uiIndex>55</uiIndex>
 		<name>HPJ medium</name>
-		<red>178</red>
-		<green>133</green>
-		<blue>76</blue>
+		<red>134</red>
+		<green>99</green>
+		<blue>57</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2297,9 +2297,9 @@
 	<AMMOTYPE>
 		<uiIndex>56</uiIndex>
 		<name>HPJ large</name>
-		<red>178</red>
-		<green>133</green>
-		<blue>76</blue>
+		<red>134</red>
+		<green>99</green>
+		<blue>57</blue>
 		<structureImpactReductionMultiplier>3</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>4</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>3</armourImpactReductionMultiplier>
@@ -2579,7 +2579,7 @@
 		<name>SAP 9x39</name>
 		<red>255</red>
 		<green>0</green>
-		<blue>0</blue>
+		<blue>150</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2697,9 +2697,9 @@
 	<AMMOTYPE>
 		<uiIndex>66</uiIndex>
 		<name>Duplex 5.56</name>
-		<red>16</red>
-		<green>204</green>
-		<blue>22</blue>
+		<red>8</red>
+		<green>77</green>
+		<blue>11</blue>
 		<structureImpactReductionMultiplier>9</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>9</armourImpactReductionMultiplier>
@@ -2777,9 +2777,9 @@
 	<AMMOTYPE>
 		<uiIndex>68</uiIndex>
 		<name>XP small</name>
-		<red>182</red>
-		<green>35</green>
-		<blue>196</blue>
+		<red>214</red>
+		<green>191</green>
+		<blue>137</blue>
 		<structureImpactReductionMultiplier>8</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>10</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>8</armourImpactReductionMultiplier>
