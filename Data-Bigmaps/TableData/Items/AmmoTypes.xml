@@ -179,7 +179,7 @@
 		<name>SAP</name>
 		<red>255</red>
 		<green>0</green>
-		<blue>150</blue>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
@@ -2579,7 +2579,7 @@
 		<name>SAP 9x39</name>
 		<red>255</red>
 		<green>0</green>
-		<blue>150</blue>
+		<blue>0</blue>
 		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>2</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
